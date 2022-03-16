@@ -62,7 +62,7 @@ function readJSONFiles(dirPath: string): FileEntity[] {
  */
 function writeJSONFiles(fileEntities: FileEntity[], dirPath: string): void {
   fileEntities.forEach((fileEntity: FileEntity) => {
-    writeFileSync(`${dirPath}/${fileEntity.filename}`, JSON.stringify(fileEntity.sample));
+    writeFileSync(`${dirPath}/${fileEntity.filename}`, JSON.stringify(fileEntity.sample, null, 2));
   });
 }
 
