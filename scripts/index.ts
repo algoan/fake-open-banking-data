@@ -10,14 +10,12 @@ import { AccountsEntity, FileEntity, Sample, TransactionsEntity } from '../types
  * @param nbOfDayToAdd Number of day to add
  */
 function mapTransactions(nbOfDayToAdd: number) {
-  return (transaction: TransactionsEntity) => {
-    return {
-      ...transaction,
-      dates: {
-        debitedAt: dayjs(transaction.dates.debitedAt).add(nbOfDayToAdd, 'day').toISOString(),
-      }
-    };
-  };
+  return (transaction: TransactionsEntity) => ({
+    ...transaction,
+    dates: {
+      debitedAt: dayjs(transaction.dates.debitedAt).add(nbOfDayToAdd, 'day').add(3, 'h').toISOString(),
+    }
+  });
 }
 
 /**
@@ -26,13 +24,11 @@ function mapTransactions(nbOfDayToAdd: number) {
  * @param nbOfDayToAdd Number of days to add
  */
 function mapAccount(nbOfDayToAdd: number) {
-  return (account: AccountsEntity) => {
-    return {
-      ...account,
-      balanceDate: dayjs(account.balanceDate).add(nbOfDayToAdd, 'day').toISOString(),
-      transactions: account.transactions.map(mapTransactions(nbOfDayToAdd)),
-    };
-  };
+  return (account: AccountsEntity) => ({
+    ...account,
+    balanceDate: dayjs(account.balanceDate).add(nbOfDayToAdd, 'day').add(3, 'h').toISOString(),
+    transactions: account.transactions.map(mapTransactions(nbOfDayToAdd)),
+  });
 }
 
 /**
