@@ -72,7 +72,9 @@ function writeJSONFiles(fileEntities: FileEntity[], dirPath: string): void {
  */
 export const refreshDates = (sample: Sample): Sample => {
   const balanceDateReference: dayjs.Dayjs = dayjs(sample.accounts[0].balanceDate);
+  console.log(`Reference balance date: ${balanceDateReference}`);
   const nbOfDays: number = dayjs().diff(balanceDateReference, 'day');
+  console.log(`Number of days since the last update has been done: ${nbOfDays}`);
 
   return {
     accounts: sample.accounts.map(mapAccount(nbOfDays)),
@@ -83,8 +85,14 @@ export const refreshDates = (sample: Sample): Sample => {
  * Main script
  */
 (async () => {
+  const startingDate: number = Date.now();
+  console.log(`Starting the Script...`);
+
   const sampleDirectoryPath: string = path.join(__dirname, '..', 'samples/fr/');
+
   const fileEntities: FileEntity[] = readJSONFiles(sampleDirectoryPath);
+  console.log(`Successfully read all JSON files after ${Date.now() - startingDate} ms`);
+
   const refreshedSamples: FileEntity[] = fileEntities.map((fileEntity: FileEntity) => {
     return {
       ...fileEntity,
@@ -93,6 +101,7 @@ export const refreshDates = (sample: Sample): Sample => {
   });
 
   writeJSONFiles(refreshedSamples, sampleDirectoryPath);
+  console.log(`Successfully write all JSON files after ${Date.now() - startingDate} ms`);
 })()
 .catch((err: Error) => {
   console.error(err);
