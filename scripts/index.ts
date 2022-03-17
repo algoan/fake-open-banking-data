@@ -1,5 +1,5 @@
 import dayjs from 'dayjs';
-import { readdirSync, readFileSync, writeFileSync } from 'fs';
+import { readdirSync, readFileSync, writeFileSync } from 'fs';
 import * as path from 'path';
 
 import { AccountsEntity, FileEntity, Sample, TransactionsEntity } from '../types';
@@ -14,7 +14,7 @@ function mapTransactions(nbOfDayToAdd: number) {
     ...transaction,
     dates: {
       debitedAt: dayjs(transaction.dates.debitedAt).add(nbOfDayToAdd, 'day').toISOString(),
-    }
+    },
   });
 }
 
@@ -64,7 +64,7 @@ function writeJSONFiles(fileEntities: FileEntity[], dirPath: string): void {
 
 /**
  * Take a JSON account sample and refresh all account and transaction dates
- * @param sample 
+ * @param sample
  */
 export const refreshDates = (sample: Sample): Sample => {
   const balanceDateReference: dayjs.Dayjs = dayjs(sample.accounts[0].balanceDate);
@@ -75,7 +75,7 @@ export const refreshDates = (sample: Sample): Sample => {
   return {
     accounts: sample.accounts.map(mapAccount(nbOfDays)),
   };
-}
+};
 
 /**
  * Main script
@@ -93,13 +93,12 @@ export const refreshDates = (sample: Sample): Sample => {
     return {
       ...fileEntity,
       sample: refreshDates(fileEntity.sample),
-    }
+    };
   });
 
   writeJSONFiles(refreshedSamples, sampleDirectoryPath);
   console.log(`Successfully write all JSON files after ${Date.now() - startingDate} ms`);
-})()
-.catch((err: Error) => {
+})().catch((err: Error) => {
   console.error(err);
 
   process.exit(1);
