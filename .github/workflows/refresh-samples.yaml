@@ -9,19 +9,19 @@ jobs:
     name: Refresh all JSON files in the samples/fr/ directory
     runs-on: ubuntu-latest
     steps:
-        - uses: 'actions/checkout@v2'
-          with:
-            token: ${{ secrets.REPO_GHA_PAT }}
-        - uses: actions/setup-node@v2
-          with:
-            node-version: '16'
-        - run: npm i
-        - run: npm start
-        - uses: EndBug/add-and-commit@v9
-          with:
-            add: 'samples'
-            push: true
-            message: '🤖 Automatically refreshed data samples'
+      - uses: 'actions/checkout@v2'
+        with:
+          token: ${{ secrets.REPO_GHA_PAT }}
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: npm i
+      - run: npm start
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'samples'
+          push: true
+          message: 'chore: 🤖 Automatically refreshed data samples'
 
 
 
