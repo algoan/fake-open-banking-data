@@ -13,7 +13,7 @@ function mapTransactions(nbOfDayToAdd: number) {
   return (transaction: TransactionsEntity) => ({
     ...transaction,
     dates: {
-      debitedAt: dayjs(transaction.dates.debitedAt).add(nbOfDayToAdd, 'day').add(3, 'h').toISOString(),
+      debitedAt: dayjs(transaction.dates.debitedAt).add(nbOfDayToAdd, 'day').toISOString(),
     }
   });
 }
@@ -26,7 +26,7 @@ function mapTransactions(nbOfDayToAdd: number) {
 function mapAccount(nbOfDayToAdd: number) {
   return (account: AccountsEntity) => ({
     ...account,
-    balanceDate: dayjs(account.balanceDate).add(nbOfDayToAdd, 'day').add(3, 'h').toISOString(),
+    balanceDate: dayjs(account.balanceDate).add(nbOfDayToAdd, 'day').toISOString(),
     transactions: account.transactions.map(mapTransactions(nbOfDayToAdd)),
   });
 }
