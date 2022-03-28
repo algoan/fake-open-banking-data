@@ -2,7 +2,7 @@
   "accounts": [
     {
       "balance": 1061.77,
-      "balanceDate": "2022-03-28T00:00:00",
+      "balanceDate": "2022-03-27T22:00:00.000Z",
       "owners": [
         {
           "name": "HARRY COVER"
@@ -16,8 +16,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2021-12-30T00:00:00",
-            "bookedAt": "2021-12-30T00:00:00"
+            "debitedAt": "2021-12-29T23:00:00.000Z"
           },
           "description": "PRELEVEMENT HARRY COVER PRELEVEMENT CETELEM XXXXXX",
           "amount": -101.67
@@ -25,17 +24,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2021-12-30T00:00:00",
-            "bookedAt": "2021-12-30T00:00:00"
+            "debitedAt": "2021-12-29T23:00:00.000Z"
           },
           "description": "PRLV SEPA COVER HARRY ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
-          "amount": -150.0
+          "amount": -150
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2021-12-31T00:00:00",
-            "bookedAt": "2021-12-31T00:00:00"
+            "debitedAt": "2021-12-30T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
           "amount": -75.2
@@ -43,8 +40,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2021-12-31T00:00:00",
-            "bookedAt": "2021-12-31T00:00:00"
+            "debitedAt": "2021-12-30T23:00:00.000Z"
           },
           "description": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
           "amount": -399.89
@@ -52,8 +48,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2021-12-31T00:00:00",
-            "bookedAt": "2021-12-31T00:00:00"
+            "debitedAt": "2021-12-30T23:00:00.000Z"
           },
           "description": "VIREMENT EMIS AG HOMALONE LOYER",
           "amount": -479.78
@@ -61,8 +56,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-02T00:00:00",
-            "bookedAt": "2022-01-02T00:00:00"
+            "debitedAt": "2022-01-01T23:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -77.99
@@ -70,8 +64,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-02T00:00:00",
-            "bookedAt": "2022-01-02T00:00:00"
+            "debitedAt": "2022-01-01T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ADVANZIA BANK FLOA : efefefefef 3c6 PRELEVEMENT FLOA",
           "amount": -67.2
@@ -79,17 +72,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-02T00:00:00",
-            "bookedAt": "2022-01-02T00:00:00"
+            "debitedAt": "2022-01-01T23:00:00.000Z"
           },
           "description": "VIREMENT RECU DE M. COVER",
-          "amount": 900.0
+          "amount": 900
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-03T00:00:00",
-            "bookedAt": "2022-01-03T00:00:00"
+            "debitedAt": "2022-01-02T23:00:00.000Z"
           },
           "description": "Cotisation Compte A Composer (rem = 20%)",
           "amount": -4.99
@@ -97,8 +88,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-03T00:00:00",
-            "bookedAt": "2022-01-03T00:00:00"
+            "debitedAt": "2022-01-02T23:00:00.000Z"
           },
           "description": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
           "amount": -343.45
@@ -106,8 +96,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-07T00:00:00",
-            "bookedAt": "2022-01-07T00:00:00"
+            "debitedAt": "2022-01-06T23:00:00.000Z"
           },
           "description": "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE",
           "amount": -126.99
@@ -115,17 +104,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-07T00:00:00",
-            "bookedAt": "2022-01-07T00:00:00"
+            "debitedAt": "2022-01-06T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-          "amount": -20.0
+          "amount": -20
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-14T00:00:00",
-            "bookedAt": "2022-01-14T00:00:00"
+            "debitedAt": "2022-01-13T23:00:00.000Z"
           },
           "description": "CARTE X2518 APPLE.COM/BILL 5,49 EUR IRLANDE COMMERCE ELECTRONIQUE",
           "amount": -5.49
@@ -133,8 +120,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-17T00:00:00",
-            "bookedAt": "2022-01-17T00:00:00"
+            "debitedAt": "2022-01-16T23:00:00.000Z"
           },
           "description": "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE",
           "amount": -9.99
@@ -142,8 +128,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-17T00:00:00",
-            "bookedAt": "2022-01-17T00:00:00"
+            "debitedAt": "2022-01-16T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx685",
           "amount": -15.99
@@ -151,8 +136,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-24T00:00:00",
-            "bookedAt": "2022-01-24T00:00:00"
+            "debitedAt": "2022-01-23T23:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -227.89
@@ -160,8 +144,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-24T00:00:00",
-            "bookedAt": "2022-01-24T00:00:00"
+            "debitedAt": "2022-01-23T23:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-2",
           "amount": 2581.45
@@ -169,26 +152,23 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-25T00:00:00",
-            "bookedAt": "2022-01-25T00:00:00"
+            "debitedAt": "2022-01-24T23:00:00.000Z"
           },
           "description": "VIREMENT DE SOGEFINANCE 2914101O4 VERSEMENT PRET PERSONNEL 424144",
-          "amount": 5500.0
+          "amount": 5500
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-26T00:00:00",
-            "bookedAt": "2022-01-26T00:00:00"
+            "debitedAt": "2022-01-25T23:00:00.000Z"
           },
           "description": "VIREMENT COMPTE A COMPTE MME COVER",
-          "amount": -5500.0
+          "amount": -5500
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-27T00:00:00",
-            "bookedAt": "2022-01-27T00:00:00"
+            "debitedAt": "2022-01-26T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 114",
           "amount": -112.32
@@ -196,8 +176,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-30T00:00:00",
-            "bookedAt": "2022-01-30T00:00:00"
+            "debitedAt": "2022-01-29T23:00:00.000Z"
           },
           "description": "CARTE FNAC",
           "amount": -356.99
@@ -205,8 +184,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-30T00:00:00",
-            "bookedAt": "2022-01-30T00:00:00"
+            "debitedAt": "2022-01-29T23:00:00.000Z"
           },
           "description": "PRELEVEMENT HARRY COVER PRELEVEMENT CETELEM XXXXXX",
           "amount": -101.67
@@ -214,8 +192,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-30T00:00:00",
-            "bookedAt": "2022-01-30T00:00:00"
+            "debitedAt": "2022-01-29T23:00:00.000Z"
           },
           "description": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
           "amount": -399.89
@@ -223,17 +200,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-30T00:00:00",
-            "bookedAt": "2022-01-30T00:00:00"
+            "debitedAt": "2022-01-29T23:00:00.000Z"
           },
           "description": "PRLV SEPA COVER HARRY ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
-          "amount": -150.0
+          "amount": -150
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-31T00:00:00",
-            "bookedAt": "2022-01-31T00:00:00"
+            "debitedAt": "2022-01-30T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
           "amount": -75.2
@@ -241,8 +216,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-31T00:00:00",
-            "bookedAt": "2022-01-31T00:00:00"
+            "debitedAt": "2022-01-30T23:00:00.000Z"
           },
           "description": "VIREMENT EMIS AG HOMALONE LOYER",
           "amount": -479.78
@@ -250,17 +224,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-31T00:00:00",
-            "bookedAt": "2022-01-31T00:00:00"
+            "debitedAt": "2022-01-30T23:00:00.000Z"
           },
           "description": "VIREMENT EMIS M COVER",
-          "amount": -900.0
+          "amount": -900
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-03T00:00:00",
-            "bookedAt": "2022-02-03T00:00:00"
+            "debitedAt": "2022-02-02T23:00:00.000Z"
           },
           "description": "Cotisation Compte A Composer (rem = 20%)",
           "amount": -4.99
@@ -268,8 +240,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-03T00:00:00",
-            "bookedAt": "2022-02-03T00:00:00"
+            "debitedAt": "2022-02-02T23:00:00.000Z"
           },
           "description": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
           "amount": -343.45
@@ -277,8 +248,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-03T00:00:00",
-            "bookedAt": "2022-02-03T00:00:00"
+            "debitedAt": "2022-02-02T23:00:00.000Z"
           },
           "description": "REJET PRLV SEPA CREDIPAR",
           "amount": 343.45
@@ -286,8 +256,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-04T00:00:00",
-            "bookedAt": "2022-02-04T00:00:00"
+            "debitedAt": "2022-02-03T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ADVANZIA BANK FLOA : efefefefef 3c6 PRELEVEMENT FLOA",
           "amount": -29.12
@@ -295,8 +264,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-07T00:00:00",
-            "bookedAt": "2022-02-07T00:00:00"
+            "debitedAt": "2022-02-06T23:00:00.000Z"
           },
           "description": "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE",
           "amount": -126.99
@@ -304,17 +272,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-07T00:00:00",
-            "bookedAt": "2022-02-07T00:00:00"
+            "debitedAt": "2022-02-06T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-          "amount": -20.0
+          "amount": -20
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-09T00:00:00",
-            "bookedAt": "2022-02-09T00:00:00"
+            "debitedAt": "2022-02-08T23:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -57.99
@@ -322,8 +288,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-17T00:00:00",
-            "bookedAt": "2022-02-17T00:00:00"
+            "debitedAt": "2022-02-16T23:00:00.000Z"
           },
           "description": "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE",
           "amount": -9.99
@@ -331,8 +296,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-17T00:00:00",
-            "bookedAt": "2022-02-17T00:00:00"
+            "debitedAt": "2022-02-16T23:00:00.000Z"
           },
           "description": "REJET PRLV SPOTIFY",
           "amount": 9.99
@@ -340,8 +304,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-18T00:00:00",
-            "bookedAt": "2022-02-18T00:00:00"
+            "debitedAt": "2022-02-17T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx686",
           "amount": -15.99
@@ -349,8 +312,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-20T00:00:00",
-            "bookedAt": "2022-02-20T00:00:00"
+            "debitedAt": "2022-02-19T23:00:00.000Z"
           },
           "description": "COFIDIS POUR AMAZON COMMERCE ELECTRONIQUE",
           "amount": -49.99
@@ -358,8 +320,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-21T00:00:00",
-            "bookedAt": "2022-02-21T00:00:00"
+            "debitedAt": "2022-02-20T23:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -270.89
@@ -367,8 +328,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-25T00:00:00",
-            "bookedAt": "2022-02-25T00:00:00"
+            "debitedAt": "2022-02-24T23:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-3",
           "amount": 2581.45
@@ -376,17 +336,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-26T00:00:00",
-            "bookedAt": "2022-02-26T00:00:00"
+            "debitedAt": "2022-02-25T23:00:00.000Z"
           },
           "description": "VIREMENT ALICE AIRBNB",
-          "amount": -320.0
+          "amount": -320
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-27T00:00:00",
-            "bookedAt": "2022-02-27T00:00:00"
+            "debitedAt": "2022-02-26T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 115",
           "amount": -112.32
@@ -394,8 +352,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-27T00:00:00",
-            "bookedAt": "2022-02-27T00:00:00"
+            "debitedAt": "2022-02-26T23:00:00.000Z"
           },
           "description": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023 REPRESENTATION",
           "amount": -343.45
@@ -403,8 +360,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-01T00:00:00",
-            "bookedAt": "2022-03-01T00:00:00"
+            "debitedAt": "2022-02-28T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ADVANZIA BANK FLOA : efefefefef 3c6 PRELEVEMENT FLOA",
           "amount": -34.89
@@ -412,8 +368,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-02T00:00:00",
-            "bookedAt": "2022-03-02T00:00:00"
+            "debitedAt": "2022-03-01T23:00:00.000Z"
           },
           "description": "PRELEVEMENT EUROPEEN 0907476161 DE: PRET SOGEFINANC.EXPRESSO-SOGEFINANC EMENT ID: FR94ZZZ412211",
           "amount": -123.02
@@ -421,8 +376,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-02T00:00:00",
-            "bookedAt": "2022-03-02T00:00:00"
+            "debitedAt": "2022-03-01T23:00:00.000Z"
           },
           "description": "PRELEVEMENT HARRY COVER PRELEVEMENT CETELEM XXXXXX",
           "amount": -101.67
@@ -430,44 +384,39 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-02T00:00:00",
-            "bookedAt": "2022-03-02T00:00:00"
+            "debitedAt": "2022-03-01T23:00:00.000Z"
           },
           "description": "PRLV SEPA COVER HARRY ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
-          "amount": -150.0
+          "amount": -150
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-02T00:00:00",
-            "bookedAt": "2022-03-02T00:00:00"
+            "debitedAt": "2022-03-01T23:00:00.000Z"
           },
           "description": "VIREMENT RECU DE M. COVER",
-          "amount": 180.0
+          "amount": 180
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-03T00:00:00",
-            "bookedAt": "2022-03-03T00:00:00"
+            "debitedAt": "2022-03-02T23:00:00.000Z"
           },
           "description": "F FRAIS PRLV IMP 543,45EUR 20 PROVISION INSUFFISANTE",
-          "amount": -20.0
+          "amount": -20
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-03T00:00:00",
-            "bookedAt": "2022-03-03T00:00:00"
+            "debitedAt": "2022-03-02T23:00:00.000Z"
           },
           "description": "F FRAIS PRLV IMP 9,99EUR 20 PROVISION INSUFFISANTE",
-          "amount": -20.0
+          "amount": -20
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-03T00:00:00",
-            "bookedAt": "2022-03-03T00:00:00"
+            "debitedAt": "2022-03-02T23:00:00.000Z"
           },
           "description": "F INT/FRAIS TX DEBIT 15,81%/AN",
           "amount": -89.89
@@ -475,8 +424,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-03T00:00:00",
-            "bookedAt": "2022-03-03T00:00:00"
+            "debitedAt": "2022-03-02T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
           "amount": -75.2
@@ -484,8 +432,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-03T00:00:00",
-            "bookedAt": "2022-03-03T00:00:00"
+            "debitedAt": "2022-03-02T23:00:00.000Z"
           },
           "description": "REJET PRELEVEMENT DE NAVIGO ANNUEL",
           "amount": 75.2
@@ -493,8 +440,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-03T00:00:00",
-            "bookedAt": "2022-03-03T00:00:00"
+            "debitedAt": "2022-03-02T23:00:00.000Z"
           },
           "description": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
           "amount": -399.89
@@ -502,8 +448,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-03T00:00:00",
-            "bookedAt": "2022-03-03T00:00:00"
+            "debitedAt": "2022-03-02T23:00:00.000Z"
           },
           "description": "VIREMENT EMIS AG HOMALONE LOYER",
           "amount": -479.78
@@ -511,8 +456,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-06T00:00:00",
-            "bookedAt": "2022-03-06T00:00:00"
+            "debitedAt": "2022-03-05T23:00:00.000Z"
           },
           "description": "Cotisation Compte A Composer (rem = 20%)",
           "amount": -4.99
@@ -520,8 +464,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-06T00:00:00",
-            "bookedAt": "2022-03-06T00:00:00"
+            "debitedAt": "2022-03-05T23:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -13.79
@@ -529,8 +472,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-06T00:00:00",
-            "bookedAt": "2022-03-06T00:00:00"
+            "debitedAt": "2022-03-05T23:00:00.000Z"
           },
           "description": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
           "amount": -343.45
@@ -538,8 +480,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-10T00:00:00",
-            "bookedAt": "2022-03-10T00:00:00"
+            "debitedAt": "2022-03-09T23:00:00.000Z"
           },
           "description": "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE",
           "amount": -126.99
@@ -547,17 +488,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-10T00:00:00",
-            "bookedAt": "2022-03-10T00:00:00"
+            "debitedAt": "2022-03-09T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-          "amount": -20.0
+          "amount": -20
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-19T00:00:00",
-            "bookedAt": "2022-03-19T00:00:00"
+            "debitedAt": "2022-03-18T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx687",
           "amount": -15.99
@@ -565,8 +504,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-20T00:00:00",
-            "bookedAt": "2022-03-20T00:00:00"
+            "debitedAt": "2022-03-19T23:00:00.000Z"
           },
           "description": "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE",
           "amount": -9.99
@@ -574,8 +512,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-20T00:00:00",
-            "bookedAt": "2022-03-20T00:00:00"
+            "debitedAt": "2022-03-19T23:00:00.000Z"
           },
           "description": "COFIDIS POUR AMAZON COMMERCE ELECTRONIQUE",
           "amount": -49.99
@@ -583,8 +520,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-23T00:00:00",
-            "bookedAt": "2022-03-23T00:00:00"
+            "debitedAt": "2022-03-22T23:00:00.000Z"
           },
           "description": "CARTE X2518 APPLE.COM/BILL 3,79 EUR IRLANDE COMMERCE ELECTRONIQUE",
           "amount": -3.72
@@ -592,8 +528,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-24T00:00:00",
-            "bookedAt": "2022-03-24T00:00:00"
+            "debitedAt": "2022-03-23T23:00:00.000Z"
           },
           "description": "CARTE X2518 PIZZA",
           "amount": -29.99
@@ -601,8 +536,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-27T00:00:00",
-            "bookedAt": "2022-03-27T00:00:00"
+            "debitedAt": "2022-03-26T23:00:00.000Z"
           },
           "description": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 116",
           "amount": -112.32
@@ -610,8 +544,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-27T00:00:00",
-            "bookedAt": "2022-03-27T00:00:00"
+            "debitedAt": "2022-03-26T23:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-1",
           "amount": 2581.45
@@ -619,8 +552,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-28T00:00:00",
-            "bookedAt": "2022-03-28T00:00:00"
+            "debitedAt": "2022-03-27T22:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -162.9
@@ -628,11 +560,10 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-28T00:00:00",
-            "bookedAt": "2022-03-28T00:00:00"
+            "debitedAt": "2022-03-27T22:00:00.000Z"
           },
           "description": "VIREMENT EMIS M COVER",
-          "amount": -550.0
+          "amount": -550
         }
       ],
       "type": "CHECKING",

@@ -2,7 +2,7 @@
   "accounts": [
     {
       "balance": -159.9,
-      "balanceDate": "2022-03-28T00:00:00",
+      "balanceDate": "2022-03-27T22:00:00.000Z",
       "owners": [
         {
           "name": "MAUDE ERATEUR"
@@ -16,8 +16,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2021-12-30T00:00:00",
-            "bookedAt": "2021-12-30T00:00:00"
+            "debitedAt": "2021-12-29T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
           "amount": 259.7
@@ -25,8 +24,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2021-12-30T00:00:00",
-            "bookedAt": "2021-12-30T00:00:00"
+            "debitedAt": "2021-12-29T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 201.79
@@ -34,17 +32,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-03T00:00:00",
-            "bookedAt": "2022-01-03T00:00:00"
+            "debitedAt": "2022-01-02T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR DE MME XXXXX",
-          "amount": 620.0
+          "amount": 620
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-03T00:00:00",
-            "bookedAt": "2022-01-03T00:00:00"
+            "debitedAt": "2022-01-02T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -13.93
@@ -52,8 +48,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-04T00:00:00",
-            "bookedAt": "2022-01-04T00:00:00"
+            "debitedAt": "2022-01-03T23:00:00.000Z"
           },
           "description": "ACHAT CB MCD",
           "amount": -12.32
@@ -61,8 +56,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-04T00:00:00",
-            "bookedAt": "2022-01-04T00:00:00"
+            "debitedAt": "2022-01-03T23:00:00.000Z"
           },
           "description": "ACHAT CB PRIMARK",
           "amount": -28.32
@@ -70,8 +64,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-04T00:00:00",
-            "bookedAt": "2022-01-04T00:00:00"
+            "debitedAt": "2022-01-03T23:00:00.000Z"
           },
           "description": "ACHAT CB LIDL",
           "amount": -16.33
@@ -79,8 +72,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-04T00:00:00",
-            "bookedAt": "2022-01-04T00:00:00"
+            "debitedAt": "2022-01-03T23:00:00.000Z"
           },
           "description": "PRLV NAVIGO PASS",
           "amount": -32.5
@@ -88,8 +80,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-04T00:00:00",
-            "bookedAt": "2022-01-04T00:00:00"
+            "debitedAt": "2022-01-03T23:00:00.000Z"
           },
           "description": "PRLV FREE HAUT DEBIT",
           "amount": -19.99
@@ -97,8 +88,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-04T00:00:00",
-            "bookedAt": "2022-01-04T00:00:00"
+            "debitedAt": "2022-01-03T23:00:00.000Z"
           },
           "description": "PRLV BASIC FIT",
           "amount": -24.99
@@ -106,8 +96,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-07T00:00:00",
-            "bookedAt": "2022-01-07T00:00:00"
+            "debitedAt": "2022-01-06T23:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -9.99
@@ -115,8 +104,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-08T00:00:00",
-            "bookedAt": "2022-01-08T00:00:00"
+            "debitedAt": "2022-01-07T23:00:00.000Z"
           },
           "description": "PRLV SEPA FREE MOBILE",
           "amount": -8.99
@@ -124,8 +112,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-09T00:00:00",
-            "bookedAt": "2022-01-09T00:00:00"
+            "debitedAt": "2022-01-08T23:00:00.000Z"
           },
           "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
           "amount": -10.65
@@ -133,8 +120,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-09T00:00:00",
-            "bookedAt": "2022-01-09T00:00:00"
+            "debitedAt": "2022-01-08T23:00:00.000Z"
           },
           "description": "ACHAT CB PHARMACIE PARIS XX",
           "amount": -15.24
@@ -142,17 +128,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-13T00:00:00",
-            "bookedAt": "2022-01-13T00:00:00"
+            "debitedAt": "2022-01-12T23:00:00.000Z"
           },
           "description": "VIREMENT VERS M. XXXX",
-          "amount": -530.0
+          "amount": -530
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-14T00:00:00",
-            "bookedAt": "2022-01-14T00:00:00"
+            "debitedAt": "2022-01-13T23:00:00.000Z"
           },
           "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
           "amount": -24.2
@@ -160,8 +144,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-16T00:00:00",
-            "bookedAt": "2022-01-16T00:00:00"
+            "debitedAt": "2022-01-15T23:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
           "amount": -10.44
@@ -169,8 +152,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-17T00:00:00",
-            "bookedAt": "2022-01-17T00:00:00"
+            "debitedAt": "2022-01-16T23:00:00.000Z"
           },
           "description": "CARTE CB CONTRASTE",
           "amount": -16.89
@@ -178,17 +160,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-18T00:00:00",
-            "bookedAt": "2022-01-18T00:00:00"
+            "debitedAt": "2022-01-17T23:00:00.000Z"
           },
           "description": "ACHAT CB",
-          "amount": -14.0
+          "amount": -14
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-19T00:00:00",
-            "bookedAt": "2022-01-19T00:00:00"
+            "debitedAt": "2022-01-18T23:00:00.000Z"
           },
           "description": "ECHEANCE COFIDIS PRET XXXXXXX",
           "amount": -43.46
@@ -196,8 +176,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-19T00:00:00",
-            "bookedAt": "2022-01-19T00:00:00"
+            "debitedAt": "2022-01-18T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE NETFLIX.COM",
           "amount": -8.99
@@ -205,8 +184,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-20T00:00:00",
-            "bookedAt": "2022-01-20T00:00:00"
+            "debitedAt": "2022-01-19T23:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -20.27
@@ -214,8 +192,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-20T00:00:00",
-            "bookedAt": "2022-01-20T00:00:00"
+            "debitedAt": "2022-01-19T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -42.17
@@ -223,8 +200,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-21T00:00:00",
-            "bookedAt": "2022-01-21T00:00:00"
+            "debitedAt": "2022-01-20T23:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -16.4
@@ -232,17 +208,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-28T00:00:00",
-            "bookedAt": "2022-01-28T00:00:00"
+            "debitedAt": "2022-01-27T23:00:00.000Z"
           },
           "description": "CB RETRAIT",
-          "amount": -30.0
+          "amount": -30
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-30T00:00:00",
-            "bookedAt": "2022-01-30T00:00:00"
+            "debitedAt": "2022-01-29T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
           "amount": 259.7
@@ -250,8 +224,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-30T00:00:00",
-            "bookedAt": "2022-01-30T00:00:00"
+            "debitedAt": "2022-01-29T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 201.79
@@ -259,17 +232,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-01T00:00:00",
-            "bookedAt": "2022-02-01T00:00:00"
+            "debitedAt": "2022-01-31T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR DE MME XXXXX",
-          "amount": 620.0
+          "amount": 620
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-01T00:00:00",
-            "bookedAt": "2022-02-01T00:00:00"
+            "debitedAt": "2022-01-31T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -25.93
@@ -277,8 +248,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-01T00:00:00",
-            "bookedAt": "2022-02-01T00:00:00"
+            "debitedAt": "2022-01-31T23:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
           "amount": -28.32
@@ -286,17 +256,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-02T00:00:00",
-            "bookedAt": "2022-02-02T00:00:00"
+            "debitedAt": "2022-02-01T23:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
-          "amount": -16.0
+          "amount": -16
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-02T00:00:00",
-            "bookedAt": "2022-02-02T00:00:00"
+            "debitedAt": "2022-02-01T23:00:00.000Z"
           },
           "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
           "amount": -9.99
@@ -304,8 +272,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-04T00:00:00",
-            "bookedAt": "2022-02-04T00:00:00"
+            "debitedAt": "2022-02-03T23:00:00.000Z"
           },
           "description": "PRLV FREE HAUT DEBIT",
           "amount": -19.99
@@ -313,8 +280,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-04T00:00:00",
-            "bookedAt": "2022-02-04T00:00:00"
+            "debitedAt": "2022-02-03T23:00:00.000Z"
           },
           "description": "PRLV BASIC FIT",
           "amount": -24.99
@@ -322,8 +288,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-04T00:00:00",
-            "bookedAt": "2022-02-04T00:00:00"
+            "debitedAt": "2022-02-03T23:00:00.000Z"
           },
           "description": "PRLV PASS NAVIGO",
           "amount": -32.5
@@ -331,8 +296,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-08T00:00:00",
-            "bookedAt": "2022-02-08T00:00:00"
+            "debitedAt": "2022-02-07T23:00:00.000Z"
           },
           "description": "PRLV SEPA FREE MOBILE",
           "amount": -8.99
@@ -340,8 +304,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-09T00:00:00",
-            "bookedAt": "2022-02-09T00:00:00"
+            "debitedAt": "2022-02-08T23:00:00.000Z"
           },
           "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
           "amount": -30.65
@@ -349,8 +312,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-11T00:00:00",
-            "bookedAt": "2022-02-11T00:00:00"
+            "debitedAt": "2022-02-10T23:00:00.000Z"
           },
           "description": "ACHAT CB PHARMACIE PARIS XX",
           "amount": -15.24
@@ -358,17 +320,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-13T00:00:00",
-            "bookedAt": "2022-02-13T00:00:00"
+            "debitedAt": "2022-02-12T23:00:00.000Z"
           },
           "description": "VIREMENT VERS M. XXXX",
-          "amount": -530.0
+          "amount": -530
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-14T00:00:00",
-            "bookedAt": "2022-02-14T00:00:00"
+            "debitedAt": "2022-02-13T23:00:00.000Z"
           },
           "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
           "amount": -24.2
@@ -376,8 +336,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-16T00:00:00",
-            "bookedAt": "2022-02-16T00:00:00"
+            "debitedAt": "2022-02-15T23:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
           "amount": -11.46
@@ -385,8 +344,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-17T00:00:00",
-            "bookedAt": "2022-02-17T00:00:00"
+            "debitedAt": "2022-02-16T23:00:00.000Z"
           },
           "description": "CARTE CB LEADER PRICE",
           "amount": -28.89
@@ -394,17 +352,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-18T00:00:00",
-            "bookedAt": "2022-02-18T00:00:00"
+            "debitedAt": "2022-02-17T23:00:00.000Z"
           },
           "description": "ACHAT CB",
-          "amount": -21.0
+          "amount": -21
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-19T00:00:00",
-            "bookedAt": "2022-02-19T00:00:00"
+            "debitedAt": "2022-02-18T23:00:00.000Z"
           },
           "description": "ECHEANCE COFIDIS PRET XXXXXXX",
           "amount": -43.46
@@ -412,8 +368,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-19T00:00:00",
-            "bookedAt": "2022-02-19T00:00:00"
+            "debitedAt": "2022-02-18T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE LIDL",
           "amount": -11.3
@@ -421,8 +376,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-19T00:00:00",
-            "bookedAt": "2022-02-19T00:00:00"
+            "debitedAt": "2022-02-18T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE NETFLIX.COM",
           "amount": -8.99
@@ -430,8 +384,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-20T00:00:00",
-            "bookedAt": "2022-02-20T00:00:00"
+            "debitedAt": "2022-02-19T23:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
           "amount": -25.26
@@ -439,8 +392,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-20T00:00:00",
-            "bookedAt": "2022-02-20T00:00:00"
+            "debitedAt": "2022-02-19T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -42.17
@@ -448,8 +400,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-21T00:00:00",
-            "bookedAt": "2022-02-21T00:00:00"
+            "debitedAt": "2022-02-20T23:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -18.4
@@ -457,8 +408,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-27T00:00:00",
-            "bookedAt": "2022-02-27T00:00:00"
+            "debitedAt": "2022-02-26T23:00:00.000Z"
           },
           "description": "ACHAT CB LEADER PRICE",
           "amount": -20.18
@@ -466,8 +416,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-02T00:00:00",
-            "bookedAt": "2022-03-02T00:00:00"
+            "debitedAt": "2022-03-01T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
           "amount": 259.7
@@ -475,8 +424,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-02T00:00:00",
-            "bookedAt": "2022-03-02T00:00:00"
+            "debitedAt": "2022-03-01T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 201.79
@@ -484,17 +432,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-04T00:00:00",
-            "bookedAt": "2022-03-04T00:00:00"
+            "debitedAt": "2022-03-03T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR DE MME XXXXX",
-          "amount": 620.0
+          "amount": 620
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-04T00:00:00",
-            "bookedAt": "2022-03-04T00:00:00"
+            "debitedAt": "2022-03-03T23:00:00.000Z"
           },
           "description": "ACHAT CB FROG",
           "amount": -9.83
@@ -502,8 +448,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-04T00:00:00",
-            "bookedAt": "2022-03-04T00:00:00"
+            "debitedAt": "2022-03-03T23:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 21,36 CARTE NO XXX",
           "amount": -21.36
@@ -511,8 +456,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-05T00:00:00",
-            "bookedAt": "2022-03-05T00:00:00"
+            "debitedAt": "2022-03-04T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -20.56
@@ -520,8 +464,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-05T00:00:00",
-            "bookedAt": "2022-03-05T00:00:00"
+            "debitedAt": "2022-03-04T23:00:00.000Z"
           },
           "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
           "amount": -19.99
@@ -529,8 +472,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-07T00:00:00",
-            "bookedAt": "2022-03-07T00:00:00"
+            "debitedAt": "2022-03-06T23:00:00.000Z"
           },
           "description": "PRLV FREE HAUT DEBIT",
           "amount": -19.99
@@ -538,8 +480,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-07T00:00:00",
-            "bookedAt": "2022-03-07T00:00:00"
+            "debitedAt": "2022-03-06T23:00:00.000Z"
           },
           "description": "PRLV BASIC FIT",
           "amount": -24.99
@@ -547,8 +488,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-07T00:00:00",
-            "bookedAt": "2022-03-07T00:00:00"
+            "debitedAt": "2022-03-06T23:00:00.000Z"
           },
           "description": "PRLV PASS NAVIGO",
           "amount": -32.5
@@ -556,8 +496,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-11T00:00:00",
-            "bookedAt": "2022-03-11T00:00:00"
+            "debitedAt": "2022-03-10T23:00:00.000Z"
           },
           "description": "PRLV SEPA FREE MOBILE",
           "amount": -8.99
@@ -565,8 +504,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-12T00:00:00",
-            "bookedAt": "2022-03-12T00:00:00"
+            "debitedAt": "2022-03-11T23:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
           "amount": -22.65
@@ -574,8 +512,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-14T00:00:00",
-            "bookedAt": "2022-03-14T00:00:00"
+            "debitedAt": "2022-03-13T23:00:00.000Z"
           },
           "description": "ACHAT CB FNAC",
           "amount": -18.24
@@ -583,8 +520,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-14T00:00:00",
-            "bookedAt": "2022-03-14T00:00:00"
+            "debitedAt": "2022-03-13T23:00:00.000Z"
           },
           "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
           "amount": -24.2
@@ -592,17 +528,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-16T00:00:00",
-            "bookedAt": "2022-03-16T00:00:00"
+            "debitedAt": "2022-03-15T23:00:00.000Z"
           },
           "description": "VIREMENT VERS M. XXXX",
-          "amount": -530.0
+          "amount": -530
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-19T00:00:00",
-            "bookedAt": "2022-03-19T00:00:00"
+            "debitedAt": "2022-03-18T23:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
           "amount": -49.96
@@ -610,8 +544,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-20T00:00:00",
-            "bookedAt": "2022-03-20T00:00:00"
+            "debitedAt": "2022-03-19T23:00:00.000Z"
           },
           "description": "CARTE CB LEADER PRICE",
           "amount": -20.89
@@ -619,8 +552,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-21T00:00:00",
-            "bookedAt": "2022-03-21T00:00:00"
+            "debitedAt": "2022-03-20T23:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 18,3 CARTE NO XXX",
           "amount": -18.3
@@ -628,8 +560,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-22T00:00:00",
-            "bookedAt": "2022-03-22T00:00:00"
+            "debitedAt": "2022-03-21T23:00:00.000Z"
           },
           "description": "ECHEANCE COFIDIS PRET XXXXXXX",
           "amount": -43.46
@@ -637,8 +568,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-22T00:00:00",
-            "bookedAt": "2022-03-22T00:00:00"
+            "debitedAt": "2022-03-21T23:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE NETFLIX.COM",
           "amount": -8.99
@@ -646,8 +576,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-23T00:00:00",
-            "bookedAt": "2022-03-23T00:00:00"
+            "debitedAt": "2022-03-22T23:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 19,26 CARTE NO XXX",
           "amount": -19.26
@@ -655,8 +584,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-23T00:00:00",
-            "bookedAt": "2022-03-23T00:00:00"
+            "debitedAt": "2022-03-22T23:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -16.17
@@ -664,8 +592,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-28T00:00:00",
-            "bookedAt": "2022-03-28T00:00:00"
+            "debitedAt": "2022-03-27T22:00:00.000Z"
           },
           "description": "ACHAT CB AUCHAN",
           "amount": -39.4

@@ -2,7 +2,7 @@
   "accounts": [
     {
       "balance": 506.42,
-      "balanceDate": "2022-03-28T00:00:00",
+      "balanceDate": "2022-03-27T22:00:00.000Z",
       "owners": [
         {
           "name": "OTTO GRAF"
@@ -16,8 +16,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2021-12-30T00:00:00",
-            "bookedAt": "2021-12-30T00:00:00"
+            "debitedAt": "2021-12-29T23:00:00.000Z"
           },
           "description": "Paiement Par Carte R Troyes Maisonn",
           "amount": -36.14
@@ -25,8 +24,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-03T00:00:00",
-            "bookedAt": "2022-01-03T00:00:00"
+            "debitedAt": "2022-01-02T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Carrefour Chapel La Chapel",
           "amount": -5.5
@@ -34,8 +32,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-06T00:00:00",
-            "bookedAt": "2022-01-06T00:00:00"
+            "debitedAt": "2022-01-05T23:00:00.000Z"
           },
           "description": "Paiement Par Carte R Troyes Maisonn",
           "amount": -34.03
@@ -43,8 +40,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-07T00:00:00",
-            "bookedAt": "2022-01-07T00:00:00"
+            "debitedAt": "2022-01-06T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Bodrum Troyes",
           "amount": -11.5
@@ -52,8 +48,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-17T00:00:00",
-            "bookedAt": "2022-01-17T00:00:00"
+            "debitedAt": "2022-01-16T23:00:00.000Z"
           },
           "description": "Paiement Par Carte R Troyes Maisonn",
           "amount": -33.47
@@ -61,17 +56,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-21T00:00:00",
-            "bookedAt": "2022-01-21T00:00:00"
+            "debitedAt": "2022-01-20T23:00:00.000Z"
           },
           "description": "virement de compte a compte 16432578946",
-          "amount": -300.0
+          "amount": -300
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-01-25T00:00:00",
-            "bookedAt": "2022-01-25T00:00:00"
+            "debitedAt": "2022-01-24T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Monoprix Troyes",
           "amount": -5.32
@@ -79,8 +72,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-02T00:00:00",
-            "bookedAt": "2022-02-02T00:00:00"
+            "debitedAt": "2022-02-01T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Aldi Troyes",
           "amount": -6.58
@@ -88,8 +80,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-02T00:00:00",
-            "bookedAt": "2022-02-02T00:00:00"
+            "debitedAt": "2022-02-01T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Sas Happy'curl La Chapelle",
           "amount": -13.9
@@ -97,17 +88,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-07T00:00:00",
-            "bookedAt": "2022-02-07T00:00:00"
+            "debitedAt": "2022-02-06T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR DE M OTTO GRAF, VIR DE M OTTO GRAF LIVRET A",
-          "amount": 500.0
+          "amount": 500
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-22T00:00:00",
-            "bookedAt": "2022-02-22T00:00:00"
+            "debitedAt": "2022-02-21T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Aldi Saint Andre Des",
           "amount": -27.22
@@ -115,8 +104,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-02-27T00:00:00",
-            "bookedAt": "2022-02-27T00:00:00"
+            "debitedAt": "2022-02-26T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Babou Troyes Ste Savine",
           "amount": -1.99
@@ -124,8 +112,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-03T00:00:00",
-            "bookedAt": "2022-03-03T00:00:00"
+            "debitedAt": "2022-03-02T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Babou Troyes Ste Savine",
           "amount": -24.99
@@ -133,8 +120,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-06T00:00:00",
-            "bookedAt": "2022-03-06T00:00:00"
+            "debitedAt": "2022-03-05T23:00:00.000Z"
           },
           "description": "Paiement Par Carte R Troyes Maisonn",
           "amount": -22.14
@@ -142,8 +128,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-07T00:00:00",
-            "bookedAt": "2022-03-07T00:00:00"
+            "debitedAt": "2022-03-06T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Carrefour Chapel La Chapel",
           "amount": -15.72
@@ -151,8 +136,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-08T00:00:00",
-            "bookedAt": "2022-03-08T00:00:00"
+            "debitedAt": "2022-03-07T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Carrefour Chapel La Chapel",
           "amount": -1.2
@@ -160,26 +144,23 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-11T00:00:00",
-            "bookedAt": "2022-03-11T00:00:00"
+            "debitedAt": "2022-03-10T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Carrefour Chapel La Chapel",
-          "amount": -24.0
+          "amount": -24
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-14T00:00:00",
-            "bookedAt": "2022-03-14T00:00:00"
+            "debitedAt": "2022-03-13T23:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR DE M OTTO GRAF",
-          "amount": 250.0
+          "amount": 250
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-16T00:00:00",
-            "bookedAt": "2022-03-16T00:00:00"
+            "debitedAt": "2022-03-15T23:00:00.000Z"
           },
           "description": "Paiement Par Carte R Troyes Maisonn",
           "amount": -36.93
@@ -187,8 +168,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-19T00:00:00",
-            "bookedAt": "2022-03-19T00:00:00"
+            "debitedAt": "2022-03-18T23:00:00.000Z"
           },
           "description": "Paiement Par Carte Action 9471 La Chapelle S",
           "amount": -10.47
@@ -196,8 +176,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-28T00:00:00",
-            "bookedAt": "2022-03-28T00:00:00"
+            "debitedAt": "2022-03-27T22:00:00.000Z"
           },
           "description": "Paiement Par Carte Action 9471 La Chapelle S",
           "amount": -3.48
@@ -205,11 +184,10 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2022-03-28T00:00:00",
-            "bookedAt": "2022-03-28T00:00:00"
+            "debitedAt": "2022-03-27T22:00:00.000Z"
           },
           "description": "virement de compte a compte 16432578946",
-          "amount": -150.0
+          "amount": -150
         }
       ],
       "type": "CHECKING",
