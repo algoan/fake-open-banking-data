@@ -1,0 +1,615 @@
+{
+  "accounts": [
+    {
+      "balance": 1200.63,
+      "balanceDate": "2022-03-28T00:00:00",
+      "owners": [
+        {
+          "name": "CARLA PAROLEDOR"
+        }
+      ],
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2021-12-30T00:00:00",
+            "bookedAt": "2021-12-30T00:00:00"
+          },
+          "description": "PRELEVEMENT AUVERGNE HABITAT SA HLM LPAM0052226014",
+          "amount": -390.79
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-02T00:00:00",
+            "bookedAt": "2022-01-02T00:00:00"
+          },
+          "description": "PRELEVEMENT 0216648 CREDIT AGRICOLE AUVERGNE COTISATION D'ASSURANCE PACIFICA DU CONTRAT AUTOMOBILE 4 ROUES",
+          "amount": -22.92
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-03T00:00:00",
+            "bookedAt": "2022-01-03T00:00:00"
+          },
+          "description": "VIR CPTE A CPTE EMIS VR. PERMANENT EPARGNE",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-04T00:00:00",
+            "bookedAt": "2022-01-04T00:00:00"
+          },
+          "description": "VIREMENT DE CAF AUVERGNE 005428116V16 XPXREFERENCE 005428116",
+          "amount": 125.4
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-04T00:00:00",
+            "bookedAt": "2022-01-04T00:00:00"
+          },
+          "description": "CARTE RETRAIT DAB AURILLAC CENTRE 06287511",
+          "amount": -150.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-05T00:00:00",
+            "bookedAt": "2022-01-05T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -34.93
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-06T00:00:00",
+            "bookedAt": "2022-01-06T00:00:00"
+          },
+          "description": "PRELEVEMENT DE LA BANQUE POSTALE NANCEMENT REF : 06383489650465065536 MENSUALITE PRET PERSONNEL 504650",
+          "amount": -118.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-06T00:00:00",
+            "bookedAt": "2022-01-06T00:00:00"
+          },
+          "description": "CHEQUE N 0430036",
+          "amount": -119.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-07T00:00:00",
+            "bookedAt": "2022-01-07T00:00:00"
+          },
+          "description": "PRLV SEPA HAPP-E ENGIE - EX GDF ECH3114567",
+          "amount": -55.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-08T00:00:00",
+            "bookedAt": "2022-01-08T00:00:00"
+          },
+          "description": "ACHAT CB NETFLIX.COM EUR 13,99 CARTE NO 302",
+          "amount": -13.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-11T00:00:00",
+            "bookedAt": "2022-01-11T00:00:00"
+          },
+          "description": "PRLV SEPA AUTOROUTES DU SUD DE 02F7D3E7F6A545CF8A623",
+          "amount": -12.2
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-13T00:00:00",
+            "bookedAt": "2022-01-13T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -63.16
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-16T00:00:00",
+            "bookedAt": "2022-01-16T00:00:00"
+          },
+          "description": "PRLV SEPA BOUYGUES TELECOM PAGP0100M6RQDR 09XXXXX306",
+          "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-21T00:00:00",
+            "bookedAt": "2022-01-21T00:00:00"
+          },
+          "description": "ACHAT CB SPOTIFY P10D32 EUR 9,99 CARTE NO 302",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-23T00:00:00",
+            "bookedAt": "2022-01-23T00:00:00"
+          },
+          "description": "CARTE RETRAIT DAB AURILLAC CENTRE 06287511",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-24T00:00:00",
+            "bookedAt": "2022-01-24T00:00:00"
+          },
+          "description": "CHEQUE N 0430053",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-25T00:00:00",
+            "bookedAt": "2022-01-25T00:00:00"
+          },
+          "description": "ACHAT CB AIR FRANCE CARTE NUMERO 302",
+          "amount": -149.95
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-26T00:00:00",
+            "bookedAt": "2022-01-26T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -39.54
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-27T00:00:00",
+            "bookedAt": "2022-01-27T00:00:00"
+          },
+          "description": "VIREMENT DE EURO DISNEY ASSOCIES S DLP/59965 Payment",
+          "amount": 1225.05
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-28T00:00:00",
+            "bookedAt": "2022-01-28T00:00:00"
+          },
+          "description": "060121 CB AMAZON EU SARL 75PAYLI2090401",
+          "amount": -24.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-30T00:00:00",
+            "bookedAt": "2022-01-30T00:00:00"
+          },
+          "description": "PRELEVEMENT AUVERGNE HABITAT SA HLM LPAM0052226014",
+          "amount": -390.79
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-02T00:00:00",
+            "bookedAt": "2022-02-02T00:00:00"
+          },
+          "description": "PRELEVEMENT 0216648 CREDIT AGRICOLE AUVERGNE COTISATION D'ASSURANCE PACIFICA DU CONTRAT AUTOMOBILE 4 ROUES",
+          "amount": -22.92
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-02T00:00:00",
+            "bookedAt": "2022-02-02T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -74.34
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-03T00:00:00",
+            "bookedAt": "2022-02-03T00:00:00"
+          },
+          "description": "VIR CPTE A CPTE EMIS VR. PERMANENT EPARGNE",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-04T00:00:00",
+            "bookedAt": "2022-02-04T00:00:00"
+          },
+          "description": "VIREMENT DE CAF AUVERGNE 005428116V16 XPXREFERENCE 005428116",
+          "amount": 125.4
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-06T00:00:00",
+            "bookedAt": "2022-02-06T00:00:00"
+          },
+          "description": "PRELEVEMENT DE LA BANQUE POSTALE NANCEMENT REF : 06383489650465065567 MENSUALITE PRET PERSONNEL 504650",
+          "amount": -118.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-06T00:00:00",
+            "bookedAt": "2022-02-06T00:00:00"
+          },
+          "description": "PRLV SEPA HAPP-E ENGIE - EX GDF ECH3114567",
+          "amount": -55.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-07T00:00:00",
+            "bookedAt": "2022-02-07T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -65.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-07T00:00:00",
+            "bookedAt": "2022-02-07T00:00:00"
+          },
+          "description": "CARTE RETRAIT DAB AURILLAC CENTRE 06287511",
+          "amount": -50.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-08T00:00:00",
+            "bookedAt": "2022-02-08T00:00:00"
+          },
+          "description": "ACHAT CB NETFLIX.COM EUR 13,99 CARTE NO 302",
+          "amount": -13.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-08T00:00:00",
+            "bookedAt": "2022-02-08T00:00:00"
+          },
+          "description": "CHEQUE N 0430036",
+          "amount": -49.9
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-09T00:00:00",
+            "bookedAt": "2022-02-09T00:00:00"
+          },
+          "description": "PAIEMENT PAR CARTE ALDI AURILLAC",
+          "amount": -12.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-11T00:00:00",
+            "bookedAt": "2022-02-11T00:00:00"
+          },
+          "description": "PRLV SEPA AUTOROUTES DU SUD DE 02F7D3E7F6A545CF8A623",
+          "amount": -12.2
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-13T00:00:00",
+            "bookedAt": "2022-02-13T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -12.76
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-17T00:00:00",
+            "bookedAt": "2022-02-17T00:00:00"
+          },
+          "description": "PRLV SEPA BOUYGUES TELECOM PAGP0100M6RQDR 09XXXXX306",
+          "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-20T00:00:00",
+            "bookedAt": "2022-02-20T00:00:00"
+          },
+          "description": "ACHAT CB PHIE DU CENTRE CARTE NUMERO 302",
+          "amount": -15.96
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-21T00:00:00",
+            "bookedAt": "2022-02-21T00:00:00"
+          },
+          "description": "ACHAT CB SPOTIFY P10D32 EUR 9,99 CARTE NO 302",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-21T00:00:00",
+            "bookedAt": "2022-02-21T00:00:00"
+          },
+          "description": "CARTE RETRAIT DAB AURILLAC CENTRE 06287511",
+          "amount": -150.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-23T00:00:00",
+            "bookedAt": "2022-02-23T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -65.31
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-24T00:00:00",
+            "bookedAt": "2022-02-24T00:00:00"
+          },
+          "description": "161235 CB DECATHLON AUR",
+          "amount": -15.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-24T00:00:00",
+            "bookedAt": "2022-02-24T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -27.55
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-24T00:00:00",
+            "bookedAt": "2022-02-24T00:00:00"
+          },
+          "description": "ACHAT CB CDISCOUNT CARTE NUMERO 302",
+          "amount": -14.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-24T00:00:00",
+            "bookedAt": "2022-02-24T00:00:00"
+          },
+          "description": "VIREMENT DE EURO DISNEY ASSOCIES S DLP/59965 Payment",
+          "amount": 1251.82
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-27T00:00:00",
+            "bookedAt": "2022-02-27T00:00:00"
+          },
+          "description": "PRELEVEMENT AUVERGNE HABITAT SA HLM LPAM0052226014",
+          "amount": -390.79
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-02T00:00:00",
+            "bookedAt": "2022-03-02T00:00:00"
+          },
+          "description": "PRELEVEMENT 0216648 CREDIT AGRICOLE AUVERGNE COTISATION D'ASSURANCE PACIFICA DU CONTRAT AUTOMOBILE 4 ROUES",
+          "amount": -22.92
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-03T00:00:00",
+            "bookedAt": "2022-03-03T00:00:00"
+          },
+          "description": "VIR CPTE A CPTE EMIS VR. PERMANENT EPARGNE",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-04T00:00:00",
+            "bookedAt": "2022-03-04T00:00:00"
+          },
+          "description": "VIREMENT DE CAF AUVERGNE 005428116V16 XPXREFERENCE 005428116",
+          "amount": 125.4
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-07T00:00:00",
+            "bookedAt": "2022-03-07T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -51.76
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-07T00:00:00",
+            "bookedAt": "2022-03-07T00:00:00"
+          },
+          "description": "CARTE RETRAIT DAB AURILLAC CENTRE 06287511",
+          "amount": -50.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-07T00:00:00",
+            "bookedAt": "2022-03-07T00:00:00"
+          },
+          "description": "PRELEVEMENT DE LA BANQUE POSTALE NANCEMENT REF : 06383489650465065592 MENSUALITE PRET PERSONNEL 504650",
+          "amount": -118.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-08T00:00:00",
+            "bookedAt": "2022-03-08T00:00:00"
+          },
+          "description": "PAIEMENT PAR CARTE ALDI AURILLAC",
+          "amount": -5.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-08T00:00:00",
+            "bookedAt": "2022-03-08T00:00:00"
+          },
+          "description": "PRLV SEPA HAPP-E ENGIE - EX GDF ECH3114567",
+          "amount": -55.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-08T00:00:00",
+            "bookedAt": "2022-03-08T00:00:00"
+          },
+          "description": "ACHAT CB NETFLIX.COM EUR 13,99 CARTE NO 302",
+          "amount": -13.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-10T00:00:00",
+            "bookedAt": "2022-03-10T00:00:00"
+          },
+          "description": "PAIEMENT PAR CARTE SEPHORA 1755 LA CHAPELLE S",
+          "amount": -34.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-12T00:00:00",
+            "bookedAt": "2022-03-12T00:00:00"
+          },
+          "description": "PRLV SEPA AUTOROUTES DU SUD DE 02F7D3E7F6A545CF8A623",
+          "amount": -12.2
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-16T00:00:00",
+            "bookedAt": "2022-03-16T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -62.56
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-17T00:00:00",
+            "bookedAt": "2022-03-17T00:00:00"
+          },
+          "description": "PRLV SEPA BOUYGUES TELECOM PAGP0100M6RQDR 09XXXXX306",
+          "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-18T00:00:00",
+            "bookedAt": "2022-03-18T00:00:00"
+          },
+          "description": "CARTE RETRAIT DAB AURILLAC CENTRE 06287511",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-18T00:00:00",
+            "bookedAt": "2022-03-18T00:00:00"
+          },
+          "description": "ACHAT CB PHIE DU CENTRE CARTE NUMERO 302",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-21T00:00:00",
+            "bookedAt": "2022-03-21T00:00:00"
+          },
+          "description": "ACHAT CB SPOTIFY P10D32 EUR 9,99 CARTE NO 302",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-23T00:00:00",
+            "bookedAt": "2022-03-23T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -40.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-23T00:00:00",
+            "bookedAt": "2022-03-23T00:00:00"
+          },
+          "description": "060121 CB AMAZON EU SARL 75PAYLI2090401",
+          "amount": -12.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-24T00:00:00",
+            "bookedAt": "2022-03-24T00:00:00"
+          },
+          "description": "Paiement Par Carte Carrefour Aurillac",
+          "amount": -54.72
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-26T00:00:00",
+            "bookedAt": "2022-03-26T00:00:00"
+          },
+          "description": "VIREMENT DE EURO DISNEY ASSOCIES S DLP/59965 Payment",
+          "amount": 1232.12
+        }
+      ],
+      "type": "CHECKING",
+      "usage": "PERSONAL",
+      "number": "account 01"
+    },
+    {
+      "balance": 5650.0,
+      "balanceDate": "2022-03-28T00:00:00",
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [],
+      "type": "SAVINGS",
+      "usage": "PERSONAL",
+      "number": "account 02",
+      "owners": [
+        {
+          "name": "CARLA PAROLEDOR"
+        }
+      ]
+    }
+  ]
+}

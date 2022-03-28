@@ -1,0 +1,787 @@
+{
+  "accounts": [
+    {
+      "balance": 1457.16,
+      "balanceDate": "2022-03-28T00:00:00",
+      "owners": [
+        {
+          "name": "HABIB OCHE"
+        }
+      ],
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2021-12-29T00:00:00",
+            "bookedAt": "2021-12-29T00:00:00"
+          },
+          "description": "VIR INST LOYER VM00612C7GK4WS01",
+          "amount": -590.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-03T00:00:00",
+            "bookedAt": "2022-01-03T00:00:00"
+          },
+          "description": "PRLV SEPA EDF CLIENTS PAR MDT/MM9760177689",
+          "amount": -60.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-04T00:00:00",
+            "bookedAt": "2022-01-04T00:00:00"
+          },
+          "description": "PRELEVEMENT DE COFIDIS COF REF : PEC00287903464140000000000 GEC-01 PLV ECHEANCE",
+          "amount": -130.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-05T00:00:00",
+            "bookedAt": "2022-01-05T00:00:00"
+          },
+          "description": "PRELEVEMENT X0333 08/09 FREE MOBILE COMMERCE ELECTRONIQUE",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-07T00:00:00",
+            "bookedAt": "2022-01-07T00:00:00"
+          },
+          "description": "PRELEVEMENT TCL Echeance",
+          "amount": -70.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-10T00:00:00",
+            "bookedAt": "2022-01-10T00:00:00"
+          },
+          "description": "PRELEVEMENT FITNESS PARK-M S FITNESS PARK LYON Prelevement",
+          "amount": -34.95
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-12T00:00:00",
+            "bookedAt": "2022-01-12T00:00:00"
+          },
+          "description": "VIR PERM POUR: 3000301787000340466 MOTIF: Epargne",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-13T00:00:00",
+            "bookedAt": "2022-01-13T00:00:00"
+          },
+          "description": "COFIDIS POUR AMAZON COMMERCE ELECTRONIQUE",
+          "amount": -49.33
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-14T00:00:00",
+            "bookedAt": "2022-01-14T00:00:00"
+          },
+          "description": "RETRAIT D'ESPECES LA PACAUDIERE",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-15T00:00:00",
+            "bookedAt": "2022-01-15T00:00:00"
+          },
+          "description": "VIR INST MME CAMILLE",
+          "amount": -200.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-17T00:00:00",
+            "bookedAt": "2022-01-17T00:00:00"
+          },
+          "description": "PRELEVEMENT DE CANALSAT - GROUPE NAL PLUS REF : 58901099001B2009250008860",
+          "amount": -14.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-26T00:00:00",
+            "bookedAt": "2022-01-26T00:00:00"
+          },
+          "description": "VIREMENT EN VOTRE FAVEUR ALGOAN SALAIRE",
+          "amount": 1914.84
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-28T00:00:00",
+            "bookedAt": "2022-01-28T00:00:00"
+          },
+          "description": "DEBIT CARTE BANCAIRE DIFFERE",
+          "amount": -538.01
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-29T00:00:00",
+            "bookedAt": "2022-01-29T00:00:00"
+          },
+          "description": "VIR INST LOYER VM00872HV4ADPS01",
+          "amount": -590.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-30T00:00:00",
+            "bookedAt": "2022-01-30T00:00:00"
+          },
+          "description": "CHEQUE EMIS 6188403",
+          "amount": -80.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-02T00:00:00",
+            "bookedAt": "2022-02-02T00:00:00"
+          },
+          "description": "PRLV SEPA EDF CLIENTS PAR MDT/MM9760177689",
+          "amount": -60.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-03T00:00:00",
+            "bookedAt": "2022-02-03T00:00:00"
+          },
+          "description": "RETRAIT D'ESPECES LA PACAUDIER",
+          "amount": -150.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-05T00:00:00",
+            "bookedAt": "2022-02-05T00:00:00"
+          },
+          "description": "PRELEVEMENT DE COFIDIS COF REF : PEC00287903464140000000000 GEC-01 PLV ECHEANCE",
+          "amount": -130.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-06T00:00:00",
+            "bookedAt": "2022-02-06T00:00:00"
+          },
+          "description": "PRELEVEMENT X0333 08/09 FREE MOBILE COMMERCE ELECTRONIQUE",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-09T00:00:00",
+            "bookedAt": "2022-02-09T00:00:00"
+          },
+          "description": "PRELEVEMENT TCL Echeance",
+          "amount": -70.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-10T00:00:00",
+            "bookedAt": "2022-02-10T00:00:00"
+          },
+          "description": "PRELEVEMENT FITNESS PARK-M S FITNESS PARK LYON Prelevement",
+          "amount": -34.95
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-12T00:00:00",
+            "bookedAt": "2022-02-12T00:00:00"
+          },
+          "description": "VIR PERM POUR: 3000301787000340466 MOTIF: Epargne",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-13T00:00:00",
+            "bookedAt": "2022-02-13T00:00:00"
+          },
+          "description": "COFIDIS POUR AMAZON COMMERCE ELECTRONIQUE",
+          "amount": -49.33
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-15T00:00:00",
+            "bookedAt": "2022-02-15T00:00:00"
+          },
+          "description": "RETRAIT D'ESPECES LA PACAUDIER",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-17T00:00:00",
+            "bookedAt": "2022-02-17T00:00:00"
+          },
+          "description": "PRELEVEMENT DE CANALSAT - GROUPE NAL PLUS REF : 58901099001B2009250008860",
+          "amount": -14.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-19T00:00:00",
+            "bookedAt": "2022-02-19T00:00:00"
+          },
+          "description": "CHEQUE EMIS 6188403",
+          "amount": -55.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-23T00:00:00",
+            "bookedAt": "2022-02-23T00:00:00"
+          },
+          "description": "VIREMENT EN VOTRE FAVEUR ALGOAN SALAIRE",
+          "amount": 1956.82
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-25T00:00:00",
+            "bookedAt": "2022-02-25T00:00:00"
+          },
+          "description": "DEBIT CARTE BANCAIRE DIFFERE",
+          "amount": -437.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-26T00:00:00",
+            "bookedAt": "2022-02-26T00:00:00"
+          },
+          "description": "VIR INST LOYER VM00432CV2FDZS01",
+          "amount": -590.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-03T00:00:00",
+            "bookedAt": "2022-03-03T00:00:00"
+          },
+          "description": "PRLV SEPA EDF CLIENTS PAR MDT/MM9760177689",
+          "amount": -60.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-04T00:00:00",
+            "bookedAt": "2022-03-04T00:00:00"
+          },
+          "description": "PRELEVEMENT DE COFIDIS COF REF : PEC00287903464140000000000 GEC-01 PLV ECHEANCE",
+          "amount": -130.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-05T00:00:00",
+            "bookedAt": "2022-03-05T00:00:00"
+          },
+          "description": "PRELEVEMENT X0333 08/09 FREE MOBILE COMMERCE ELECTRONIQUE",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-06T00:00:00",
+            "bookedAt": "2022-03-06T00:00:00"
+          },
+          "description": "RETRAIT D'ESPECES LA PACAUDIER",
+          "amount": -200.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-07T00:00:00",
+            "bookedAt": "2022-03-07T00:00:00"
+          },
+          "description": "PRELEVEMENT TCL Echeance",
+          "amount": -70.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-09T00:00:00",
+            "bookedAt": "2022-03-09T00:00:00"
+          },
+          "description": "CHEQUE EMIS 6188403",
+          "amount": -80.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-10T00:00:00",
+            "bookedAt": "2022-03-10T00:00:00"
+          },
+          "description": "PRELEVEMENT FITNESS PARK-M S FITNESS PARK LYON Prelevement",
+          "amount": -34.95
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-12T00:00:00",
+            "bookedAt": "2022-03-12T00:00:00"
+          },
+          "description": "COFIDIS POUR AMAZON COMMERCE ELECTRONIQUE",
+          "amount": -49.33
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-12T00:00:00",
+            "bookedAt": "2022-03-12T00:00:00"
+          },
+          "description": "VIR PERM POUR: 3000301787000340466 MOTIF: Epargne",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-17T00:00:00",
+            "bookedAt": "2022-03-17T00:00:00"
+          },
+          "description": "PRELEVEMENT DE CANALSAT - GROUPE NAL PLUS REF : 58901099001B2009250008860",
+          "amount": -14.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-25T00:00:00",
+            "bookedAt": "2022-03-25T00:00:00"
+          },
+          "description": "VIREMENT EN VOTRE FAVEUR ALGOAN SALAIRE",
+          "amount": 1940.2
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-28T00:00:00",
+            "bookedAt": "2022-03-28T00:00:00"
+          },
+          "description": "DEBIT CARTE BANCAIRE DIFFERE",
+          "amount": -520.45
+        }
+      ],
+      "type": "CHECKING",
+      "usage": "PERSONAL",
+      "number": "account 01",
+      "owner": "JONATHAN DURAND"
+    },
+    {
+      "balance": -120.0,
+      "balanceDate": "2022-03-28T00:00:00",
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2021-12-31T00:00:00",
+            "bookedAt": "2021-12-31T00:00:00"
+          },
+          "description": "WINAMAX CARTE 56001211 PAIEMENT CB 3105 PARIS",
+          "amount": -200.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-02T00:00:00",
+            "bookedAt": "2022-01-02T00:00:00"
+          },
+          "description": "161220 CB DECATHLON NORMAN",
+          "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-03T00:00:00",
+            "bookedAt": "2022-01-03T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -54.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-09T00:00:00",
+            "bookedAt": "2022-01-09T00:00:00"
+          },
+          "description": "ACHAT CB CDISCOUNT CARTE NUMERO 3105",
+          "amount": -29.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-12T00:00:00",
+            "bookedAt": "2022-01-12T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -34.87
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-13T00:00:00",
+            "bookedAt": "2022-01-13T00:00:00"
+          },
+          "description": "CB PHARMACIE DE LA NORMANDIERE",
+          "amount": -8.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-14T00:00:00",
+            "bookedAt": "2022-01-14T00:00:00"
+          },
+          "description": "MCDO TRAPPES",
+          "amount": -18.76
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-15T00:00:00",
+            "bookedAt": "2022-01-15T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -12.42
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-17T00:00:00",
+            "bookedAt": "2022-01-17T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -5.72
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-18T00:00:00",
+            "bookedAt": "2022-01-18T00:00:00"
+          },
+          "description": "ACHAT CB CARR MARKET SC 2 EUR 15,78 CARTE NO 3105",
+          "amount": -15.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-23T00:00:00",
+            "bookedAt": "2022-01-23T00:00:00"
+          },
+          "description": "PAIEMENT PAR CARTE SEPHORA 1755 LA CHAPELLE S",
+          "amount": -25.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-25T00:00:00",
+            "bookedAt": "2022-01-25T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -76.54
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-26T00:00:00",
+            "bookedAt": "2022-01-26T00:00:00"
+          },
+          "description": "MCDO TRAPPES",
+          "amount": -15.86
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-27T00:00:00",
+            "bookedAt": "2022-01-27T00:00:00"
+          },
+          "description": "060121 CB AMAZON EU SARL 75PAYLI2090401",
+          "amount": -18.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-28T00:00:00",
+            "bookedAt": "2022-01-28T00:00:00"
+          },
+          "description": "Releve differe Carte",
+          "amount": 538.01
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-01T00:00:00",
+            "bookedAt": "2022-02-01T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -45.83
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-03T00:00:00",
+            "bookedAt": "2022-02-03T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -34.32
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-04T00:00:00",
+            "bookedAt": "2022-02-04T00:00:00"
+          },
+          "description": "060121 CB AMAZON EU SARL 75PAYLI2090401",
+          "amount": -15.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-05T00:00:00",
+            "bookedAt": "2022-02-05T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -65.23
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-10T00:00:00",
+            "bookedAt": "2022-02-10T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -45.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-10T00:00:00",
+            "bookedAt": "2022-02-10T00:00:00"
+          },
+          "description": "CARTE AMAZON PRIME FR COMMERCE ELECTRONIQUE",
+          "amount": -49.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-12T00:00:00",
+            "bookedAt": "2022-02-12T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -15.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-15T00:00:00",
+            "bookedAt": "2022-02-15T00:00:00"
+          },
+          "description": "CARTE RYANAIR SC3N8X0 COMMERCE ELECTRONIQUE",
+          "amount": -49.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-16T00:00:00",
+            "bookedAt": "2022-02-16T00:00:00"
+          },
+          "description": "ACHAT CB CARR MARKET SC 2 EUR 10,88 CARTE NO 3105",
+          "amount": -10.88
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-21T00:00:00",
+            "bookedAt": "2022-02-21T00:00:00"
+          },
+          "description": "060121 CB AMAZON EU SARL 75PAYLI2090401",
+          "amount": -96.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-23T00:00:00",
+            "bookedAt": "2022-02-23T00:00:00"
+          },
+          "description": "MCDO TRAPPES",
+          "amount": -8.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-25T00:00:00",
+            "bookedAt": "2022-02-25T00:00:00"
+          },
+          "description": "Releve differe Carte",
+          "amount": 437.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-28T00:00:00",
+            "bookedAt": "2022-02-28T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -15.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-01T00:00:00",
+            "bookedAt": "2022-03-01T00:00:00"
+          },
+          "description": "WINAMAX CARTE 56001211 PAIEMENT CB 3105 PARIS",
+          "amount": -200.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-05T00:00:00",
+            "bookedAt": "2022-03-05T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -65.34
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-06T00:00:00",
+            "bookedAt": "2022-03-06T00:00:00"
+          },
+          "description": "ACHAT CB CARR MARKET SC 2 EUR 24,35 CARTE NO 3105",
+          "amount": -24.35
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-07T00:00:00",
+            "bookedAt": "2022-03-07T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -5.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-12T00:00:00",
+            "bookedAt": "2022-03-12T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -50.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-15T00:00:00",
+            "bookedAt": "2022-03-15T00:00:00"
+          },
+          "description": "161220 CB DECATHLON NORMAN",
+          "amount": -12.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-16T00:00:00",
+            "bookedAt": "2022-03-16T00:00:00"
+          },
+          "description": "060121 CB AMAZON EU SARL 75PAYLI2090401",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-18T00:00:00",
+            "bookedAt": "2022-03-18T00:00:00"
+          },
+          "description": "Paiement Par Carte Lidl Ste Savi3314",
+          "amount": -43.76
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-21T00:00:00",
+            "bookedAt": "2022-03-21T00:00:00"
+          },
+          "description": "CB PHARMACIE DE LA NORMANDIERE",
+          "amount": -15.96
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-23T00:00:00",
+            "bookedAt": "2022-03-23T00:00:00"
+          },
+          "description": "060121 CB AMAZON EU SARL 75PAYLI2090401",
+          "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-25T00:00:00",
+            "bookedAt": "2022-03-25T00:00:00"
+          },
+          "description": "ACHAT CB CDISCOUNT CARTE NUMERO 3105",
+          "amount": -55.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-28T00:00:00",
+            "bookedAt": "2022-03-28T00:00:00"
+          },
+          "description": "Releve differe Carte",
+          "amount": 520.45
+        }
+      ],
+      "type": "CREDIT_CARD",
+      "usage": "PERSONAL",
+      "number": "account 02",
+      "owners": [
+        {
+          "name": "HABIB OCHE"
+        }
+      ]
+    },
+    {
+      "balance": 2200.0,
+      "balanceDate": "2022-03-28T00:00:00",
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [],
+      "type": "SAVINGS",
+      "usage": "PERSONAL",
+      "number": "account 03",
+      "owners": [
+        {
+          "name": "HABIB OCHE"
+        }
+      ]
+    }
+  ]
+}
