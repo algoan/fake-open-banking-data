@@ -11,7 +11,7 @@ This repository shares different open banking data samples in order to test easi
 ## Personae
 
 A JSON file represents what we call a "Personae": a profile with relevant credit risk indicators.
-### [Harry Cover](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harry_cover.json)
+### [Harry Potter](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harry_potter.json)
 
 **Language**: French 🇫🇷
 
@@ -27,7 +27,7 @@ Risky profile (Credit Score ~150-200/1000)
 - Has 1 payment rejection on a credit and on a subscription
 - Falling cash flows
 
-### [Lara Crochet](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/lara_crochet.json)
+### [Lara Croft](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/lara_croft.json)
 
 **Language**: French 🇫🇷
 
@@ -42,7 +42,7 @@ Good profile (Credit Score ~900/1000)
 - Has no incident or fees
 - Stable cash flows
 
-### [Hassan Cehef](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/hassan_cehef.json)
+### [Archibald Haddock](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/archibald_haddock.json)
 
 **Language**: French 🇫🇷
 
@@ -57,7 +57,7 @@ Risky profile (Credit Score <100/1000)
 - Presence of payment incidents with significant amount
 - Has 2 consumer loans
 
-### [Otto Graf](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/otto_graf.json)
+### [Harley Quinn](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harley_quinn.json)
 
 **Language**: French 🇫🇷
 
@@ -67,7 +67,7 @@ Good profile (Credit Score ~900/1000)
 
 - Secondary account synchronized
 
-### [Paul Hemique](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/paul_hemique.json)
+### [Ron Weasley](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/ron_weasley.json)
 
 **Language**: French 🇫🇷
 
@@ -79,7 +79,7 @@ Good profile (Credit Score ~900/1000)
 - Has a mortgage and a consumer loan
 - Insurances, telecom and power are debited on the account
 
-### [Habib Oche](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/habib_oche.json)
+### [Hermione Granger](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/hermione_granger.json)
 
 **Language**: French 🇫🇷
 
@@ -97,7 +97,7 @@ Good profile (Credit Score ~900/1000)
 - Has some savings
 - Has a deferred debit card
 
-### [Emilie Corne](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/emilie_corne.json)
+### [Sherlock Holmes](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/sherlock_holmes.json)
 
 **Language**: French 🇫🇷
 
@@ -109,7 +109,7 @@ Good profile (Credit Score ~900/1000)
 - Has a rent
 - Has direct debits such as power, telecom, insurance
 
-### [Renee Sense](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/renee_sense.json)
+### [Padme Amidala](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/padme_amidala.json)
 
 **Language**: French 🇫🇷
 
@@ -123,7 +123,7 @@ Good profile (Credit Score ~900/1000)
 - Has rental income
 - Has insurances, power and telecom transactions
 
-### [Maude Erateur](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/maude_erateur.json)
+### [Luke Skywalker](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/luke_skywalker.json)
 
 **Language**: French 🇫🇷
 
@@ -139,7 +139,7 @@ Fair profile (Credit Score ~500/1000)
 - Has a student loan
 - Has overdraft periods
 
-### [Carla Paroledor](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/carla_paroledor.json)
+### [Leia Skywalker](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/leia_skywalker.json)
 
 **Language**: French 🇫🇷
 
