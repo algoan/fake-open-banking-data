@@ -1,0 +1,582 @@
+{
+  "accounts": [
+    {
+      "balance": 5812.59,
+      "balanceDate": "2022-03-28T22:00:00.000Z",
+      "owners": [
+        {
+          "name": "RON WEASLEY"
+        }
+      ],
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-16T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -174.21
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-17T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -76.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-24T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -93.47
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-31T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -69.16
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-14T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -66.37
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-15T23:00:00.000Z"
+          },
+          "description": "ACHAT CB AMAZON PAYMENTS CARTE NUMERO 666",
+          "amount": -164.53
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-28T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -97.25
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-07T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -122.64
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-15T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -98.29
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-23T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LECLERC CARTE NUMERO 666",
+          "amount": -74.36
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-03T23:00:00.000Z"
+          },
+          "description": "PRET IMMOBILIER ECH",
+          "amount": -1272.06
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-03T23:00:00.000Z"
+          },
+          "description": "PRLV SEPA CA CONSUMER FI PRELEVEMENT SEPA 78946874T4 5176838673693",
+          "amount": -137.63
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-04T23:00:00.000Z"
+          },
+          "description": "PRLV DE Total Direct Energie",
+          "amount": -88.22
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-05T23:00:00.000Z"
+          },
+          "description": "REGLEMENT ASSU. CNP PRET HABITAT",
+          "amount": -33.91
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-05T23:00:00.000Z"
+          },
+          "description": "ACHAT CB AIR FRANCE CARTE NUMERO 666",
+          "amount": -427.56
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-09T23:00:00.000Z"
+          },
+          "description": "ACHAT CB BOULANGER PARIS CARTE NUMERO 666",
+          "amount": -192.38
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-08T23:00:00.000Z"
+          },
+          "description": "Prlv Assurance Auto Acommeassure",
+          "amount": -21.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-08T23:00:00.000Z"
+          },
+          "description": "TABAC LOTO",
+          "amount": -22.89
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-09T23:00:00.000Z"
+          },
+          "description": "RETRAIT DAB REF7672A76 CARTE **8666",
+          "amount": -200
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-10T23:00:00.000Z"
+          },
+          "description": "PRELEVEMENT DE FREE MOBILE REF : fmpmt-37684378",
+          "amount": -35.66
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-11T23:00:00.000Z"
+          },
+          "description": "ACHAT CB AMAZON PAYMENTS CARTE NUMERO 666",
+          "amount": -43.39
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-12T23:00:00.000Z"
+          },
+          "description": "KFC PARIS",
+          "amount": -41.38
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-15T23:00:00.000Z"
+          },
+          "description": "ACHAT CB SEPHORA 177 CARTE NUMERO 666",
+          "amount": -186.67
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-16T23:00:00.000Z"
+          },
+          "description": "PRELEVEMENT Orange Votre abonnement fibre (facture: XXXXX7868J6)",
+          "amount": -31.16
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-17T23:00:00.000Z"
+          },
+          "description": "ACHAT CB AMAZON PAYMENTS CARTE NUMERO 666",
+          "amount": -299.76
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-18T23:00:00.000Z"
+          },
+          "description": "RETRAIT DAB REF6842A92 CARTE **8666",
+          "amount": -160
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-18T23:00:00.000Z"
+          },
+          "description": "HABITAT JM00000000897789619 RMS798782Y73BVHJ1234",
+          "amount": -39.55
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-18T23:00:00.000Z"
+          },
+          "description": "KFC PARIS",
+          "amount": -18.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-19T23:00:00.000Z"
+          },
+          "description": "ACHAT CB LA POSTE PARIS CARTE NUMERO 666",
+          "amount": -19.89
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-23T23:00:00.000Z"
+          },
+          "description": "PRLV SEPA DIRECTION GENERALE DE SOLDE IMPOT REVENUS 2020 N DE F",
+          "amount": -374.86
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-25T23:00:00.000Z"
+          },
+          "description": "CAFE OZ",
+          "amount": -35
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-26T23:00:00.000Z"
+          },
+          "description": "VIR RON WEASLEY ZZ12BHJV86CTVFF PAYE",
+          "amount": 2395.87
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-01-26T23:00:00.000Z"
+          },
+          "description": "VIR HERMIONE WEASLEY ZZ12BBGTRYATVFF PAYE",
+          "amount": 2051.28
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-01T23:00:00.000Z"
+          },
+          "description": "TABAC LOTO",
+          "amount": -45.21
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-03T23:00:00.000Z"
+          },
+          "description": "PRET IMMOBILIER ECH",
+          "amount": -1272.06
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-03T23:00:00.000Z"
+          },
+          "description": "PRLV SEPA CA CONSUMER FI PRELEVEMENT SEPA 78946874T4 5176838673693",
+          "amount": -137.63
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-04T23:00:00.000Z"
+          },
+          "description": "PRLV DE Total Direct Energie",
+          "amount": -88.22
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-05T23:00:00.000Z"
+          },
+          "description": "REGLEMENT ASSU. CNP PRET HABITAT",
+          "amount": -33.91
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-08T23:00:00.000Z"
+          },
+          "description": "Prlv Assurance Auto Acommeassure",
+          "amount": -21.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-08T23:00:00.000Z"
+          },
+          "description": "VIR SEPA REGLEMENT FACTURE N 87",
+          "amount": -150
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-10T23:00:00.000Z"
+          },
+          "description": "PRELEVEMENT DE FREE MOBILE REF : fmpmt-37684378",
+          "amount": -35.66
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-12T23:00:00.000Z"
+          },
+          "description": "ACHAT CB MODERN SPORT CARTE NUMERO 666",
+          "amount": -272.37
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-12T23:00:00.000Z"
+          },
+          "description": "RETRAIT DAB REF6765A13 CARTE **8666",
+          "amount": -90
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-16T23:00:00.000Z"
+          },
+          "description": "PRELEVEMENT Orange Votre abonnement fibre (facture: XXXXX7868J7)",
+          "amount": -31.16
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-18T23:00:00.000Z"
+          },
+          "description": "HABITAT JM00000000897789637 RMS798782Y73BVHJ1234",
+          "amount": -39.55
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-21T23:00:00.000Z"
+          },
+          "description": "ACHAT CB BOULANGER PARIS CARTE NUMERO 666",
+          "amount": -276.55
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-24T23:00:00.000Z"
+          },
+          "description": "KFC PARIS",
+          "amount": -31.64
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-25T23:00:00.000Z"
+          },
+          "description": "RETRAIT DAB REF6765A92 CARTE **8666",
+          "amount": -240
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-25T23:00:00.000Z"
+          },
+          "description": "TABAC LOTO",
+          "amount": -33.77
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-26T23:00:00.000Z"
+          },
+          "description": "VIR RON WEASLEY ZZ13BHJV86CTVFF PAYE",
+          "amount": 2386.43
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-02-26T23:00:00.000Z"
+          },
+          "description": "VIR HERMIONE WEASLEY ZZ13BBGTRYATVFF PAYE",
+          "amount": 2042.56
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-03T23:00:00.000Z"
+          },
+          "description": "ACHAT CB AIR FRANCE CARTE NUMERO 666",
+          "amount": -197.22
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-04T23:00:00.000Z"
+          },
+          "description": "ACHAT CB AMAZON PAYMENTS CARTE NUMERO 666",
+          "amount": -356.88
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-04T23:00:00.000Z"
+          },
+          "description": "CAFE OZ",
+          "amount": -62
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-06T23:00:00.000Z"
+          },
+          "description": "PRET IMMOBILIER ECH",
+          "amount": -1272.06
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-06T23:00:00.000Z"
+          },
+          "description": "PRLV SEPA CA CONSUMER FI PRELEVEMENT SEPA 78946874T4 5176838673693",
+          "amount": -137.63
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-07T23:00:00.000Z"
+          },
+          "description": "PRLV DE Total Direct Energie",
+          "amount": -88.22
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-08T23:00:00.000Z"
+          },
+          "description": "REGLEMENT ASSU. CNP PRET HABITAT",
+          "amount": -33.91
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-08T23:00:00.000Z"
+          },
+          "description": "RETRAIT DAB REF6764A98 CARTE **8666",
+          "amount": -70
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-11T23:00:00.000Z"
+          },
+          "description": "Prlv Assurance Auto Acommeassure",
+          "amount": -21.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-13T23:00:00.000Z"
+          },
+          "description": "ACHAT CB AMAZON PAYMENTS CARTE NUMERO 666",
+          "amount": -78.66
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-13T23:00:00.000Z"
+          },
+          "description": "TABAC LOTO",
+          "amount": -40
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-10T23:00:00.000Z"
+          },
+          "description": "PRELEVEMENT DE FREE MOBILE REF : fmpmt-37684378",
+          "amount": -35.66
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-16T23:00:00.000Z"
+          },
+          "description": "KFC PARIS",
+          "amount": -52.22
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-17T23:00:00.000Z"
+          },
+          "description": "RETRAIT DAB REF7876A02 CARTE **8666",
+          "amount": -180
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-18T23:00:00.000Z"
+          },
+          "description": "PRELEVEMENT Orange Votre abonnement fibre (facture: XXXXX7868J8)",
+          "amount": -31.16
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-21T23:00:00.000Z"
+          },
+          "description": "HABITAT JM00000000897789621 RMS798782Y73BVHJ1234",
+          "amount": -39.55
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-22T23:00:00.000Z"
+          },
+          "description": "CHEQUE EMIS 768367846/0000000/000000000",
+          "amount": -600
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-28T22:00:00.000Z"
+          },
+          "description": "VIR RON WEASLEY ZZ23BHJV86CTVFF PAYE",
+          "amount": 2386.43
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-03-28T22:00:00.000Z"
+          },
+          "description": "VIR HERMIONE WEASLEY ZZ23BBGTRYATVFF PAYE",
+          "amount": 2042.56
+        }
+      ],
+      "type": "CHECKING",
+      "usage": "PERSONAL",
+      "number": "account 01"
+    }
+  ]
+}

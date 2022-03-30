@@ -41,3 +41,117 @@ Good profile (Credit Score ~900/1000)
 - Has done 2 split payments.
 - Has no incident or fees
 - Stable cash flows
+
+### [Archibald Haddock](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/archibald_haddock.json)
+
+**Language**: French 🇫🇷
+
+**Description**:
+
+Risky profile (Credit Score <100/1000)
+
+- Has an account seizure
+- Presents a high gambling over incomes ratio, frequent gambling
+- Their treasury is globally decreasing
+- Presents frequent overdraft and significant amount of overdraft fees
+- Presence of payment incidents with significant amount
+- Has 2 consumer loans
+
+### [Harley Quinn](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harley_quinn.json)
+
+**Language**: French 🇫🇷
+
+**Description**:
+
+Good profile (Credit Score ~900/1000)
+
+- Secondary account synchronized
+
+### [Ron Weasley](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/ron_weasley.json)
+
+**Language**: French 🇫🇷
+
+**Description**:
+
+Good profile (Credit Score ~900/1000)
+
+- Couple with similar wages in the same company
+- Has a mortgage and a consumer loan
+- Insurances, telecom and power are debited on the account
+
+### [Hermione Granger](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/hermione_granger.json)
+
+**Language**: French 🇫🇷
+
+**Description**:
+
+Good profile (Credit Score ~900/1000)
+
+- Earns ~2000€/month
+- Pays a rent of ~600€/month
+- Has a consumer loan and a split payment
+- Has neither payment incidents nor fees
+- Has light overdraft end of month
+- Has a stable treasury
+- Has standard expenses: power, telecom, transport, multimedia, gym
+- Has some savings
+- Has a deferred debit card
+
+### [Sherlock Holmes](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/sherlock_holmes.json)
+
+**Language**: French 🇫🇷
+
+**Description**:
+
+Good profile (Credit Score ~900/1000)
+
+- Their earnings come from self-employment
+- Has a rent
+- Has direct debits such as power, telecom, insurance
+
+### [Padme Amidala](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/padme_amidala.json)
+
+**Language**: French 🇫🇷
+
+**Description**:
+
+Good profile (Credit Score ~900/1000)
+
+- Is retired
+- Has a reversionary pension
+- Has a mortgage
+- Has rental income
+- Has insurances, power and telecom transactions
+
+### [Luke Skywalker](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/luke_skywalker.json)
+
+**Language**: French 🇫🇷
+
+**Description**:
+
+Fair profile (Credit Score ~500/1000)
+
+- Student
+- Receives regular transfers
+- Receives allowances
+- Has a rent
+- Has a state subsidy
+- Has a student loan
+- Has overdraft periods
+
+### [Leia Skywalker](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/leia_skywalker.json)
+
+**Language**: French 🇫🇷
+
+**Description**:
+
+Good profile (Credit Score ~900/1000)
+
+- Earns ~1300€/month
+- Has a rent of ~400€/month
+- Repays a consumer loan
+- Has allowances
+- Has neither incidents nor fees
+- Has light overdraft at end of month
+- Has standard expenses: power, telecom, transport, multimedia, gym
+- Has savings
