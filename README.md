@@ -11,9 +11,14 @@ This repository shares different open banking data samples in order to test easi
 ## Personae
 
 A JSON file represents what we call a "Personae": a profile with relevant credit risk indicators.
-### [Harry Potter](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harry_potter.json)
+### Harry Potter
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harry_potter.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/harry_potter.json) |
 
 **Description**:
 
@@ -27,9 +32,14 @@ Risky profile (Credit Score ~150-200/1000)
 - Has 1 payment rejection on a credit and on a subscription
 - Falling cash flows
 
-### [Lara Croft](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/lara_croft.json)
+### Lara Croft
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/lara_croft.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/lara_croft.json) |
 
 **Description**:
 
@@ -42,9 +52,14 @@ Good profile (Credit Score ~900/1000)
 - Has no incident or fees
 - Stable cash flows
 
-### [Archibald Haddock](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/archibald_haddock.json)
+### Archibald Haddock
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/archibald_haddock.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/archibald_haddock.json) |
 
 **Description**:
 
@@ -57,9 +72,14 @@ Risky profile (Credit Score <100/1000)
 - Presence of payment incidents with significant amount
 - Has 2 consumer loans
 
-### [Harley Quinn](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harley_quinn.json)
+### Harley Quinn
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harley_quinn.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/harley_quinn.json) |
 
 **Description**:
 
@@ -67,9 +87,14 @@ Good profile (Credit Score ~900/1000)
 
 - Secondary account synchronized
 
-### [Ron Weasley](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/ron_weasley.json)
+### Ron Weasley
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/ron_weasley.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/ron_weasley.json) |
 
 **Description**:
 
@@ -79,9 +104,14 @@ Good profile (Credit Score ~900/1000)
 - Has a mortgage and a consumer loan
 - Insurances, telecom and power are debited on the account
 
-### [Hermione Granger](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/hermione_granger.json)
+### Hermione Granger
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/hermione_granger.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/hermione_granger.json) |
 
 **Description**:
 
@@ -97,9 +127,14 @@ Good profile (Credit Score ~900/1000)
 - Has some savings
 - Has a deferred debit card
 
-### [Sherlock Holmes](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/sherlock_holmes.json)
+### Sherlock Holmes
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/sherlock_holmes.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/sherlock_holmes.json) |
 
 **Description**:
 
@@ -109,9 +144,14 @@ Good profile (Credit Score ~900/1000)
 - Has a rent
 - Has direct debits such as power, telecom, insurance
 
-### [Padme Amidala](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/padme_amidala.json)
+### Padme Amidala
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/padme_amidala.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/padme_amidala.json) |
 
 **Description**:
 
@@ -123,9 +163,14 @@ Good profile (Credit Score ~900/1000)
 - Has rental income
 - Has insurances, power and telecom transactions
 
-### [Luke Skywalker](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/luke_skywalker.json)
+### Luke Skywalker
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/luke_skywalker.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/luke_skywalker.json) |
 
 **Description**:
 
@@ -139,9 +184,14 @@ Fair profile (Credit Score ~500/1000)
 - Has a student loan
 - Has overdraft periods
 
-### [Leia Skywalker](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/leia_skywalker.json)
+### Leia Skywalker
 
 **Language**: French 🇫🇷
+
+| Format         | Link                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------|
+| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/leia_skywalker.json)             |
+| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/leia_skywalker.json) |
 
 **Description**:
 
