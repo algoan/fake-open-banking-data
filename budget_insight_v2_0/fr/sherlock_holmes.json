@@ -1,0 +1,445 @@
+{
+  "format": "BUDGET_INSIGHT_V2_0",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "date": "2022-01-21T23:00:00.000Z",
+              "rdate": "2022-01-21T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 527.78,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 521
+            },
+            {
+              "date": "2022-01-21T23:00:00.000Z",
+              "rdate": "2022-01-21T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -534.07,
+              "original_wording": "PRELEVEMENT VOLKSWAGEN BANK GESELLSCHAFT MIT R000000/0000000 0.00",
+              "id": 521
+            },
+            {
+              "date": "2022-01-21T23:00:00.000Z",
+              "rdate": "2022-01-21T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -129.35,
+              "original_wording": "PRLV SEPA MAIF MDT/000000000000",
+              "id": 361
+            },
+            {
+              "date": "2022-01-22T23:00:00.000Z",
+              "rdate": "2022-01-22T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -117.22,
+              "original_wording": "CARTE X4673 00/00 AUCHAN",
+              "id": 344
+            },
+            {
+              "date": "2022-01-24T23:00:00.000Z",
+              "rdate": "2022-01-24T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -18.92,
+              "original_wording": "CARTE X4673 00/00 UberEats COMMERCE ELECTRONIQUE",
+              "id": 242
+            },
+            {
+              "date": "2022-02-01T23:00:00.000Z",
+              "rdate": "2022-02-01T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 357.89,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 132
+            },
+            {
+              "date": "2022-02-02T23:00:00.000Z",
+              "rdate": "2022-02-02T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -30,
+              "original_wording": "VIR SEPA CADEAU JEAN DUPONT",
+              "id": 161
+            },
+            {
+              "date": "2022-02-03T23:00:00.000Z",
+              "rdate": "2022-02-03T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -50,
+              "original_wording": "CARTE X4673 RETRAIT DAB 00/00 20H25 RETRAIT DAB 00-00-00000-0000000000",
+              "id": 493
+            },
+            {
+              "date": "2022-02-05T23:00:00.000Z",
+              "rdate": "2022-02-05T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 38,
+              "original_wording": "VIR SEPA DE MAXIME VERT REMBOURSEMENT VACANCES",
+              "id": 662
+            },
+            {
+              "date": "2022-02-11T23:00:00.000Z",
+              "rdate": "2022-02-11T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 723.9,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 420
+            },
+            {
+              "date": "2022-02-11T23:00:00.000Z",
+              "rdate": "2022-02-11T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -118.33,
+              "original_wording": "CARTE X4673 00/00 AUCHAN",
+              "id": 211
+            },
+            {
+              "date": "2022-02-13T23:00:00.000Z",
+              "rdate": "2022-02-13T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -653.22,
+              "original_wording": "VIR SEPA AGENCE ABCD LOYER",
+              "id": 448
+            },
+            {
+              "date": "2022-02-15T23:00:00.000Z",
+              "rdate": "2022-02-15T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.12,
+              "original_wording": "CARTE X4673 00/00 AUCHAN",
+              "id": 14
+            },
+            {
+              "date": "2022-02-18T23:00:00.000Z",
+              "rdate": "2022-02-18T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -19.99,
+              "original_wording": "PRELEVEMENT DE FREE TELECOM REF : FHD 111111111 Free HautDebit 111111111",
+              "id": 73
+            },
+            {
+              "date": "2022-02-18T23:00:00.000Z",
+              "rdate": "2022-02-18T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.99,
+              "original_wording": "PRELEVEMENT SFR SFR mobile Prlvt SEPA 11-1X1XXX-11 111111111111",
+              "id": 106
+            },
+            {
+              "date": "2022-02-18T23:00:00.000Z",
+              "rdate": "2022-02-18T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -52.77,
+              "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTIculiers REF : X111111111111 11111",
+              "id": 199
+            },
+            {
+              "date": "2022-02-19T23:00:00.000Z",
+              "rdate": "2022-02-19T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.99,
+              "original_wording": "Cb Netflix.com Fact 000000",
+              "id": 27
+            },
+            {
+              "date": "2022-02-19T23:00:00.000Z",
+              "rdate": "2022-02-19T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 627.32,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 470
+            },
+            {
+              "date": "2022-02-20T23:00:00.000Z",
+              "rdate": "2022-02-20T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -129.35,
+              "original_wording": "PRLV SEPA MAIF MDT/000000000000",
+              "id": 764
+            },
+            {
+              "date": "2022-02-21T23:00:00.000Z",
+              "rdate": "2022-02-21T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -534.07,
+              "original_wording": "PRELEVEMENT VOLKSWAGEN BANK GESELLSCHAFT MIT R000000/0000000 0.00",
+              "id": 659
+            },
+            {
+              "date": "2022-02-24T23:00:00.000Z",
+              "rdate": "2022-02-24T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -77.2,
+              "original_wording": "CARTE X4673 00/00 AUCHAN",
+              "id": 280
+            },
+            {
+              "date": "2022-02-28T23:00:00.000Z",
+              "rdate": "2022-02-28T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 150,
+              "original_wording": "VIR SEPA PIERRE CORNE ANNIVERSAIRE",
+              "id": 439
+            },
+            {
+              "date": "2022-03-05T23:00:00.000Z",
+              "rdate": "2022-03-05T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -49.99,
+              "original_wording": "Paiement Par Carte Fnac 00/00",
+              "id": 871
+            },
+            {
+              "date": "2022-03-08T23:00:00.000Z",
+              "rdate": "2022-03-08T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 812.28,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 922
+            },
+            {
+              "date": "2022-03-09T23:00:00.000Z",
+              "rdate": "2022-03-09T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -26.44,
+              "original_wording": "CARTE X4673 29/04 AMAZON FR COMMERCE ELECTRONIQUE",
+              "id": 11
+            },
+            {
+              "date": "2022-03-10T23:00:00.000Z",
+              "rdate": "2022-03-10T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -125,
+              "original_wording": "Sncf Internet",
+              "id": 144
+            },
+            {
+              "date": "2022-03-10T23:00:00.000Z",
+              "rdate": "2022-03-10T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -237.39,
+              "original_wording": "CARTE 00/00 AIRBNB * XXXXXXX 000-000-0000",
+              "id": 36
+            },
+            {
+              "date": "2022-03-13T23:00:00.000Z",
+              "rdate": "2022-03-13T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -103.56,
+              "original_wording": "CARTE X4673 00/00 AUCHAN",
+              "id": 623
+            },
+            {
+              "date": "2022-03-16T23:00:00.000Z",
+              "rdate": "2022-03-16T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 142,
+              "original_wording": "VIR SEPA PAUL DUPONT REMBOURSEMENT BNB",
+              "id": 607
+            },
+            {
+              "date": "2022-03-17T23:00:00.000Z",
+              "rdate": "2022-03-17T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -653.22,
+              "original_wording": "VIR SEPA AGENCE ABCD LOYER",
+              "id": 568
+            },
+            {
+              "date": "2022-03-18T23:00:00.000Z",
+              "rdate": "2022-03-18T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 500,
+              "original_wording": "VIR DE SHERLOCK HOLMES LIVRET A",
+              "id": 435
+            },
+            {
+              "date": "2022-03-22T23:00:00.000Z",
+              "rdate": "2022-03-22T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -19.99,
+              "original_wording": "PRELEVEMENT DE FREE TELECOM REF : FHD 111111111 Free HautDebit 111111111",
+              "id": 318
+            },
+            {
+              "date": "2022-03-22T23:00:00.000Z",
+              "rdate": "2022-03-22T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.99,
+              "original_wording": "PRELEVEMENT SFR SFR mobile Prlvt SEPA 11-1X1XXX-11 111111111111",
+              "id": 959
+            },
+            {
+              "date": "2022-03-22T23:00:00.000Z",
+              "rdate": "2022-03-22T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -52.77,
+              "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTIculiers REF : X111111111111 11111",
+              "id": 339
+            },
+            {
+              "date": "2022-03-22T23:00:00.000Z",
+              "rdate": "2022-03-22T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 425.89,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 842
+            },
+            {
+              "date": "2022-03-22T23:00:00.000Z",
+              "rdate": "2022-03-22T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.99,
+              "original_wording": "Cb Netflix.com Fact 000000",
+              "id": 675
+            },
+            {
+              "date": "2022-03-23T23:00:00.000Z",
+              "rdate": "2022-03-23T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -129.35,
+              "original_wording": "PRLV SEPA MAIF MDT/000000000000",
+              "id": 867
+            },
+            {
+              "date": "2022-03-23T23:00:00.000Z",
+              "rdate": "2022-03-23T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -534.07,
+              "original_wording": "PRELEVEMENT VOLKSWAGEN BANK GESELLSCHAFT MIT R000000/0000000 0.00",
+              "id": 868
+            },
+            {
+              "date": "2022-03-24T23:00:00.000Z",
+              "rdate": "2022-03-24T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -84.12,
+              "original_wording": "CARTE X4673 00/00 AUCHAN",
+              "id": 366
+            },
+            {
+              "date": "2022-03-27T23:00:00.000Z",
+              "rdate": "2022-03-27T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 255.3,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 692
+            },
+            {
+              "date": "2022-03-31T23:00:00.000Z",
+              "rdate": "2022-03-31T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -49.52,
+              "original_wording": "CARTE X4673 00/00 AUCHAN",
+              "id": 699
+            },
+            {
+              "date": "2022-04-01T23:00:00.000Z",
+              "rdate": "2022-04-01T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -12.99,
+              "original_wording": "CARTE X4673 00/00 PICARD",
+              "id": 943
+            },
+            {
+              "date": "2022-04-04T23:00:00.000Z",
+              "rdate": "2022-04-04T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 849.58,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 974
+            },
+            {
+              "date": "2022-04-10T23:00:00.000Z",
+              "rdate": "2022-04-10T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -79.88,
+              "original_wording": "CARTE X4673 00/00 AUCHAN",
+              "id": 571
+            },
+            {
+              "date": "2022-04-14T23:00:00.000Z",
+              "rdate": "2022-04-14T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -100,
+              "original_wording": "VIR DE SHERLOCK HOLMES LIVRET A",
+              "id": 174
+            },
+            {
+              "date": "2022-04-16T23:00:00.000Z",
+              "rdate": "2022-04-16T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -653.22,
+              "original_wording": "VIR SEPA AGENCE ABCD LOYER",
+              "id": 157
+            },
+            {
+              "date": "2022-04-17T23:00:00.000Z",
+              "rdate": "2022-04-17T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -19.99,
+              "original_wording": "PRELEVEMENT DE FREE TELECOM REF : FHD 111111111 Free HautDebit 111111111",
+              "id": 553
+            },
+            {
+              "date": "2022-04-17T23:00:00.000Z",
+              "rdate": "2022-04-17T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.99,
+              "original_wording": "PRELEVEMENT SFR SFR mobile Prlvt SEPA 11-1X1XXX-11 111111111111",
+              "id": 479
+            },
+            {
+              "date": "2022-04-17T23:00:00.000Z",
+              "rdate": "2022-04-17T23:00:00.000Z",
+              "currency": "EUR",
+              "value": -52.77,
+              "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTIculiers REF : X111111111111 11111",
+              "id": 724
+            },
+            {
+              "date": "2022-04-18T23:00:00.000Z",
+              "rdate": "2022-04-18T23:00:00.000Z",
+              "currency": "EUR",
+              "value": 1276.39,
+              "original_wording": "STICHTING CUSTODIAN UBER PAYMENTS POP SVCS, DOB",
+              "id": 672
+            },
+            {
+              "date": "2022-04-19T22:00:00.000Z",
+              "rdate": "2022-04-19T22:00:00.000Z",
+              "currency": "EUR",
+              "value": -129.35,
+              "original_wording": "PRLV SEPA MAIF MDT/000000000000",
+              "id": 670
+            },
+            {
+              "date": "2022-04-19T22:00:00.000Z",
+              "rdate": "2022-04-19T22:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.99,
+              "original_wording": "Cb Netflix.com Fact 000000",
+              "id": 737
+            },
+            {
+              "date": "2022-04-19T22:00:00.000Z",
+              "rdate": "2022-04-19T22:00:00.000Z",
+              "currency": "EUR",
+              "value": -400,
+              "original_wording": "VIR DE SHERLOCK HOLMES LIVRET A",
+              "id": 43
+            }
+          ],
+          "balance": 1092.33,
+          "last_update": "2022-04-20T22:00:00.000Z",
+          "currency": {
+            "id": "EUR"
+          },
+          "type": "checking",
+          "usage": "PRIV",
+          "id": 664
+        }
+      ]
+    }
+  ]
+}
