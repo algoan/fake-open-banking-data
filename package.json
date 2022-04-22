@@ -4,6 +4,7 @@
   "description": "A little script updating json files",
   "main": "scripts/index.js",
   "scripts": {
+    "convert": "ts-node scripts/converter.ts",
     "format": "prettier --write scripts/*",
     "start": "ts-node scripts/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
