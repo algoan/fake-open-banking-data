@@ -17,6 +17,7 @@ jobs:
           node-version: '16'
       - run: npm i
       - run: npm start
+      - run: npm run convert
       - uses: EndBug/add-and-commit@v9
         with:
           add: '*.json'
