@@ -19,7 +19,7 @@ jobs:
       - run: npm start
       - uses: EndBug/add-and-commit@v9
         with:
-          add: 'samples'
+          add: '*.json'
           push: true
           message: 'chore: 🤖 Automatically refreshed data samples'
 
