@@ -28,7 +28,8 @@ export interface TransactionsEntity {
 }
 
 export interface Dates {
-  debitedAt: string;
+  debitedAt?: string;
+  bookedAt?: string;
 }
 
 export interface FileEntity {
