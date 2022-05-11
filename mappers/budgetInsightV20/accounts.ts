@@ -22,7 +22,7 @@ export const algoanTransactions = (): any => {
   return (transaction: any) => {
     return {
       date: transaction.dates.debitedAt,
-      rdate: transaction.dates.debitedAt,
+      rdate: transaction.dates.bookedAt ?? transaction.dates.debitedAt,
       currency: transaction.currency,
       value: transaction.amount,
       original_wording: transaction.description,
