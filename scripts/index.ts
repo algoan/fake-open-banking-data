@@ -9,11 +9,11 @@ import { AccountsEntity, FileEntity, Sample, TransactionsEntity } from '../types
  * @param transaction Transaction entity
  * @param nbOfDayToAdd Number of day to add
  */
-function mapTransactions(nbOfDayToAdd: number) {
+function mapTransactions(nbOfDayToAdd: number, accountType: string) {
   return (transaction: TransactionsEntity) => ({
     ...transaction,
     dates: {
-      debitedAt: dayjs(transaction.dates.debitedAt).add(nbOfDayToAdd, 'day').toISOString(),
+      [accountType === 'CREDIT_CARD' ? 'bookedAt' : 'debitedAt']: dayjs(transaction.dates.debitedAt).add(nbOfDayToAdd, 'day').toISOString(),
     },
   });
 }
@@ -27,7 +27,7 @@ function mapAccount(nbOfDayToAdd: number) {
   return (account: AccountsEntity) => ({
     ...account,
     balanceDate: dayjs(account.balanceDate).add(nbOfDayToAdd, 'day').toISOString(),
-    transactions: account.transactions.map(mapTransactions(nbOfDayToAdd)),
+    transactions: account.transactions.map(mapTransactions(nbOfDayToAdd, account.type)),
   });
 }
 
