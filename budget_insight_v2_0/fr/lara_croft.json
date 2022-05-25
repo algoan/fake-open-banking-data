@@ -6,212 +6,204 @@
         {
           "transactions": [
             {
-              "date": "2022-02-26T05:00:00.000Z",
-              "rdate": "2022-02-26T05:00:00.000Z",
+              "date": "2022-02-27T05:00:00.000Z",
+              "rdate": "2022-02-27T05:00:00.000Z",
               "currency": "EUR",
               "value": -101.74,
               "original_wording": "PRELEVEMENT CRCAM CENTRE LOIRE 0224392 COTISATION D'ASSURANCE PACIFICA DU CONTRAT AUTOMOBILE 4 ROUES 302023131",
-              "id": 163
-            },
-            {
-              "date": "2022-02-26T05:00:00.000Z",
-              "rdate": "2022-02-26T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -50.12,
-              "original_wording": "PRELVT SEPA RECU D/O CONFRERE PRLV SEPA COFIDIS ICS.FR28ZZZ12211.RUM.80152131E12A SDR102112127",
-              "id": 513
-            },
-            {
-              "date": "2022-02-26T05:00:00.000Z",
-              "rdate": "2022-02-26T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -78.89,
-              "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
-              "id": 622
+              "id": 359
             },
             {
               "date": "2022-02-27T05:00:00.000Z",
               "rdate": "2022-02-27T05:00:00.000Z",
               "currency": "EUR",
+              "value": -50.12,
+              "original_wording": "PRELVT SEPA RECU D/O CONFRERE PRLV SEPA COFIDIS ICS.FR28ZZZ12211.RUM.80152131E12A SDR102112127",
+              "id": 406
+            },
+            {
+              "date": "2022-02-27T05:00:00.000Z",
+              "rdate": "2022-02-27T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -78.89,
+              "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
+              "id": 733
+            },
+            {
+              "date": "2022-02-28T05:00:00.000Z",
+              "rdate": "2022-02-28T05:00:00.000Z",
+              "currency": "EUR",
               "value": -989.34,
               "original_wording": "Cb 4978******304034 Tot Dif",
-              "id": 248
-            },
-            {
-              "date": "2022-02-28T05:00:00.000Z",
-              "rdate": "2022-02-28T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -17,
-              "original_wording": "PRELEVEMENT COFIDIS COF GEC-01 PLV ECHEANCE",
-              "id": 791
-            },
-            {
-              "date": "2022-02-28T05:00:00.000Z",
-              "rdate": "2022-02-28T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -522.31,
-              "original_wording": "PRET IMMOBILIER ECH",
-              "id": 248
-            },
-            {
-              "date": "2022-02-28T05:00:00.000Z",
-              "rdate": "2022-02-28T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -17.8,
-              "original_wording": "REGLEMENT ASSU. CNP PRET HABITAT",
-              "id": 712
+              "id": 151
             },
             {
               "date": "2022-03-01T05:00:00.000Z",
               "rdate": "2022-03-01T05:00:00.000Z",
               "currency": "EUR",
-              "value": -13,
-              "original_wording": "Cotisation Compte A Composer (rem = 20%)",
-              "id": 199
-            },
-            {
-              "date": "2022-03-05T05:00:00.000Z",
-              "rdate": "2022-03-05T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -20,
-              "original_wording": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-              "id": 662
-            },
-            {
-              "date": "2022-03-10T05:00:00.000Z",
-              "rdate": "2022-03-10T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -122.45,
-              "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
-              "id": 907
-            },
-            {
-              "date": "2022-03-15T05:00:00.000Z",
-              "rdate": "2022-03-15T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -120,
-              "original_wording": "CARTE X2517 A 06H23 RETRAIT DAB LA BANQUE POSTALE",
-              "id": 219
-            },
-            {
-              "date": "2022-03-15T05:00:00.000Z",
-              "rdate": "2022-03-15T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -15.99,
-              "original_wording": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx685",
-              "id": 833
-            },
-            {
-              "date": "2022-03-22T05:00:00.000Z",
-              "rdate": "2022-03-22T05:00:00.000Z",
-              "currency": "EUR",
-              "value": 2581.45,
-              "original_wording": "VIR SEPA RECU /DE NEFAB /MOTIF VIREMENT NEFAB SAS /REF NEFABSAS-0000-082020092555-21",
-              "id": 495
-            },
-            {
-              "date": "2022-03-25T05:00:00.000Z",
-              "rdate": "2022-03-25T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -102.32,
-              "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 114",
-              "id": 22
-            },
-            {
-              "date": "2022-03-25T05:00:00.000Z",
-              "rdate": "2022-03-25T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -35.97,
-              "original_wording": "PRLV SEPA BASIC FIT II SA ECH/ID EMETTEUR/FR10ZZ3122 MDT/737001831 REF/NO737001831-106 LIB",
-              "id": 823
-            },
-            {
-              "date": "2022-03-28T05:00:00.000Z",
-              "rdate": "2022-03-28T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -101.74,
-              "original_wording": "PRELEVEMENT CRCAM CENTRE LOIRE 0224392 COTISATION D'ASSURANCE PACIFICA DU CONTRAT AUTOMOBILE 4 ROUES 302023132",
+              "value": -17,
+              "original_wording": "PRELEVEMENT COFIDIS COF GEC-01 PLV ECHEANCE",
               "id": 183
             },
             {
-              "date": "2022-03-28T05:00:00.000Z",
-              "rdate": "2022-03-28T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -50.12,
-              "original_wording": "PRELVT SEPA RECU D/O CONFRERE PRLV SEPA COFIDIS ICS.FR28ZZZ12211.RUM.80152131E12A SDR102112128",
-              "id": 660
-            },
-            {
-              "date": "2022-03-28T05:00:00.000Z",
-              "rdate": "2022-03-28T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -78.89,
-              "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
-              "id": 767
-            },
-            {
-              "date": "2022-03-30T05:00:00.000Z",
-              "rdate": "2022-03-30T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -1233.21,
-              "original_wording": "Cb 4978******304034 Tot Dif",
-              "id": 894
-            },
-            {
-              "date": "2022-04-01T05:00:00.000Z",
-              "rdate": "2022-04-01T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -17.8,
-              "original_wording": "REGLEMENT ASSU. CNP PRET HABITAT",
-              "id": 187
-            },
-            {
-              "date": "2022-04-01T05:00:00.000Z",
-              "rdate": "2022-04-01T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -13,
-              "original_wording": "Cotisation Compte A Composer (rem = 20%)",
-              "id": 749
-            },
-            {
-              "date": "2022-04-01T05:00:00.000Z",
-              "rdate": "2022-04-01T05:00:00.000Z",
+              "date": "2022-03-01T05:00:00.000Z",
+              "rdate": "2022-03-01T05:00:00.000Z",
               "currency": "EUR",
               "value": -522.31,
               "original_wording": "PRET IMMOBILIER ECH",
-              "id": 126
+              "id": 566
+            },
+            {
+              "date": "2022-03-01T05:00:00.000Z",
+              "rdate": "2022-03-01T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -17.8,
+              "original_wording": "REGLEMENT ASSU. CNP PRET HABITAT",
+              "id": 603
+            },
+            {
+              "date": "2022-03-02T05:00:00.000Z",
+              "rdate": "2022-03-02T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -13,
+              "original_wording": "Cotisation Compte A Composer (rem = 20%)",
+              "id": 81
+            },
+            {
+              "date": "2022-03-06T05:00:00.000Z",
+              "rdate": "2022-03-06T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -20,
+              "original_wording": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
+              "id": 116
+            },
+            {
+              "date": "2022-03-11T05:00:00.000Z",
+              "rdate": "2022-03-11T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -122.45,
+              "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
+              "id": 414
+            },
+            {
+              "date": "2022-03-16T05:00:00.000Z",
+              "rdate": "2022-03-16T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -120,
+              "original_wording": "CARTE X2517 A 06H23 RETRAIT DAB LA BANQUE POSTALE",
+              "id": 466
+            },
+            {
+              "date": "2022-03-16T05:00:00.000Z",
+              "rdate": "2022-03-16T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.99,
+              "original_wording": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx685",
+              "id": 527
+            },
+            {
+              "date": "2022-03-23T05:00:00.000Z",
+              "rdate": "2022-03-23T05:00:00.000Z",
+              "currency": "EUR",
+              "value": 2581.45,
+              "original_wording": "VIR SEPA RECU /DE NEFAB /MOTIF VIREMENT NEFAB SAS /REF NEFABSAS-0000-082020092555-21",
+              "id": 316
+            },
+            {
+              "date": "2022-03-26T05:00:00.000Z",
+              "rdate": "2022-03-26T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -102.32,
+              "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 114",
+              "id": 265
+            },
+            {
+              "date": "2022-03-26T05:00:00.000Z",
+              "rdate": "2022-03-26T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -35.97,
+              "original_wording": "PRLV SEPA BASIC FIT II SA ECH/ID EMETTEUR/FR10ZZ3122 MDT/737001831 REF/NO737001831-106 LIB",
+              "id": 315
+            },
+            {
+              "date": "2022-03-29T05:00:00.000Z",
+              "rdate": "2022-03-29T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -101.74,
+              "original_wording": "PRELEVEMENT CRCAM CENTRE LOIRE 0224392 COTISATION D'ASSURANCE PACIFICA DU CONTRAT AUTOMOBILE 4 ROUES 302023132",
+              "id": 778
+            },
+            {
+              "date": "2022-03-29T05:00:00.000Z",
+              "rdate": "2022-03-29T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -50.12,
+              "original_wording": "PRELVT SEPA RECU D/O CONFRERE PRLV SEPA COFIDIS ICS.FR28ZZZ12211.RUM.80152131E12A SDR102112128",
+              "id": 528
+            },
+            {
+              "date": "2022-03-29T05:00:00.000Z",
+              "rdate": "2022-03-29T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -78.89,
+              "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
+              "id": 260
+            },
+            {
+              "date": "2022-03-31T05:00:00.000Z",
+              "rdate": "2022-03-31T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -1233.21,
+              "original_wording": "Cb 4978******304034 Tot Dif",
+              "id": 456
             },
             {
               "date": "2022-04-02T05:00:00.000Z",
               "rdate": "2022-04-02T05:00:00.000Z",
               "currency": "EUR",
-              "value": -19,
-              "original_wording": "PRELEVEMENT COFIDIS COF GEC-01 PLV ECHEANCE",
-              "id": 952
+              "value": -17.8,
+              "original_wording": "REGLEMENT ASSU. CNP PRET HABITAT",
+              "id": 944
             },
             {
-              "date": "2022-04-05T05:00:00.000Z",
-              "rdate": "2022-04-05T05:00:00.000Z",
+              "date": "2022-04-02T05:00:00.000Z",
+              "rdate": "2022-04-02T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -13,
+              "original_wording": "Cotisation Compte A Composer (rem = 20%)",
+              "id": 231
+            },
+            {
+              "date": "2022-04-02T05:00:00.000Z",
+              "rdate": "2022-04-02T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -522.31,
+              "original_wording": "PRET IMMOBILIER ECH",
+              "id": 311
+            },
+            {
+              "date": "2022-04-03T05:00:00.000Z",
+              "rdate": "2022-04-03T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -19,
+              "original_wording": "PRELEVEMENT COFIDIS COF GEC-01 PLV ECHEANCE",
+              "id": 980
+            },
+            {
+              "date": "2022-04-06T05:00:00.000Z",
+              "rdate": "2022-04-06T05:00:00.000Z",
               "currency": "EUR",
               "value": -126.99,
               "original_wording": "CARTE X2517 3-4X CB ONEY. COMMERCE ELECTRONIQUE",
-              "id": 157
+              "id": 805
             },
             {
-              "date": "2022-04-05T05:00:00.000Z",
-              "rdate": "2022-04-05T05:00:00.000Z",
+              "date": "2022-04-06T05:00:00.000Z",
+              "rdate": "2022-04-06T05:00:00.000Z",
               "currency": "EUR",
               "value": -20,
               "original_wording": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-              "id": 26
-            },
-            {
-              "date": "2022-04-07T05:00:00.000Z",
-              "rdate": "2022-04-07T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -122.45,
-              "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
-              "id": 799
+              "id": 196
             },
             {
               "date": "2022-04-08T05:00:00.000Z",
@@ -219,201 +211,209 @@
               "currency": "EUR",
               "value": -122.45,
               "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
-              "id": 647
+              "id": 902
             },
             {
-              "date": "2022-04-14T05:00:00.000Z",
-              "rdate": "2022-04-14T05:00:00.000Z",
+              "date": "2022-04-09T05:00:00.000Z",
+              "rdate": "2022-04-09T05:00:00.000Z",
               "currency": "EUR",
-              "value": -72.1,
-              "original_wording": "ACHAT CB CARREFOUR DAC CARTE NUMERO 360",
-              "id": 808
+              "value": -122.45,
+              "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
+              "id": 468
             },
             {
               "date": "2022-04-15T05:00:00.000Z",
               "rdate": "2022-04-15T05:00:00.000Z",
               "currency": "EUR",
+              "value": -72.1,
+              "original_wording": "ACHAT CB CARREFOUR DAC CARTE NUMERO 360",
+              "id": 91
+            },
+            {
+              "date": "2022-04-16T05:00:00.000Z",
+              "rdate": "2022-04-16T05:00:00.000Z",
+              "currency": "EUR",
               "value": -100,
               "original_wording": "CARTE X2517 A 8H55 RETRAIT DAB LA BANQUE POSTALE",
-              "id": 573
-            },
-            {
-              "date": "2022-04-16T05:00:00.000Z",
-              "rdate": "2022-04-16T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -78.9,
-              "original_wording": "ACHAT CB CARREFOUR DAC CARTE NUMERO 360",
-              "id": 166
-            },
-            {
-              "date": "2022-04-16T05:00:00.000Z",
-              "rdate": "2022-04-16T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -15.99,
-              "original_wording": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx686",
-              "id": 523
+              "id": 639
             },
             {
               "date": "2022-04-17T05:00:00.000Z",
               "rdate": "2022-04-17T05:00:00.000Z",
               "currency": "EUR",
-              "value": -12,
+              "value": -78.9,
               "original_wording": "ACHAT CB CARREFOUR DAC CARTE NUMERO 360",
-              "id": 963
+              "id": 820
             },
             {
-              "date": "2022-04-23T05:00:00.000Z",
-              "rdate": "2022-04-23T05:00:00.000Z",
+              "date": "2022-04-17T05:00:00.000Z",
+              "rdate": "2022-04-17T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.99,
+              "original_wording": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx686",
+              "id": 378
+            },
+            {
+              "date": "2022-04-18T05:00:00.000Z",
+              "rdate": "2022-04-18T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -12,
+              "original_wording": "ACHAT CB CARREFOUR DAC CARTE NUMERO 360",
+              "id": 481
+            },
+            {
+              "date": "2022-04-24T05:00:00.000Z",
+              "rdate": "2022-04-24T05:00:00.000Z",
               "currency": "EUR",
               "value": 2581.45,
               "original_wording": "VIR SEPA RECU /DE NEFAB /MOTIF VIREMENT NEFAB SAS /REF NEFABSAS-0000-082020092555-21",
-              "id": 703
+              "id": 236
             },
             {
-              "date": "2022-04-25T05:00:00.000Z",
-              "rdate": "2022-04-25T05:00:00.000Z",
+              "date": "2022-04-26T05:00:00.000Z",
+              "rdate": "2022-04-26T05:00:00.000Z",
               "currency": "EUR",
               "value": -102.32,
               "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 115",
-              "id": 701
+              "id": 804
             },
             {
-              "date": "2022-04-25T05:00:00.000Z",
-              "rdate": "2022-04-25T05:00:00.000Z",
+              "date": "2022-04-26T05:00:00.000Z",
+              "rdate": "2022-04-26T05:00:00.000Z",
               "currency": "EUR",
               "value": -35.97,
               "original_wording": "PRLV SEPA BASIC FIT II SA ECH/ID EMETTEUR/FR10ZZ3122 MDT/737001831 REF/NO737001831-106 LIB",
-              "id": 93
+              "id": 896
             },
             {
-              "date": "2022-04-27T05:00:00.000Z",
-              "rdate": "2022-04-27T05:00:00.000Z",
+              "date": "2022-04-28T05:00:00.000Z",
+              "rdate": "2022-04-28T05:00:00.000Z",
               "currency": "EUR",
               "value": -42,
               "original_wording": "PRELEVEMENT COFIDIS COF GEC-01 PLV ECHEANCE",
-              "id": 85
-            },
-            {
-              "date": "2022-04-29T05:00:00.000Z",
-              "rdate": "2022-04-29T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -101.74,
-              "original_wording": "PRELEVEMENT CRCAM CENTRE LOIRE 0224392 COTISATION D'ASSURANCE PACIFICA DU CONTRAT AUTOMOBILE 4 ROUES 302023133",
-              "id": 269
-            },
-            {
-              "date": "2022-04-29T05:00:00.000Z",
-              "rdate": "2022-04-29T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -50.12,
-              "original_wording": "PRELVT SEPA RECU D/O CONFRERE PRLV SEPA COFIDIS ICS.FR28ZZZ12211.RUM.80152131E12A SDR102112129",
-              "id": 460
-            },
-            {
-              "date": "2022-04-29T05:00:00.000Z",
-              "rdate": "2022-04-29T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -78.89,
-              "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
-              "id": 222
+              "id": 363
             },
             {
               "date": "2022-04-30T05:00:00.000Z",
               "rdate": "2022-04-30T05:00:00.000Z",
               "currency": "EUR",
+              "value": -101.74,
+              "original_wording": "PRELEVEMENT CRCAM CENTRE LOIRE 0224392 COTISATION D'ASSURANCE PACIFICA DU CONTRAT AUTOMOBILE 4 ROUES 302023133",
+              "id": 673
+            },
+            {
+              "date": "2022-04-30T05:00:00.000Z",
+              "rdate": "2022-04-30T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -50.12,
+              "original_wording": "PRELVT SEPA RECU D/O CONFRERE PRLV SEPA COFIDIS ICS.FR28ZZZ12211.RUM.80152131E12A SDR102112129",
+              "id": 266
+            },
+            {
+              "date": "2022-04-30T05:00:00.000Z",
+              "rdate": "2022-04-30T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -78.89,
+              "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
+              "id": 571
+            },
+            {
+              "date": "2022-05-01T05:00:00.000Z",
+              "rdate": "2022-05-01T05:00:00.000Z",
+              "currency": "EUR",
               "value": -876.34,
               "original_wording": "Cb 4978******304034 Tot Dif",
-              "id": 589
-            },
-            {
-              "date": "2022-05-01T05:00:00.000Z",
-              "rdate": "2022-05-01T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -17.8,
-              "original_wording": "REGLEMENT ASSU. CNP PRET HABITAT",
-              "id": 56
-            },
-            {
-              "date": "2022-05-01T05:00:00.000Z",
-              "rdate": "2022-05-01T05:00:00.000Z",
-              "currency": "EUR",
-              "value": -522.31,
-              "original_wording": "PRET IMMOBILIER ECH",
-              "id": 279
+              "id": 398
             },
             {
               "date": "2022-05-02T05:00:00.000Z",
               "rdate": "2022-05-02T05:00:00.000Z",
               "currency": "EUR",
-              "value": -13,
-              "original_wording": "Cotisation Compte A Composer (rem = 20%)",
-              "id": 614
+              "value": -17.8,
+              "original_wording": "REGLEMENT ASSU. CNP PRET HABITAT",
+              "id": 90
             },
             {
-              "date": "2022-05-06T05:00:00.000Z",
-              "rdate": "2022-05-06T05:00:00.000Z",
+              "date": "2022-05-02T05:00:00.000Z",
+              "rdate": "2022-05-02T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -522.31,
+              "original_wording": "PRET IMMOBILIER ECH",
+              "id": 129
+            },
+            {
+              "date": "2022-05-03T05:00:00.000Z",
+              "rdate": "2022-05-03T05:00:00.000Z",
+              "currency": "EUR",
+              "value": -13,
+              "original_wording": "Cotisation Compte A Composer (rem = 20%)",
+              "id": 79
+            },
+            {
+              "date": "2022-05-07T05:00:00.000Z",
+              "rdate": "2022-05-07T05:00:00.000Z",
               "currency": "EUR",
               "value": -126.99,
               "original_wording": "CARTE X2517 3-4X CB ONEY. COMMERCE ELECTRONIQUE",
-              "id": 78
+              "id": 271
             },
             {
-              "date": "2022-05-06T05:00:00.000Z",
-              "rdate": "2022-05-06T05:00:00.000Z",
+              "date": "2022-05-07T05:00:00.000Z",
+              "rdate": "2022-05-07T05:00:00.000Z",
               "currency": "EUR",
               "value": -20,
               "original_wording": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-              "id": 176
+              "id": 976
             },
             {
-              "date": "2022-05-08T05:00:00.000Z",
-              "rdate": "2022-05-08T05:00:00.000Z",
+              "date": "2022-05-09T05:00:00.000Z",
+              "rdate": "2022-05-09T05:00:00.000Z",
               "currency": "EUR",
               "value": 500,
               "original_wording": "AVANCE LARA CROFT VK02101XUZGR9C01",
-              "id": 528
+              "id": 488
             },
             {
-              "date": "2022-05-15T05:00:00.000Z",
-              "rdate": "2022-05-15T05:00:00.000Z",
+              "date": "2022-05-16T05:00:00.000Z",
+              "rdate": "2022-05-16T05:00:00.000Z",
               "currency": "EUR",
               "value": -15.99,
               "original_wording": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx687",
-              "id": 649
+              "id": 233
             },
             {
-              "date": "2022-05-23T05:00:00.000Z",
-              "rdate": "2022-05-23T05:00:00.000Z",
+              "date": "2022-05-24T05:00:00.000Z",
+              "rdate": "2022-05-24T05:00:00.000Z",
               "currency": "EUR",
               "value": 2081.45,
               "original_wording": "VIR SEPA RECU /DE NEFAB /MOTIF VIREMENT NEFAB SAS /REF NEFABSAS-0000-082020092555-21",
-              "id": 536
+              "id": 600
             },
             {
-              "date": "2022-05-24T05:00:00.000Z",
-              "rdate": "2022-05-24T05:00:00.000Z",
+              "date": "2022-05-25T05:00:00.000Z",
+              "rdate": "2022-05-25T05:00:00.000Z",
               "currency": "EUR",
               "value": -102.32,
               "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 116",
-              "id": 850
+              "id": 610
             },
             {
-              "date": "2022-05-24T05:00:00.000Z",
-              "rdate": "2022-05-24T05:00:00.000Z",
+              "date": "2022-05-25T05:00:00.000Z",
+              "rdate": "2022-05-25T05:00:00.000Z",
               "currency": "EUR",
               "value": -35.97,
               "original_wording": "PRLV SEPA BASIC FIT II SA ECH/ID EMETTEUR/FR10ZZ3122 MDT/737001831 REF/NO737001831-106 LIB",
-              "id": 578
+              "id": 511
             }
           ],
           "balance": 2633.03,
-          "last_update": "2022-05-24T05:00:00.000Z",
+          "last_update": "2022-05-25T05:00:00.000Z",
           "currency": {
             "id": "EUR"
           },
           "type": "checking",
           "usage": "PRIV",
-          "id": 807
+          "id": 677
         }
       ]
     }
