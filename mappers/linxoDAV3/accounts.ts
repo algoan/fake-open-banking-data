@@ -6,7 +6,7 @@ import { makeid } from '../../lib/utils';
 export const algoanAccountsToLinxoAccounts = (): any => {
   return (account: any) => ({
     transactions: account.transactions.map(algoanTransactions()),
-    name: account.name ?? `Compte ${account.type} de ${account.owners?.name ?? 'test'}`,
+    name: account.name ?? `Compte ${account.type} de ${account.owners[0]?.name ?? 'test'}`,
     balances: [
       {
         balance_amount: {

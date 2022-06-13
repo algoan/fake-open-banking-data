@@ -1,0 +1,830 @@
+{
+  "format": "LINXO_CONNECT_DIRECT_ACCOUNT_API_V3",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "259.7"
+              },
+              "booking_date": "2022-03-13T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT"
+              ],
+              "id": "Lpg1gdUlEE1Q3Rn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "201.79"
+              },
+              "booking_date": "2022-03-13T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "9WmMnAoJikQrhwp"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "620"
+              },
+              "booking_date": "2022-03-17T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR DE MME XXXXX"
+              ],
+              "id": "EdSz9kdXzsjv2ii"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-13.93"
+              },
+              "booking_date": "2022-03-17T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "MncOspOuUOuizsG"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-12.32"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB MCD"
+              ],
+              "id": "scnJ1sf4mPMpG5N"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.32"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PRIMARK"
+              ],
+              "id": "bSi9Um6v1umoTZM"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.33"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB LIDL"
+              ],
+              "id": "rY6mPCQXncHcePy"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-32.5"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV NAVIGO PASS"
+              ],
+              "id": "22JARccyADEdDuY"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV FREE HAUT DEBIT"
+              ],
+              "id": "kp1ziyJMIWnnNyZ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.99"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV BASIC FIT"
+              ],
+              "id": "Iky4pvqGCVbIOSO"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.99"
+              },
+              "booking_date": "2022-03-21T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "fVvDCURzvLsZvNP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2022-03-22T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA FREE MOBILE"
+              ],
+              "id": "r71qN6Eui8cTVN3"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-10.65"
+              },
+              "booking_date": "2022-03-23T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX"
+              ],
+              "id": "LB5IrroT2EYKwXN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.24"
+              },
+              "booking_date": "2022-03-23T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PHARMACIE PARIS XX"
+              ],
+              "id": "4JLDobrqFsSkn8H"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-530"
+              },
+              "booking_date": "2022-03-27T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT VERS M. XXXX"
+              ],
+              "id": "Eeq8M9zvGlclvj7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.2"
+              },
+              "booking_date": "2022-03-28T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA EDF CLIENTS PAR MDT XXXX"
+              ],
+              "id": "SNXertDOauxzFmD"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-10.44"
+              },
+              "booking_date": "2022-03-30T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "CB9j2ziNp9U3rME"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.89"
+              },
+              "booking_date": "2022-03-31T23:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB CONTRASTE"
+              ],
+              "id": "wkfuZ2VHyRioIAp"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-14"
+              },
+              "booking_date": "2022-04-01T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "TTTHI3U52wf2Ae4"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-43.46"
+              },
+              "booking_date": "2022-04-02T23:00:00.000Z",
+              "remittance_information": [
+                "ECHEANCE COFIDIS PRET XXXXXXX"
+              ],
+              "id": "lGLv0ZdvaHLnidE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2022-04-02T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE NETFLIX.COM"
+              ],
+              "id": "K9KTal1zgUgJUzo"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20.27"
+              },
+              "booking_date": "2022-04-03T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "8IkBZkyKILh81Lf"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42.17"
+              },
+              "booking_date": "2022-04-03T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "uLP4qwV44Z5mhTL"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.4"
+              },
+              "booking_date": "2022-04-04T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "FiR0UEDMa6DAarW"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30"
+              },
+              "booking_date": "2022-04-11T23:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "xBxx3xndQ0fXt0J"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "259.7"
+              },
+              "booking_date": "2022-04-13T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT"
+              ],
+              "id": "OUgnfafpGRHx266"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "201.79"
+              },
+              "booking_date": "2022-04-13T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "pBhCma8UJeRMpqB"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "620"
+              },
+              "booking_date": "2022-04-15T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR DE MME XXXXX"
+              ],
+              "id": "wsoNF4uqcn2B7jt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-25.93"
+              },
+              "booking_date": "2022-04-15T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "S1bvNdlVbdb6z3E"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.32"
+              },
+              "booking_date": "2022-04-15T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX"
+              ],
+              "id": "9nnYMtEbJ7Qs0KI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16"
+              },
+              "booking_date": "2022-04-16T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "pEE8hf9hGnrlNj7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.99"
+              },
+              "booking_date": "2022-04-16T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX"
+              ],
+              "id": "Tfts7PbXSyMpofI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2022-04-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV FREE HAUT DEBIT"
+              ],
+              "id": "9sZAqoTukyvhjhU"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.99"
+              },
+              "booking_date": "2022-04-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV BASIC FIT"
+              ],
+              "id": "LKQOU6ZV5toukGE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-32.5"
+              },
+              "booking_date": "2022-04-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV PASS NAVIGO"
+              ],
+              "id": "bWvY2wzVXOGPj2z"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2022-04-22T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA FREE MOBILE"
+              ],
+              "id": "Ji8mo4rs9mnGLQk"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30.65"
+              },
+              "booking_date": "2022-04-23T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX"
+              ],
+              "id": "pCGmQYRW4VuV38Q"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.24"
+              },
+              "booking_date": "2022-04-25T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PHARMACIE PARIS XX"
+              ],
+              "id": "TQpEzgra2IOLAF8"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-530"
+              },
+              "booking_date": "2022-04-27T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT VERS M. XXXX"
+              ],
+              "id": "xsH6t4EPuQR2boP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.2"
+              },
+              "booking_date": "2022-04-28T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA EDF CLIENTS PAR MDT XXXX"
+              ],
+              "id": "03fDSF3FqCOUGE5"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-11.46"
+              },
+              "booking_date": "2022-04-30T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "6OVdKrb9iVSW5rn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.89"
+              },
+              "booking_date": "2022-05-01T23:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB LEADER PRICE"
+              ],
+              "id": "FXY1nbgJTVXh0jk"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-21"
+              },
+              "booking_date": "2022-05-02T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "UYowBxPm9Q2FyEO"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-43.46"
+              },
+              "booking_date": "2022-05-03T23:00:00.000Z",
+              "remittance_information": [
+                "ECHEANCE COFIDIS PRET XXXXXXX"
+              ],
+              "id": "aXBMLkWbTnD79cK"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-11.3"
+              },
+              "booking_date": "2022-05-03T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE LIDL"
+              ],
+              "id": "JEaPzBi4ofAck52"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2022-05-03T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE NETFLIX.COM"
+              ],
+              "id": "eORabUx6LFWdPiv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-25.26"
+              },
+              "booking_date": "2022-05-04T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX"
+              ],
+              "id": "SfQaDDmHE6CCgyJ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42.17"
+              },
+              "booking_date": "2022-05-04T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "BgwxmUJT5WQlAWg"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.4"
+              },
+              "booking_date": "2022-05-05T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "ztc64p4QRuVHftK"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20.18"
+              },
+              "booking_date": "2022-05-11T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB LEADER PRICE"
+              ],
+              "id": "zYaY0PlfUA1kBvN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "259.7"
+              },
+              "booking_date": "2022-05-14T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT"
+              ],
+              "id": "jWuP2u5GFWcxzWF"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "201.79"
+              },
+              "booking_date": "2022-05-14T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "KLhSzsto6ugCMyu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "620"
+              },
+              "booking_date": "2022-05-16T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR DE MME XXXXX"
+              ],
+              "id": "oBXqFf20Lt9B6cQ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.83"
+              },
+              "booking_date": "2022-05-16T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB FROG"
+              ],
+              "id": "Q7nUhEG1W0f2ML1"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-21.36"
+              },
+              "booking_date": "2022-05-16T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 21,36 CARTE NO XXX"
+              ],
+              "id": "ImlYfw9L1YRJSdB"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20.56"
+              },
+              "booking_date": "2022-05-17T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "IAnLSI4zRVHHIo6"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2022-05-17T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX"
+              ],
+              "id": "76bxKQ582gogN2i"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2022-05-19T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV FREE HAUT DEBIT"
+              ],
+              "id": "LRZ5ClrBFXtp3xm"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.99"
+              },
+              "booking_date": "2022-05-19T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV BASIC FIT"
+              ],
+              "id": "xuFGGmjwhTLmpXd"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-32.5"
+              },
+              "booking_date": "2022-05-19T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV PASS NAVIGO"
+              ],
+              "id": "qucDsWtjBEGfBr2"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2022-05-23T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA FREE MOBILE"
+              ],
+              "id": "hsWLYrMXbpUdKQD"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-22.65"
+              },
+              "booking_date": "2022-05-24T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "C6rF59QYWYTCnG1"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.24"
+              },
+              "booking_date": "2022-05-26T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB FNAC"
+              ],
+              "id": "DYtKym6JuuLzu7s"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.2"
+              },
+              "booking_date": "2022-05-26T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA EDF CLIENTS PAR MDT XXXX"
+              ],
+              "id": "xyo6WnKw3lvOBdK"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-530"
+              },
+              "booking_date": "2022-05-28T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT VERS M. XXXX"
+              ],
+              "id": "MN6KpZRHLW8SEPI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-49.96"
+              },
+              "booking_date": "2022-05-31T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "THdO4eqE7dL52oC"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20.89"
+              },
+              "booking_date": "2022-06-01T23:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB LEADER PRICE"
+              ],
+              "id": "VQfi30X9r2n4kDE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.3"
+              },
+              "booking_date": "2022-06-02T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 18,3 CARTE NO XXX"
+              ],
+              "id": "g7T77JPlzy4OryP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-43.46"
+              },
+              "booking_date": "2022-06-03T23:00:00.000Z",
+              "remittance_information": [
+                "ECHEANCE COFIDIS PRET XXXXXXX"
+              ],
+              "id": "0uLvihDafNkC0M8"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2022-06-03T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE NETFLIX.COM"
+              ],
+              "id": "oq9TdOIWwpkWnca"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.26"
+              },
+              "booking_date": "2022-06-04T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 19,26 CARTE NO XXX"
+              ],
+              "id": "vhAHygcSvMezEdf"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.17"
+              },
+              "booking_date": "2022-06-04T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "UsG5tDBtQUhlHND"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.4"
+              },
+              "booking_date": "2022-06-09T22:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AUCHAN"
+              ],
+              "id": "ctPZEqe9h5GDSsL"
+            }
+          ],
+          "name": "Compte CHECKING de LUKE SKYWALKER",
+          "balances": [
+            {
+              "balance_amount": {
+                "currency": "EUR",
+                "amount": "-159.9"
+              },
+              "reference_date": "2022-06-09T22:00:00.000Z"
+            }
+          ],
+          "currency": "EUR",
+          "type": "CASH_ACCOUNT",
+          "usage": "PRIVATE",
+          "account_id": "z5qq2y07rLa9SmM"
+        }
+      ]
+    }
+  ]
+}

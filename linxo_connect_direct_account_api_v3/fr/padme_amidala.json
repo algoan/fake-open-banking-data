@@ -1,0 +1,885 @@
+{
+  "format": "LINXO_CONNECT_DIRECT_ACCOUNT_API_V3",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-80"
+              },
+              "booking_date": "2022-03-13T23:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "hXGOK6pzJOtAdla"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "400"
+              },
+              "booking_date": "2022-03-13T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "JEbHTgnMqhQZYmr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "400"
+              },
+              "booking_date": "2022-03-17T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT LOYER PAR MR XXXX"
+              ],
+              "id": "V1hKpaSoifVMB4F"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-45"
+              },
+              "booking_date": "2022-03-17T23:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "GhNiACVgE5XtXJN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-45.93"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE CARREFOUR"
+              ],
+              "id": "RtiFjHXPF1dho9w"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30.32"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 30,32 CARTE NO XXX"
+              ],
+              "id": "Nu1hlA2BYWj0n1J"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-160"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "EGCcMyYaKYYaPQW"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-45.4"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DOBELL XXXX CARTE NUMERO XXX"
+              ],
+              "id": "zF72b4dNNZ7y5pR"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.99"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE Orange REF"
+              ],
+              "id": "wKLwZAoeakWgShs"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-600"
+              },
+              "booking_date": "2022-03-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRET IMMOBILIER ECH XXXXXX"
+              ],
+              "id": "l5PHH8tmfE3ZjRb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60"
+              },
+              "booking_date": "2023-03-19T23:00:00.000Z",
+              "remittance_information": [
+                "Prélèvement de Eca Assurances"
+              ],
+              "id": "noKeJ4RakzLeK41"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-200"
+              },
+              "booking_date": "2022-03-21T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT MR XXX"
+              ],
+              "id": "OVStuUpLjk858mq"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-130"
+              },
+              "booking_date": "2022-03-22T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ACTIVE ASSURANCES REF"
+              ],
+              "id": "vf2KW5J3TCaJ5IY"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2022-03-23T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA ORANGE MOBILE"
+              ],
+              "id": "liKzY6hFVHSgZ7V"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-150.65"
+              },
+              "booking_date": "2022-03-23T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB ZARA XXXX CARTE NUMERO XXX"
+              ],
+              "id": "f3v3mAiPVxzSyO9"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-75.24"
+              },
+              "booking_date": "2022-03-27T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PHARMACIE PARIS XX"
+              ],
+              "id": "THKrF69ezH4o8r1"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.2"
+              },
+              "booking_date": "2022-03-28T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA EDF CLIENTS PAR MDT XXXX"
+              ],
+              "id": "DhWurGcvxyjUeGL"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-44.3"
+              },
+              "booking_date": "2022-03-30T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ACTIVE ASSURANCES"
+              ],
+              "id": "kroMUEAbMydqE4J"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-71.46"
+              },
+              "booking_date": "2022-03-31T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "VCnGqICd8rr8PBN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-78.89"
+              },
+              "booking_date": "2022-04-01T23:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB AUCHAN"
+              ],
+              "id": "WWH7GThJ1UU1lON"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-34"
+              },
+              "booking_date": "2022-04-02T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "SfB6HwJEhaRLT8J"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-33.46"
+              },
+              "booking_date": "2022-04-02T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB FROG"
+              ],
+              "id": "ENxOamANxwoH52F"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1300"
+              },
+              "booking_date": "2022-04-02T23:00:00.000Z",
+              "remittance_information": [
+                "ASSURANCE RETRAITE CNAV"
+              ],
+              "id": "SYKVreOTUngYGOA"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.27"
+              },
+              "booking_date": "2022-04-03T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "HZmbidbUlJtJl90"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42.17"
+              },
+              "booking_date": "2022-04-03T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE CARREFOUR"
+              ],
+              "id": "3vS0l0d5deSvyvu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.4"
+              },
+              "booking_date": "2022-04-04T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "72zsxqDmthmyy4r"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-100"
+              },
+              "booking_date": "2022-04-11T23:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "YsjJD9osJp7xiid"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "400"
+              },
+              "booking_date": "2022-04-13T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "kGDbN3rugrD7j2d"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "400"
+              },
+              "booking_date": "2022-04-13T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT LOYER PAR MR XXXX"
+              ],
+              "id": "deZuvzvOBO4dDq5"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-45"
+              },
+              "booking_date": "2022-04-15T23:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "htlLux4ZRkzsNQK"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-35.93"
+              },
+              "booking_date": "2022-04-15T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE CARREFOUR"
+              ],
+              "id": "Fc96SrJQ713APAo"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.32"
+              },
+              "booking_date": "2022-04-15T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX"
+              ],
+              "id": "gDZZ31lnTebRzgm"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-160"
+              },
+              "booking_date": "2022-04-16T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "3Hezau6QRLSSTeI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-45.4"
+              },
+              "booking_date": "2022-04-16T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DOBELL XXXX CARTE NUMERO XXX"
+              ],
+              "id": "yBLgiBsFZtRyeFr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.99"
+              },
+              "booking_date": "2022-04-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE Orange REF"
+              ],
+              "id": "86k6e9mgnT8PVy4"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-600"
+              },
+              "booking_date": "2022-04-18T23:00:00.000Z",
+              "remittance_information": [
+                "PRET IMMOBILIER ECH XXXXXX"
+              ],
+              "id": "d9T6uxAP6FnM41Q"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-200"
+              },
+              "booking_date": "2022-04-18T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT MR XXX"
+              ],
+              "id": "BTJiSIh2ywUaURg"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-130"
+              },
+              "booking_date": "2022-04-19T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ACTIVE ASSURANCES REF"
+              ],
+              "id": "kv3fPElP1Cg74gQ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60"
+              },
+              "booking_date": "2022-04-19T23:00:00.000Z",
+              "remittance_information": [
+                "Prélèvement de Eca Assurances"
+              ],
+              "id": "oNBkjd3dznLsRRg"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2022-04-22T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA ORANGE MOBILE"
+              ],
+              "id": "pSXd6HymSU7DaY2"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-50.65"
+              },
+              "booking_date": "2022-04-23T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB ZARA XXXX CARTE NUMERO XXX"
+              ],
+              "id": "2BcPjtCV6qJWU53"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.24"
+              },
+              "booking_date": "2022-04-25T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PHARMACIE PARIS XX"
+              ],
+              "id": "XeZ7YYjyTR76ddm"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-44.3"
+              },
+              "booking_date": "2022-04-27T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ACTIVE ASSURANCES"
+              ],
+              "id": "tUosRZ6sl1SrgmN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.2"
+              },
+              "booking_date": "2022-04-28T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA EDF CLIENTS PAR MDT XXXX"
+              ],
+              "id": "q3J1FUdUN9UPP4d"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-91.46"
+              },
+              "booking_date": "2022-04-30T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "UXHFyiFTKoTpKVv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-78.89"
+              },
+              "booking_date": "2022-05-01T23:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB AUCHAN"
+              ],
+              "id": "XNJEdQ24ZirpQwM"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-56"
+              },
+              "booking_date": "2022-05-02T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "9S2NPRseW8lmcDA"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-83.46"
+              },
+              "booking_date": "2022-05-03T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB JULES"
+              ],
+              "id": "UGtFPnUXX7FaWFR"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1300"
+              },
+              "booking_date": "2022-05-03T23:00:00.000Z",
+              "remittance_information": [
+                "ASSURANCE RETRAITE CNAV"
+              ],
+              "id": "Usc0Q196rfpLoQz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-56.27"
+              },
+              "booking_date": "2022-05-03T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "aMWVy3BlDwaO04E"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-32.17"
+              },
+              "booking_date": "2022-05-04T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE CARREFOUR"
+              ],
+              "id": "Btar2ycE002pTJH"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-200"
+              },
+              "booking_date": "2022-05-04T23:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "RpKHRHIf79YTbaJ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-56"
+              },
+              "booking_date": "2022-05-05T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 56 CARTE NO XXX"
+              ],
+              "id": "Oj8AzxY1RtYn6oN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "400"
+              },
+              "booking_date": "2022-05-11T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "W5BY4x6L0LDpwUy"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "400"
+              },
+              "booking_date": "2022-05-14T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT LOYER PAR MR XXXX"
+              ],
+              "id": "NnbY93VQcDAPjWg"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-45"
+              },
+              "booking_date": "2022-05-14T23:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "W7x7vXgsA31afRm"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60.54"
+              },
+              "booking_date": "2022-05-16T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE CARREFOUR"
+              ],
+              "id": "yGHUanS1cOPcaLk"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.32"
+              },
+              "booking_date": "2022-05-16T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX"
+              ],
+              "id": "Sfj6UV2O5rL3L7A"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-80"
+              },
+              "booking_date": "2022-05-16T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "E9D9zaJYHu3M4K0"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-32.4"
+              },
+              "booking_date": "2022-05-17T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DOBELL XXXX CARTE NUMERO XXX"
+              ],
+              "id": "BaJAmVMHTfrHcG2"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.99"
+              },
+              "booking_date": "2022-05-17T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE Orange REF"
+              ],
+              "id": "imSp8y9B2gsPGYo"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-600"
+              },
+              "booking_date": "2022-05-19T23:00:00.000Z",
+              "remittance_information": [
+                "PRET IMMOBILIER ECH XXXXXX"
+              ],
+              "id": "NIuz1GKaHN69AgN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-200"
+              },
+              "booking_date": "2022-05-19T23:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT MR XXX"
+              ],
+              "id": "Xt9ts9XQ53BDb3i"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-130"
+              },
+              "booking_date": "2022-05-19T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ACTIVE ASSURANCES REF"
+              ],
+              "id": "vvjTfjUSLsFAtRE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60"
+              },
+              "booking_date": "2022-05-20T23:00:00.000Z",
+              "remittance_information": [
+                "Prélèvement de Eca Assurances"
+              ],
+              "id": "WkmslPhtRGQlg33"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2022-05-23T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA ORANGE MOBILE"
+              ],
+              "id": "kNraN69lUFnlLFb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60.65"
+              },
+              "booking_date": "2022-05-24T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PRIMARK XXXX CARTE NUMERO XXX"
+              ],
+              "id": "sFEfbLc1AnKIqDt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-35.24"
+              },
+              "booking_date": "2022-05-26T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PHARMACIE PARIS XX"
+              ],
+              "id": "5RHiApvphZkwbwp"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.2"
+              },
+              "booking_date": "2022-05-26T23:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA EDF CLIENTS PAR MDT XXXX"
+              ],
+              "id": "jHYehsMfRYoAADy"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-44.3"
+              },
+              "booking_date": "2022-05-28T23:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ACTIVE ASSURANCES"
+              ],
+              "id": "Hhhde9AgzS6ZG5J"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-81.46"
+              },
+              "booking_date": "2022-05-31T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "OHxmUF7xYvqnYn7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-58.89"
+              },
+              "booking_date": "2022-06-01T23:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB AUCHAN"
+              ],
+              "id": "KoNJvsi4uCRrGtN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-50"
+              },
+              "booking_date": "2022-06-02T23:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "egjHhh2JQ7UhmJu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.46"
+              },
+              "booking_date": "2022-06-03T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "Rc7FbczN3EHyCCI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1300"
+              },
+              "booking_date": "2022-06-03T23:00:00.000Z",
+              "remittance_information": [
+                "ASSURANCE RETRAITE CNAV"
+              ],
+              "id": "O39HSbfPN9hlsz7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.27"
+              },
+              "booking_date": "2022-06-04T23:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "XFP7o7jLQPuX94Q"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42.17"
+              },
+              "booking_date": "2022-06-04T23:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE CARREFOUR"
+              ],
+              "id": "8qUkm1P8Yb98cxA"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.4"
+              },
+              "booking_date": "2022-06-09T22:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "h3tnIovm5uJLZf5"
+            }
+          ],
+          "name": "Compte CHECKING de PADME AMIDALA",
+          "balances": [
+            {
+              "balance_amount": {
+                "currency": "EUR",
+                "amount": "1014.38"
+              },
+              "reference_date": "2022-06-09T22:00:00.000Z"
+            }
+          ],
+          "currency": "EUR",
+          "type": "CASH_ACCOUNT",
+          "usage": "PRIVATE",
+          "account_id": "cpvfZw7bAD51exD"
+        }
+      ]
+    }
+  ]
+}
