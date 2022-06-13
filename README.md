@@ -11,14 +11,16 @@ This repository shares different open banking data samples in order to test easi
 ## Personae
 
 A JSON file represents what we call a "Personae": a profile with relevant credit risk indicators.
+
 ### Harry Potter
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harry_potter.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/harry_potter.json) |
+| Format                       | Link                                                                                                                                |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harry_potter.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/harry_potter.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/harry_potter.json) |
 
 **Description**:
 
@@ -36,10 +38,11 @@ Risky profile (Credit Score ~150-200/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/lara_croft.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/lara_croft.json) |
+| Format                       | Link                                                                                                                              |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/lara_croft.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/lara_croft.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/lara_croft.json) |
 
 **Description**:
 
@@ -56,10 +59,11 @@ Good profile (Credit Score ~900/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/archibald_haddock.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/archibald_haddock.json) |
+| Format                       | Link                                                                                                                                     |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/archibald_haddock.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/archibald_haddock.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/archibald_haddock.json) |
 
 **Description**:
 
@@ -76,10 +80,11 @@ Risky profile (Credit Score <100/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harley_quinn.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/harley_quinn.json) |
+| Format                       | Link                                                                                                                                |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/harley_quinn.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/harley_quinn.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/harley_quinn.json) |
 
 **Description**:
 
@@ -91,10 +96,11 @@ Good profile (Credit Score ~900/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/ron_weasley.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/ron_weasley.json) |
+| Format                       | Link                                                                                                                               |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/ron_weasley.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/ron_weasley.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/ron_weasley.json) |
 
 **Description**:
 
@@ -108,10 +114,11 @@ Good profile (Credit Score ~900/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/hermione_granger.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/hermione_granger.json) |
+| Format                       | Link                                                                                                                                    |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/hermione_granger.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/hermione_granger.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/hermione_granger.json) |
 
 **Description**:
 
@@ -131,10 +138,11 @@ Good profile (Credit Score ~900/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/sherlock_holmes.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/sherlock_holmes.json) |
+| Format                       | Link                                                                                                                                   |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/sherlock_holmes.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/sherlock_holmes.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/sherlock_holmes.json) |
 
 **Description**:
 
@@ -148,10 +156,11 @@ Good profile (Credit Score ~900/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/padme_amidala.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/padme_amidala.json) |
+| Format                       | Link                                                                                                                                 |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/padme_amidala.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/padme_amidala.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/padme_amidala.json) |
 
 **Description**:
 
@@ -167,10 +176,11 @@ Good profile (Credit Score ~900/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/luke_skywalker.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/luke_skywalker.json) |
+| Format                       | Link                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/luke_skywalker.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/luke_skywalker.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/luke_skywalker.json) |
 
 **Description**:
 
@@ -188,10 +198,11 @@ Fair profile (Credit Score ~500/1000)
 
 **Language**: French 🇫🇷
 
-| Format         | Link                                                                                                               |
-|----------------|--------------------------------------------------------------------------------------------------------------------|
-| Algoan         | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/leia_skywalker.json)             |
-| Budget Insight | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/leia_skywalker.json) |
+| Format                       | Link                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/leia_skywalker.json)                             |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/fr/leia_skywalker.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/fr/leia_skywalker.json) |
 
 **Description**:
 
