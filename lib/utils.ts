@@ -33,3 +33,18 @@ export function writeJSONFiles(fileEntities: FileEntity[], dirPath: string): voi
     writeFileSync(`${dirPath}/${fileEntity.filename}`, JSON.stringify(fileEntity.sample, null, 2));
   });
 }
+
+/**
+ * Generate a random string
+ * @param length Length of the generated random string
+ */
+export function makeid(length: number): string {
+  let result: string = '';
+  const characters: string = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+  const charactersLength: number = characters.length;
+  for (let i: number = 0; i < length; i++) {
+    result += characters.charAt(Math.floor(Math.random() * charactersLength));
+  }
+
+  return result;
+}

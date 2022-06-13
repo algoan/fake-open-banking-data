@@ -13,7 +13,9 @@ function mapTransactions(nbOfDayToAdd: number, accountType: string) {
   return (transaction: TransactionsEntity) => ({
     ...transaction,
     dates: {
-      [accountType === 'CREDIT_CARD' ? 'bookedAt' : 'debitedAt']: dayjs(transaction.dates.debitedAt).add(nbOfDayToAdd, 'day').toISOString(),
+      [accountType === 'CREDIT_CARD' ? 'bookedAt' : 'debitedAt']: dayjs(transaction.dates.debitedAt)
+        .add(nbOfDayToAdd, 'day')
+        .toISOString(),
     },
   });
 }

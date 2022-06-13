@@ -2,9 +2,10 @@ import * as path from 'path';
 
 import { readJSONFiles, writeJSONFiles } from '../lib/utils';
 import { algoanAccountsToBIAccounts } from '../mappers/budgetInsightV20/accounts';
+import { algoanAccountsToLinxoAccounts } from '../mappers/linxoDAV3/accounts';
 import { FileEntity } from '../types';
 
-const formats: string[] = ['BUDGET_INSIGHT_V2_0'];
+const formats: string[] = ['BUDGET_INSIGHT_V2_0', 'LINXO_CONNECT_DIRECT_ACCOUNT_API_V3'];
 
 /**
  * Convert an Algoan data sample to another format
@@ -21,6 +22,13 @@ function convertAlgoanToAnotherFormat(format: string, data: any) {
       convertedSample.connections = [];
       convertedSample.connections.push({
         accounts: data.accounts.map(algoanAccountsToBIAccounts()),
+      });
+      break;
+
+    case 'LINXO_CONNECT_DIRECT_ACCOUNT_API_V3':
+      convertedSample.connections = [];
+      convertedSample.connections.push({
+        accounts: data.accounts.map(algoanAccountsToLinxoAccounts()),
       });
       break;
 

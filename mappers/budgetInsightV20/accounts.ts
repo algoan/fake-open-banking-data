@@ -7,13 +7,13 @@ export const algoanAccountsToBIAccounts = (): any => {
     balance: account.balance,
     last_update: account.balanceDate,
     currency: {
-      id: 'EUR'
+      id: 'EUR',
     },
     type: getBIType(account.type),
     usage: getBIUsage(account.usage),
     id: Math.floor(Math.random() * 1000),
   });
-}
+};
 
 /**
  * Map function to convert an Algoan Account to BI format
@@ -27,27 +27,27 @@ export const algoanTransactions = (): any => {
       value: transaction.amount,
       original_wording: transaction.description,
       id: Math.floor(Math.random() * 1000),
-    }
-  }
-}
+    };
+  };
+};
 
 /**
  * Get Budget Insight account type
  * @param accountType Algoan type
  */
 function getBIType(accountType: string) {
-  switch(accountType) {
+  switch (accountType) {
     case 'CHECKING':
       return 'checking';
 
     case 'SAVINGS':
-      return 'savings'
+      return 'savings';
 
     case 'LOAN':
       return 'loan';
 
     case 'CREDIT_CARD':
-      return 'card'
+      return 'card';
 
     default:
       return 'unknown';
@@ -56,10 +56,10 @@ function getBIType(accountType: string) {
 
 /**
  * Get Budget Insight account usage
- * @param usage Algoan usage 
+ * @param usage Algoan usage
  */
 function getBIUsage(usage: string) {
-  switch(usage) {
+  switch (usage) {
     case 'PERSONAL':
       return 'PRIV';
 
