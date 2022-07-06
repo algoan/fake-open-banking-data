@@ -7,7 +7,8 @@
     "convert": "ts-node scripts/converter.ts",
     "format": "prettier --write scripts/* mappers/**/*.ts",
     "start": "ts-node scripts/index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "linxo-test-bank": "ts-node scripts/linxo-test-bank.ts"
   },
   "author": "ccoeurderoy",
   "license": "ISC",
