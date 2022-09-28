@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, writeFileSync } from 'fs';
+import { readdirSync, readFileSync, writeFileSync } from 'fs';
 import * as path from 'path';
 
 import { FileEntity } from '../types';
@@ -38,7 +38,7 @@ export function writeJSONFiles(fileEntities: FileEntity[], dirPath: string): voi
  * Generate a random string
  * @param length Length of the generated random string
  */
-export function makeid(length: number): string {
+export function makeId(length: number): string {
   let result: string = '';
   const characters: string = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
   const charactersLength: number = characters.length;
