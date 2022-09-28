@@ -3,7 +3,11 @@
  */
 
 export interface Sample {
-  accounts: (AccountsEntity)[];
+  accounts: AccountsEntity[];
+}
+
+export interface Owner {
+  name: string;
 }
 
 export interface AccountsEntity {
@@ -11,9 +15,11 @@ export interface AccountsEntity {
   balanceDate: string;
   bank: Bank;
   currency: string;
-  transactions: (TransactionsEntity)[];
+  transactions: TransactionsEntity[];
   type: string;
   usage: string;
+  number?: string;
+  owners: Owner[];
 }
 
 export interface Bank {
