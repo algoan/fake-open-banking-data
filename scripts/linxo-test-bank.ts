@@ -1,5 +1,5 @@
 import { getTextStringFromAcc } from '../mappers/linxoV2/accounts';
-import { readFileSync, writeFileSync } from 'fs';
+import { writeFileSync } from 'fs';
 import * as path from 'path';
 import { FileEntity } from '../types';
 import { readJSONFiles } from '../lib/utils';
@@ -11,7 +11,7 @@ import { readJSONFiles } from '../lib/utils';
    */
   const sampleDirectoryPath: string = path.join(__dirname, '..', 'samples/fr/');
   const fileEntities: FileEntity[] = readJSONFiles(sampleDirectoryPath);
-  
+
   for (const file of fileEntities) {
     const txtStr: string = await getTextStringFromAcc(file.sample.accounts);
     const newFileName: string = file.filename.replace('.json', '.txt')

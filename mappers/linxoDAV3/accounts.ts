@@ -1,4 +1,4 @@
-import { makeid } from '../../lib/utils';
+import { makeId } from '../../lib/utils';
 
 /**
  * Map function to convert an Algoan Account to BI format
@@ -19,7 +19,7 @@ export const algoanAccountsToLinxoAccounts = (): any => {
     currency: account.currency,
     type: getLinxoType(account.type),
     usage: getLinxoUsage(account.usage),
-    account_id: makeid(15),
+    account_id: makeId(15),
   });
 };
 
@@ -35,7 +35,7 @@ export const algoanTransactions = (): any => {
       },
       booking_date: transaction.dates.debitedAt,
       remittance_information: [transaction.description],
-      id: makeid(15),
+      id: makeId(15),
     };
   };
 };

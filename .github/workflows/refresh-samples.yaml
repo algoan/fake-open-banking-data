@@ -9,21 +9,23 @@ jobs:
     name: Refresh all JSON files in the samples/fr/ directory
     runs-on: ubuntu-latest
     steps:
-      - uses: 'actions/checkout@v2'
+      - uses: actions/checkout@v3
         with:
           token: ${{ secrets.PUBLIC_REPO_GHA_PAT }}
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
         with:
           node-version: '16'
       - run: npm i
       - run: npm start
       - run: npm run convert
+      - run: npm run linxo-test-bank
       - uses: EndBug/add-and-commit@v9
         with:
-          add: '*.json'
+          add:
+            - '*.json'
+            - 'linxo_test_bank/*.txt'
           push: true
           message: 'chore: 🤖 Automatically refreshed data samples'
 
 
 
-    
