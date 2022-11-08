@@ -34,6 +34,7 @@ export const algoanTransactions = (): any => {
         amount: transaction.amount.toString(),
       },
       booking_date: transaction.dates.debitedAt,
+      transaction_date: transaction.dates.bookedAt,
       remittance_information: [transaction.description],
       id: makeId(15),
     };
