@@ -7,7 +7,7 @@ import { AccountsEntity, FileEntity, Sample, TransactionsEntity } from '../types
 /**
  * Transaction dates object
  */
-interface TransactionDates {
+interface TransactionDates {
   debitedAt?: string;
   bookedAt?: string;
 }
@@ -18,9 +18,7 @@ interface TransactionDates {
  * @param nbOfDayToAdd number of days to add
  */
 function addDays(date: string, nbOfDayToAdd: number): string {
-  return dayjs(date)
-    .add(nbOfDayToAdd, 'day')
-    .toISOString()
+  return dayjs(date).add(nbOfDayToAdd, 'day').toISOString();
 }
 
 /**
@@ -34,7 +32,7 @@ function getDateObject(originalDates: TransactionDates, nbOfDayToAdd: number): T
   updatedDates.debitedAt = originalDates.debitedAt ? addDays(originalDates.debitedAt, nbOfDayToAdd) : undefined;
 
   return updatedDates;
-} 
+}
 
 /**
  * Update a transaction "debitedAt" property according to the number of days to add

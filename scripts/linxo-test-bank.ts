@@ -4,8 +4,7 @@ import * as path from 'path';
 import { FileEntity } from '../types';
 import { readJSONFiles } from '../lib/utils';
 
-(async function() {
-
+(async function () {
   /**
    * Load JSON files
    */
@@ -14,7 +13,7 @@ import { readJSONFiles } from '../lib/utils';
 
   for (const file of fileEntities) {
     const txtStr: string = await getTextStringFromAcc(file.sample.accounts);
-    const newFileName: string = file.filename.replace('.json', '.txt')
+    const newFileName: string = file.filename.replace('.json', '.txt');
     writeFileSync(path.join(__dirname, '..', 'linxo_test_bank/', newFileName), txtStr);
   }
 })();
