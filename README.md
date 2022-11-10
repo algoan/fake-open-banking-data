@@ -13,3 +13,4 @@ This repository shares different open banking data samples in order to test easi
 A JSON file represents what we call a "Personae": a profile with relevant credit risk indicators:
 
 - [France 🇫🇷](./samples/fr): French Personae (accounts and transaction's description are written in French).
+- [UK 🇬🇧](./samples/en/): United Kingdom Personae (accounts and transaction's description are written in English en-GB)
