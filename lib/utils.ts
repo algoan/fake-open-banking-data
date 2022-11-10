@@ -8,18 +8,32 @@ import { FileEntity } from '../types';
  * @param dirPath Sample directory path
  */
 export function readJSONFiles(dirPath: string): FileEntity[] {
-  const jsonsInDirectory: string[] = readdirSync(dirPath);
+  /**
+   * The sample directory contains language directories (en, fr)
+   */
+  const countriesDir: string[] = readdirSync(dirPath);
   const samples: FileEntity[] = [];
+  /**
+   * For each country, read JSON files and push it in an array
+   */
+  for (const country of countriesDir) {
+    const filePath: string = `${dirPath}${country}`;
+    const jsonsInDirectory: string[] = readdirSync(filePath);
+    jsonsInDirectory.forEach((filename: string) => {
+      const sample: Buffer = readFileSync(path.join(filePath, filename));
+      const extension: string = filename.split('.')[1];
 
-  jsonsInDirectory.forEach((filename: string) => {
-    const sample: Buffer = readFileSync(path.join(dirPath, filename));
+      if (extension !== 'json') {
+        return;
+      }
 
-    samples.push({
-      filename,
-      sample: JSON.parse(sample.toString()),
+      samples.push({
+        filename: `${country}/${filename}`,
+        sample: JSON.parse(sample.toString()),
+      });
     });
-  });
-
+  }
+  console.log(samples);
   return samples;
 }
 
@@ -28,9 +42,9 @@ export function readJSONFiles(dirPath: string): FileEntity[] {
  * @param fileEntities Refresh sample file with file names
  * @param dirPath Samples directory path
  */
-export function writeJSONFiles(fileEntities: FileEntity[], dirPath: string): void {
+export function writeJSONFiles(fileEntities: FileEntity[], dirName: string): void {
   fileEntities.forEach((fileEntity: FileEntity) => {
-    writeFileSync(`${dirPath}/${fileEntity.filename}`, JSON.stringify(fileEntity.sample, null, 2));
+    writeFileSync(`${dirName}/${fileEntity.filename}`, JSON.stringify(fileEntity.sample, null, 2));
   });
 }
 

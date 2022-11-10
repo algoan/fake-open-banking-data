@@ -1,0 +1,522 @@
+{
+  "format": "LINXO_CONNECT_DIRECT_ACCOUNT_API_V3",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-108.98"
+              },
+              "booking_date": "2022-08-11T04:00:00.000Z",
+              "remittance_information": [
+                "BISL CO-OP CAR INS"
+              ],
+              "id": "NKOALMBOqnI7ipP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-158"
+              },
+              "booking_date": "2022-08-12T04:00:00.000Z",
+              "remittance_information": [
+                "SATSUMA LOANS CD 4711  DEB"
+              ],
+              "id": "oFn3gaaoGRWu9zR"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-504.14"
+              },
+              "booking_date": "2022-08-14T04:00:00.000Z",
+              "remittance_information": [
+                "D&K ESTATES LTD 00000000000000677"
+              ],
+              "id": "7P5z3PAHYX5lDDb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-15"
+              },
+              "booking_date": "2022-08-15T04:00:00.000Z",
+              "remittance_information": [
+                "ACCOUNT FEE"
+              ],
+              "id": "hxRQyrnv5V6UtJV"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-21.75"
+              },
+              "booking_date": "2022-08-19T05:00:00.000Z",
+              "remittance_information": [
+                "NWI HOME INSURANCE - D/D"
+              ],
+              "id": "Zn8Ww1aJu4QZQCn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-20"
+              },
+              "booking_date": "2022-08-20T05:00:00.000Z",
+              "remittance_information": [
+                "STUDENT LOANS CO - D/D"
+              ],
+              "id": "bYqoMeBquPS5aX1"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-154.57"
+              },
+              "booking_date": "2022-08-19T05:00:00.000Z",
+              "remittance_information": [
+                "VWFS UK LIMITED Type: Direct Debit - D/D"
+              ],
+              "id": "TAVjo7vdNF5uuHy"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-100"
+              },
+              "booking_date": "2022-08-29T05:00:00.000Z",
+              "remittance_information": [
+                "CASH WITHDRAWAL AT TESCO PERSONAL FINANCE ATM TESCO WALSALL B, WALSALL,100.00 GBP , ON 07-"
+              ],
+              "id": "Zfy6KgfWM6RVrFx"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-13.6"
+              },
+              "booking_date": "2022-08-29T05:00:00.000Z",
+              "remittance_information": [
+                "TESCO MOBILE REFERENCE: 30000001700A-0022"
+              ],
+              "id": "cV6W93TktttBhwt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "2828.46"
+              },
+              "booking_date": "2022-08-05T04:00:00.000Z",
+              "remittance_information": [
+                "ALGOAN LIMITED - SAL Type: Automated Credit - BAC"
+              ],
+              "id": "D6ilIZqUME7Wtg8"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "2098.95"
+              },
+              "booking_date": "2022-09-05T05:00:00.000Z",
+              "remittance_information": [
+                "ALGOAN LIMITED - SAL Type: Automated Credit - BAC"
+              ],
+              "id": "J83mO35viqBF40v"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-154.31"
+              },
+              "booking_date": "2022-09-08T05:00:00.000Z",
+              "remittance_information": [
+                "BRITISH GAS ONLINE BRITISHGAS.CO"
+              ],
+              "id": "VRfggigQGZmpYx6"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-35.99"
+              },
+              "booking_date": "2022-09-08T05:00:00.000Z",
+              "remittance_information": [
+                "THE GYM LTD CD 0730"
+              ],
+              "id": "USGIOexzDEPJbuE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-108.98"
+              },
+              "booking_date": "2022-09-11T05:00:00.000Z",
+              "remittance_information": [
+                "BISL CO-OP CAR INS"
+              ],
+              "id": "yvQ6CvSr2BAKg8p"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-80"
+              },
+              "booking_date": "2022-09-11T05:00:00.000Z",
+              "remittance_information": [
+                "LOANS 2 GO"
+              ],
+              "id": "Rlv4StC3iv6lp4X"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-158"
+              },
+              "booking_date": "2022-09-12T05:00:00.000Z",
+              "remittance_information": [
+                "SATSUMA LOANS CD 0730 DEB"
+              ],
+              "id": "t0ZJ8cyVamby9jw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-15"
+              },
+              "booking_date": "2022-09-15T05:00:00.000Z",
+              "remittance_information": [
+                "ACCOUNT FEE"
+              ],
+              "id": "BeEXBDnp6YV6x8S"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-504.14"
+              },
+              "booking_date": "2022-09-15T05:00:00.000Z",
+              "remittance_information": [
+                "D&K ESTATES LTD 00000000000000677"
+              ],
+              "id": "o1ql6hevrYxKjjq"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-21.75"
+              },
+              "booking_date": "2022-09-19T05:00:00.000Z",
+              "remittance_information": [
+                "NWI HOME INSURANCE - D/D"
+              ],
+              "id": "lAslRXstLivDDGs"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-20"
+              },
+              "booking_date": "2022-09-20T05:00:00.000Z",
+              "remittance_information": [
+                "STUDENT LOANS CO - D/D"
+              ],
+              "id": "lFu37Ors6wxOzMd"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-154.57"
+              },
+              "booking_date": "2022-09-21T05:00:00.000Z",
+              "remittance_information": [
+                "VWFS UK LIMITED Type: Direct Debit - D/D"
+              ],
+              "id": "6qk254blxYSjuHk"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-154.57"
+              },
+              "booking_date": "2022-10-21T05:00:00.000Z",
+              "remittance_information": [
+                "VWFS UK LIMITED Type: Direct Debit - D/D"
+              ],
+              "id": "yCoWqaJzboQRAwJ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-16"
+              },
+              "booking_date": "2022-09-28T05:00:00.000Z",
+              "remittance_information": [
+                "MIPERMIT PARKING CD 0730"
+              ],
+              "id": "1gYgVKUfFLdLBkr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-100"
+              },
+              "booking_date": "2022-09-29T05:00:00.000Z",
+              "remittance_information": [
+                "CASH WITHDRAWAL AT TESCO PERSONAL FINANCE ATM"
+              ],
+              "id": "jlKu9PR9D1fqLlP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-13.6"
+              },
+              "booking_date": "2022-09-30T05:00:00.000Z",
+              "remittance_information": [
+                "TESCO MOBILE REFERENCE: 30000001700A-0022"
+              ],
+              "id": "vswD7wmhoONItLu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "2477.95"
+              },
+              "booking_date": "2022-10-07T05:00:00.000Z",
+              "remittance_information": [
+                "ALGOAN LIMITED - SAL Type: Automated Credit - BAC"
+              ],
+              "id": "Ax6CqLzpWTUBz8W"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-35.99"
+              },
+              "booking_date": "2022-10-08T05:00:00.000Z",
+              "remittance_information": [
+                "THE GYM LTD CD 0730"
+              ],
+              "id": "s3RocoHlmJv5K57"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-117.23"
+              },
+              "booking_date": "2022-10-09T05:00:00.000Z",
+              "remittance_information": [
+                "BRITISH GAS ONLINE BRITISHGAS.CO"
+              ],
+              "id": "mxHvvXadRhUWNdV"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-108.98"
+              },
+              "booking_date": "2022-10-11T05:00:00.000Z",
+              "remittance_information": [
+                "BISL CO-OP CAR INS"
+              ],
+              "id": "Rs2AGGDqQORxaUb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-21.85"
+              },
+              "booking_date": "2022-10-12T05:00:00.000Z",
+              "remittance_information": [
+                "PAYPAL PAYMENT 5BVx455WS3QZ"
+              ],
+              "id": "FCCz8vthriXHjOs"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-158"
+              },
+              "booking_date": "2022-10-12T05:00:00.000Z",
+              "remittance_information": [
+                "SATSUMA LOANS CD 0730 DEB"
+              ],
+              "id": "OSpMglCPbN9k94i"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-80"
+              },
+              "booking_date": "2022-10-13T05:00:00.000Z",
+              "remittance_information": [
+                "LOANS 2 GO"
+              ],
+              "id": "SF5Ry6nmnaaqTDH"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-504.14"
+              },
+              "booking_date": "2022-10-15T05:00:00.000Z",
+              "remittance_information": [
+                "D&K ESTATES LTD 00000000000000677"
+              ],
+              "id": "NmbNOYIK8n1Xuk4"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-15"
+              },
+              "booking_date": "2022-10-16T05:00:00.000Z",
+              "remittance_information": [
+                "ACCOUNT FEE"
+              ],
+              "id": "4GmPQJyJWDTZqnp"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-125.99"
+              },
+              "booking_date": "2022-10-20T05:00:00.000Z",
+              "remittance_information": [
+                "MONEY TRANSFER TO CHARLIE CHAPLIN , FP 28/05/22"
+              ],
+              "id": "6eiv5hE7x9zw0Kz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-21.75"
+              },
+              "booking_date": "2022-10-19T05:00:00.000Z",
+              "remittance_information": [
+                "NWI HOME INSURANCE - D/D"
+              ],
+              "id": "clW0GOV1uvdkFK0"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-20"
+              },
+              "booking_date": "2022-10-20T05:00:00.000Z",
+              "remittance_information": [
+                "STUDENT LOANS CO - D/D"
+              ],
+              "id": "sDVqx1i0kjv29Lg"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "100"
+              },
+              "booking_date": "2022-10-22T05:00:00.000Z",
+              "remittance_information": [
+                "PAYPAL PPWD78MBJ2A74VK3DU PPWD0000007TD3ZX1"
+              ],
+              "id": "6sovOb6nYKtPZ6h"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-13.6"
+              },
+              "booking_date": "2022-10-29T05:00:00.000Z",
+              "remittance_information": [
+                "TESCO MOBILE REFERENCE: 30000001700A-0022"
+              ],
+              "id": "hea3ImkDEpzN7v0"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "2467.75"
+              },
+              "booking_date": "2022-11-06T06:00:00.000Z",
+              "remittance_information": [
+                "ALGOAN LIMITED - SAL Type: Automated Credit - BAC"
+              ],
+              "id": "sVS05vmJiJD23db"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-117.23"
+              },
+              "booking_date": "2022-11-07T06:00:00.000Z",
+              "remittance_information": [
+                "BRITISH GAS ONLINE BRITISHGAS.CO"
+              ],
+              "id": "GMKzvU4HC5XMNWD"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-35.99"
+              },
+              "booking_date": "2022-11-08T06:00:00.000Z",
+              "remittance_information": [
+                "THE GYM LTD CD 0730"
+              ],
+              "id": "fykfImv2mZDi2YT"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "800"
+              },
+              "booking_date": "2022-08-09T04:00:00.000Z",
+              "remittance_information": [
+                "LOANS 2 GO Refx1522 BGC"
+              ],
+              "id": "19UaIsgqGFmChUd"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-528.12"
+              },
+              "booking_date": "2022-08-03T04:00:00.000Z",
+              "remittance_information": [
+                "BRITISH GAS ONLINE BRITISHGAS.CO"
+              ],
+              "id": "t9xPCoNvBKAf283"
+            },
+            {
+              "transaction_amount": {
+                "currency": "GBP",
+                "amount": "-500"
+              },
+              "booking_date": "2022-11-03T06:00:00.000Z",
+              "remittance_information": [
+                "TRANSFER "
+              ],
+              "id": "mYvQeFbrbtSKTPl"
+            }
+          ],
+          "name": "Compte CHECKING de SHERLOCK HOLMES",
+          "balances": [
+            {
+              "balance_amount": {
+                "currency": "GBP",
+                "amount": "3633.03"
+              },
+              "reference_date": "2022-11-09T06:00:00.000Z"
+            }
+          ],
+          "currency": "GBP",
+          "type": "CASH_ACCOUNT",
+          "usage": "PRIVATE",
+          "account_id": "Pi4KMfLGMiGXFJL"
+        }
+      ]
+    }
+  ]
+}

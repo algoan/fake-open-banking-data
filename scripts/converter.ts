@@ -43,12 +43,12 @@ function convertAlgoanToAnotherFormat(format: string, data: any) {
   /**
    * Load JSON files
    */
-  const sampleDirectoryPath: string = path.join(__dirname, '..', 'samples/fr/');
+  const sampleDirectoryPath: string = path.join(__dirname, '..', 'samples/');
   const fileEntities: FileEntity[] = readJSONFiles(sampleDirectoryPath);
   const convertedFiles: FileEntity[] = [];
 
   for (const format of formats) {
-    const dirPath: string = path.join(__dirname, '..', `${format.toLocaleLowerCase()}/fr`);
+    const dirPath: string = path.join(__dirname, '..', `raw-data/${format.toLocaleLowerCase()}`);
     /**
      * For each file, apply the proper translation depending on the format
      */
