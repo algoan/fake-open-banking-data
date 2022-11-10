@@ -2,11 +2,11 @@
 
 **Language**: UK 🇬🇧
 
-| Format                       | Link                                                                                                                                   |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/en/sherlock_holmes.json)                             |
-| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/en/sherlock_holmes.json)                 |
-| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/en/sherlock_holmes.json) |
+| Format                       | Link                                                                                                                                            |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/en/sherlock_holmes.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/en/sherlock_holmes.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/en/sherlock_holmes.json) |
 
 **Description**:
 
@@ -23,11 +23,11 @@ Good profile (Credit Score ~900/1000)
 
 **Language**: UK 🇬🇧
 
-| Format                       | Link                                                                                                                                |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/en/james_watson.json)                             |
-| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/budget_insight_v2_0/en/james_watson.json)                 |
-| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/linxo_connect_direct_account_api_v3/en/james_watson.json) |
+| Format                       | Link                                                                                                                                         |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/en/james_watson.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/en/james_watson.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/en/james_watson.json) |
 
 **Description**:
 
