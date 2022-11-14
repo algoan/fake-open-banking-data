@@ -8,12 +8,12 @@ import { readJSONFiles } from '../lib/utils';
   /**
    * Load JSON files
    */
-  const sampleDirectoryPath: string = path.join(__dirname, '..', 'samples/fr/');
+  const sampleDirectoryPath: string = path.join(__dirname, '..', 'samples/');
   const fileEntities: FileEntity[] = readJSONFiles(sampleDirectoryPath);
 
   for (const file of fileEntities) {
     const txtStr: string = await getTextStringFromAcc(file.sample.accounts);
     const newFileName: string = file.filename.replace('.json', '.txt');
-    writeFileSync(path.join(__dirname, '..', 'linxo_test_bank/', newFileName), txtStr);
+    writeFileSync(path.join(__dirname, '..', 'raw-data/linxo_test_bank/', newFileName), txtStr);
   }
 })();
