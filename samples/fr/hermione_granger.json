@@ -1,6 +1,7 @@
 {
   "accounts": [
     {
+      "name": "Compte Courant 01",
       "balance": 1457.16,
       "balanceDate": "2022-11-08T22:00:00.000Z",
       "owners": [
@@ -348,6 +349,7 @@
       "owner": "JONATHAN DURAND"
     },
     {
+      "name": "Compte Carte de Crédit 01",
       "balance": -120,
       "balanceDate": "2022-11-08T22:00:00.000Z",
       "bank": {
@@ -686,6 +688,7 @@
       ]
     },
     {
+      "name": "Compte Epargne 01",
       "balance": 2200,
       "balanceDate": "2022-11-08T22:00:00.000Z",
       "bank": {
