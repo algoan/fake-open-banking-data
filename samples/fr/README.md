@@ -10,8 +10,6 @@
 
 **Description**:
 
-Risky profile (Credit Score ~150-200/1000)
-
 - Earns 2500€/month
 - Pays a rent of 900€/month
 - Has 6 consumer credits with three different lenders (3 with lender "A", 2 with lender "B" and 1 with lender "C")
@@ -32,8 +30,6 @@ Risky profile (Credit Score ~150-200/1000)
 
 **Description**:
 
-Good profile (Credit Score ~900/1000)
-
 - Earns 2500€/month
 - Pays a mortgage of 500€/month
 - Has 4 consumer credits with two different lenders (2 with lender "A" and 2 with lender "B")
@@ -52,8 +48,6 @@ Good profile (Credit Score ~900/1000)
 | Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/archibald_haddock.json) |
 
 **Description**:
-
-Risky profile (Credit Score <100/1000)
 
 - Has an account seizure
 - Presents a high gambling over incomes ratio, frequent gambling
@@ -74,8 +68,6 @@ Risky profile (Credit Score <100/1000)
 
 **Description**:
 
-Good profile (Credit Score ~900/1000)
-
 - Secondary account synchronized
 
 ## Ron Weasley
@@ -89,8 +81,6 @@ Good profile (Credit Score ~900/1000)
 | Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/ron_weasley.json) |
 
 **Description**:
-
-Good profile (Credit Score ~900/1000)
 
 - Couple with similar wages in the same company
 - Has a mortgage and a consumer loan
@@ -107,8 +97,6 @@ Good profile (Credit Score ~900/1000)
 | Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/hermione_granger.json) |
 
 **Description**:
-
-Good profile (Credit Score ~900/1000)
 
 - Earns ~2000€/month
 - Pays a rent of ~600€/month
@@ -132,8 +120,6 @@ Good profile (Credit Score ~900/1000)
 
 **Description**:
 
-Good profile (Credit Score ~900/1000)
-
 - Their earnings come from self-employment
 - Has a rent
 - Has direct debits such as power, telecom, insurance
@@ -149,8 +135,6 @@ Good profile (Credit Score ~900/1000)
 | Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/padme_amidala.json) |
 
 **Description**:
-
-Good profile (Credit Score ~900/1000)
 
 - Is retired
 - Has a reversionary pension
@@ -169,8 +153,6 @@ Good profile (Credit Score ~900/1000)
 | Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/luke_skywalker.json) |
 
 **Description**:
-
-Fair profile (Credit Score ~500/1000)
 
 - Student
 - Receives regular transfers
@@ -191,8 +173,6 @@ Fair profile (Credit Score ~500/1000)
 | Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/leia_skywalker.json) |
 
 **Description**:
-
-Good profile (Credit Score ~900/1000)
 
 - Earns ~1300€/month
 - Has a rent of ~400€/month
