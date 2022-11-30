@@ -4,9 +4,9 @@
 
 | Format                       | Link                                                                                                                                            |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/en/raquel_murillo.json)                                      |
-| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/en/raquel_murillo.json)                 |
-| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/en/raquel_murillo.json) |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/es/raquel_murillo.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/es/raquel_murillo.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/es/raquel_murillo.json) |
 
 **Description**:
 
@@ -22,9 +22,9 @@
 
 | Format                       | Link                                                                                                                                         |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/en/sergio_marquina.json)                                      |
-| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/en/sergio_marquina.json)                 |
-| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/en/sergio_marquina.json) |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/es/sergio_marquina.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/es/sergio_marquina.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/es/sergio_marquina.json) |
 
 **Description**:
 
