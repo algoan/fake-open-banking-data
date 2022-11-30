@@ -1,0 +1,706 @@
+{
+  "accounts": [
+    {
+      "balance": 1457.16,
+      "balanceDate": "2022-11-29T23:00:00.000Z",
+      "owners": [
+        {
+          "name": "RAQUEL MURILLO"
+        }
+      ],
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-01T23:00:00.000Z"
+          },
+          "description": "TRANSFERENCIA A FAVOR DE ANDRES DE FONOLLOSA CONCEPTO ALQUILER",
+          "amount": -590
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-06T23:00:00.000Z"
+          },
+          "description": "RECIBO (AD.SEPA) - 05070406105222 IBERDROLA CLIENTES,SA",
+          "amount": -60
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-07T23:00:00.000Z"
+          },
+          "description": "RECIBO COFIDIS Nº RECIBO 0017 2085 735 REF. MANDATO 000201322607",
+          "amount": -130.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-08T23:00:00.000Z"
+          },
+          "description": "RECIBO (AD.SEPA) - 01130469545457 VODAFONE",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-10T23:00:00.000Z"
+          },
+          "description": "RBO PARKING MADRID",
+          "amount": -70
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-13T23:00:00.000Z"
+          },
+          "description": "BASIC FIT SPAIN SA",
+          "amount": -34.95
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-15T23:00:00.000Z"
+          },
+          "description": "TRANSFERENCIA A FAVOR DE RAQUEL MURILLO CONCEPTO AHORRO",
+          "amount": -100
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-16T23:00:00.000Z"
+          },
+          "description": "FINDIRECT (SEQURA) 4766649163057025",
+          "amount": -49.33
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-17T23:00:00.000Z"
+          },
+          "description": "REINTEGRO CAJERO AUTOMATICO MADRID",
+          "amount": -100
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-18T23:00:00.000Z"
+          },
+          "description": "TRANSFERENCIA A FAVOR DE SILENE OLIVEIRA",
+          "amount": -200
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-20T23:00:00.000Z"
+          },
+          "description": "NETFLIX Fecha de operación: 9612188294953422",
+          "amount": -14.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-09-27T23:00:00.000Z"
+          },
+          "description": "ABONO DE NOMINA POR TRANSFERENCIA - ALGOAN",
+          "amount": 1914.84
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-01T23:00:00.000Z"
+          },
+          "description": "ADEUDO MENSUAL DE TARJETA",
+          "amount": -538.01
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-02T23:00:00.000Z"
+          },
+          "description": "TRANSFERENCIA A FAVOR DE ANDRES DE FONOLLOSA CONCEPTO ALQUILER",
+          "amount": -590
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-03T23:00:00.000Z"
+          },
+          "description": "PAGO CHQ 6188405",
+          "amount": -80
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-06T23:00:00.000Z"
+          },
+          "description": "RECIBO (AD.SEPA) - 202005070406105222 IBERDROLA CLIENTES,SA",
+          "amount": -60
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-07T23:00:00.000Z"
+          },
+          "description": "REINTEGRO CAJERO AUTOMATICO MADRID",
+          "amount": -150
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-09T23:00:00.000Z"
+          },
+          "description": "RECIBO COFIDIS Nº RECIBO 0017 2085 735 REF. MANDATO 000201322607",
+          "amount": -130.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-10T23:00:00.000Z"
+          },
+          "description": "RECIBO (AD.SEPA) - 01130469545457 VODAFONE",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-13T23:00:00.000Z"
+          },
+          "description": "RBO PARKING MADRID",
+          "amount": -70
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-14T23:00:00.000Z"
+          },
+          "description": "BASIC FIT SPAIN SA",
+          "amount": -34.95
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-16T22:00:00.000Z"
+          },
+          "description": "TRANSFERENCIA A FAVOR DE RAQUEL MURILLO CONCEPTO AHORRO",
+          "amount": -100
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-17T23:00:00.000Z"
+          },
+          "description": "FINDIRECT (SEQURA) 4766649163057022",
+          "amount": -49.33
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-19T23:00:00.000Z"
+          },
+          "description": "REINTEGRO CAJERO AUTOMATICO MADRID",
+          "amount": -100
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-21T23:00:00.000Z"
+          },
+          "description": "NETFLIX Fecha de operación: 9612188294953422",
+          "amount": -14.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-23T23:00:00.000Z"
+          },
+          "description": "PAGO CHQ 6188406",
+          "amount": -55
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-27T23:00:00.000Z"
+          },
+          "description": "ABONO DE NOMINA POR TRANSFERENCIA - ALGOAN",
+          "amount": 1956.82
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-29T23:00:00.000Z"
+          },
+          "description": "ADEUDO MENSUAL DE TARJETA",
+          "amount": -437.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-10-31T00:00:00.000Z"
+          },
+          "description": "TRANSFERENCIA A FAVOR DE ANDRES DE FONOLLOSA CONCEPTO ALQUILER",
+          "amount": -590
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-05T00:00:00.000Z"
+          },
+          "description": "RECIBO (AD.SEPA) - 202005070406105222 IBERDROLA CLIENTES,SA",
+          "amount": -60
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-06T00:00:00.000Z"
+          },
+          "description": "RECIBO COFIDIS Nº RECIBO 0017 2085 735 REF. MANDATO 000201322607",
+          "amount": -130.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-07T00:00:00.000Z"
+          },
+          "description": "RECIBO (AD.SEPA) - 01130469545457 VODAFONE",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-08T00:00:00.000Z"
+          },
+          "description": "REINTEGRO CAJERO AUTOMATICO MADRID",
+          "amount": -200
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-09T00:00:00.000Z"
+          },
+          "description": "RBO PARKING MADRID",
+          "amount": -70
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-11T00:00:00.000Z"
+          },
+          "description": "PAGO CHQ 6188407",
+          "amount": -80
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-12T00:00:00.000Z"
+          },
+          "description": "BASIC FIT SPAIN SA",
+          "amount": -34.95
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-14T00:00:00.000Z"
+          },
+          "description": "FINDIRECT (SEQURA) 4766649163057022",
+          "amount": -49.33
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-14T00:00:00.000Z"
+          },
+          "description": "TRANSFERENCIA A FAVOR DE RAQUEL MURILLO CONCEPTO AHORRO",
+          "amount": -100
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-19T00:00:00.000Z"
+          },
+          "description": "NETFLIX Fecha de operación: 9612188294953422",
+          "amount": -14.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-27T00:00:00.000Z"
+          },
+          "description": "ABONO DE NOMINA POR TRANSFERENCIA - ALGOAN",
+          "amount": 1940.2
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2022-11-29T23:00:00.000Z"
+          },
+          "description": "ADEUDO MENSUAL DE TARJETA",
+          "amount": -520.45
+        }
+      ],
+      "type": "CHECKING",
+      "usage": "PERSONAL",
+      "number": "account 01",
+      "owner": "RAQUEL MURILLO"
+    },
+    {
+      "balance": -120,
+      "balanceDate": "2022-11-29T23:00:00.000Z",
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "COMPRA. BET 365",
+          "amount": -200
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "TRANSACCION CONTACTLESS EN DECATHLON PRINC, MADRID, TARJ. :*014102",
+          "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -54.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "MGP*WALLAPOP 3105",
+          "amount": -29.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -34.87
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "TRANSACCION CONTACTLESS EN FARMACIA BOLOS",
+          "amount": -8.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "PAGO EN GLOVOAPP 23 SL BARCELONA",
+          "amount": -18.76
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -12.42
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -5.72
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.896Z"
+          },
+          "description": "TRANSACCION CONTACTLESS EN LIDL TARJ. :*3105",
+          "amount": -15.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "PRIMARK MADRID - 4599857912320122",
+          "amount": -25.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -76.54
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "PAGO EN GLOVOAPP 23 SL BARCELONA",
+          "amount": -15.86
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TARJETA *3105 AMZN MKTP ES",
+          "amount": -18.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "RECIBO MENSUAL RECIBO MES ANTERIOR 705175242",
+          "amount": 538.01
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -45.83
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -34.32
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TARJETA *3105 AMZN MKTP ES",
+          "amount": -15.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -65.23
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -45.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "AMAZON PRIME*0g2rk",
+          "amount": -49
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -15.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "COMPRA T.C. RESTAURANTE EL PLANO",
+          "amount": -49.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TRANSACCION CONTACTLESS EN LIDL TARJ. :*3105",
+          "amount": -10.88
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TARJETA *3105 AMZN MKTP ES",
+          "amount": -96.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "PAGO EN GLOVOAPP 23 SL BARCELONA",
+          "amount": -8.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "RECIBO MENSUAL RECIBO MES ANTERIOR 705175242",
+          "amount": 437.98
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -15.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "COMPRA. BET 365",
+          "amount": -200
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -65.34
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TRANSACCION CONTACTLESS EN LIDL TARJ. :*3105",
+          "amount": -24.35
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -5.78
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -50.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TRANSACCION CONTACTLESS EN DECATHLON PRINC, MADRID, TARJ. :*014102",
+          "amount": -12.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TARJETA *3105 AMZN MKTP ES",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MERCADONA VIRGEN DE LA PA/MADRID",
+          "amount": -43.76
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TRANSACCION CONTACTLESS EN FARMACIA BOLOS",
+          "amount": -15.96
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "TARJETA *3105 AMZN MKTP ES",
+          "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "MGP*WALLAPOP 3105",
+          "amount": -55.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "bookedAt": "2022-12-01T13:03:18.897Z"
+          },
+          "description": "RECIBO MENSUAL RECIBO MES ANTERIOR 705175242",
+          "amount": 520.45
+        }
+      ],
+      "type": "CREDIT_CARD",
+      "usage": "PERSONAL",
+      "number": "account 02",
+      "owners": [
+        {
+          "name": "RAQUEL MURILLO"
+        }
+      ]
+    },
+    {
+      "balance": 2200,
+      "balanceDate": "2022-11-29T23:00:00.000Z",
+      "bank": {
+        "name": "Algoan Demo"
+      },
+      "currency": "EUR",
+      "transactions": [],
+      "type": "SAVINGS",
+      "usage": "PERSONAL",
+      "number": "account 03",
+      "owners": [
+        {
+          "name": "RAQUEL MURILLO"
+        }
+      ]
+    }
+  ]
+}
