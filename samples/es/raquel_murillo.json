@@ -1,6 +1,7 @@
 {
   "accounts": [
     {
+      "name": "Cuenta Corriente 01",
       "balance": 1457.16,
       "balanceDate": "2023-05-02T23:00:00.000Z",
       "owners": [
@@ -348,6 +349,7 @@
       "owner": "RAQUEL MURILLO"
     },
     {
+      "name": "Cuenta Corriente 02",
       "balance": -120,
       "balanceDate": "2023-05-02T23:00:00.000Z",
       "bank": {
@@ -686,6 +688,7 @@
       ]
     },
     {
+      "name": "Cuenta Corriente 03",
       "balance": 2200,
       "balanceDate": "2023-05-02T23:00:00.000Z",
       "bank": {
