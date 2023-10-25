@@ -20,6 +20,7 @@ export interface AccountsEntity {
   usage: string;
   number?: string;
   owners: Owner[];
+  iban?: string;
 }
 
 export interface Bank {

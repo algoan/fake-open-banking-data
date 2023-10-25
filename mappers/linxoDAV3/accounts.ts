@@ -20,6 +20,7 @@ export const algoanAccountsToLinxoAccounts = (): any => {
     type: getLinxoType(account.type),
     usage: getLinxoUsage(account.usage),
     account_id: makeId(15),
+    iban: account.iban,
   });
 };
 
