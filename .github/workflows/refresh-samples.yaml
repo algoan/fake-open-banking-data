@@ -24,3 +24,5 @@ jobs:
           add: '["*.json", "raw-data/linxo_test_bank/**/*.txt"]'
           push: true
           message: 'chore: 🤖 Automatically refreshed data samples'
+          author_name: Algoan Bot
+          author_email: bot@algoan.com
