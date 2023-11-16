@@ -18,7 +18,7 @@ interface TransactionDates {
  * @param nbOfDayToAdd number of days to add
  */
 function addDays(date: string, nbOfDayToAdd: number): string {
-  return dayjs(date).add(nbOfDayToAdd, 'day').toISOString();
+  return dayjs(date).add(nbOfDayToAdd, 'day').set('hour', 14).toISOString();
 }
 
 /**
@@ -54,7 +54,7 @@ function mapTransactions(nbOfDayToAdd: number) {
 function mapAccount(nbOfDayToAdd: number) {
   return (account: AccountsEntity) => ({
     ...account,
-    balanceDate: dayjs(account.balanceDate).add(nbOfDayToAdd, 'day').toISOString(),
+    balanceDate: addDays(account.balanceDate, nbOfDayToAdd),
     transactions: account.transactions.map(mapTransactions(nbOfDayToAdd)),
   });
 }

@@ -21,6 +21,8 @@ jobs:
       - run: npm run linxo-test-bank
       - uses: EndBug/add-and-commit@v9
         with:
-          add: '["*.json", "linxo_test_bank/*.txt"]'
+          add: '["*.json", "raw-data/linxo_test_bank/**/*.txt"]'
           push: true
           message: 'chore: 🤖 Automatically refreshed data samples'
+          author_name: Algoan Bot
+          author_email: bot@algoan.com
