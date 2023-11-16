@@ -18,7 +18,7 @@ interface TransactionDates {
  * @param nbOfDayToAdd number of days to add
  */
 function addDays(date: string, nbOfDayToAdd: number): string {
-  return dayjs(date).add(nbOfDayToAdd, 'day').set('hour', 14).toISOString();
+  return dayjs(date).add(nbOfDayToAdd, 'day').set('hour', 12).toISOString();
 }
 
 /**
