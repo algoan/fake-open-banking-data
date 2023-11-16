@@ -6,6 +6,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'scripts/**.ts'
+      - 'mappers/**.ts'
 
 jobs:
   run_script:
