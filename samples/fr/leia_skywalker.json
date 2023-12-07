@@ -10,7 +10,9 @@
         }
       ],
       "bank": {
-        "name": "Algoan Demo"
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
       },
       "currency": "EUR",
       "transactions": [
@@ -530,14 +532,17 @@
       "type": "CHECKING",
       "usage": "PERSONAL",
       "iban": "FR024826466043IO68KB2WNAE25",
-      "number": "account 01"
+      "number": "account 01",
+      "bic": "BNPAFRPPXXX"
     },
     {
       "name": "Compte Epargne 01",
       "balance": 5650,
       "balanceDate": "2023-12-07T12:00:00.000Z",
       "bank": {
-        "name": "Algoan Demo"
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
       },
       "currency": "EUR",
       "transactions": [],
@@ -545,6 +550,7 @@
       "usage": "PERSONAL",
       "number": "account 02",
       "iban": "FR693214263153PYWYKAFSONB75",
+      "bic": "BNPAFRPPXXX",
       "owners": [
         {
           "name": "LEIA SKYWALKER"

@@ -10,7 +10,9 @@
         }
       ],
       "bank": {
-        "name": "Algoan Demo"
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
       },
       "currency": "EUR",
       "transactions": [
@@ -702,6 +704,7 @@
       "usage": "PERSONAL",
       "number": "account 03",
       "iban": "ES7963941545532501624617",
+      "bic": "MIDLESMMXXX",
       "owners": [
         {
           "name": "RAQUEL MURILLO"

@@ -10,7 +10,9 @@
         }
       ],
       "bank": {
-        "name": "Algoan Demo"
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
       },
       "currency": "EUR",
       "transactions": [
@@ -347,14 +349,17 @@
       "usage": "PERSONAL",
       "number": "account 01",
       "iban": "FR0948145844888DDFQXKV7BY13",
-      "owner": "JONATHAN DURAND"
+      "owner": "JONATHAN DURAND",
+      "bic": "BNPAFRPPXXX"
     },
     {
       "name": "Compte Carte de Crédit 01",
       "balance": -120,
       "balanceDate": "2023-12-07T12:00:00.000Z",
       "bank": {
-        "name": "Algoan Demo"
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
       },
       "currency": "EUR",
       "transactions": [
@@ -683,6 +688,7 @@
       "usage": "PERSONAL",
       "number": "account 02",
       "iban": "FR7158308147881N2Z8VVNBLU24",
+      "bic": "BNPAFRPPXXX",
       "owners": [
         {
           "name": "HERMIONE GRANGER"
@@ -694,7 +700,9 @@
       "balance": 2200,
       "balanceDate": "2023-12-07T12:00:00.000Z",
       "bank": {
-        "name": "Algoan Demo"
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
       },
       "currency": "EUR",
       "transactions": [],
@@ -702,6 +710,7 @@
       "usage": "PERSONAL",
       "number": "account 03",
       "iban": "FR195226475633NGNDOGOL7KZ15",
+      "bic": "BNPAFRPPXXX",
       "owners": [
         {
           "name": "HERMIONE GRANGER"
