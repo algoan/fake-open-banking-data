@@ -21,7 +21,6 @@ export interface AccountsEntity {
   number?: string;
   owners: Owner[];
   iban?: string;
-  bic?: string;
 }
 
 export interface Bank {
