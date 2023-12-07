@@ -16,7 +16,8 @@ const getAccountStr = (account: AccountsEntity, accountName: string): string => 
   '',                               // payment_source
   '',                               // payment_destination
   account.iban,                     // iban
-  account.currency                  // currency
+  account.currency,                 // currency
+  account.bic                       // bic
 ].join('|');
 
 /**

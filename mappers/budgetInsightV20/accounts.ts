@@ -7,6 +7,7 @@ export const algoanAccountsToBIAccounts = (): any => {
     balance: account.balance,
     last_update: account.balanceDate,
     iban: account.iban,
+    bic: account.bic,
     currency: {
       id: account.currency,
     },
