@@ -21,6 +21,7 @@ export const algoanAccountsToLinxoAccounts = (): any => {
     usage: getLinxoUsage(account.usage),
     account_id: makeId(15),
     iban: account.iban,
+    bic: account.bic,
   });
 };
 

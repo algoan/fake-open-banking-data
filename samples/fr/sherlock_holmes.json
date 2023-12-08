@@ -10,7 +10,9 @@
         }
       ],
       "bank": {
-        "name": "Algoan Demo"
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
       },
       "currency": "EUR",
       "transactions": [
@@ -443,7 +445,8 @@
       "usage": "PERSONAL",
       "number": "account 01",
       "iban": "FR0519145744566282TTP6M6H96",
-      "owner": "SHERLOCK HOLMES"
+      "owner": "SHERLOCK HOLMES",
+      "bic": "BNPAFRPPXXX"
     }
   ]
 }

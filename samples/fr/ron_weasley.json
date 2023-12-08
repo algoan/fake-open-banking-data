@@ -10,7 +10,9 @@
         }
       ],
       "bank": {
-        "name": "Algoan Demo"
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
       },
       "currency": "EUR",
       "transactions": [
@@ -578,7 +580,8 @@
       "type": "CHECKING",
       "usage": "PERSONAL",
       "iban": "FR01975126577363SOP7FBPCM46",
-      "number": "account 01"
+      "number": "account 01",
+      "bic": "BNPAFRPPXXX"
     }
   ]
 }
