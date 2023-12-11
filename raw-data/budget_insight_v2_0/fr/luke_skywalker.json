@@ -6,592 +6,592 @@
         {
           "transactions": [
             {
-              "date": "2023-09-11T12:00:00.000Z",
-              "rdate": "2023-09-11T12:00:00.000Z",
+              "date": "2023-09-14T12:00:00.000Z",
+              "rdate": "2023-09-14T12:00:00.000Z",
               "currency": "EUR",
               "value": 259.7,
               "original_wording": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
-              "id": 211
+              "id": 292
             },
             {
-              "date": "2023-09-11T12:00:00.000Z",
-              "rdate": "2023-09-11T12:00:00.000Z",
+              "date": "2023-09-14T12:00:00.000Z",
+              "rdate": "2023-09-14T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 201.79,
+              "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
+              "id": 94
+            },
+            {
+              "date": "2023-09-18T12:00:00.000Z",
+              "rdate": "2023-09-18T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 620,
+              "original_wording": "VIREMENT EN VOTRE FAVEUR DE MME XXXXX",
+              "id": 253
+            },
+            {
+              "date": "2023-09-18T12:00:00.000Z",
+              "rdate": "2023-09-18T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -13.93,
+              "original_wording": "PAIEMENT PAR CARTE AUCHAN",
+              "id": 228
+            },
+            {
+              "date": "2023-09-19T12:00:00.000Z",
+              "rdate": "2023-09-19T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -12.32,
+              "original_wording": "ACHAT CB MCD",
+              "id": 651
+            },
+            {
+              "date": "2023-09-19T12:00:00.000Z",
+              "rdate": "2023-09-19T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -28.32,
+              "original_wording": "ACHAT CB PRIMARK",
+              "id": 408
+            },
+            {
+              "date": "2023-09-19T12:00:00.000Z",
+              "rdate": "2023-09-19T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -16.33,
+              "original_wording": "ACHAT CB LIDL",
+              "id": 819
+            },
+            {
+              "date": "2023-09-19T12:00:00.000Z",
+              "rdate": "2023-09-19T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -32.5,
+              "original_wording": "PRLV NAVIGO PASS",
+              "id": 36
+            },
+            {
+              "date": "2023-09-19T12:00:00.000Z",
+              "rdate": "2023-09-19T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -19.99,
+              "original_wording": "PRLV FREE HAUT DEBIT",
+              "id": 347
+            },
+            {
+              "date": "2023-09-19T12:00:00.000Z",
+              "rdate": "2023-09-19T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -24.99,
+              "original_wording": "PRLV BASIC FIT",
+              "id": 968
+            },
+            {
+              "date": "2023-09-22T12:00:00.000Z",
+              "rdate": "2023-09-22T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.99,
+              "original_wording": "ACHAT CB",
+              "id": 563
+            },
+            {
+              "date": "2023-09-23T12:00:00.000Z",
+              "rdate": "2023-09-23T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -8.99,
+              "original_wording": "PRLV SEPA FREE MOBILE",
+              "id": 273
+            },
+            {
+              "date": "2023-09-24T12:00:00.000Z",
+              "rdate": "2023-09-24T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -10.65,
+              "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
+              "id": 341
+            },
+            {
+              "date": "2023-09-24T12:00:00.000Z",
+              "rdate": "2023-09-24T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.24,
+              "original_wording": "ACHAT CB PHARMACIE PARIS XX",
+              "id": 380
+            },
+            {
+              "date": "2023-09-28T12:00:00.000Z",
+              "rdate": "2023-09-28T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -530,
+              "original_wording": "VIREMENT VERS M. XXXX",
+              "id": 805
+            },
+            {
+              "date": "2023-09-29T12:00:00.000Z",
+              "rdate": "2023-09-29T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -24.2,
+              "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
+              "id": 653
+            },
+            {
+              "date": "2023-10-01T12:00:00.000Z",
+              "rdate": "2023-10-01T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -10.44,
+              "original_wording": "ACHAT CB AMAZON",
+              "id": 89
+            },
+            {
+              "date": "2023-10-02T12:00:00.000Z",
+              "rdate": "2023-10-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -16.89,
+              "original_wording": "CARTE CB CONTRASTE",
+              "id": 947
+            },
+            {
+              "date": "2023-10-03T12:00:00.000Z",
+              "rdate": "2023-10-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -14,
+              "original_wording": "ACHAT CB",
+              "id": 976
+            },
+            {
+              "date": "2023-10-04T12:00:00.000Z",
+              "rdate": "2023-10-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -43.46,
+              "original_wording": "ECHEANCE COFIDIS PRET XXXXXXX",
+              "id": 916
+            },
+            {
+              "date": "2023-10-04T12:00:00.000Z",
+              "rdate": "2023-10-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -8.99,
+              "original_wording": "PAIEMENT PAR CARTE NETFLIX.COM",
+              "id": 109
+            },
+            {
+              "date": "2023-10-05T12:00:00.000Z",
+              "rdate": "2023-10-05T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -20.27,
+              "original_wording": "ACHAT CB",
+              "id": 942
+            },
+            {
+              "date": "2023-10-05T12:00:00.000Z",
+              "rdate": "2023-10-05T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -42.17,
+              "original_wording": "PAIEMENT PAR CARTE AUCHAN",
+              "id": 718
+            },
+            {
+              "date": "2023-10-06T12:00:00.000Z",
+              "rdate": "2023-10-06T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -16.4,
+              "original_wording": "ACHAT CB",
+              "id": 425
+            },
+            {
+              "date": "2023-10-13T12:00:00.000Z",
+              "rdate": "2023-10-13T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -30,
+              "original_wording": "CB RETRAIT",
+              "id": 516
+            },
+            {
+              "date": "2023-10-15T12:00:00.000Z",
+              "rdate": "2023-10-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 259.7,
+              "original_wording": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
+              "id": 884
+            },
+            {
+              "date": "2023-10-15T12:00:00.000Z",
+              "rdate": "2023-10-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 201.79,
+              "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
+              "id": 111
+            },
+            {
+              "date": "2023-10-17T12:00:00.000Z",
+              "rdate": "2023-10-17T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 620,
+              "original_wording": "VIREMENT EN VOTRE FAVEUR DE MME XXXXX",
+              "id": 593
+            },
+            {
+              "date": "2023-10-17T12:00:00.000Z",
+              "rdate": "2023-10-17T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -25.93,
+              "original_wording": "PAIEMENT PAR CARTE AUCHAN",
+              "id": 896
+            },
+            {
+              "date": "2023-10-17T12:00:00.000Z",
+              "rdate": "2023-10-17T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -28.32,
+              "original_wording": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
+              "id": 838
+            },
+            {
+              "date": "2023-10-18T12:00:00.000Z",
+              "rdate": "2023-10-18T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -16,
+              "original_wording": "ACHAT CB AMAZON",
+              "id": 504
+            },
+            {
+              "date": "2023-10-18T12:00:00.000Z",
+              "rdate": "2023-10-18T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.99,
+              "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
+              "id": 258
+            },
+            {
+              "date": "2023-10-20T12:00:00.000Z",
+              "rdate": "2023-10-20T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -19.99,
+              "original_wording": "PRLV FREE HAUT DEBIT",
+              "id": 406
+            },
+            {
+              "date": "2023-10-20T12:00:00.000Z",
+              "rdate": "2023-10-20T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -24.99,
+              "original_wording": "PRLV BASIC FIT",
+              "id": 398
+            },
+            {
+              "date": "2023-10-20T12:00:00.000Z",
+              "rdate": "2023-10-20T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -32.5,
+              "original_wording": "PRLV PASS NAVIGO",
+              "id": 406
+            },
+            {
+              "date": "2023-10-24T12:00:00.000Z",
+              "rdate": "2023-10-24T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -8.99,
+              "original_wording": "PRLV SEPA FREE MOBILE",
+              "id": 228
+            },
+            {
+              "date": "2023-10-25T12:00:00.000Z",
+              "rdate": "2023-10-25T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -30.65,
+              "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
+              "id": 668
+            },
+            {
+              "date": "2023-10-27T12:00:00.000Z",
+              "rdate": "2023-10-27T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.24,
+              "original_wording": "ACHAT CB PHARMACIE PARIS XX",
+              "id": 649
+            },
+            {
+              "date": "2023-10-29T12:00:00.000Z",
+              "rdate": "2023-10-29T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -530,
+              "original_wording": "VIREMENT VERS M. XXXX",
+              "id": 698
+            },
+            {
+              "date": "2023-10-30T12:00:00.000Z",
+              "rdate": "2023-10-30T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -24.2,
+              "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
+              "id": 824
+            },
+            {
+              "date": "2023-11-01T12:00:00.000Z",
+              "rdate": "2023-11-01T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -11.46,
+              "original_wording": "ACHAT CB AMAZON",
+              "id": 40
+            },
+            {
+              "date": "2023-11-02T12:00:00.000Z",
+              "rdate": "2023-11-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -28.89,
+              "original_wording": "CARTE CB LEADER PRICE",
+              "id": 357
+            },
+            {
+              "date": "2023-11-03T12:00:00.000Z",
+              "rdate": "2023-11-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -21,
+              "original_wording": "ACHAT CB",
+              "id": 676
+            },
+            {
+              "date": "2023-11-04T12:00:00.000Z",
+              "rdate": "2023-11-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -43.46,
+              "original_wording": "ECHEANCE COFIDIS PRET XXXXXXX",
+              "id": 407
+            },
+            {
+              "date": "2023-11-04T12:00:00.000Z",
+              "rdate": "2023-11-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -11.3,
+              "original_wording": "PAIEMENT PAR CARTE LIDL",
+              "id": 910
+            },
+            {
+              "date": "2023-11-04T12:00:00.000Z",
+              "rdate": "2023-11-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -8.99,
+              "original_wording": "PAIEMENT PAR CARTE NETFLIX.COM",
+              "id": 71
+            },
+            {
+              "date": "2023-11-05T12:00:00.000Z",
+              "rdate": "2023-11-05T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -25.26,
+              "original_wording": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
+              "id": 219
+            },
+            {
+              "date": "2023-11-05T12:00:00.000Z",
+              "rdate": "2023-11-05T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -42.17,
+              "original_wording": "PAIEMENT PAR CARTE AUCHAN",
+              "id": 818
+            },
+            {
+              "date": "2023-11-06T12:00:00.000Z",
+              "rdate": "2023-11-06T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -18.4,
+              "original_wording": "ACHAT CB",
+              "id": 185
+            },
+            {
+              "date": "2023-11-12T12:00:00.000Z",
+              "rdate": "2023-11-12T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -20.18,
+              "original_wording": "ACHAT CB LEADER PRICE",
+              "id": 922
+            },
+            {
+              "date": "2023-11-15T12:00:00.000Z",
+              "rdate": "2023-11-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 259.7,
+              "original_wording": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
+              "id": 980
+            },
+            {
+              "date": "2023-11-15T12:00:00.000Z",
+              "rdate": "2023-11-15T12:00:00.000Z",
               "currency": "EUR",
               "value": 201.79,
               "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
               "id": 734
             },
             {
-              "date": "2023-09-15T12:00:00.000Z",
-              "rdate": "2023-09-15T12:00:00.000Z",
+              "date": "2023-11-17T12:00:00.000Z",
+              "rdate": "2023-11-17T12:00:00.000Z",
               "currency": "EUR",
               "value": 620,
               "original_wording": "VIREMENT EN VOTRE FAVEUR DE MME XXXXX",
-              "id": 832
+              "id": 488
             },
             {
-              "date": "2023-09-15T12:00:00.000Z",
-              "rdate": "2023-09-15T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -13.93,
-              "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 936
-            },
-            {
-              "date": "2023-09-16T12:00:00.000Z",
-              "rdate": "2023-09-16T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -12.32,
-              "original_wording": "ACHAT CB MCD",
-              "id": 491
-            },
-            {
-              "date": "2023-09-16T12:00:00.000Z",
-              "rdate": "2023-09-16T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -28.32,
-              "original_wording": "ACHAT CB PRIMARK",
-              "id": 494
-            },
-            {
-              "date": "2023-09-16T12:00:00.000Z",
-              "rdate": "2023-09-16T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -16.33,
-              "original_wording": "ACHAT CB LIDL",
-              "id": 195
-            },
-            {
-              "date": "2023-09-16T12:00:00.000Z",
-              "rdate": "2023-09-16T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -32.5,
-              "original_wording": "PRLV NAVIGO PASS",
-              "id": 428
-            },
-            {
-              "date": "2023-09-16T12:00:00.000Z",
-              "rdate": "2023-09-16T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -19.99,
-              "original_wording": "PRLV FREE HAUT DEBIT",
-              "id": 803
-            },
-            {
-              "date": "2023-09-16T12:00:00.000Z",
-              "rdate": "2023-09-16T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -24.99,
-              "original_wording": "PRLV BASIC FIT",
-              "id": 830
-            },
-            {
-              "date": "2023-09-19T12:00:00.000Z",
-              "rdate": "2023-09-19T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -9.99,
-              "original_wording": "ACHAT CB",
-              "id": 750
-            },
-            {
-              "date": "2023-09-20T12:00:00.000Z",
-              "rdate": "2023-09-20T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -8.99,
-              "original_wording": "PRLV SEPA FREE MOBILE",
-              "id": 973
-            },
-            {
-              "date": "2023-09-21T12:00:00.000Z",
-              "rdate": "2023-09-21T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -10.65,
-              "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-              "id": 67
-            },
-            {
-              "date": "2023-09-21T12:00:00.000Z",
-              "rdate": "2023-09-21T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -15.24,
-              "original_wording": "ACHAT CB PHARMACIE PARIS XX",
-              "id": 931
-            },
-            {
-              "date": "2023-09-25T12:00:00.000Z",
-              "rdate": "2023-09-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -530,
-              "original_wording": "VIREMENT VERS M. XXXX",
-              "id": 210
-            },
-            {
-              "date": "2023-09-26T12:00:00.000Z",
-              "rdate": "2023-09-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -24.2,
-              "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-              "id": 260
-            },
-            {
-              "date": "2023-09-28T12:00:00.000Z",
-              "rdate": "2023-09-28T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -10.44,
-              "original_wording": "ACHAT CB AMAZON",
-              "id": 118
-            },
-            {
-              "date": "2023-09-29T12:00:00.000Z",
-              "rdate": "2023-09-29T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -16.89,
-              "original_wording": "CARTE CB CONTRASTE",
-              "id": 29
-            },
-            {
-              "date": "2023-09-30T12:00:00.000Z",
-              "rdate": "2023-09-30T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -14,
-              "original_wording": "ACHAT CB",
-              "id": 49
-            },
-            {
-              "date": "2023-10-01T12:00:00.000Z",
-              "rdate": "2023-10-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -43.46,
-              "original_wording": "ECHEANCE COFIDIS PRET XXXXXXX",
-              "id": 715
-            },
-            {
-              "date": "2023-10-01T12:00:00.000Z",
-              "rdate": "2023-10-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -8.99,
-              "original_wording": "PAIEMENT PAR CARTE NETFLIX.COM",
-              "id": 125
-            },
-            {
-              "date": "2023-10-02T12:00:00.000Z",
-              "rdate": "2023-10-02T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -20.27,
-              "original_wording": "ACHAT CB",
-              "id": 73
-            },
-            {
-              "date": "2023-10-02T12:00:00.000Z",
-              "rdate": "2023-10-02T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -42.17,
-              "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 237
-            },
-            {
-              "date": "2023-10-03T12:00:00.000Z",
-              "rdate": "2023-10-03T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -16.4,
-              "original_wording": "ACHAT CB",
-              "id": 329
-            },
-            {
-              "date": "2023-10-10T12:00:00.000Z",
-              "rdate": "2023-10-10T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -30,
-              "original_wording": "CB RETRAIT",
-              "id": 981
-            },
-            {
-              "date": "2023-10-12T12:00:00.000Z",
-              "rdate": "2023-10-12T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 259.7,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
-              "id": 735
-            },
-            {
-              "date": "2023-10-12T12:00:00.000Z",
-              "rdate": "2023-10-12T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 201.79,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
-              "id": 582
-            },
-            {
-              "date": "2023-10-14T12:00:00.000Z",
-              "rdate": "2023-10-14T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 620,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR DE MME XXXXX",
-              "id": 92
-            },
-            {
-              "date": "2023-10-14T12:00:00.000Z",
-              "rdate": "2023-10-14T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -25.93,
-              "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 807
-            },
-            {
-              "date": "2023-10-14T12:00:00.000Z",
-              "rdate": "2023-10-14T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -28.32,
-              "original_wording": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
-              "id": 824
-            },
-            {
-              "date": "2023-10-15T12:00:00.000Z",
-              "rdate": "2023-10-15T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -16,
-              "original_wording": "ACHAT CB AMAZON",
-              "id": 664
-            },
-            {
-              "date": "2023-10-15T12:00:00.000Z",
-              "rdate": "2023-10-15T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -9.99,
-              "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-              "id": 605
-            },
-            {
-              "date": "2023-10-17T12:00:00.000Z",
-              "rdate": "2023-10-17T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -19.99,
-              "original_wording": "PRLV FREE HAUT DEBIT",
-              "id": 491
-            },
-            {
-              "date": "2023-10-17T12:00:00.000Z",
-              "rdate": "2023-10-17T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -24.99,
-              "original_wording": "PRLV BASIC FIT",
-              "id": 19
-            },
-            {
-              "date": "2023-10-17T12:00:00.000Z",
-              "rdate": "2023-10-17T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -32.5,
-              "original_wording": "PRLV PASS NAVIGO",
-              "id": 59
-            },
-            {
-              "date": "2023-10-21T12:00:00.000Z",
-              "rdate": "2023-10-21T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -8.99,
-              "original_wording": "PRLV SEPA FREE MOBILE",
-              "id": 854
-            },
-            {
-              "date": "2023-10-22T12:00:00.000Z",
-              "rdate": "2023-10-22T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -30.65,
-              "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-              "id": 399
-            },
-            {
-              "date": "2023-10-24T12:00:00.000Z",
-              "rdate": "2023-10-24T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -15.24,
-              "original_wording": "ACHAT CB PHARMACIE PARIS XX",
-              "id": 626
-            },
-            {
-              "date": "2023-10-26T12:00:00.000Z",
-              "rdate": "2023-10-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -530,
-              "original_wording": "VIREMENT VERS M. XXXX",
-              "id": 117
-            },
-            {
-              "date": "2023-10-27T12:00:00.000Z",
-              "rdate": "2023-10-27T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -24.2,
-              "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-              "id": 218
-            },
-            {
-              "date": "2023-10-29T12:00:00.000Z",
-              "rdate": "2023-10-29T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -11.46,
-              "original_wording": "ACHAT CB AMAZON",
-              "id": 926
-            },
-            {
-              "date": "2023-10-30T12:00:00.000Z",
-              "rdate": "2023-10-30T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -28.89,
-              "original_wording": "CARTE CB LEADER PRICE",
-              "id": 108
-            },
-            {
-              "date": "2023-10-31T12:00:00.000Z",
-              "rdate": "2023-10-31T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -21,
-              "original_wording": "ACHAT CB",
-              "id": 837
-            },
-            {
-              "date": "2023-11-01T12:00:00.000Z",
-              "rdate": "2023-11-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -43.46,
-              "original_wording": "ECHEANCE COFIDIS PRET XXXXXXX",
-              "id": 294
-            },
-            {
-              "date": "2023-11-01T12:00:00.000Z",
-              "rdate": "2023-11-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -11.3,
-              "original_wording": "PAIEMENT PAR CARTE LIDL",
-              "id": 701
-            },
-            {
-              "date": "2023-11-01T12:00:00.000Z",
-              "rdate": "2023-11-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -8.99,
-              "original_wording": "PAIEMENT PAR CARTE NETFLIX.COM",
-              "id": 810
-            },
-            {
-              "date": "2023-11-02T12:00:00.000Z",
-              "rdate": "2023-11-02T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -25.26,
-              "original_wording": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
-              "id": 112
-            },
-            {
-              "date": "2023-11-02T12:00:00.000Z",
-              "rdate": "2023-11-02T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -42.17,
-              "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 593
-            },
-            {
-              "date": "2023-11-03T12:00:00.000Z",
-              "rdate": "2023-11-03T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -18.4,
-              "original_wording": "ACHAT CB",
-              "id": 139
-            },
-            {
-              "date": "2023-11-09T12:00:00.000Z",
-              "rdate": "2023-11-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -20.18,
-              "original_wording": "ACHAT CB LEADER PRICE",
-              "id": 193
-            },
-            {
-              "date": "2023-11-12T12:00:00.000Z",
-              "rdate": "2023-11-12T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 259.7,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
-              "id": 949
-            },
-            {
-              "date": "2023-11-12T12:00:00.000Z",
-              "rdate": "2023-11-12T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 201.79,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
-              "id": 587
-            },
-            {
-              "date": "2023-11-14T12:00:00.000Z",
-              "rdate": "2023-11-14T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 620,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR DE MME XXXXX",
-              "id": 112
-            },
-            {
-              "date": "2023-11-14T12:00:00.000Z",
-              "rdate": "2023-11-14T12:00:00.000Z",
+              "date": "2023-11-17T12:00:00.000Z",
+              "rdate": "2023-11-17T12:00:00.000Z",
               "currency": "EUR",
               "value": -9.83,
               "original_wording": "ACHAT CB FROG",
-              "id": 367
+              "id": 97
             },
             {
-              "date": "2023-11-14T12:00:00.000Z",
-              "rdate": "2023-11-14T12:00:00.000Z",
+              "date": "2023-11-17T12:00:00.000Z",
+              "rdate": "2023-11-17T12:00:00.000Z",
               "currency": "EUR",
               "value": -21.36,
               "original_wording": "ACHAT CB UBER EATS EUR 21,36 CARTE NO XXX",
-              "id": 606
+              "id": 6
             },
             {
-              "date": "2023-11-15T12:00:00.000Z",
-              "rdate": "2023-11-15T12:00:00.000Z",
+              "date": "2023-11-18T12:00:00.000Z",
+              "rdate": "2023-11-18T12:00:00.000Z",
               "currency": "EUR",
               "value": -20.56,
               "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 148
+              "id": 383
             },
             {
-              "date": "2023-11-15T12:00:00.000Z",
-              "rdate": "2023-11-15T12:00:00.000Z",
+              "date": "2023-11-18T12:00:00.000Z",
+              "rdate": "2023-11-18T12:00:00.000Z",
               "currency": "EUR",
               "value": -19.99,
               "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-              "id": 400
+              "id": 217
             },
             {
-              "date": "2023-11-17T12:00:00.000Z",
-              "rdate": "2023-11-17T12:00:00.000Z",
+              "date": "2023-11-20T12:00:00.000Z",
+              "rdate": "2023-11-20T12:00:00.000Z",
               "currency": "EUR",
               "value": -19.99,
               "original_wording": "PRLV FREE HAUT DEBIT",
-              "id": 574
+              "id": 686
             },
             {
-              "date": "2023-11-17T12:00:00.000Z",
-              "rdate": "2023-11-17T12:00:00.000Z",
+              "date": "2023-11-20T12:00:00.000Z",
+              "rdate": "2023-11-20T12:00:00.000Z",
               "currency": "EUR",
               "value": -24.99,
               "original_wording": "PRLV BASIC FIT",
-              "id": 532
+              "id": 871
             },
             {
-              "date": "2023-11-17T12:00:00.000Z",
-              "rdate": "2023-11-17T12:00:00.000Z",
+              "date": "2023-11-20T12:00:00.000Z",
+              "rdate": "2023-11-20T12:00:00.000Z",
               "currency": "EUR",
               "value": -32.5,
               "original_wording": "PRLV PASS NAVIGO",
-              "id": 660
+              "id": 185
             },
             {
-              "date": "2023-11-21T12:00:00.000Z",
-              "rdate": "2023-11-21T12:00:00.000Z",
+              "date": "2023-11-24T12:00:00.000Z",
+              "rdate": "2023-11-24T12:00:00.000Z",
               "currency": "EUR",
               "value": -8.99,
               "original_wording": "PRLV SEPA FREE MOBILE",
-              "id": 845
+              "id": 827
             },
             {
-              "date": "2023-11-22T12:00:00.000Z",
-              "rdate": "2023-11-22T12:00:00.000Z",
+              "date": "2023-11-25T12:00:00.000Z",
+              "rdate": "2023-11-25T12:00:00.000Z",
               "currency": "EUR",
               "value": -22.65,
               "original_wording": "ACHAT CB AMAZON",
-              "id": 961
+              "id": 607
             },
             {
-              "date": "2023-11-24T12:00:00.000Z",
-              "rdate": "2023-11-24T12:00:00.000Z",
+              "date": "2023-11-27T12:00:00.000Z",
+              "rdate": "2023-11-27T12:00:00.000Z",
               "currency": "EUR",
               "value": -18.24,
               "original_wording": "ACHAT CB FNAC",
-              "id": 164
+              "id": 136
             },
             {
-              "date": "2023-11-24T12:00:00.000Z",
-              "rdate": "2023-11-24T12:00:00.000Z",
+              "date": "2023-11-27T12:00:00.000Z",
+              "rdate": "2023-11-27T12:00:00.000Z",
               "currency": "EUR",
               "value": -24.2,
               "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-              "id": 384
-            },
-            {
-              "date": "2023-11-26T12:00:00.000Z",
-              "rdate": "2023-11-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -530,
-              "original_wording": "VIREMENT VERS M. XXXX",
-              "id": 655
+              "id": 430
             },
             {
               "date": "2023-11-29T12:00:00.000Z",
               "rdate": "2023-11-29T12:00:00.000Z",
               "currency": "EUR",
-              "value": -49.96,
-              "original_wording": "ACHAT CB AMAZON",
-              "id": 629
+              "value": -530,
+              "original_wording": "VIREMENT VERS M. XXXX",
+              "id": 238
             },
             {
-              "date": "2023-11-30T12:00:00.000Z",
-              "rdate": "2023-11-30T12:00:00.000Z",
+              "date": "2023-12-02T12:00:00.000Z",
+              "rdate": "2023-12-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -49.96,
+              "original_wording": "ACHAT CB AMAZON",
+              "id": 382
+            },
+            {
+              "date": "2023-12-03T12:00:00.000Z",
+              "rdate": "2023-12-03T12:00:00.000Z",
               "currency": "EUR",
               "value": -20.89,
               "original_wording": "CARTE CB LEADER PRICE",
-              "id": 402
+              "id": 725
             },
             {
-              "date": "2023-12-01T12:00:00.000Z",
-              "rdate": "2023-12-01T12:00:00.000Z",
+              "date": "2023-12-04T12:00:00.000Z",
+              "rdate": "2023-12-04T12:00:00.000Z",
               "currency": "EUR",
               "value": -18.3,
               "original_wording": "ACHAT CB UBER EATS EUR 18,3 CARTE NO XXX",
-              "id": 421
+              "id": 689
             },
             {
-              "date": "2023-12-02T12:00:00.000Z",
-              "rdate": "2023-12-02T12:00:00.000Z",
+              "date": "2023-12-05T12:00:00.000Z",
+              "rdate": "2023-12-05T12:00:00.000Z",
               "currency": "EUR",
               "value": -43.46,
               "original_wording": "ECHEANCE COFIDIS PRET XXXXXXX",
-              "id": 214
+              "id": 635
             },
             {
-              "date": "2023-12-02T12:00:00.000Z",
-              "rdate": "2023-12-02T12:00:00.000Z",
+              "date": "2023-12-05T12:00:00.000Z",
+              "rdate": "2023-12-05T12:00:00.000Z",
               "currency": "EUR",
               "value": -8.99,
               "original_wording": "PAIEMENT PAR CARTE NETFLIX.COM",
-              "id": 542
+              "id": 167
             },
             {
-              "date": "2023-12-03T12:00:00.000Z",
-              "rdate": "2023-12-03T12:00:00.000Z",
+              "date": "2023-12-06T12:00:00.000Z",
+              "rdate": "2023-12-06T12:00:00.000Z",
               "currency": "EUR",
               "value": -19.26,
               "original_wording": "ACHAT CB UBER EATS EUR 19,26 CARTE NO XXX",
-              "id": 804
+              "id": 413
             },
             {
-              "date": "2023-12-03T12:00:00.000Z",
-              "rdate": "2023-12-03T12:00:00.000Z",
+              "date": "2023-12-06T12:00:00.000Z",
+              "rdate": "2023-12-06T12:00:00.000Z",
               "currency": "EUR",
               "value": -16.17,
               "original_wording": "ACHAT CB",
-              "id": 803
+              "id": 442
             },
             {
-              "date": "2023-12-08T12:00:00.000Z",
-              "rdate": "2023-12-08T12:00:00.000Z",
+              "date": "2023-12-11T12:00:00.000Z",
+              "rdate": "2023-12-11T12:00:00.000Z",
               "currency": "EUR",
               "value": -39.4,
               "original_wording": "ACHAT CB AUCHAN",
-              "id": 261
+              "id": 819
             }
           ],
           "balance": -159.9,
-          "last_update": "2023-12-08T12:00:00.000Z",
+          "last_update": "2023-12-11T12:00:00.000Z",
           "iban": "FR4366418334728UEL38JQXDG31",
           "bic": "BNPAFRPPXXX",
           "currency": {
@@ -599,7 +599,7 @@
           },
           "type": "checking",
           "usage": "PRIV",
-          "id": 906
+          "id": 56
         }
       ]
     }
