@@ -182,3 +182,73 @@
 - Has light overdraft at end of month
 - Has standard expenses: power, telecom, transport, multimedia, gym
 - Has savings
+
+## Account type not supported
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                                       |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/account_type_not_supported.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/account_type_not_supported.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/account_type_not_supported.json) |
+
+**Description**:
+
+This error occurs when there is not at least one checking account provided for the analysis.
+
+## Currency not supported
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                                   |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/currency_not_supported.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/currency_not_supported.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/currency_not_supported.json) |
+
+**Description**:
+
+This error occurs when one account has a different currency from the one in the project's configuration.
+
+## No checking account
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                                |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/no_checking_account.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/no_checking_account.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/no_checking_account.json) |
+
+**Description**:
+
+This error occurs if there is not at least one non-professional checking account provided for the analysis.
+
+## Not enough transactions
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/not_enough_transactions.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/not_enough_transactions.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/not_enough_transactions.json) |
+
+**Description**:
+
+This error occurs when there is not enough transactions to compute the analysis.
+
+## Ownership not supported
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/ownership_not_supported.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/ownership_not_supported.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/ownership_not_supported.json) |
+
+**Description**:
+
+This error occurs when there is not at least one account with an ownership different from 'ATTORNEY' provided for the analysis.
