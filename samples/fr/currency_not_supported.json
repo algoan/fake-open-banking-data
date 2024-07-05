@@ -1,0 +1,60 @@
+{
+  "accounts": [
+    {
+      "transactions": [
+        {
+          "amount": 1000,
+          "description": "VIR SALAIRE ALGOAN",
+          "dates": {
+            "debitedAt": "2021-05-15T22:00:00Z"
+          },
+          "currency": "USD"
+        },
+        {
+          "currency": "USD",
+          "dates": {
+            "debitedAt": "2024-04-06T12:00:00.000Z"
+          },
+          "description": "PRELEVEMENT HARRY POTTER PRELEVEMENT CARTE ZERO FAST3280420323",
+          "amount": 101.67
+        },
+        {
+          "currency": "USD",
+          "dates": {
+            "debitedAt": "2024-04-06T12:00:00.000Z"
+          },
+          "description": "PRLV SEPA POTTER HARRY ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
+          "amount": 150
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2024-04-07T12:00:00.000Z"
+          },
+          "description": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
+          "amount": 75.2
+        },
+        {
+          "currency": "USD",
+          "dates": {
+            "debitedAt": "2024-04-07T12:00:00.000Z"
+          },
+          "description": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
+          "amount": 399.89
+        }
+      ],
+      "balance": 1457.16,
+      "balanceDate": "2023-08-31T12:00:00.000Z",
+      "iban": "FR1958145846888DDFQXKV7CA18",
+      "currency": "USD",
+      "type": "CHECKING",
+      "usage": "PERSONAL",
+      "name": "Compte courant 01",
+      "bank": {
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
+      }
+    }
+  ]
+}

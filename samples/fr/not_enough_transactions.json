@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "transactions": [],
+      "balance": 1457.16,
+      "balanceDate": "2023-08-31T12:00:00.000Z",
+      "iban": "FR1248145844888DDFQXKV7BY13",
+      "currency": "EUR",
+      "type": "CHECKING",
+      "usage": "PERSONAL",
+      "name": "Compte courant 01",
+      "bank": {
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
+      }
+    },
+    {
+      "transactions": [],
+      "balance": -120,
+      "balanceDate": "2023-08-31T12:00:00.000Z",
+      "iban": "FR7158308147881N2Z8VVNBLU24",
+      "currency": "EUR",
+      "type": "LOAN",
+      "usage": "PERSONAL",
+      "ownership": "ATTORNEY",
+      "id": 924,
+      "name": "Compte carte 01",
+      "bank": {
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
+      }
+    }
+  ]
+}
