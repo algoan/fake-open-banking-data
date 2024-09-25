@@ -6,14 +6,14 @@
           "amount": 1000,
           "description": "VIR SALAIRE ALGOAN",
           "dates": {
-            "debitedAt": "2022-06-09T12:00:00.000Z"
+            "debitedAt": "2022-06-10T12:00:00.000Z"
           },
           "currency": "USD"
         },
         {
           "currency": "USD",
           "dates": {
-            "debitedAt": "2025-05-01T12:00:00.000Z"
+            "debitedAt": "2025-05-02T12:00:00.000Z"
           },
           "description": "PRELEVEMENT HARRY POTTER PRELEVEMENT CARTE ZERO FAST3280420323",
           "amount": 101.67
@@ -21,7 +21,7 @@
         {
           "currency": "USD",
           "dates": {
-            "debitedAt": "2025-05-01T12:00:00.000Z"
+            "debitedAt": "2025-05-02T12:00:00.000Z"
           },
           "description": "PRLV SEPA POTTER HARRY ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
           "amount": 150
@@ -29,7 +29,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2025-05-02T12:00:00.000Z"
+            "debitedAt": "2025-05-03T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
           "amount": 75.2
@@ -37,7 +37,7 @@
         {
           "currency": "USD",
           "dates": {
-            "debitedAt": "2025-05-02T12:00:00.000Z"
+            "debitedAt": "2025-05-03T12:00:00.000Z"
           },
           "description": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
           "amount": 399.89
@@ -49,7 +49,7 @@
         }
       ],
       "balance": 1457.16,
-      "balanceDate": "2024-09-24T12:00:00.000Z",
+      "balanceDate": "2024-09-25T12:00:00.000Z",
       "iban": "FR1958145846888DDFQXKV7CA18",
       "currency": "USD",
       "type": "CHECKING",
