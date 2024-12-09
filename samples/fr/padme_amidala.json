@@ -3,7 +3,7 @@
     {
       "name": "Compte Courant 01",
       "balance": 1014.38,
-      "balanceDate": "2024-12-06T12:00:00.000Z",
+      "balanceDate": "2024-12-09T12:00:00.000Z",
       "owners": [
         {
           "name": "PADME AMIDALA"
@@ -19,7 +19,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-09T12:00:00.000Z"
+            "debitedAt": "2024-09-12T12:00:00.000Z"
           },
           "description": "CB RETRAIT",
           "amount": -80
@@ -27,7 +27,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-09T12:00:00.000Z"
+            "debitedAt": "2024-09-12T12:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 400
@@ -35,7 +35,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-13T12:00:00.000Z"
+            "debitedAt": "2024-09-16T12:00:00.000Z"
           },
           "description": "VIREMENT LOYER PAR MR XXXX",
           "amount": 400
@@ -43,7 +43,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-13T12:00:00.000Z"
+            "debitedAt": "2024-09-16T12:00:00.000Z"
           },
           "description": "CB RETRAIT",
           "amount": -45
@@ -51,7 +51,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-14T12:00:00.000Z"
+            "debitedAt": "2024-09-17T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE CARREFOUR",
           "amount": -45.93
@@ -59,7 +59,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-14T12:00:00.000Z"
+            "debitedAt": "2024-09-17T12:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 30,32 CARTE NO XXX",
           "amount": -30.32
@@ -67,7 +67,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-14T12:00:00.000Z"
+            "debitedAt": "2024-09-17T12:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
           "amount": -160
@@ -75,7 +75,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-14T12:00:00.000Z"
+            "debitedAt": "2024-09-17T12:00:00.000Z"
           },
           "description": "ACHAT CB DOBELL XXXX CARTE NUMERO XXX",
           "amount": -45.4
@@ -83,7 +83,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-14T12:00:00.000Z"
+            "debitedAt": "2024-09-17T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE Orange REF",
           "amount": -39.99
@@ -91,7 +91,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-14T12:00:00.000Z"
+            "debitedAt": "2024-09-17T12:00:00.000Z"
           },
           "description": "PRET IMMOBILIER ECH XXXXXX",
           "amount": -600
@@ -99,7 +99,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-15T12:00:00.000Z"
+            "debitedAt": "2024-09-18T12:00:00.000Z"
           },
           "description": "Prélèvement de Eca Assurances",
           "amount": -60
@@ -107,7 +107,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-17T12:00:00.000Z"
+            "debitedAt": "2024-09-20T12:00:00.000Z"
           },
           "description": "VIREMENT MR XXX",
           "amount": -200
@@ -115,7 +115,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-18T12:00:00.000Z"
+            "debitedAt": "2024-09-21T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ACTIVE ASSURANCES REF",
           "amount": -130
@@ -123,7 +123,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-19T12:00:00.000Z"
+            "debitedAt": "2024-09-22T12:00:00.000Z"
           },
           "description": "PRLV SEPA ORANGE MOBILE",
           "amount": -19.99
@@ -131,7 +131,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-19T12:00:00.000Z"
+            "debitedAt": "2024-09-22T12:00:00.000Z"
           },
           "description": "ACHAT CB ZARA XXXX CARTE NUMERO XXX",
           "amount": -150.65
@@ -139,7 +139,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-23T12:00:00.000Z"
+            "debitedAt": "2024-09-26T12:00:00.000Z"
           },
           "description": "ACHAT CB PHARMACIE PARIS XX",
           "amount": -75.24
@@ -147,7 +147,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-24T12:00:00.000Z"
+            "debitedAt": "2024-09-27T12:00:00.000Z"
           },
           "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
           "amount": -24.2
@@ -155,7 +155,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-26T12:00:00.000Z"
+            "debitedAt": "2024-09-29T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ACTIVE ASSURANCES",
           "amount": -44.3
@@ -163,7 +163,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-27T12:00:00.000Z"
+            "debitedAt": "2024-09-30T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -71.46
@@ -171,7 +171,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-28T12:00:00.000Z"
+            "debitedAt": "2024-10-01T12:00:00.000Z"
           },
           "description": "CARTE CB AUCHAN",
           "amount": -78.89
@@ -179,7 +179,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-29T12:00:00.000Z"
+            "debitedAt": "2024-10-02T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -34
@@ -187,7 +187,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-29T12:00:00.000Z"
+            "debitedAt": "2024-10-02T12:00:00.000Z"
           },
           "description": "ACHAT CB FROG",
           "amount": -33.46
@@ -195,7 +195,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-29T12:00:00.000Z"
+            "debitedAt": "2024-10-02T12:00:00.000Z"
           },
           "description": "ASSURANCE RETRAITE CNAV",
           "amount": 1300
@@ -203,7 +203,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-30T12:00:00.000Z"
+            "debitedAt": "2024-10-03T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -39.27
@@ -211,7 +211,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-09-30T12:00:00.000Z"
+            "debitedAt": "2024-10-03T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE CARREFOUR",
           "amount": -42.17
@@ -219,7 +219,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-01T12:00:00.000Z"
+            "debitedAt": "2024-10-04T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -16.4
@@ -227,7 +227,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-08T12:00:00.000Z"
+            "debitedAt": "2024-10-11T12:00:00.000Z"
           },
           "description": "CB RETRAIT",
           "amount": -100
@@ -235,7 +235,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-10T12:00:00.000Z"
+            "debitedAt": "2024-10-13T12:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 400
@@ -243,7 +243,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-10T12:00:00.000Z"
+            "debitedAt": "2024-10-13T12:00:00.000Z"
           },
           "description": "VIREMENT LOYER PAR MR XXXX",
           "amount": 400
@@ -251,7 +251,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-12T12:00:00.000Z"
+            "debitedAt": "2024-10-15T12:00:00.000Z"
           },
           "description": "CB RETRAIT",
           "amount": -45
@@ -259,7 +259,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-12T12:00:00.000Z"
+            "debitedAt": "2024-10-15T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE CARREFOUR",
           "amount": -35.93
@@ -267,7 +267,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-12T12:00:00.000Z"
+            "debitedAt": "2024-10-15T12:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
           "amount": -28.32
@@ -275,7 +275,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-13T12:00:00.000Z"
+            "debitedAt": "2024-10-16T12:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
           "amount": -160
@@ -283,7 +283,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-13T12:00:00.000Z"
+            "debitedAt": "2024-10-16T12:00:00.000Z"
           },
           "description": "ACHAT CB DOBELL XXXX CARTE NUMERO XXX",
           "amount": -45.4
@@ -291,7 +291,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-15T12:00:00.000Z"
+            "debitedAt": "2024-10-18T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE Orange REF",
           "amount": -39.99
@@ -299,7 +299,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-15T12:00:00.000Z"
+            "debitedAt": "2024-10-18T12:00:00.000Z"
           },
           "description": "PRET IMMOBILIER ECH XXXXXX",
           "amount": -600
@@ -307,7 +307,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-15T12:00:00.000Z"
+            "debitedAt": "2024-10-18T12:00:00.000Z"
           },
           "description": "VIREMENT MR XXX",
           "amount": -200
@@ -315,7 +315,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-16T12:00:00.000Z"
+            "debitedAt": "2024-10-19T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ACTIVE ASSURANCES REF",
           "amount": -130
@@ -323,7 +323,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-16T12:00:00.000Z"
+            "debitedAt": "2024-10-19T12:00:00.000Z"
           },
           "description": "Prélèvement de Eca Assurances",
           "amount": -60
@@ -331,7 +331,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-19T12:00:00.000Z"
+            "debitedAt": "2024-10-22T12:00:00.000Z"
           },
           "description": "PRLV SEPA ORANGE MOBILE",
           "amount": -19.99
@@ -339,7 +339,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-20T12:00:00.000Z"
+            "debitedAt": "2024-10-23T12:00:00.000Z"
           },
           "description": "ACHAT CB ZARA XXXX CARTE NUMERO XXX",
           "amount": -50.65
@@ -347,7 +347,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-22T12:00:00.000Z"
+            "debitedAt": "2024-10-25T12:00:00.000Z"
           },
           "description": "ACHAT CB PHARMACIE PARIS XX",
           "amount": -15.24
@@ -355,7 +355,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-24T12:00:00.000Z"
+            "debitedAt": "2024-10-27T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ACTIVE ASSURANCES",
           "amount": -44.3
@@ -363,7 +363,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-25T12:00:00.000Z"
+            "debitedAt": "2024-10-28T12:00:00.000Z"
           },
           "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
           "amount": -24.2
@@ -371,7 +371,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-27T12:00:00.000Z"
+            "debitedAt": "2024-10-30T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -91.46
@@ -379,7 +379,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-28T12:00:00.000Z"
+            "debitedAt": "2024-10-31T12:00:00.000Z"
           },
           "description": "CARTE CB AUCHAN",
           "amount": -78.89
@@ -387,7 +387,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-29T12:00:00.000Z"
+            "debitedAt": "2024-11-01T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -56
@@ -395,7 +395,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-30T12:00:00.000Z"
+            "debitedAt": "2024-11-02T12:00:00.000Z"
           },
           "description": "ACHAT CB JULES",
           "amount": -83.46
@@ -403,7 +403,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-30T12:00:00.000Z"
+            "debitedAt": "2024-11-02T12:00:00.000Z"
           },
           "description": "ASSURANCE RETRAITE CNAV",
           "amount": 1300
@@ -411,7 +411,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-30T12:00:00.000Z"
+            "debitedAt": "2024-11-02T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -56.27
@@ -419,7 +419,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-31T12:00:00.000Z"
+            "debitedAt": "2024-11-03T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE CARREFOUR",
           "amount": -32.17
@@ -427,7 +427,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-10-31T12:00:00.000Z"
+            "debitedAt": "2024-11-03T12:00:00.000Z"
           },
           "description": "CB RETRAIT",
           "amount": -200
@@ -435,7 +435,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-01T12:00:00.000Z"
+            "debitedAt": "2024-11-04T12:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 56 CARTE NO XXX",
           "amount": -56
@@ -443,7 +443,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-07T12:00:00.000Z"
+            "debitedAt": "2024-11-10T12:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 400
@@ -451,7 +451,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-10T12:00:00.000Z"
+            "debitedAt": "2024-11-13T12:00:00.000Z"
           },
           "description": "VIREMENT LOYER PAR MR XXXX",
           "amount": 400
@@ -459,7 +459,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-10T12:00:00.000Z"
+            "debitedAt": "2024-11-13T12:00:00.000Z"
           },
           "description": "CB RETRAIT",
           "amount": -45
@@ -467,7 +467,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-12T12:00:00.000Z"
+            "debitedAt": "2024-11-15T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE CARREFOUR",
           "amount": -60.54
@@ -475,7 +475,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-12T12:00:00.000Z"
+            "debitedAt": "2024-11-15T12:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
           "amount": -18.32
@@ -483,7 +483,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-12T12:00:00.000Z"
+            "debitedAt": "2024-11-15T12:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
           "amount": -80
@@ -491,7 +491,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-13T12:00:00.000Z"
+            "debitedAt": "2024-11-16T12:00:00.000Z"
           },
           "description": "ACHAT CB DOBELL XXXX CARTE NUMERO XXX",
           "amount": -32.4
@@ -499,7 +499,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-13T12:00:00.000Z"
+            "debitedAt": "2024-11-16T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE Orange REF",
           "amount": -39.99
@@ -507,7 +507,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-15T12:00:00.000Z"
+            "debitedAt": "2024-11-18T12:00:00.000Z"
           },
           "description": "PRET IMMOBILIER ECH XXXXXX",
           "amount": -600
@@ -515,7 +515,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-15T12:00:00.000Z"
+            "debitedAt": "2024-11-18T12:00:00.000Z"
           },
           "description": "VIREMENT MR XXX",
           "amount": -200
@@ -523,7 +523,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-15T12:00:00.000Z"
+            "debitedAt": "2024-11-18T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ACTIVE ASSURANCES REF",
           "amount": -130
@@ -531,7 +531,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-16T12:00:00.000Z"
+            "debitedAt": "2024-11-19T12:00:00.000Z"
           },
           "description": "Prélèvement de Eca Assurances",
           "amount": -60
@@ -539,7 +539,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-19T12:00:00.000Z"
+            "debitedAt": "2024-11-22T12:00:00.000Z"
           },
           "description": "PRLV SEPA ORANGE MOBILE",
           "amount": -19.99
@@ -547,7 +547,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-20T12:00:00.000Z"
+            "debitedAt": "2024-11-23T12:00:00.000Z"
           },
           "description": "ACHAT CB PRIMARK XXXX CARTE NUMERO XXX",
           "amount": -60.65
@@ -555,7 +555,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-22T12:00:00.000Z"
+            "debitedAt": "2024-11-25T12:00:00.000Z"
           },
           "description": "ACHAT CB PHARMACIE PARIS XX",
           "amount": -35.24
@@ -563,7 +563,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-22T12:00:00.000Z"
+            "debitedAt": "2024-11-25T12:00:00.000Z"
           },
           "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
           "amount": -24.2
@@ -571,7 +571,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-24T12:00:00.000Z"
+            "debitedAt": "2024-11-27T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE ACTIVE ASSURANCES",
           "amount": -44.3
@@ -579,7 +579,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-27T12:00:00.000Z"
+            "debitedAt": "2024-11-30T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -81.46
@@ -587,7 +587,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-28T12:00:00.000Z"
+            "debitedAt": "2024-12-01T12:00:00.000Z"
           },
           "description": "CARTE CB AUCHAN",
           "amount": -58.89
@@ -595,7 +595,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-29T12:00:00.000Z"
+            "debitedAt": "2024-12-02T12:00:00.000Z"
           },
           "description": "CB RETRAIT",
           "amount": -50
@@ -603,7 +603,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-30T12:00:00.000Z"
+            "debitedAt": "2024-12-03T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -39.46
@@ -611,7 +611,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-11-30T12:00:00.000Z"
+            "debitedAt": "2024-12-03T12:00:00.000Z"
           },
           "description": "ASSURANCE RETRAITE CNAV",
           "amount": 1300
@@ -619,7 +619,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-12-01T12:00:00.000Z"
+            "debitedAt": "2024-12-04T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -39.27
@@ -627,7 +627,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-12-01T12:00:00.000Z"
+            "debitedAt": "2024-12-04T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE CARREFOUR",
           "amount": -42.17
@@ -635,7 +635,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2024-12-06T12:00:00.000Z"
+            "debitedAt": "2024-12-09T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -16.4
