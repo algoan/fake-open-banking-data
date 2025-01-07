@@ -252,3 +252,17 @@ This error occurs when there is not enough transactions to compute the analysis.
 **Description**:
 
 This error occurs when there is not at least one account with an ownership different from 'ATTORNEY' provided for the analysis.
+
+## Société Lumière et Fils
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/societe_lumiere_et_fils.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/societe_lumiere_et_fils.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/societe_lumiere_et_fils.json) |
+
+**Description**:
+
+- Business profile
