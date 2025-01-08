@@ -253,15 +253,15 @@ This error occurs when there is not enough transactions to compute the analysis.
 
 This error occurs when there is not at least one account with an ownership different from 'ATTORNEY' provided for the analysis.
 
-## Société Lumière et Fils
+## Société Lambda Auto
 
 **Language**: French 🇫🇷
 
 | Format                       | Link                                                                                                                                                    |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/societe_lumiere_et_fils.json)                                      |
-| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/societe_lumiere_et_fils.json)                 |
-| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/societe_lumiere_et_fils.json) |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/societe_lambda_auto.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/societe_lambda_auto.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/societe_lambda_auto.json) |
 
 **Description**:
 
