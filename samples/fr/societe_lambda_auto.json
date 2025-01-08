@@ -1,0 +1,1965 @@
+{
+  "accounts": [
+    {
+      "bank": {
+        "name": "Algoan Démo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
+      },
+      "name": "Compte courant 1",
+      "currency": "EUR",
+      "usage": "PROFESSIONAL",
+      "balanceDate": "2024-11-07T11:14:32.007426",
+      "balance": 2455.23,
+      "type": "CHECKING",
+      "iban": "FR9410096000405926724247G18",
+      "owners": [{ "name": "LAMBDA AUTO" }],
+      "transactions": [
+        {
+          "currency": "EUR",
+          "amount": -2350.0,
+          "dates": {
+            "debitedAt": "2024-11-07T11:14:32.007426",
+            "bookedAt": "2024-11-07T11:14:32.007426"
+          },
+          "description": "Baker Dealer"
+        },
+        {
+          "currency": "EUR",
+          "amount": -106.29,
+          "dates": {
+            "debitedAt": "2024-11-06T11:14:32.007525",
+            "bookedAt": "2024-11-06T11:14:32.007525"
+          },
+          "description": "057 OFFICEDEPOT"
+        },
+        {
+          "currency": "EUR",
+          "amount": -45.08,
+          "dates": {
+            "debitedAt": "2024-11-05T11:14:32.007534",
+            "bookedAt": "2024-11-05T11:14:32.007534"
+          },
+          "description": "Total Nb000614 Waarloo Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.0,
+          "dates": {
+            "debitedAt": "2024-11-04T11:14:32.007541",
+            "bookedAt": "2024-11-04T11:14:32.007541"
+          },
+          "description": "SELECTA"
+        },
+        {
+          "currency": "EUR",
+          "amount": -9.05,
+          "dates": {
+            "debitedAt": "2024-11-03T11:14:32.007548",
+            "bookedAt": "2024-11-03T11:14:32.007548"
+          },
+          "description": "HARRY POTTER 1653"
+        },
+        {
+          "currency": "EUR",
+          "amount": -54.0,
+          "dates": {
+            "debitedAt": "2024-11-02T11:14:32.007555",
+            "bookedAt": "2024-11-02T11:14:32.007555"
+          },
+          "description": "Qonto Abonnement / Frais additionnels"
+        },
+        {
+          "currency": "EUR",
+          "amount": -37.28,
+          "dates": {
+            "debitedAt": "2024-11-01T11:14:32.007561",
+            "bookedAt": "2024-11-01T11:14:32.007561"
+          },
+          "description": "Gestion ATD ou saisie"
+        },
+        {
+          "currency": "EUR",
+          "amount": -17.88,
+          "dates": {
+            "debitedAt": "2024-10-31T11:14:32.007569",
+            "bookedAt": "2024-10-31T11:14:32.007569"
+          },
+          "description": "Abonnement Shine - 30 janvier"
+        },
+        {
+          "currency": "EUR",
+          "amount": -250.0,
+          "dates": {
+            "debitedAt": "2024-10-30T11:14:32.007576",
+            "bookedAt": "2024-10-30T11:14:32.007576"
+          },
+          "description": "EMMA WATSON"
+        },
+        {
+          "currency": "EUR",
+          "amount": -60.0,
+          "dates": {
+            "debitedAt": "2024-10-29T11:14:32.007584",
+            "bookedAt": "2024-10-29T11:14:32.007584"
+          },
+          "description": "* > BNP"
+        },
+        {
+          "currency": "EUR",
+          "amount": -21.1,
+          "dates": {
+            "debitedAt": "2024-10-28T11:14:32.007590",
+            "bookedAt": "2024-10-28T11:14:32.007590"
+          },
+          "description": "SHELL 3299"
+        },
+        {
+          "currency": "EUR",
+          "amount": -11.15,
+          "dates": {
+            "debitedAt": "2024-10-27T11:14:32.007596",
+            "bookedAt": "2024-10-27T11:14:32.007596"
+          },
+          "description": "TDC Rdam CS"
+        },
+        {
+          "currency": "EUR",
+          "amount": -180.0,
+          "dates": {
+            "debitedAt": "2024-10-26T11:14:32.007602",
+            "bookedAt": "2024-10-26T11:14:32.007602"
+          },
+          "description": "EMMA WATSON"
+        },
+        {
+          "currency": "EUR",
+          "amount": -500.0,
+          "dates": {
+            "debitedAt": "2024-10-25T11:14:32.007608",
+            "bookedAt": "2024-10-25T11:14:32.007608"
+          },
+          "description": "Leboncoin"
+        },
+        {
+          "currency": "EUR",
+          "amount": -75.3,
+          "dates": {
+            "debitedAt": "2024-10-24T11:14:32.007614",
+            "bookedAt": "2024-10-24T11:14:32.007614"
+          },
+          "description": "AGDS"
+        },
+        {
+          "currency": "EUR",
+          "amount": 935.0,
+          "dates": {
+            "debitedAt": "2024-10-23T11:14:32.007620",
+            "bookedAt": "2024-10-23T11:14:32.007620"
+          },
+          "description": "COMPLAMBDA AUTO De COMPAGNBETA"
+        },
+        {
+          "currency": "EUR",
+          "amount": 450.0,
+          "dates": {
+            "debitedAt": "2024-10-22T11:14:32.007625",
+            "bookedAt": "2024-10-22T11:14:32.007625"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -17.88,
+          "dates": {
+            "debitedAt": "2024-10-21T11:14:32.007632",
+            "bookedAt": "2024-10-21T11:14:32.007632"
+          },
+          "description": "Abonnement Shine - 30 septembre"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.4,
+          "dates": {
+            "debitedAt": "2024-10-20T11:14:32.007638",
+            "bookedAt": "2024-10-20T11:14:32.007638"
+          },
+          "description": "SANEF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -200.0,
+          "dates": {
+            "debitedAt": "2024-10-19T11:14:32.007644",
+            "bookedAt": "2024-10-19T11:14:32.007644"
+          },
+          "description": "COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": 100.0,
+          "dates": {
+            "debitedAt": "2024-10-18T11:14:32.007650",
+            "bookedAt": "2024-10-18T11:14:32.007650"
+          },
+          "description": "YYW1031782894258 / PAYPAL - Creditor Name SEPA : SAS COMPLAMBDA AUTO De : PayPal Europe S.a.r.l. et Cie S.C.A"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.1,
+          "dates": {
+            "debitedAt": "2024-10-17T11:14:32.007656",
+            "bookedAt": "2024-10-17T11:14:32.007656"
+          },
+          "description": "Sncb - Nmbs Itris On Boa"
+        },
+        {
+          "currency": "EUR",
+          "amount": -40.0,
+          "dates": {
+            "debitedAt": "2024-10-16T11:14:32.007661",
+            "bookedAt": "2024-10-16T11:14:32.007661"
+          },
+          "description": "CASSE ZITOUNTERK"
+        },
+        {
+          "currency": "EUR",
+          "amount": -26.0,
+          "dates": {
+            "debitedAt": "2024-10-15T11:14:32.007667",
+            "bookedAt": "2024-10-15T11:14:32.007667"
+          },
+          "description": "SANEF AUTOROUTE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -12.48,
+          "dates": {
+            "debitedAt": "2024-10-14T11:14:32.007673",
+            "bookedAt": "2024-10-14T11:14:32.007673"
+          },
+          "description": "Google GSUITE_COMPLAMBDAauto"
+        },
+        {
+          "currency": "EUR",
+          "amount": 500.0,
+          "dates": {
+            "debitedAt": "2024-10-13T11:14:32.007679",
+            "bookedAt": "2024-10-13T11:14:32.007679"
+          },
+          "description": "Virement de Mile HERMIONE GRANGER De MLLE HERMIONE GRANGER"
+        },
+        {
+          "currency": "EUR",
+          "amount": -5.8,
+          "dates": {
+            "debitedAt": "2024-10-12T11:14:32.007685",
+            "bookedAt": "2024-10-12T11:14:32.007685"
+          },
+          "description": "ADEO LEROY MERLIN"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.0,
+          "dates": {
+            "debitedAt": "2024-10-11T11:14:32.007691",
+            "bookedAt": "2024-10-11T11:14:32.007691"
+          },
+          "description": "PAPG Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -24.0,
+          "dates": {
+            "debitedAt": "2024-10-10T11:14:32.007697",
+            "bookedAt": "2024-10-10T11:14:32.007697"
+          },
+          "description": "Qonto Abonnement / Frais additionnels"
+        },
+        {
+          "currency": "EUR",
+          "amount": -37.77,
+          "dates": {
+            "debitedAt": "2024-10-09T11:14:32.007703",
+            "bookedAt": "2024-10-09T11:14:32.007703"
+          },
+          "description": "Action 1271 Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -1006.55,
+          "dates": {
+            "debitedAt": "2024-10-08T11:14:32.007709",
+            "bookedAt": "2024-10-08T11:14:32.007709"
+          },
+          "description": "Tetrix assurance - Cotisations annuelle assurance automobile"
+        },
+        {
+          "currency": "EUR",
+          "amount": -5.5,
+          "dates": {
+            "debitedAt": "2024-10-07T11:14:32.007715",
+            "bookedAt": "2024-10-07T11:14:32.007715"
+          },
+          "description": "ADP ROISSY PEF"
+        },
+        {
+          "currency": "EUR",
+          "amount": 800.0,
+          "dates": {
+            "debitedAt": "2024-10-06T11:14:32.007721",
+            "bookedAt": "2024-10-06T11:14:32.007721"
+          },
+          "description": "Virement de Mlle HERMIONE GRANGER - Creditor Name SEPA : COMPLAMBDA AUTO De : MLLE HERMIONE GRANGER"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.4,
+          "dates": {
+            "debitedAt": "2024-10-05T11:14:32.007727",
+            "bookedAt": "2024-10-05T11:14:32.007727"
+          },
+          "description": "SANEF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -50.0,
+          "dates": {
+            "debitedAt": "2024-10-04T11:14:32.007733",
+            "bookedAt": "2024-10-04T11:14:32.007733"
+          },
+          "description": "TOTAL Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.32,
+          "dates": {
+            "debitedAt": "2024-10-03T11:14:32.007739",
+            "bookedAt": "2024-10-03T11:14:32.007739"
+          },
+          "description": "LIDL"
+        },
+        {
+          "currency": "EUR",
+          "amount": -1500.0,
+          "dates": {
+            "debitedAt": "2024-10-02T11:14:32.007745",
+            "bookedAt": "2024-10-02T11:14:32.007745"
+          },
+          "description": "Marius Van den eijnden auto's Toyota yaris 1,5se auto"
+        },
+        {
+          "currency": "EUR",
+          "amount": -320.0,
+          "dates": {
+            "debitedAt": "2024-10-01T11:14:32.007751",
+            "bookedAt": "2024-10-01T11:14:32.007751"
+          },
+          "description": "Harry Potter"
+        },
+        {
+          "currency": "EUR",
+          "amount": -36.0,
+          "dates": {
+            "debitedAt": "2024-09-30T11:14:32.007757",
+            "bookedAt": "2024-09-30T11:14:32.007757"
+          },
+          "description": "GC re LEGALPLACE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -500.0,
+          "dates": {
+            "debitedAt": "2024-09-29T11:14:32.007763",
+            "bookedAt": "2024-09-29T11:14:32.007763"
+          },
+          "description": "COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.4,
+          "dates": {
+            "debitedAt": "2024-09-28T11:14:32.007769",
+            "bookedAt": "2024-09-28T11:14:32.007769"
+          },
+          "description": "SANEF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -8.88,
+          "dates": {
+            "debitedAt": "2024-09-27T11:14:32.007775",
+            "bookedAt": "2024-09-27T11:14:32.007775"
+          },
+          "description": "Leboncoin"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.0,
+          "dates": {
+            "debitedAt": "2024-09-26T11:14:32.007781",
+            "bookedAt": "2024-09-26T11:14:32.007781"
+          },
+          "description": "SELECTA"
+        },
+        {
+          "currency": "EUR",
+          "amount": -1.8,
+          "dates": {
+            "debitedAt": "2024-09-25T11:14:32.007787",
+            "bookedAt": "2024-09-25T11:14:32.007787"
+          },
+          "description": "SELECTA"
+        },
+        {
+          "currency": "EUR",
+          "amount": -23.7,
+          "dates": {
+            "debitedAt": "2024-09-24T11:14:32.007793",
+            "bookedAt": "2024-09-24T11:14:32.007793"
+          },
+          "description": "SumUp * Taxioldehovele"
+        },
+        {
+          "currency": "EUR",
+          "amount": -50.0,
+          "dates": {
+            "debitedAt": "2024-09-23T11:14:32.007798",
+            "bookedAt": "2024-09-23T11:14:32.007798"
+          },
+          "description": "COMPLAMBDA AUTO versement"
+        },
+        {
+          "currency": "EUR",
+          "amount": -89.0,
+          "dates": {
+            "debitedAt": "2024-09-22T11:14:32.007804",
+            "bookedAt": "2024-09-22T11:14:32.007804"
+          },
+          "description": "THI FACTORY SA"
+        },
+        {
+          "currency": "EUR",
+          "amount": -292.0,
+          "dates": {
+            "debitedAt": "2024-09-21T11:14:32.007810",
+            "bookedAt": "2024-09-21T11:14:32.007810"
+          },
+          "description": "I PIECES STAINS"
+        },
+        {
+          "currency": "EUR",
+          "amount": -70.0,
+          "dates": {
+            "debitedAt": "2024-09-20T11:14:32.007816",
+            "bookedAt": "2024-09-20T11:14:32.007816"
+          },
+          "description": "MADU MARKET"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.95,
+          "dates": {
+            "debitedAt": "2024-09-19T11:14:32.007822",
+            "bookedAt": "2024-09-19T11:14:32.007822"
+          },
+          "description": "SNCF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -24.0,
+          "dates": {
+            "debitedAt": "2024-09-18T11:14:32.007828",
+            "bookedAt": "2024-09-18T11:14:32.007828"
+          },
+          "description": "Qonto Abonnement / Frais additionnels"
+        },
+        {
+          "currency": "EUR",
+          "amount": -17.0,
+          "dates": {
+            "debitedAt": "2024-09-17T11:14:32.007834",
+            "bookedAt": "2024-09-17T11:14:32.007834"
+          },
+          "description": "AGDS"
+        },
+        {
+          "currency": "EUR",
+          "amount": -25.0,
+          "dates": {
+            "debitedAt": "2024-09-16T11:14:32.007839",
+            "bookedAt": "2024-09-16T11:14:32.007839"
+          },
+          "description": "RELAIS ST BLIN"
+        },
+        {
+          "currency": "EUR",
+          "amount": -18.1,
+          "dates": {
+            "debitedAt": "2024-09-15T11:14:32.007846",
+            "bookedAt": "2024-09-15T11:14:32.007846"
+          },
+          "description": "SANEF Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -10.3,
+          "dates": {
+            "debitedAt": "2024-09-14T11:14:32.007852",
+            "bookedAt": "2024-09-14T11:14:32.007852"
+          },
+          "description": "AH to go L'wrd.5827"
+        },
+        {
+          "currency": "EUR",
+          "amount": -54.0,
+          "dates": {
+            "debitedAt": "2024-09-13T11:14:32.007858",
+            "bookedAt": "2024-09-13T11:14:32.007858"
+          },
+          "description": "Qonto Abonnement / Frais additionnels"
+        },
+        {
+          "currency": "EUR",
+          "amount": -400.0,
+          "dates": {
+            "debitedAt": "2024-09-12T11:14:32.007864",
+            "bookedAt": "2024-09-12T11:14:32.007864"
+          },
+          "description": "* > BNP"
+        },
+        {
+          "currency": "EUR",
+          "amount": 2000.0,
+          "dates": {
+            "debitedAt": "2024-09-11T11:14:32.007869",
+            "bookedAt": "2024-09-11T11:14:32.007869"
+          },
+          "description": "Voiture HARRY De : MLE EMMA WATSON"
+        },
+        {
+          "currency": "EUR",
+          "amount": -680.0,
+          "dates": {
+            "debitedAt": "2024-09-10T11:14:32.007875",
+            "bookedAt": "2024-09-10T11:14:32.007875"
+          },
+          "description": "HERMIONE GRANGER"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.4,
+          "dates": {
+            "debitedAt": "2024-09-09T11:14:32.007881",
+            "bookedAt": "2024-09-09T11:14:32.007881"
+          },
+          "description": "SANEF Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -87.0,
+          "dates": {
+            "debitedAt": "2024-09-08T11:14:32.007887",
+            "bookedAt": "2024-09-08T11:14:32.007887"
+          },
+          "description": "SNCF INTERNET"
+        },
+        {
+          "currency": "EUR",
+          "amount": -22.8,
+          "dates": {
+            "debitedAt": "2024-09-07T11:14:32.007893",
+            "bookedAt": "2024-09-07T11:14:32.007893"
+          },
+          "description": "RINGOVER"
+        },
+        {
+          "currency": "EUR",
+          "amount": -34.99,
+          "dates": {
+            "debitedAt": "2024-09-06T11:14:32.007899",
+            "bookedAt": "2024-09-06T11:14:32.007899"
+          },
+          "description": "ORANGE VAD 73T12: 00: 00.000Z"
+        },
+        {
+          "currency": "EUR",
+          "amount": -47.5,
+          "dates": {
+            "debitedAt": "2024-09-05T11:14:32.007905",
+            "bookedAt": "2024-09-05T11:14:32.007905"
+          },
+          "description": "eBay O * 23-10769-83114"
+        },
+        {
+          "currency": "EUR",
+          "amount": -29.0,
+          "dates": {
+            "debitedAt": "2024-09-04T11:14:32.007911",
+            "bookedAt": "2024-09-04T11:14:32.007911"
+          },
+          "description": "PAPG Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": 274.76,
+          "dates": {
+            "debitedAt": "2024-09-03T11:14:32.007919",
+            "bookedAt": "2024-09-03T11:14:32.007919"
+          },
+          "description": "Carte grise De : MELLE EMMA WATSON"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.0,
+          "dates": {
+            "debitedAt": "2024-09-02T11:14:32.007925",
+            "bookedAt": "2024-09-02T11:14:32.007925"
+          },
+          "description": "SELECTA"
+        },
+        {
+          "currency": "EUR",
+          "amount": -2.29,
+          "dates": {
+            "debitedAt": "2024-09-01T11:14:32.007931",
+            "bookedAt": "2024-09-01T11:14:32.007931"
+          },
+          "description": "Action 4011 Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -100.0,
+          "dates": {
+            "debitedAt": "2024-08-31T11:14:32.007937",
+            "bookedAt": "2024-08-31T11:14:32.007937"
+          },
+          "description": "* > BNP Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -85.0,
+          "dates": {
+            "debitedAt": "2024-08-30T11:14:32.007943",
+            "bookedAt": "2024-08-30T11:14:32.007943"
+          },
+          "description": "As Distribution Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -100.0,
+          "dates": {
+            "debitedAt": "2024-08-29T11:14:32.007949",
+            "bookedAt": "2024-08-29T11:14:32.007949"
+          },
+          "description": "* > BNP Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -400.0,
+          "dates": {
+            "debitedAt": "2024-08-28T11:14:32.007955",
+            "bookedAt": "2024-08-28T11:14:32.007955"
+          },
+          "description": "* > BNP"
+        },
+        {
+          "currency": "EUR",
+          "amount": -23.88,
+          "dates": {
+            "debitedAt": "2024-08-27T11:14:32.007961",
+            "bookedAt": "2024-08-27T11:14:32.007961"
+          },
+          "description": "Leboncoin"
+        },
+        {
+          "currency": "EUR",
+          "amount": -10.91,
+          "dates": {
+            "debitedAt": "2024-08-26T11:14:32.007967",
+            "bookedAt": "2024-08-26T11:14:32.007967"
+          },
+          "description": "Esso Station Koeln 511"
+        },
+        {
+          "currency": "EUR",
+          "amount": -80.0,
+          "dates": {
+            "debitedAt": "2024-08-25T11:14:32.007973",
+            "bookedAt": "2024-08-25T11:14:32.007973"
+          },
+          "description": "TOTAL Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -250.0,
+          "dates": {
+            "debitedAt": "2024-08-24T11:14:32.007978",
+            "bookedAt": "2024-08-24T11:14:32.007978"
+          },
+          "description": "Leboncoin Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -85.0,
+          "dates": {
+            "debitedAt": "2024-08-23T11:14:32.007984",
+            "bookedAt": "2024-08-23T11:14:32.007984"
+          },
+          "description": "eBay O * 08-10885-55772"
+        },
+        {
+          "currency": "EUR",
+          "amount": -29.0,
+          "dates": {
+            "debitedAt": "2024-08-22T11:14:32.007993",
+            "bookedAt": "2024-08-22T11:14:32.007993"
+          },
+          "description": "PAPG Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.24,
+          "dates": {
+            "debitedAt": "2024-08-21T11:14:32.007999",
+            "bookedAt": "2024-08-21T11:14:32.007999"
+          },
+          "description": "LIDL"
+        },
+        {
+          "currency": "EUR",
+          "amount": -25.0,
+          "dates": {
+            "debitedAt": "2024-08-20T11:14:32.008005",
+            "bookedAt": "2024-08-20T11:14:32.008005"
+          },
+          "description": "I PIECES STAINS"
+        },
+        {
+          "currency": "EUR",
+          "amount": 230.0,
+          "dates": {
+            "debitedAt": "2024-08-19T11:14:32.008011",
+            "bookedAt": "2024-08-19T11:14:32.008011"
+          },
+          "description": "virement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -101.0,
+          "dates": {
+            "debitedAt": "2024-08-18T11:14:32.008017",
+            "bookedAt": "2024-08-18T11:14:32.008017"
+          },
+          "description": "SNCF"
+        },
+        {
+          "currency": "EUR",
+          "amount": 100.0,
+          "dates": {
+            "debitedAt": "2024-08-17T11:14:32.008023",
+            "bookedAt": "2024-08-17T11:14:32.008023"
+          },
+          "description": "COMPLAMBDA AUTO De : A.I.M. WATSON"
+        },
+        {
+          "currency": "EUR",
+          "amount": -0.7,
+          "dates": {
+            "debitedAt": "2024-08-16T11:14:32.008028",
+            "bookedAt": "2024-08-16T11:14:32.008028"
+          },
+          "description": "Rotterdam 4208-22101"
+        },
+        {
+          "currency": "EUR",
+          "amount": 500.0,
+          "dates": {
+            "debitedAt": "2024-08-15T11:14:32.008034",
+            "bookedAt": "2024-08-15T11:14:32.008034"
+          },
+          "description": "Refund deposit Peugeot RB - 888 - X VF3LPHNZBHS279955T20240169/1111394 De : BOONSTRA SCHADEVOERTUIGE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -65.0,
+          "dates": {
+            "debitedAt": "2024-08-14T11:14:32.008040",
+            "bookedAt": "2024-08-14T11:14:32.008040"
+          },
+          "description": "TAXI MRT"
+        },
+        {
+          "currency": "EUR",
+          "amount": -104.0,
+          "dates": {
+            "debitedAt": "2024-08-13T11:14:32.008046",
+            "bookedAt": "2024-08-13T11:14:32.008046"
+          },
+          "description": "SNCF INTERNET"
+        },
+        {
+          "currency": "EUR",
+          "amount": -66.26,
+          "dates": {
+            "debitedAt": "2024-08-12T11:14:32.008052",
+            "bookedAt": "2024-08-12T11:14:32.008052"
+          },
+          "description": "Esso 96 Pti"
+        },
+        {
+          "currency": "EUR",
+          "amount": -54.0,
+          "dates": {
+            "debitedAt": "2024-08-11T11:14:32.008058",
+            "bookedAt": "2024-08-11T11:14:32.008058"
+          },
+          "description": "Qonto Abonnement / Frais additionnels"
+        },
+        {
+          "currency": "EUR",
+          "amount": -336.76,
+          "dates": {
+            "debitedAt": "2024-08-10T11:14:32.008063",
+            "bookedAt": "2024-08-10T11:14:32.008063"
+          },
+          "description": "TRESORERIE TOULOUSE AM"
+        },
+        {
+          "currency": "EUR",
+          "amount": -17.88,
+          "dates": {
+            "debitedAt": "2024-08-09T11:14:32.008069",
+            "bookedAt": "2024-08-09T11:14:32.008069"
+          },
+          "description": "Abonnement Shine - 30 novembre"
+        },
+        {
+          "currency": "EUR",
+          "amount": 366.76,
+          "dates": {
+            "debitedAt": "2024-08-08T11:14:32.008075",
+            "bookedAt": "2024-08-08T11:14:32.008075"
+          },
+          "description": "CARTE GRISE GRANDLAND X - Creditor Name SEPA : COMPLAMBDA AUTO De : M HARRY POTTER"
+        },
+        {
+          "currency": "EUR",
+          "amount": -105.76,
+          "dates": {
+            "debitedAt": "2024-08-07T11:14:32.008081",
+            "bookedAt": "2024-08-07T11:14:32.008081"
+          },
+          "description": "TRESORERIE TOULOUSE AM"
+        },
+        {
+          "currency": "EUR",
+          "amount": -163.5,
+          "dates": {
+            "debitedAt": "2024-08-06T11:14:32.008087",
+            "bookedAt": "2024-08-06T11:14:32.008087"
+          },
+          "description": "Zettle_ * HARRY Taxibedr"
+        },
+        {
+          "currency": "EUR",
+          "amount": -33.58,
+          "dates": {
+            "debitedAt": "2024-08-05T11:14:32.008094",
+            "bookedAt": "2024-08-05T11:14:32.008094"
+          },
+          "description": "Gestion ATD ou saisie"
+        },
+        {
+          "currency": "EUR",
+          "amount": -1500.0,
+          "dates": {
+            "debitedAt": "2024-08-04T11:14:32.008099",
+            "bookedAt": "2024-08-04T11:14:32.008099"
+          },
+          "description": "Harry potter auto's Toyota yaris 1,5se auto"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.95,
+          "dates": {
+            "debitedAt": "2024-08-03T11:14:32.008105",
+            "bookedAt": "2024-08-03T11:14:32.008105"
+          },
+          "description": "SNCF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -109.0,
+          "dates": {
+            "debitedAt": "2024-08-02T11:14:32.008111",
+            "bookedAt": "2024-08-02T11:14:32.008111"
+          },
+          "description": "SNCF INTERNET"
+        },
+        {
+          "currency": "EUR",
+          "amount": -679.5,
+          "dates": {
+            "debitedAt": "2024-08-01T11:14:32.008117",
+            "bookedAt": "2024-08-01T11:14:32.008117"
+          },
+          "description": "TETRIS ASSURANC Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -30.0,
+          "dates": {
+            "debitedAt": "2024-07-31T11:14:32.008123",
+            "bookedAt": "2024-07-31T11:14:32.008123"
+          },
+          "description": "Q8T106274 Le Roeulx In"
+        },
+        {
+          "currency": "EUR",
+          "amount": -12.48,
+          "dates": {
+            "debitedAt": "2024-07-30T11:14:32.008129",
+            "bookedAt": "2024-07-30T11:14:32.008129"
+          },
+          "description": "Google GSUITE_COMPLAMBDAauto"
+        },
+        {
+          "currency": "EUR",
+          "amount": -0.9,
+          "dates": {
+            "debitedAt": "2024-07-29T11:14:32.008135",
+            "bookedAt": "2024-07-29T11:14:32.008135"
+          },
+          "description": "Total Nb000727 Kalken"
+        },
+        {
+          "currency": "EUR",
+          "amount": -90.9,
+          "dates": {
+            "debitedAt": "2024-07-28T11:14:32.008146",
+            "bookedAt": "2024-07-28T11:14:32.008146"
+          },
+          "description": "NS Schiphol 22"
+        },
+        {
+          "currency": "EUR",
+          "amount": -38.0,
+          "dates": {
+            "debitedAt": "2024-07-27T11:14:32.008161",
+            "bookedAt": "2024-07-27T11:14:32.008161"
+          },
+          "description": "SANEF AUTOROUTE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -518.1,
+          "dates": {
+            "debitedAt": "2024-07-26T11:14:32.008171",
+            "bookedAt": "2024-07-26T11:14:32.008171"
+          },
+          "description": "TAXI MRT"
+        },
+        {
+          "currency": "EUR",
+          "amount": -12.48,
+          "dates": {
+            "debitedAt": "2024-07-25T11:14:32.008178",
+            "bookedAt": "2024-07-25T11:14:32.008178"
+          },
+          "description": "Google GSUITE_COMPLAMBDAauto"
+        },
+        {
+          "currency": "EUR",
+          "amount": -30.0,
+          "dates": {
+            "debitedAt": "2024-07-24T11:14:32.008184",
+            "bookedAt": "2024-07-24T11:14:32.008184"
+          },
+          "description": "STATION AVIA Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -30.0,
+          "dates": {
+            "debitedAt": "2024-07-23T11:14:32.008190",
+            "bookedAt": "2024-07-23T11:14:32.008190"
+          },
+          "description": "CASSE ZITOUNTERK"
+        },
+        {
+          "currency": "EUR",
+          "amount": -150.0,
+          "dates": {
+            "debitedAt": "2024-07-22T11:14:32.008196",
+            "bookedAt": "2024-07-22T11:14:32.008196"
+          },
+          "description": "EMMA WATSON - Versement"
+        },
+        {
+          "currency": "EUR",
+          "amount": -146.97,
+          "dates": {
+            "debitedAt": "2024-07-21T11:14:32.008205",
+            "bookedAt": "2024-07-21T11:14:32.008205"
+          },
+          "description": "BlaBlaCar - Bus"
+        },
+        {
+          "currency": "EUR",
+          "amount": -2.15,
+          "dates": {
+            "debitedAt": "2024-07-20T11:14:32.008212",
+            "bookedAt": "2024-07-20T11:14:32.008212"
+          },
+          "description": "SNCF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -37.03,
+          "dates": {
+            "debitedAt": "2024-07-19T11:14:32.008221",
+            "bookedAt": "2024-07-19T11:14:32.008221"
+          },
+          "description": "SATD - TRES . SEINE - SAINT - DENIS AMENDES - 402301398938246T41 COMPLAMBDAAUTO AA - SATD - TRES . SEINE - SAINT - DENIS AMENDES - 402301398938246T41 COMPLAMBDAAUTO AA - shine ref : CJSQDHJSKD"
+        },
+        {
+          "currency": "EUR",
+          "amount": -37.77,
+          "dates": {
+            "debitedAt": "2024-07-18T11:14:32.008228",
+            "bookedAt": "2024-07-18T11:14:32.008228"
+          },
+          "description": "Action 1271 Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": 1500.0,
+          "dates": {
+            "debitedAt": "2024-07-17T11:14:32.008234",
+            "bookedAt": "2024-07-17T11:14:32.008234"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -220.0,
+          "dates": {
+            "debitedAt": "2024-07-16T11:14:32.008240",
+            "bookedAt": "2024-07-16T11:14:32.008240"
+          },
+          "description": "COMPLAMBDAemi Afouda"
+        },
+        {
+          "currency": "EUR",
+          "amount": -60.0,
+          "dates": {
+            "debitedAt": "2024-07-15T11:14:32.008246",
+            "bookedAt": "2024-07-15T11:14:32.008246"
+          },
+          "description": "AUTO CONTROLE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -1.24,
+          "dates": {
+            "debitedAt": "2024-07-14T11:14:32.008252",
+            "bookedAt": "2024-07-14T11:14:32.008252"
+          },
+          "description": "LIDL"
+        },
+        {
+          "currency": "EUR",
+          "amount": -17.76,
+          "dates": {
+            "debitedAt": "2024-07-13T11:14:32.008258",
+            "bookedAt": "2024-07-13T11:14:32.008258"
+          },
+          "description": "Leboncoin"
+        },
+        {
+          "currency": "EUR",
+          "amount": -72.0,
+          "dates": {
+            "debitedAt": "2024-07-12T11:14:32.008264",
+            "bookedAt": "2024-07-12T11:14:32.008264"
+          },
+          "description": "LEGALPLACE.FR"
+        },
+        {
+          "currency": "EUR",
+          "amount": -280.0,
+          "dates": {
+            "debitedAt": "2024-07-11T11:14:32.008270",
+            "bookedAt": "2024-07-11T11:14:32.008270"
+          },
+          "description": "CCV * UITTENBOGAARD ONDE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -66.33,
+          "dates": {
+            "debitedAt": "2024-07-10T11:14:32.008276",
+            "bookedAt": "2024-07-10T11:14:32.008276"
+          },
+          "description": "Orange SA - MOBENT - P - Facture : 83832690 - Compte Fact : 63240833 - Ident : 37231650"
+        },
+        {
+          "currency": "EUR",
+          "amount": -12.48,
+          "dates": {
+            "debitedAt": "2024-07-09T11:14:32.008282",
+            "bookedAt": "2024-07-09T11:14:32.008282"
+          },
+          "description": "Google GSUITE_COMPLAMBDAauto"
+        },
+        {
+          "currency": "EUR",
+          "amount": -30.0,
+          "dates": {
+            "debitedAt": "2024-07-08T11:14:32.008288",
+            "bookedAt": "2024-07-08T11:14:32.008288"
+          },
+          "description": "STATION AVIA Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -34.99,
+          "dates": {
+            "debitedAt": "2024-07-07T11:14:32.008294",
+            "bookedAt": "2024-07-07T11:14:32.008294"
+          },
+          "description": "ORANGE VAD 73"
+        },
+        {
+          "currency": "EUR",
+          "amount": -29.99,
+          "dates": {
+            "debitedAt": "2024-07-06T11:14:32.008309",
+            "bookedAt": "2024-07-06T11:14:32.008309"
+          },
+          "description": "BlaBlaCar - Bus"
+        },
+        {
+          "currency": "EUR",
+          "amount": -40.8,
+          "dates": {
+            "debitedAt": "2024-07-05T11:14:32.008317",
+            "bookedAt": "2024-07-05T11:14:32.008317"
+          },
+          "description": "Nmbs Antwerpen - Centraa"
+        },
+        {
+          "currency": "EUR",
+          "amount": -12.0,
+          "dates": {
+            "debitedAt": "2024-07-04T11:14:32.008330",
+            "bookedAt": "2024-07-04T11:14:32.008330"
+          },
+          "description": "XPERT AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -59.0,
+          "dates": {
+            "debitedAt": "2024-07-03T11:14:32.008338",
+            "bookedAt": "2024-07-03T11:14:32.008338"
+          },
+          "description": "I PIECES STAINS"
+        },
+        {
+          "currency": "EUR",
+          "amount": -138.91,
+          "dates": {
+            "debitedAt": "2024-07-02T11:14:32.008344",
+            "bookedAt": "2024-07-02T11:14:32.008344"
+          },
+          "description": "GARAGE MPR"
+        },
+        {
+          "currency": "EUR",
+          "amount": -128.76,
+          "dates": {
+            "debitedAt": "2024-07-01T11:14:32.008357",
+            "bookedAt": "2024-07-01T11:14:32.008357"
+          },
+          "description": "TRESORERIE TOULOUSE AM"
+        },
+        {
+          "currency": "EUR",
+          "amount": 100.0,
+          "dates": {
+            "debitedAt": "2024-06-30T11:14:32.008365",
+            "bookedAt": "2024-06-30T11:14:32.008365"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -40.0,
+          "dates": {
+            "debitedAt": "2024-06-29T11:14:32.008371",
+            "bookedAt": "2024-06-29T11:14:32.008371"
+          },
+          "description": "TOTAL"
+        },
+        {
+          "currency": "EUR",
+          "amount": 200.0,
+          "dates": {
+            "debitedAt": "2024-06-28T11:14:32.008377",
+            "bookedAt": "2024-06-28T11:14:32.008377"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -46.8,
+          "dates": {
+            "debitedAt": "2024-06-27T11:14:32.008383",
+            "bookedAt": "2024-06-27T11:14:32.008383"
+          },
+          "description": "Leboncoin"
+        },
+        {
+          "currency": "EUR",
+          "amount": -6000.0,
+          "dates": {
+            "debitedAt": "2024-06-26T11:14:32.008389",
+            "bookedAt": "2024-06-26T11:14:32.008389"
+          },
+          "description": "Boonstra"
+        },
+        {
+          "currency": "EUR",
+          "amount": -19.0,
+          "dates": {
+            "debitedAt": "2024-06-25T11:14:32.008395",
+            "bookedAt": "2024-06-25T11:14:32.008395"
+          },
+          "description": "Sncb Nmbs Bru Midi Zui"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.5,
+          "dates": {
+            "debitedAt": "2024-06-24T11:14:32.008401",
+            "bookedAt": "2024-06-24T11:14:32.008401"
+          },
+          "description": "Ns Schiphol"
+        },
+        {
+          "currency": "EUR",
+          "amount": -44.99,
+          "dates": {
+            "debitedAt": "2024-06-23T11:14:32.008407",
+            "bookedAt": "2024-06-23T11:14:32.008407"
+          },
+          "description": "LW - SNCF CONNECT"
+        },
+        {
+          "currency": "EUR",
+          "amount": -39.6,
+          "dates": {
+            "debitedAt": "2024-06-22T11:14:32.008415",
+            "bookedAt": "2024-06-22T11:14:32.008415"
+          },
+          "description": "Total Nb000614 Waarloo Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -1.2,
+          "dates": {
+            "debitedAt": "2024-06-21T11:14:32.008422",
+            "bookedAt": "2024-06-21T11:14:32.008422"
+          },
+          "description": "Frais retrait en distributeur - 2023-08-20"
+        },
+        {
+          "currency": "EUR",
+          "amount": -12.48,
+          "dates": {
+            "debitedAt": "2024-06-20T11:14:32.008428",
+            "bookedAt": "2024-06-20T11:14:32.008428"
+          },
+          "description": "Google GSUITE_COMPLAMBDAauto"
+        },
+        {
+          "currency": "EUR",
+          "amount": -29.99,
+          "dates": {
+            "debitedAt": "2024-06-19T11:14:32.008434",
+            "bookedAt": "2024-06-19T11:14:32.008434"
+          },
+          "description": "BlaBlaCar - Bus"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.0,
+          "dates": {
+            "debitedAt": "2024-06-18T11:14:32.008441",
+            "bookedAt": "2024-06-18T11:14:32.008441"
+          },
+          "description": "PAPG Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -80.0,
+          "dates": {
+            "debitedAt": "2024-06-17T11:14:32.008446",
+            "bookedAt": "2024-06-17T11:14:32.008446"
+          },
+          "description": "TOTAL Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.4,
+          "dates": {
+            "debitedAt": "2024-06-16T11:14:32.008452",
+            "bookedAt": "2024-06-16T11:14:32.008452"
+          },
+          "description": "SANEF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -26.0,
+          "dates": {
+            "debitedAt": "2024-06-15T11:14:32.008458",
+            "bookedAt": "2024-06-15T11:14:32.008458"
+          },
+          "description": "SANEF Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -22.8,
+          "dates": {
+            "debitedAt": "2024-06-14T11:14:32.008464",
+            "bookedAt": "2024-06-14T11:14:32.008464"
+          },
+          "description": "RINGOVER"
+        },
+        {
+          "currency": "EUR",
+          "amount": -11.95,
+          "dates": {
+            "debitedAt": "2024-06-13T11:14:32.008470",
+            "bookedAt": "2024-06-13T11:14:32.008470"
+          },
+          "description": "ESSO BEESD"
+        },
+        {
+          "currency": "EUR",
+          "amount": -25.0,
+          "dates": {
+            "debitedAt": "2024-06-12T11:14:32.008476",
+            "bookedAt": "2024-06-12T11:14:32.008476"
+          },
+          "description": "POL PRO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -24.0,
+          "dates": {
+            "debitedAt": "2024-06-11T11:14:32.008482",
+            "bookedAt": "2024-06-11T11:14:32.008482"
+          },
+          "description": "Qonto Abonnement / Frais additionnels"
+        },
+        {
+          "currency": "EUR",
+          "amount": -59.51,
+          "dates": {
+            "debitedAt": "2024-06-10T11:14:32.008488",
+            "bookedAt": "2024-06-10T11:14:32.008488"
+          },
+          "description": "GC re Hokodo"
+        },
+        {
+          "currency": "EUR",
+          "amount": -23.88,
+          "dates": {
+            "debitedAt": "2024-06-09T11:14:32.008494",
+            "bookedAt": "2024-06-09T11:14:32.008494"
+          },
+          "description": "Leboncoin Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": 89.73,
+          "dates": {
+            "debitedAt": "2024-06-08T11:14:32.008500",
+            "bookedAt": "2024-06-08T11:14:32.008500"
+          },
+          "description": "COMPLAMBDA AUTO De : A.I.M. Afouda"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.54,
+          "dates": {
+            "debitedAt": "2024-06-07T11:14:32.008506",
+            "bookedAt": "2024-06-07T11:14:32.008506"
+          },
+          "description": "COMMANDE"
+        },
+        {
+          "currency": "EUR",
+          "amount": 200.0,
+          "dates": {
+            "debitedAt": "2024-06-06T11:14:32.008512",
+            "bookedAt": "2024-06-06T11:14:32.008512"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -23.5,
+          "dates": {
+            "debitedAt": "2024-06-05T11:14:32.008519",
+            "bookedAt": "2024-06-05T11:14:32.008519"
+          },
+          "description": "OZ SANCAK"
+        },
+        {
+          "currency": "EUR",
+          "amount": -57.39,
+          "dates": {
+            "debitedAt": "2024-06-04T11:14:32.008524",
+            "bookedAt": "2024-06-04T11:14:32.008524"
+          },
+          "description": "Esso Station Koeln 511"
+        },
+        {
+          "currency": "EUR",
+          "amount": 0.01,
+          "dates": {
+            "debitedAt": "2024-06-03T11:14:32.008530",
+            "bookedAt": "2024-06-03T11:14:32.008530"
+          },
+          "description": "PP.5116.PP / YYR1031126833409 - Creditor Name SEPA : SAS COMPLAMBDA AUTO De : PayPal Europe S.a.r.l. et Cie S.C.A"
+        },
+        {
+          "currency": "EUR",
+          "amount": -350.0,
+          "dates": {
+            "debitedAt": "2024-06-02T11:14:32.008536",
+            "bookedAt": "2024-06-02T11:14:32.008536"
+          },
+          "description": "RON WEASLY"
+        },
+        {
+          "currency": "EUR",
+          "amount": -7.3,
+          "dates": {
+            "debitedAt": "2024-06-01T11:14:32.008542",
+            "bookedAt": "2024-06-01T11:14:32.008542"
+          },
+          "description": "Delices et Gour"
+        },
+        {
+          "currency": "EUR",
+          "amount": -143.0,
+          "dates": {
+            "debitedAt": "2024-05-31T11:14:32.008548",
+            "bookedAt": "2024-05-31T11:14:32.008548"
+          },
+          "description": "SNCF INTERNET"
+        },
+        {
+          "currency": "EUR",
+          "amount": 500.0,
+          "dates": {
+            "debitedAt": "2024-05-30T11:14:32.008554",
+            "bookedAt": "2024-05-30T11:14:32.008554"
+          },
+          "description": "COMPLAMBDA AUTO Virement"
+        },
+        {
+          "currency": "EUR",
+          "amount": 5000.0,
+          "dates": {
+            "debitedAt": "2024-05-29T11:14:32.008560",
+            "bookedAt": "2024-05-29T11:14:32.008560"
+          },
+          "description": "Acompte golf gte De : RON WAESLY Boutchoko"
+        },
+        {
+          "currency": "EUR",
+          "amount": -200.0,
+          "dates": {
+            "debitedAt": "2024-05-28T11:14:32.008566",
+            "bookedAt": "2024-05-28T11:14:32.008566"
+          },
+          "description": "* > BNP Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": 200.0,
+          "dates": {
+            "debitedAt": "2024-05-27T11:14:32.008572",
+            "bookedAt": "2024-05-27T11:14:32.008572"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -100.0,
+          "dates": {
+            "debitedAt": "2024-05-26T11:14:32.008578",
+            "bookedAt": "2024-05-26T11:14:32.008578"
+          },
+          "description": "HARRY RON"
+        },
+        {
+          "currency": "EUR",
+          "amount": -62.84,
+          "dates": {
+            "debitedAt": "2024-05-25T11:14:32.008584",
+            "bookedAt": "2024-05-25T11:14:32.008584"
+          },
+          "description": "LIDL 2417"
+        },
+        {
+          "currency": "EUR",
+          "amount": 1100.0,
+          "dates": {
+            "debitedAt": "2024-05-24T11:14:32.008590",
+            "bookedAt": "2024-05-24T11:14:32.008590"
+          },
+          "description": "Paiement reparation 308 De : MELLE BLAIR WALDORF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -30.0,
+          "dates": {
+            "debitedAt": "2024-05-23T11:14:32.008596",
+            "bookedAt": "2024-05-23T11:14:32.008596"
+          },
+          "description": "* > BNP"
+        },
+        {
+          "currency": "EUR",
+          "amount": -64.0,
+          "dates": {
+            "debitedAt": "2024-05-22T11:14:32.008602",
+            "bookedAt": "2024-05-22T11:14:32.008602"
+          },
+          "description": "eBay O * 18-10791-72389"
+        },
+        {
+          "currency": "EUR",
+          "amount": -400.0,
+          "dates": {
+            "debitedAt": "2024-05-21T11:14:32.008608",
+            "bookedAt": "2024-05-21T11:14:32.008608"
+          },
+          "description": "* > BNP"
+        },
+        {
+          "currency": "EUR",
+          "amount": -60.0,
+          "dates": {
+            "debitedAt": "2024-05-20T11:14:32.008614",
+            "bookedAt": "2024-05-20T11:14:32.008614"
+          },
+          "description": "* > BNP"
+        },
+        {
+          "currency": "EUR",
+          "amount": 50.0,
+          "dates": {
+            "debitedAt": "2024-05-19T11:14:32.008620",
+            "bookedAt": "2024-05-19T11:14:32.008620"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -11.0,
+          "dates": {
+            "debitedAt": "2024-05-18T11:14:32.008627",
+            "bookedAt": "2024-05-18T11:14:32.008627"
+          },
+          "description": "TRESORERIE TOULOUSE AM"
+        },
+        {
+          "currency": "EUR",
+          "amount": -679.5,
+          "dates": {
+            "debitedAt": "2024-05-17T11:14:32.008633",
+            "bookedAt": "2024-05-17T11:14:32.008633"
+          },
+          "description": "TETRIS ASSURANC Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -100.0,
+          "dates": {
+            "debitedAt": "2024-05-16T11:14:32.008639",
+            "bookedAt": "2024-05-16T11:14:32.008639"
+          },
+          "description": "LA BANQUE POSTAL"
+        },
+        {
+          "currency": "EUR",
+          "amount": -89.29,
+          "dates": {
+            "debitedAt": "2024-05-15T11:14:32.008645",
+            "bookedAt": "2024-05-15T11:14:32.008645"
+          },
+          "description": "Ant * ALIEXPRESS.COM"
+        },
+        {
+          "currency": "EUR",
+          "amount": -46.8,
+          "dates": {
+            "debitedAt": "2024-05-14T11:14:32.008651",
+            "bookedAt": "2024-05-14T11:14:32.008651"
+          },
+          "description": "Leboncoin"
+        },
+        {
+          "currency": "EUR",
+          "amount": 1011.44,
+          "dates": {
+            "debitedAt": "2024-05-13T11:14:32.008657",
+            "bookedAt": "2024-05-13T11:14:32.008657"
+          },
+          "description": "YYW1031634815862 PAYPAL - Creditor Name SEPA : SAS COMPLAMBDA AUTO De : PayPal ( Europe ) S.a r.l. et Cie , S.C.A."
+        },
+        {
+          "currency": "EUR",
+          "amount": -400.0,
+          "dates": {
+            "debitedAt": "2024-05-12T11:14:32.008663",
+            "bookedAt": "2024-05-12T11:14:32.008663"
+          },
+          "description": "* > BNP"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.4,
+          "dates": {
+            "debitedAt": "2024-05-11T11:14:32.008669",
+            "bookedAt": "2024-05-11T11:14:32.008669"
+          },
+          "description": "SANEF"
+        },
+        {
+          "currency": "EUR",
+          "amount": -20.64,
+          "dates": {
+            "debitedAt": "2024-05-10T11:14:32.008675",
+            "bookedAt": "2024-05-10T11:14:32.008675"
+          },
+          "description": "Esso 96 Pti"
+        },
+        {
+          "currency": "EUR",
+          "amount": -10.0,
+          "dates": {
+            "debitedAt": "2024-05-09T11:14:32.008681",
+            "bookedAt": "2024-05-09T11:14:32.008681"
+          },
+          "description": "E.LECLERC"
+        },
+        {
+          "currency": "EUR",
+          "amount": -28.3,
+          "dates": {
+            "debitedAt": "2024-05-08T11:14:32.008687",
+            "bookedAt": "2024-05-08T11:14:32.008687"
+          },
+          "description": "CARTER - CASH Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -28.3,
+          "dates": {
+            "debitedAt": "2024-05-07T11:14:32.008693",
+            "bookedAt": "2024-05-07T11:14:32.008693"
+          },
+          "description": "CARTER - CASH Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": 61.0,
+          "dates": {
+            "debitedAt": "2024-05-06T11:14:32.008699",
+            "bookedAt": "2024-05-06T11:14:32.008699"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -15.0,
+          "dates": {
+            "debitedAt": "2024-05-05T11:14:32.008705",
+            "bookedAt": "2024-05-05T11:14:32.008705"
+          },
+          "description": "TOTAL"
+        },
+        {
+          "currency": "EUR",
+          "amount": -900.0,
+          "dates": {
+            "debitedAt": "2024-05-04T11:14:32.008711",
+            "bookedAt": "2024-05-04T11:14:32.008711"
+          },
+          "description": "HARRY POTTER"
+        },
+        {
+          "currency": "EUR",
+          "amount": -0.69,
+          "dates": {
+            "debitedAt": "2024-05-03T11:14:32.008717",
+            "bookedAt": "2024-05-03T11:14:32.008717"
+          },
+          "description": "SATD - TRES . SEINE - SAINT - DENIS AMENDES - 402300923612T41 COMPLAMBDAAUTO AA - SATD - TRES . SEINE - SAINT - DENIS AMENDES - 402300923612T41 COMPLAMBDAAUTO AA - shine ref : DXSXQMNUCO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -776.75,
+          "dates": {
+            "debitedAt": "2024-05-02T11:14:32.008723",
+            "bookedAt": "2024-05-02T11:14:32.008723"
+          },
+          "description": "ALAM PHONE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -46.8,
+          "dates": {
+            "debitedAt": "2024-05-01T11:14:32.008729",
+            "bookedAt": "2024-05-01T11:14:32.008729"
+          },
+          "description": "Leboncoin"
+        },
+        {
+          "currency": "EUR",
+          "amount": 100.0,
+          "dates": {
+            "debitedAt": "2024-04-30T11:14:32.008735",
+            "bookedAt": "2024-04-30T11:14:32.008735"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -1.2,
+          "dates": {
+            "debitedAt": "2024-04-29T11:14:32.008741",
+            "bookedAt": "2024-04-29T11:14:32.008741"
+          },
+          "description": "Frais retrait en distributeur - 2023-08-10"
+        },
+        {
+          "currency": "EUR",
+          "amount": -25.99,
+          "dates": {
+            "debitedAt": "2024-04-28T11:14:32.008746",
+            "bookedAt": "2024-04-28T11:14:32.008746"
+          },
+          "description": "SFR PAIEMENT CB"
+        },
+        {
+          "currency": "EUR",
+          "amount": -119.0,
+          "dates": {
+            "debitedAt": "2024-04-27T11:14:32.008753",
+            "bookedAt": "2024-04-27T11:14:32.008753"
+          },
+          "description": "eBay O * 07-10759-55590"
+        },
+        {
+          "currency": "EUR",
+          "amount": -250.0,
+          "dates": {
+            "debitedAt": "2024-04-26T11:14:32.008758",
+            "bookedAt": "2024-04-26T11:14:32.008758"
+          },
+          "description": "Leboncoin Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -26.0,
+          "dates": {
+            "debitedAt": "2024-04-25T11:14:32.008764",
+            "bookedAt": "2024-04-25T11:14:32.008764"
+          },
+          "description": "SANEF Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -5.56,
+          "dates": {
+            "debitedAt": "2024-04-24T11:14:32.008770",
+            "bookedAt": "2024-04-24T11:14:32.008770"
+          },
+          "description": "LIDL"
+        },
+        {
+          "currency": "EUR",
+          "amount": -36.0,
+          "dates": {
+            "debitedAt": "2024-04-23T11:14:32.008776",
+            "bookedAt": "2024-04-23T11:14:32.008776"
+          },
+          "description": "eBay O * 26-10746-93006"
+        },
+        {
+          "currency": "EUR",
+          "amount": -36.0,
+          "dates": {
+            "debitedAt": "2024-04-22T11:14:32.008782",
+            "bookedAt": "2024-04-22T11:14:32.008782"
+          },
+          "description": "GC re LEGALPLACE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -21.75,
+          "dates": {
+            "debitedAt": "2024-04-21T11:14:32.008788",
+            "bookedAt": "2024-04-21T11:14:32.008788"
+          },
+          "description": "Kfc Autoroute E42 Carte ** 0348"
+        },
+        {
+          "currency": "EUR",
+          "amount": -50.0,
+          "dates": {
+            "debitedAt": "2024-04-20T11:14:32.008794",
+            "bookedAt": "2024-04-20T11:14:32.008794"
+          },
+          "description": "TOTAL"
+        },
+        {
+          "currency": "EUR",
+          "amount": -17.88,
+          "dates": {
+            "debitedAt": "2024-04-19T11:14:32.008801",
+            "bookedAt": "2024-04-19T11:14:32.008801"
+          },
+          "description": "Abonnement Shine - 30 d\u00e9cembre"
+        },
+        {
+          "currency": "EUR",
+          "amount": -4.95,
+          "dates": {
+            "debitedAt": "2024-04-18T11:14:32.008810",
+            "bookedAt": "2024-04-18T11:14:32.008810"
+          },
+          "description": "SNCF"
+        },
+        {
+          "currency": "EUR",
+          "amount": 1700.0,
+          "dates": {
+            "debitedAt": "2024-04-17T11:14:32.008819",
+            "bookedAt": "2024-04-17T11:14:32.008819"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -125.0,
+          "dates": {
+            "debitedAt": "2024-04-16T11:14:32.008828",
+            "bookedAt": "2024-04-16T11:14:32.008828"
+          },
+          "description": "COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -36.0,
+          "dates": {
+            "debitedAt": "2024-04-15T11:14:32.008838",
+            "bookedAt": "2024-04-15T11:14:32.008838"
+          },
+          "description": "GC re LEGALPLACE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -60.0,
+          "dates": {
+            "debitedAt": "2024-04-14T11:14:32.008847",
+            "bookedAt": "2024-04-14T11:14:32.008847"
+          },
+          "description": "AUTO CONTROLE"
+        },
+        {
+          "currency": "EUR",
+          "amount": -83.33,
+          "dates": {
+            "debitedAt": "2024-04-13T11:14:32.008856",
+            "bookedAt": "2024-04-13T11:14:32.008856"
+          },
+          "description": "eBay O * 07-10759-51800"
+        },
+        {
+          "currency": "EUR",
+          "amount": 150.0,
+          "dates": {
+            "debitedAt": "2024-04-12T11:14:32.008865",
+            "bookedAt": "2024-04-12T11:14:32.008865"
+          },
+          "description": "COMPLAMBDA AUTO De : A.I.M. EMMA"
+        },
+        {
+          "currency": "EUR",
+          "amount": -45.0,
+          "dates": {
+            "debitedAt": "2024-04-11T11:14:32.008874",
+            "bookedAt": "2024-04-11T11:14:32.008874"
+          },
+          "description": "ADP ROISSY PCD"
+        },
+        {
+          "currency": "EUR",
+          "amount": 300.94,
+          "dates": {
+            "debitedAt": "2024-04-10T11:14:32.008883",
+            "bookedAt": "2024-04-10T11:14:32.008883"
+          },
+          "description": "versement De : COMPLAMBDA AUTO"
+        },
+        {
+          "currency": "EUR",
+          "amount": -452.7,
+          "dates": {
+            "debitedAt": "2024-04-09T11:14:32.008893",
+            "bookedAt": "2024-04-09T11:14:32.008893"
+          },
+          "description": "TAXI MRT"
+        },
+        {
+          "currency": "EUR",
+          "amount": 125.0,
+          "dates": {
+            "debitedAt": "2024-04-08T11:14:32.008902",
+            "bookedAt": "2024-04-08T11:14:32.008902"
+          },
+          "description": "COMPLAMBDA AUTO Virement"
+        },
+        {
+          "currency": "EUR",
+          "amount": -50.0,
+          "dates": {
+            "debitedAt": "2024-04-07T11:14:32.008911",
+            "bookedAt": "2024-04-07T11:14:32.008911"
+          },
+          "description": "BLAIR WALDORf"
+        },
+        {
+          "currency": "EUR",
+          "amount": 4000.0,
+          "dates": {
+            "debitedAt": "2024-04-06T11:14:32.008920",
+            "bookedAt": "2024-04-06T11:14:32.008920"
+          },
+          "description": "Voiture COMPLAMBDA De : MELLE EMMA WATSON"
+        }
+      ]
+    }
+  ]
+}
