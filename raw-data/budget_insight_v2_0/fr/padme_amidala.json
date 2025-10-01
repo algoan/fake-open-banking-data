@@ -6,632 +6,632 @@
         {
           "transactions": [
             {
-              "date": "2025-07-04T12:00:00.000Z",
-              "rdate": "2025-07-04T12:00:00.000Z",
+              "date": "2025-07-05T12:00:00.000Z",
+              "rdate": "2025-07-05T12:00:00.000Z",
               "currency": "EUR",
               "value": -80,
               "original_wording": "CB RETRAIT",
-              "id": 641
+              "id": 707
             },
             {
-              "date": "2025-07-04T12:00:00.000Z",
-              "rdate": "2025-07-04T12:00:00.000Z",
+              "date": "2025-07-05T12:00:00.000Z",
+              "rdate": "2025-07-05T12:00:00.000Z",
               "currency": "EUR",
               "value": 400,
               "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
-              "id": 499
+              "id": 533
             },
             {
-              "date": "2025-07-08T12:00:00.000Z",
-              "rdate": "2025-07-08T12:00:00.000Z",
+              "date": "2025-07-09T12:00:00.000Z",
+              "rdate": "2025-07-09T12:00:00.000Z",
               "currency": "EUR",
               "value": 400,
               "original_wording": "VIREMENT LOYER PAR MR XXXX",
-              "id": 275
+              "id": 748
             },
             {
-              "date": "2025-07-08T12:00:00.000Z",
-              "rdate": "2025-07-08T12:00:00.000Z",
+              "date": "2025-07-09T12:00:00.000Z",
+              "rdate": "2025-07-09T12:00:00.000Z",
               "currency": "EUR",
               "value": -45,
               "original_wording": "CB RETRAIT",
-              "id": 585
-            },
-            {
-              "date": "2025-07-09T12:00:00.000Z",
-              "rdate": "2025-07-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -45.93,
-              "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
-              "id": 892
-            },
-            {
-              "date": "2025-07-09T12:00:00.000Z",
-              "rdate": "2025-07-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -30.32,
-              "original_wording": "ACHAT CB UBER EATS EUR 30,32 CARTE NO XXX",
-              "id": 281
-            },
-            {
-              "date": "2025-07-09T12:00:00.000Z",
-              "rdate": "2025-07-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -160,
-              "original_wording": "ACHAT CB AMAZON",
-              "id": 188
-            },
-            {
-              "date": "2025-07-09T12:00:00.000Z",
-              "rdate": "2025-07-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -45.4,
-              "original_wording": "ACHAT CB DOBELL XXXX CARTE NUMERO XXX",
-              "id": 495
-            },
-            {
-              "date": "2025-07-09T12:00:00.000Z",
-              "rdate": "2025-07-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -39.99,
-              "original_wording": "PRELEVEMENT DE Orange REF",
-              "id": 944
-            },
-            {
-              "date": "2025-07-09T12:00:00.000Z",
-              "rdate": "2025-07-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -600,
-              "original_wording": "PRET IMMOBILIER ECH XXXXXX",
-              "id": 206
+              "id": 419
             },
             {
               "date": "2025-07-10T12:00:00.000Z",
               "rdate": "2025-07-10T12:00:00.000Z",
               "currency": "EUR",
-              "value": -60,
-              "original_wording": "Prélèvement de Eca Assurances",
-              "id": 169
+              "value": -45.93,
+              "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
+              "id": 613
             },
             {
-              "date": "2025-07-12T12:00:00.000Z",
-              "rdate": "2025-07-12T12:00:00.000Z",
+              "date": "2025-07-10T12:00:00.000Z",
+              "rdate": "2025-07-10T12:00:00.000Z",
               "currency": "EUR",
-              "value": -200,
-              "original_wording": "VIREMENT MR XXX",
-              "id": 266
+              "value": -30.32,
+              "original_wording": "ACHAT CB UBER EATS EUR 30,32 CARTE NO XXX",
+              "id": 787
+            },
+            {
+              "date": "2025-07-10T12:00:00.000Z",
+              "rdate": "2025-07-10T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -160,
+              "original_wording": "ACHAT CB AMAZON",
+              "id": 868
+            },
+            {
+              "date": "2025-07-10T12:00:00.000Z",
+              "rdate": "2025-07-10T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -45.4,
+              "original_wording": "ACHAT CB DOBELL XXXX CARTE NUMERO XXX",
+              "id": 316
+            },
+            {
+              "date": "2025-07-10T12:00:00.000Z",
+              "rdate": "2025-07-10T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -39.99,
+              "original_wording": "PRELEVEMENT DE Orange REF",
+              "id": 99
+            },
+            {
+              "date": "2025-07-10T12:00:00.000Z",
+              "rdate": "2025-07-10T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -600,
+              "original_wording": "PRET IMMOBILIER ECH XXXXXX",
+              "id": 766
+            },
+            {
+              "date": "2025-07-11T12:00:00.000Z",
+              "rdate": "2025-07-11T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -60,
+              "original_wording": "Prélèvement de Eca Assurances",
+              "id": 39
             },
             {
               "date": "2025-07-13T12:00:00.000Z",
               "rdate": "2025-07-13T12:00:00.000Z",
               "currency": "EUR",
-              "value": -130,
-              "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES REF",
-              "id": 903
+              "value": -200,
+              "original_wording": "VIREMENT MR XXX",
+              "id": 369
             },
             {
               "date": "2025-07-14T12:00:00.000Z",
               "rdate": "2025-07-14T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -130,
+              "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES REF",
+              "id": 742
+            },
+            {
+              "date": "2025-07-15T12:00:00.000Z",
+              "rdate": "2025-07-15T12:00:00.000Z",
               "currency": "EUR",
               "value": -19.99,
               "original_wording": "PRLV SEPA ORANGE MOBILE",
-              "id": 292
+              "id": 693
             },
             {
-              "date": "2025-07-14T12:00:00.000Z",
-              "rdate": "2025-07-14T12:00:00.000Z",
+              "date": "2025-07-15T12:00:00.000Z",
+              "rdate": "2025-07-15T12:00:00.000Z",
               "currency": "EUR",
               "value": -150.65,
               "original_wording": "ACHAT CB ZARA XXXX CARTE NUMERO XXX",
-              "id": 406
-            },
-            {
-              "date": "2025-07-18T12:00:00.000Z",
-              "rdate": "2025-07-18T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -75.24,
-              "original_wording": "ACHAT CB PHARMACIE PARIS XX",
-              "id": 367
+              "id": 667
             },
             {
               "date": "2025-07-19T12:00:00.000Z",
               "rdate": "2025-07-19T12:00:00.000Z",
               "currency": "EUR",
-              "value": -24.2,
-              "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-              "id": 544
+              "value": -75.24,
+              "original_wording": "ACHAT CB PHARMACIE PARIS XX",
+              "id": 511
             },
             {
-              "date": "2025-07-21T12:00:00.000Z",
-              "rdate": "2025-07-21T12:00:00.000Z",
+              "date": "2025-07-20T12:00:00.000Z",
+              "rdate": "2025-07-20T12:00:00.000Z",
               "currency": "EUR",
-              "value": -44.3,
-              "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES",
-              "id": 951
+              "value": -24.2,
+              "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
+              "id": 401
             },
             {
               "date": "2025-07-22T12:00:00.000Z",
               "rdate": "2025-07-22T12:00:00.000Z",
               "currency": "EUR",
-              "value": -71.46,
-              "original_wording": "ACHAT CB",
-              "id": 159
+              "value": -44.3,
+              "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES",
+              "id": 276
             },
             {
               "date": "2025-07-23T12:00:00.000Z",
               "rdate": "2025-07-23T12:00:00.000Z",
               "currency": "EUR",
-              "value": -78.89,
-              "original_wording": "CARTE CB AUCHAN",
-              "id": 428
+              "value": -71.46,
+              "original_wording": "ACHAT CB",
+              "id": 134
             },
             {
               "date": "2025-07-24T12:00:00.000Z",
               "rdate": "2025-07-24T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -78.89,
+              "original_wording": "CARTE CB AUCHAN",
+              "id": 655
+            },
+            {
+              "date": "2025-07-25T12:00:00.000Z",
+              "rdate": "2025-07-25T12:00:00.000Z",
               "currency": "EUR",
               "value": -34,
               "original_wording": "ACHAT CB",
-              "id": 929
+              "id": 809
             },
             {
-              "date": "2025-07-24T12:00:00.000Z",
-              "rdate": "2025-07-24T12:00:00.000Z",
+              "date": "2025-07-25T12:00:00.000Z",
+              "rdate": "2025-07-25T12:00:00.000Z",
               "currency": "EUR",
               "value": -33.46,
               "original_wording": "ACHAT CB FROG",
-              "id": 894
+              "id": 503
             },
             {
-              "date": "2025-07-24T12:00:00.000Z",
-              "rdate": "2025-07-24T12:00:00.000Z",
+              "date": "2025-07-25T12:00:00.000Z",
+              "rdate": "2025-07-25T12:00:00.000Z",
               "currency": "EUR",
               "value": 1300,
               "original_wording": "ASSURANCE RETRAITE CNAV",
-              "id": 771
-            },
-            {
-              "date": "2025-07-25T12:00:00.000Z",
-              "rdate": "2025-07-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -39.27,
-              "original_wording": "ACHAT CB",
-              "id": 211
-            },
-            {
-              "date": "2025-07-25T12:00:00.000Z",
-              "rdate": "2025-07-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -42.17,
-              "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
-              "id": 631
+              "id": 493
             },
             {
               "date": "2025-07-26T12:00:00.000Z",
               "rdate": "2025-07-26T12:00:00.000Z",
               "currency": "EUR",
-              "value": -16.4,
+              "value": -39.27,
               "original_wording": "ACHAT CB",
-              "id": 553
+              "id": 846
             },
             {
-              "date": "2025-08-02T12:00:00.000Z",
-              "rdate": "2025-08-02T12:00:00.000Z",
+              "date": "2025-07-26T12:00:00.000Z",
+              "rdate": "2025-07-26T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -42.17,
+              "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
+              "id": 747
+            },
+            {
+              "date": "2025-07-27T12:00:00.000Z",
+              "rdate": "2025-07-27T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -16.4,
+              "original_wording": "ACHAT CB",
+              "id": 598
+            },
+            {
+              "date": "2025-08-03T12:00:00.000Z",
+              "rdate": "2025-08-03T12:00:00.000Z",
               "currency": "EUR",
               "value": -100,
               "original_wording": "CB RETRAIT",
-              "id": 355
+              "id": 929
             },
             {
-              "date": "2025-08-04T12:00:00.000Z",
-              "rdate": "2025-08-04T12:00:00.000Z",
+              "date": "2025-08-05T12:00:00.000Z",
+              "rdate": "2025-08-05T12:00:00.000Z",
               "currency": "EUR",
               "value": 400,
               "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
-              "id": 511
+              "id": 15
             },
             {
-              "date": "2025-08-04T12:00:00.000Z",
-              "rdate": "2025-08-04T12:00:00.000Z",
+              "date": "2025-08-05T12:00:00.000Z",
+              "rdate": "2025-08-05T12:00:00.000Z",
               "currency": "EUR",
               "value": 400,
               "original_wording": "VIREMENT LOYER PAR MR XXXX",
-              "id": 125
+              "id": 982
             },
             {
-              "date": "2025-08-06T12:00:00.000Z",
-              "rdate": "2025-08-06T12:00:00.000Z",
+              "date": "2025-08-07T12:00:00.000Z",
+              "rdate": "2025-08-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -45,
               "original_wording": "CB RETRAIT",
-              "id": 936
+              "id": 171
             },
             {
-              "date": "2025-08-06T12:00:00.000Z",
-              "rdate": "2025-08-06T12:00:00.000Z",
+              "date": "2025-08-07T12:00:00.000Z",
+              "rdate": "2025-08-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -35.93,
               "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
-              "id": 309
+              "id": 907
             },
             {
-              "date": "2025-08-06T12:00:00.000Z",
-              "rdate": "2025-08-06T12:00:00.000Z",
+              "date": "2025-08-07T12:00:00.000Z",
+              "rdate": "2025-08-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -28.32,
               "original_wording": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
-              "id": 620
+              "id": 778
             },
             {
-              "date": "2025-08-07T12:00:00.000Z",
-              "rdate": "2025-08-07T12:00:00.000Z",
+              "date": "2025-08-08T12:00:00.000Z",
+              "rdate": "2025-08-08T12:00:00.000Z",
               "currency": "EUR",
               "value": -160,
               "original_wording": "ACHAT CB AMAZON",
-              "id": 920
+              "id": 306
             },
             {
-              "date": "2025-08-07T12:00:00.000Z",
-              "rdate": "2025-08-07T12:00:00.000Z",
+              "date": "2025-08-08T12:00:00.000Z",
+              "rdate": "2025-08-08T12:00:00.000Z",
               "currency": "EUR",
               "value": -45.4,
               "original_wording": "ACHAT CB DOBELL XXXX CARTE NUMERO XXX",
-              "id": 147
+              "id": 424
             },
             {
-              "date": "2025-08-09T12:00:00.000Z",
-              "rdate": "2025-08-09T12:00:00.000Z",
+              "date": "2025-08-10T12:00:00.000Z",
+              "rdate": "2025-08-10T12:00:00.000Z",
               "currency": "EUR",
               "value": -39.99,
               "original_wording": "PRELEVEMENT DE Orange REF",
-              "id": 12
+              "id": 747
             },
             {
-              "date": "2025-08-09T12:00:00.000Z",
-              "rdate": "2025-08-09T12:00:00.000Z",
+              "date": "2025-08-10T12:00:00.000Z",
+              "rdate": "2025-08-10T12:00:00.000Z",
               "currency": "EUR",
               "value": -600,
               "original_wording": "PRET IMMOBILIER ECH XXXXXX",
-              "id": 231
+              "id": 736
             },
             {
-              "date": "2025-08-09T12:00:00.000Z",
-              "rdate": "2025-08-09T12:00:00.000Z",
+              "date": "2025-08-10T12:00:00.000Z",
+              "rdate": "2025-08-10T12:00:00.000Z",
               "currency": "EUR",
               "value": -200,
               "original_wording": "VIREMENT MR XXX",
-              "id": 503
+              "id": 621
             },
             {
-              "date": "2025-08-10T12:00:00.000Z",
-              "rdate": "2025-08-10T12:00:00.000Z",
+              "date": "2025-08-11T12:00:00.000Z",
+              "rdate": "2025-08-11T12:00:00.000Z",
               "currency": "EUR",
               "value": -130,
               "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES REF",
-              "id": 710
+              "id": 516
             },
             {
-              "date": "2025-08-10T12:00:00.000Z",
-              "rdate": "2025-08-10T12:00:00.000Z",
+              "date": "2025-08-11T12:00:00.000Z",
+              "rdate": "2025-08-11T12:00:00.000Z",
               "currency": "EUR",
               "value": -60,
               "original_wording": "Prélèvement de Eca Assurances",
-              "id": 760
-            },
-            {
-              "date": "2025-08-13T12:00:00.000Z",
-              "rdate": "2025-08-13T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -19.99,
-              "original_wording": "PRLV SEPA ORANGE MOBILE",
-              "id": 434
+              "id": 866
             },
             {
               "date": "2025-08-14T12:00:00.000Z",
               "rdate": "2025-08-14T12:00:00.000Z",
               "currency": "EUR",
-              "value": -50.65,
-              "original_wording": "ACHAT CB ZARA XXXX CARTE NUMERO XXX",
-              "id": 566
+              "value": -19.99,
+              "original_wording": "PRLV SEPA ORANGE MOBILE",
+              "id": 857
             },
             {
-              "date": "2025-08-16T12:00:00.000Z",
-              "rdate": "2025-08-16T12:00:00.000Z",
+              "date": "2025-08-15T12:00:00.000Z",
+              "rdate": "2025-08-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -50.65,
+              "original_wording": "ACHAT CB ZARA XXXX CARTE NUMERO XXX",
+              "id": 112
+            },
+            {
+              "date": "2025-08-17T12:00:00.000Z",
+              "rdate": "2025-08-17T12:00:00.000Z",
               "currency": "EUR",
               "value": -15.24,
               "original_wording": "ACHAT CB PHARMACIE PARIS XX",
-              "id": 314
-            },
-            {
-              "date": "2025-08-18T12:00:00.000Z",
-              "rdate": "2025-08-18T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -44.3,
-              "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES",
-              "id": 776
+              "id": 164
             },
             {
               "date": "2025-08-19T12:00:00.000Z",
               "rdate": "2025-08-19T12:00:00.000Z",
               "currency": "EUR",
-              "value": -24.2,
-              "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-              "id": 364
+              "value": -44.3,
+              "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES",
+              "id": 141
             },
             {
-              "date": "2025-08-21T12:00:00.000Z",
-              "rdate": "2025-08-21T12:00:00.000Z",
+              "date": "2025-08-20T12:00:00.000Z",
+              "rdate": "2025-08-20T12:00:00.000Z",
               "currency": "EUR",
-              "value": -91.46,
-              "original_wording": "ACHAT CB",
-              "id": 631
+              "value": -24.2,
+              "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
+              "id": 455
             },
             {
               "date": "2025-08-22T12:00:00.000Z",
               "rdate": "2025-08-22T12:00:00.000Z",
               "currency": "EUR",
-              "value": -78.89,
-              "original_wording": "CARTE CB AUCHAN",
-              "id": 897
+              "value": -91.46,
+              "original_wording": "ACHAT CB",
+              "id": 906
             },
             {
               "date": "2025-08-23T12:00:00.000Z",
               "rdate": "2025-08-23T12:00:00.000Z",
               "currency": "EUR",
-              "value": -56,
-              "original_wording": "ACHAT CB",
-              "id": 562
+              "value": -78.89,
+              "original_wording": "CARTE CB AUCHAN",
+              "id": 450
             },
             {
               "date": "2025-08-24T12:00:00.000Z",
               "rdate": "2025-08-24T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -56,
+              "original_wording": "ACHAT CB",
+              "id": 768
+            },
+            {
+              "date": "2025-08-25T12:00:00.000Z",
+              "rdate": "2025-08-25T12:00:00.000Z",
               "currency": "EUR",
               "value": -83.46,
               "original_wording": "ACHAT CB JULES",
-              "id": 471
+              "id": 328
             },
             {
-              "date": "2025-08-24T12:00:00.000Z",
-              "rdate": "2025-08-24T12:00:00.000Z",
+              "date": "2025-08-25T12:00:00.000Z",
+              "rdate": "2025-08-25T12:00:00.000Z",
               "currency": "EUR",
               "value": 1300,
               "original_wording": "ASSURANCE RETRAITE CNAV",
-              "id": 358
+              "id": 301
             },
             {
-              "date": "2025-08-24T12:00:00.000Z",
-              "rdate": "2025-08-24T12:00:00.000Z",
+              "date": "2025-08-25T12:00:00.000Z",
+              "rdate": "2025-08-25T12:00:00.000Z",
               "currency": "EUR",
               "value": -56.27,
               "original_wording": "ACHAT CB",
-              "id": 517
-            },
-            {
-              "date": "2025-08-25T12:00:00.000Z",
-              "rdate": "2025-08-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -32.17,
-              "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
-              "id": 545
-            },
-            {
-              "date": "2025-08-25T12:00:00.000Z",
-              "rdate": "2025-08-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -200,
-              "original_wording": "CB RETRAIT",
-              "id": 848
+              "id": 57
             },
             {
               "date": "2025-08-26T12:00:00.000Z",
               "rdate": "2025-08-26T12:00:00.000Z",
               "currency": "EUR",
-              "value": -56,
-              "original_wording": "ACHAT CB UBER EATS EUR 56 CARTE NO XXX",
-              "id": 647
+              "value": -32.17,
+              "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
+              "id": 554
             },
             {
-              "date": "2025-09-01T12:00:00.000Z",
-              "rdate": "2025-09-01T12:00:00.000Z",
+              "date": "2025-08-26T12:00:00.000Z",
+              "rdate": "2025-08-26T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -200,
+              "original_wording": "CB RETRAIT",
+              "id": 703
+            },
+            {
+              "date": "2025-08-27T12:00:00.000Z",
+              "rdate": "2025-08-27T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -56,
+              "original_wording": "ACHAT CB UBER EATS EUR 56 CARTE NO XXX",
+              "id": 237
+            },
+            {
+              "date": "2025-09-02T12:00:00.000Z",
+              "rdate": "2025-09-02T12:00:00.000Z",
               "currency": "EUR",
               "value": 400,
               "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
-              "id": 196
+              "id": 866
             },
             {
-              "date": "2025-09-04T12:00:00.000Z",
-              "rdate": "2025-09-04T12:00:00.000Z",
+              "date": "2025-09-05T12:00:00.000Z",
+              "rdate": "2025-09-05T12:00:00.000Z",
               "currency": "EUR",
               "value": 400,
               "original_wording": "VIREMENT LOYER PAR MR XXXX",
-              "id": 109
+              "id": 636
             },
             {
-              "date": "2025-09-04T12:00:00.000Z",
-              "rdate": "2025-09-04T12:00:00.000Z",
+              "date": "2025-09-05T12:00:00.000Z",
+              "rdate": "2025-09-05T12:00:00.000Z",
               "currency": "EUR",
               "value": -45,
               "original_wording": "CB RETRAIT",
-              "id": 933
+              "id": 680
             },
             {
-              "date": "2025-09-06T12:00:00.000Z",
-              "rdate": "2025-09-06T12:00:00.000Z",
+              "date": "2025-09-07T12:00:00.000Z",
+              "rdate": "2025-09-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -60.54,
               "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
-              "id": 893
+              "id": 862
             },
             {
-              "date": "2025-09-06T12:00:00.000Z",
-              "rdate": "2025-09-06T12:00:00.000Z",
+              "date": "2025-09-07T12:00:00.000Z",
+              "rdate": "2025-09-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -18.32,
               "original_wording": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
-              "id": 909
+              "id": 64
             },
             {
-              "date": "2025-09-06T12:00:00.000Z",
-              "rdate": "2025-09-06T12:00:00.000Z",
+              "date": "2025-09-07T12:00:00.000Z",
+              "rdate": "2025-09-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -80,
               "original_wording": "ACHAT CB AMAZON",
-              "id": 479
+              "id": 944
             },
             {
-              "date": "2025-09-07T12:00:00.000Z",
-              "rdate": "2025-09-07T12:00:00.000Z",
+              "date": "2025-09-08T12:00:00.000Z",
+              "rdate": "2025-09-08T12:00:00.000Z",
               "currency": "EUR",
               "value": -32.4,
               "original_wording": "ACHAT CB DOBELL XXXX CARTE NUMERO XXX",
-              "id": 631
+              "id": 957
             },
             {
-              "date": "2025-09-07T12:00:00.000Z",
-              "rdate": "2025-09-07T12:00:00.000Z",
+              "date": "2025-09-08T12:00:00.000Z",
+              "rdate": "2025-09-08T12:00:00.000Z",
               "currency": "EUR",
               "value": -39.99,
               "original_wording": "PRELEVEMENT DE Orange REF",
-              "id": 275
-            },
-            {
-              "date": "2025-09-09T12:00:00.000Z",
-              "rdate": "2025-09-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -600,
-              "original_wording": "PRET IMMOBILIER ECH XXXXXX",
-              "id": 990
-            },
-            {
-              "date": "2025-09-09T12:00:00.000Z",
-              "rdate": "2025-09-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -200,
-              "original_wording": "VIREMENT MR XXX",
-              "id": 674
-            },
-            {
-              "date": "2025-09-09T12:00:00.000Z",
-              "rdate": "2025-09-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -130,
-              "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES REF",
-              "id": 752
+              "id": 720
             },
             {
               "date": "2025-09-10T12:00:00.000Z",
               "rdate": "2025-09-10T12:00:00.000Z",
               "currency": "EUR",
-              "value": -60,
-              "original_wording": "Prélèvement de Eca Assurances",
-              "id": 761
+              "value": -600,
+              "original_wording": "PRET IMMOBILIER ECH XXXXXX",
+              "id": 610
             },
             {
-              "date": "2025-09-13T12:00:00.000Z",
-              "rdate": "2025-09-13T12:00:00.000Z",
+              "date": "2025-09-10T12:00:00.000Z",
+              "rdate": "2025-09-10T12:00:00.000Z",
               "currency": "EUR",
-              "value": -19.99,
-              "original_wording": "PRLV SEPA ORANGE MOBILE",
-              "id": 748
+              "value": -200,
+              "original_wording": "VIREMENT MR XXX",
+              "id": 629
+            },
+            {
+              "date": "2025-09-10T12:00:00.000Z",
+              "rdate": "2025-09-10T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -130,
+              "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES REF",
+              "id": 714
+            },
+            {
+              "date": "2025-09-11T12:00:00.000Z",
+              "rdate": "2025-09-11T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -60,
+              "original_wording": "Prélèvement de Eca Assurances",
+              "id": 413
             },
             {
               "date": "2025-09-14T12:00:00.000Z",
               "rdate": "2025-09-14T12:00:00.000Z",
               "currency": "EUR",
-              "value": -60.65,
-              "original_wording": "ACHAT CB PRIMARK XXXX CARTE NUMERO XXX",
-              "id": 35
+              "value": -19.99,
+              "original_wording": "PRLV SEPA ORANGE MOBILE",
+              "id": 295
             },
             {
-              "date": "2025-09-16T12:00:00.000Z",
-              "rdate": "2025-09-16T12:00:00.000Z",
+              "date": "2025-09-15T12:00:00.000Z",
+              "rdate": "2025-09-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -60.65,
+              "original_wording": "ACHAT CB PRIMARK XXXX CARTE NUMERO XXX",
+              "id": 342
+            },
+            {
+              "date": "2025-09-17T12:00:00.000Z",
+              "rdate": "2025-09-17T12:00:00.000Z",
               "currency": "EUR",
               "value": -35.24,
               "original_wording": "ACHAT CB PHARMACIE PARIS XX",
-              "id": 693
+              "id": 49
             },
             {
-              "date": "2025-09-16T12:00:00.000Z",
-              "rdate": "2025-09-16T12:00:00.000Z",
+              "date": "2025-09-17T12:00:00.000Z",
+              "rdate": "2025-09-17T12:00:00.000Z",
               "currency": "EUR",
               "value": -24.2,
               "original_wording": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-              "id": 565
+              "id": 690
             },
             {
-              "date": "2025-09-18T12:00:00.000Z",
-              "rdate": "2025-09-18T12:00:00.000Z",
+              "date": "2025-09-19T12:00:00.000Z",
+              "rdate": "2025-09-19T12:00:00.000Z",
               "currency": "EUR",
               "value": -44.3,
               "original_wording": "PRELEVEMENT DE ACTIVE ASSURANCES",
-              "id": 783
-            },
-            {
-              "date": "2025-09-21T12:00:00.000Z",
-              "rdate": "2025-09-21T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -81.46,
-              "original_wording": "ACHAT CB",
-              "id": 417
+              "id": 391
             },
             {
               "date": "2025-09-22T12:00:00.000Z",
               "rdate": "2025-09-22T12:00:00.000Z",
               "currency": "EUR",
-              "value": -58.89,
-              "original_wording": "CARTE CB AUCHAN",
-              "id": 87
+              "value": -81.46,
+              "original_wording": "ACHAT CB",
+              "id": 232
             },
             {
               "date": "2025-09-23T12:00:00.000Z",
               "rdate": "2025-09-23T12:00:00.000Z",
               "currency": "EUR",
-              "value": -50,
-              "original_wording": "CB RETRAIT",
-              "id": 560
+              "value": -58.89,
+              "original_wording": "CARTE CB AUCHAN",
+              "id": 825
             },
             {
               "date": "2025-09-24T12:00:00.000Z",
               "rdate": "2025-09-24T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -50,
+              "original_wording": "CB RETRAIT",
+              "id": 825
+            },
+            {
+              "date": "2025-09-25T12:00:00.000Z",
+              "rdate": "2025-09-25T12:00:00.000Z",
               "currency": "EUR",
               "value": -39.46,
               "original_wording": "ACHAT CB",
-              "id": 141
+              "id": 57
             },
             {
-              "date": "2025-09-24T12:00:00.000Z",
-              "rdate": "2025-09-24T12:00:00.000Z",
+              "date": "2025-09-25T12:00:00.000Z",
+              "rdate": "2025-09-25T12:00:00.000Z",
               "currency": "EUR",
               "value": 1300,
               "original_wording": "ASSURANCE RETRAITE CNAV",
-              "id": 566
+              "id": 770
             },
             {
-              "date": "2025-09-25T12:00:00.000Z",
-              "rdate": "2025-09-25T12:00:00.000Z",
+              "date": "2025-09-26T12:00:00.000Z",
+              "rdate": "2025-09-26T12:00:00.000Z",
               "currency": "EUR",
               "value": -39.27,
               "original_wording": "ACHAT CB",
-              "id": 952
+              "id": 421
             },
             {
-              "date": "2025-09-25T12:00:00.000Z",
-              "rdate": "2025-09-25T12:00:00.000Z",
+              "date": "2025-09-26T12:00:00.000Z",
+              "rdate": "2025-09-26T12:00:00.000Z",
               "currency": "EUR",
               "value": -42.17,
               "original_wording": "PAIEMENT PAR CARTE CARREFOUR",
-              "id": 30
+              "id": 349
             },
             {
-              "date": "2025-09-30T12:00:00.000Z",
-              "rdate": "2025-09-30T12:00:00.000Z",
+              "date": "2025-10-01T12:00:00.000Z",
+              "rdate": "2025-10-01T12:00:00.000Z",
               "currency": "EUR",
               "value": -16.4,
               "original_wording": "ACHAT CB",
-              "id": 623
+              "id": 686
             }
           ],
           "balance": 1014.38,
-          "last_update": "2025-09-30T12:00:00.000Z",
+          "last_update": "2025-10-01T12:00:00.000Z",
           "iban": "FR7630004689030602648954390",
           "bic": "BNPAFRPPXXX",
           "currency": {
@@ -639,7 +639,7 @@
           },
           "type": "checking",
           "usage": "PRIV",
-          "id": 24
+          "id": 56
         }
       ]
     }
