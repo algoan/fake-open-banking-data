@@ -6,100 +6,100 @@
         {
           "transactions": [
             {
-              "date": "2025-08-20T12:00:00.000Z",
-              "rdate": "2025-08-20T12:00:00.000Z",
+              "date": "2025-08-21T12:00:00.000Z",
+              "rdate": "2025-08-21T12:00:00.000Z",
               "currency": "EUR",
               "value": 1000,
               "original_wording": "VIR SALAIRE ALGOAN",
-              "id": 231
+              "id": 902
             },
             {
-              "date": "2025-11-06T12:00:00.000Z",
-              "rdate": "2025-11-06T12:00:00.000Z",
+              "date": "2025-11-07T12:00:00.000Z",
+              "rdate": "2025-11-07T12:00:00.000Z",
               "currency": "EUR",
               "value": 101.67,
               "original_wording": "PRELEVEMENT HARRY POTTER PRELEVEMENT CARTE ZERO FAST3280420323",
-              "id": 331
+              "id": 300
             },
             {
-              "date": "2025-11-06T12:00:00.000Z",
-              "rdate": "2025-11-06T12:00:00.000Z",
+              "date": "2025-11-07T12:00:00.000Z",
+              "rdate": "2025-11-07T12:00:00.000Z",
               "currency": "EUR",
               "value": 150,
               "original_wording": "PRLV SEPA POTTER HARRY ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
-              "id": 59
+              "id": 628
             },
             {
-              "date": "2025-11-06T12:00:00.000Z",
-              "rdate": "2025-11-06T12:00:00.000Z",
+              "date": "2025-11-07T12:00:00.000Z",
+              "rdate": "2025-11-07T12:00:00.000Z",
               "currency": "EUR",
               "value": 75.2,
               "original_wording": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
-              "id": 493
+              "id": 914
             },
             {
-              "date": "2025-11-06T12:00:00.000Z",
-              "rdate": "2025-11-06T12:00:00.000Z",
+              "date": "2025-11-07T12:00:00.000Z",
+              "rdate": "2025-11-07T12:00:00.000Z",
               "currency": "EUR",
               "value": 399.89,
               "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
-              "id": 881
+              "id": 204
             }
           ],
           "balance": 1457.16,
-          "last_update": "2025-11-06T12:00:00.000Z",
+          "last_update": "2025-11-07T12:00:00.000Z",
           "iban": "FR7630003644032059516627775",
           "currency": {
             "id": "EUR"
           },
           "type": "checking",
           "usage": "ORGA",
-          "id": 315
+          "id": 190
         },
         {
           "transactions": [
             {
-              "date": "2025-11-06T12:00:00.000Z",
-              "rdate": "2025-11-06T12:00:00.000Z",
+              "date": "2025-11-07T12:00:00.000Z",
+              "rdate": "2025-11-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -101.67,
               "original_wording": "PRELEVEMENT HARRY POTTER PRELEVEMENT CARTE ZERO FAST3280420323",
-              "id": 419
+              "id": 395
             },
             {
-              "date": "2025-11-06T12:00:00.000Z",
-              "rdate": "2025-11-06T12:00:00.000Z",
+              "date": "2025-11-07T12:00:00.000Z",
+              "rdate": "2025-11-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -150,
               "original_wording": "PRLV SEPA POTTER HARRY ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
-              "id": 138
+              "id": 128
             },
             {
-              "date": "2025-11-06T12:00:00.000Z",
-              "rdate": "2025-11-06T12:00:00.000Z",
+              "date": "2025-11-07T12:00:00.000Z",
+              "rdate": "2025-11-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -75.2,
               "original_wording": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
-              "id": 674
+              "id": 421
             },
             {
-              "date": "2025-11-06T12:00:00.000Z",
-              "rdate": "2025-11-06T12:00:00.000Z",
+              "date": "2025-11-07T12:00:00.000Z",
+              "rdate": "2025-11-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -399.89,
               "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
-              "id": 881
+              "id": 837
             }
           ],
           "balance": -120,
-          "last_update": "2025-11-06T12:00:00.000Z",
+          "last_update": "2025-11-07T12:00:00.000Z",
           "iban": "FR7630002158033534864998461",
           "currency": {
             "id": "EUR"
           },
           "type": "loan",
           "usage": "ORGA",
-          "id": 777
+          "id": 966
         }
       ]
     }
