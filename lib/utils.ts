@@ -1,6 +1,5 @@
-import { readdirSync, readFileSync, writeFileSync } from 'fs';
-import * as path from 'path';
-
+import { mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
+import * as path from 'node:path';
 import { FileEntity } from '../types';
 
 /**
@@ -38,13 +37,24 @@ export function readJSONFiles(dirPath: string): FileEntity[] {
 }
 
 /**
+ * Ensure the directory of a file path exist
+ * @param filePath the file to be created
+ */
+export function ensureDir(filePath: string): void {
+  mkdirSync(path.dirname(filePath), { recursive: true });
+}
+
+/**
  * Rewrite JSON samples with the refresh data
  * @param fileEntities Refresh sample file with file names
  * @param dirPath Samples directory path
  */
 export function writeJSONFiles(fileEntities: FileEntity[], dirName: string): void {
   fileEntities.forEach((fileEntity: FileEntity) => {
-    writeFileSync(`${dirName}/${fileEntity.filename}`, JSON.stringify(fileEntity.sample, null, 2));
+    const filepath: string = `${dirName}/${fileEntity.filename}`;
+
+    ensureDir(filepath);
+    writeFileSync(filepath, JSON.stringify(fileEntity.sample, null, 2));
   });
 }
 

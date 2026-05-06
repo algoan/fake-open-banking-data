@@ -13,6 +13,7 @@
   "author": "ccoeurderoy",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^25.6.0",
     "prettier": "^2.6.0",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.2"

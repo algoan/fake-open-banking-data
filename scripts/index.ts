@@ -1,7 +1,6 @@
+import * as path from 'node:path';
 import dayjs from 'dayjs';
-import * as path from 'path';
 import { readJSONFiles, writeJSONFiles } from '../lib/utils';
-
 import { AccountsEntity, FileEntity, Sample, TransactionsEntity } from '../types';
 
 /**
