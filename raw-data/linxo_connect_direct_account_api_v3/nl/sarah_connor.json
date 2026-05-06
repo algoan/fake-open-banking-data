@@ -1,0 +1,876 @@
+{
+  "format": "LINXO_CONNECT_DIRECT_ACCOUNT_API_V3",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-101.74"
+              },
+              "booking_date": "2026-02-07T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING RABOBANK 0224392 PREMIE AUTOVERZEKERING INTERPOLIS POLISNR PERSONENAUTO 302023131"
+              ],
+              "id": "kBfB26TN9qPdx6P"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-50.12"
+              },
+              "booking_date": "2026-02-07T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN DEFAM SCHULDEISER NL28ZZZ12211 MANDAAT 80152131E12A KENMERK SDR102112127"
+              ],
+              "id": "clRzwp1e3b0Xiol"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-78.89"
+              },
+              "booking_date": "2026-02-07T12:00:00.000Z",
+              "remittance_information": [
+                "SEPA INCASSO ALPHABET NEDERLAND MEDEDELING 101M3323222 32 UW KENMERK NL0004123032023"
+              ],
+              "id": "Nq46HkKJgZSqGVw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-43.99"
+              },
+              "booking_date": "2026-02-04T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 03/02 - 10.14 uur - BOL.COM AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 1"
+              ],
+              "id": "4mvDTseMOIeGOLt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.5"
+              },
+              "booking_date": "2026-02-05T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 04/02 - 14.22 uur - HEMA AMSTERDAM KALVERSTRAAT - NL Kaartnummer 6703 30XX XXXX X497 2"
+              ],
+              "id": "DIRTazx6WrUnVbA"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-67.8"
+              },
+              "booking_date": "2026-02-06T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 05/02 - 18.45 uur - JUMBO SUPERMARKT AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 3"
+              ],
+              "id": "6S9i77hqLVXPqr7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-38.2"
+              },
+              "booking_date": "2026-02-07T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 06/02 - 08.03 uur - NS AMSTERDAM CENTRAAL - NL Kaartnummer 6703 30XX XXXX X497 4"
+              ],
+              "id": "wDgraGG6bTwLedo"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-189"
+              },
+              "booking_date": "2026-02-08T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 07/02 - 11.30 uur - MEDIAMARKT AMSTERDAM ARENA - NL Kaartnummer 6703 30XX XXXX X497 5"
+              ],
+              "id": "i3pwOMmCM0YMV37"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-74.55"
+              },
+              "booking_date": "2026-02-11T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 10/02 - 15.17 uur - ZARA AMSTERDAM NIEUWENDIJK - NL Kaartnummer 6703 30XX XXXX X497 6"
+              ],
+              "id": "ZG5HSGbLwaSjypt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.3"
+              },
+              "booking_date": "2026-02-13T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 12/02 - 09.55 uur - ACTION AMSTERDAM OOST - NL Kaartnummer 6703 30XX XXXX X497 7"
+              ],
+              "id": "zSFBvPtQjZlQ1yO"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-312"
+              },
+              "booking_date": "2026-02-15T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 14/02 - 13.40 uur - COOLBLUE AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 8"
+              ],
+              "id": "KqkYYSuT1PhIEdW"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-12.5"
+              },
+              "booking_date": "2026-02-18T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 17/02 - 16.08 uur - KRUIDVAT AMSTERDAM CENTRUM - NL Kaartnummer 6703 30XX XXXX X497 9"
+              ],
+              "id": "rKKNQB64SF4UEhr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-204.5"
+              },
+              "booking_date": "2026-02-20T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 19/02 - 12.25 uur - IKEA AMSTERDAM ZUIDOOST - NL Kaartnummer 6703 30XX XXXX X497 10"
+              ],
+              "id": "nCmm1U4IP6j3QDv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-17"
+              },
+              "booking_date": "2026-02-09T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING DEFAM GEC-01 TERMIJNBETALING"
+              ],
+              "id": "SLBtPMEf1gVCr4m"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-522.31"
+              },
+              "booking_date": "2026-02-09T12:00:00.000Z",
+              "remittance_information": [
+                "HYPOTHEEK TERMIJN"
+              ],
+              "id": "eLy4RE8xW7lrUof"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-17.8"
+              },
+              "booking_date": "2026-02-09T12:00:00.000Z",
+              "remittance_information": [
+                "BETALING VERZEKERING NATIONALE-NEDERLANDEN HYPOTHEEK"
+              ],
+              "id": "uTSA4be8ndhnDcv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-13"
+              },
+              "booking_date": "2026-02-10T12:00:00.000Z",
+              "remittance_information": [
+                "Abonnementskosten Betaalrekening Pakket (kor = 20%)"
+              ],
+              "id": "ZZjDMHEVLQMHcbd"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-02-14T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN DITZO BV MANDAAT 2RQ0IPC MEDEDELING WOONVERZEKERING"
+              ],
+              "id": "nFtqkVVLeWZC0Cs"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-122.45"
+              },
+              "booking_date": "2026-02-19T12:00:00.000Z",
+              "remittance_information": [
+                "SEPA INCASSO ALPHABET NEDERLAND MEDEDELING 101M3323222 32 UW KENMERK NL0004123032023"
+              ],
+              "id": "YD0ezdHtJn55rAj"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-120"
+              },
+              "booking_date": "2026-02-24T12:00:00.000Z",
+              "remittance_information": [
+                "GELDOPNEMING MET DEBETKAART X2517 OM 06:23 UUR GELDAUTOMAAT ING BANK AMSTERDAM"
+              ],
+              "id": "X1RXuf3LlDFzW9f"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.99"
+              },
+              "booking_date": "2026-02-24T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN T-MOBILE NEDERLAND SCHULDEISERSREFERTE PAGP0102EAAE KENMERK 06xxxxx685"
+              ],
+              "id": "o686uSuO5DvL5wA"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "2581.45"
+              },
+              "booking_date": "2026-03-03T12:00:00.000Z",
+              "remittance_information": [
+                "INSTANTOVERSCHRIJVING IN EURO VAN NEFAB BV MEDEDELING SALARIS NEFAB BV BANKREFERENTIE NEFABBV-0000-082020092555-21"
+              ],
+              "id": "6iKwUTyDlwLqCv6"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-102.32"
+              },
+              "booking_date": "2026-03-06T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN VATTENFALL ENERGIE KLANTEN PARTICULIEREN SCHULDEISERSREFERTE Z012201022 KENMERK 00203 1 S 114"
+              ],
+              "id": "qRtrKJ09jfj05IK"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-35.97"
+              },
+              "booking_date": "2026-03-06T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN BASIC-FIT II BV SCHULDEISER NL10ZZ3122 MANDAAT 737001831 KENMERK NO737001831-106"
+              ],
+              "id": "qCVPjhxR9oSiBF5"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-101.74"
+              },
+              "booking_date": "2026-03-09T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING RABOBANK 0224392 PREMIE AUTOVERZEKERING INTERPOLIS POLISNR PERSONENAUTO 302023132"
+              ],
+              "id": "cRaxOFtDT7DClWy"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-50.12"
+              },
+              "booking_date": "2026-03-09T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN DEFAM SCHULDEISER NL28ZZZ12211 MANDAAT 80152131E12A KENMERK SDR102112128"
+              ],
+              "id": "FAD8XZUhbi3yFfr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-78.89"
+              },
+              "booking_date": "2026-03-09T12:00:00.000Z",
+              "remittance_information": [
+                "SEPA INCASSO ALPHABET NEDERLAND MEDEDELING 101M3323222 32 UW KENMERK NL0004123032023"
+              ],
+              "id": "9uleGiT0RXvVYHp"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-56.99"
+              },
+              "booking_date": "2026-03-03T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 02/03 - 11.05 uur - BOL.COM AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 1"
+              ],
+              "id": "3le9GC7Am7ZZOjE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-89.95"
+              },
+              "booking_date": "2026-03-05T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 04/03 - 10.30 uur - DECATHLON AMSTERDAM WEST - NL Kaartnummer 6703 30XX XXXX X497 2"
+              ],
+              "id": "Glc2gxENC2FjXXu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-54"
+              },
+              "booking_date": "2026-03-06T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 05/03 - 14.50 uur - H&M AMSTERDAM KALVERSTRAAT - NL Kaartnummer 6703 30XX XXXX X497 3"
+              ],
+              "id": "sqVYIqbXrDQVppK"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-31.5"
+              },
+              "booking_date": "2026-03-07T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 06/03 - 09.12 uur - HEMA AMSTERDAM KALVERSTRAAT - NL Kaartnummer 6703 30XX XXXX X497 4"
+              ],
+              "id": "yDtxEuCEJnrZONn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-76.4"
+              },
+              "booking_date": "2026-03-08T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 07/03 - 07.58 uur - NS AMSTERDAM CENTRAAL - NL Kaartnummer 6703 30XX XXXX X497 5"
+              ],
+              "id": "gjw87nvmy5AR01x"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-249"
+              },
+              "booking_date": "2026-03-10T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 09/03 - 13.20 uur - MEDIAMARKT AMSTERDAM ARENA - NL Kaartnummer 6703 30XX XXXX X497 6"
+              ],
+              "id": "4D1iSMvoR3LnsIj"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-112.8"
+              },
+              "booking_date": "2026-03-11T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 10/03 - 16.44 uur - ZARA AMSTERDAM NIEUWENDIJK - NL Kaartnummer 6703 30XX XXXX X497 7"
+              ],
+              "id": "oULBtqacjX8jDwz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-187.5"
+              },
+              "booking_date": "2026-03-12T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 11/03 - 11.35 uur - IKEA AMSTERDAM ZUIDOOST - NL Kaartnummer 6703 30XX XXXX X497 8"
+              ],
+              "id": "SsF60kglzU9tF22"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-159.99"
+              },
+              "booking_date": "2026-03-13T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 12/03 - 19.10 uur - COOLBLUE AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 9"
+              ],
+              "id": "piIDaRNIs0gqnxx"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-215.08"
+              },
+              "booking_date": "2026-03-15T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 14/03 - 15.03 uur - DE BIJENKORF AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 10"
+              ],
+              "id": "FOrEL2O2ON3wycu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-17.8"
+              },
+              "booking_date": "2026-03-13T12:00:00.000Z",
+              "remittance_information": [
+                "BETALING VERZEKERING NATIONALE-NEDERLANDEN HYPOTHEEK"
+              ],
+              "id": "wxTm6QlBReQqmHn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-13"
+              },
+              "booking_date": "2026-03-13T12:00:00.000Z",
+              "remittance_information": [
+                "Abonnementskosten Betaalrekening Pakket (kor = 20%)"
+              ],
+              "id": "3o4jYrJpY6aF6Jj"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-522.31"
+              },
+              "booking_date": "2026-03-13T12:00:00.000Z",
+              "remittance_information": [
+                "HYPOTHEEK TERMIJN"
+              ],
+              "id": "SkjeDhe1wJzOIuy"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19"
+              },
+              "booking_date": "2026-03-14T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING DEFAM GEC-01 TERMIJNBETALING"
+              ],
+              "id": "pkMIfpvIVrtVscf"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-126.99"
+              },
+              "booking_date": "2026-03-17T12:00:00.000Z",
+              "remittance_information": [
+                "PAS X2517 3-4X KLARNA ELEKTRONISCHE HANDEL"
+              ],
+              "id": "CmOZlSN8t0ELPMG"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-03-17T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN DITZO BV MANDAAT 2RQ0IPC MEDEDELING WOONVERZEKERING"
+              ],
+              "id": "SE2phos6ryj1gTT"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-122.45"
+              },
+              "booking_date": "2026-03-19T12:00:00.000Z",
+              "remittance_information": [
+                "SEPA INCASSO ALPHABET NEDERLAND MEDEDELING 101M3323222 32 UW KENMERK NL0004123032023"
+              ],
+              "id": "pVdqL6bebwbmQQv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-122.45"
+              },
+              "booking_date": "2026-03-20T12:00:00.000Z",
+              "remittance_information": [
+                "SEPA INCASSO ALPHABET NEDERLAND MEDEDELING 101M3323222 32 UW KENMERK NL0004123032023"
+              ],
+              "id": "SLSaz5oPjnHgfZX"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-72.1"
+              },
+              "booking_date": "2026-03-26T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 25/03 - 11.04 uur - ALBERT HEIJN AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X360 1"
+              ],
+              "id": "VPgkL8ra0s7uYXb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-100"
+              },
+              "booking_date": "2026-03-27T12:00:00.000Z",
+              "remittance_information": [
+                "GELDOPNEMING MET DEBETKAART X2517 OM 08:55 UUR GELDAUTOMAAT ING BANK AMSTERDAM"
+              ],
+              "id": "fKmLcorPBEMsK3l"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-78.9"
+              },
+              "booking_date": "2026-03-28T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 27/03 - 17.32 uur - ALBERT HEIJN AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X360 2"
+              ],
+              "id": "Ub9PX8h3GcExT6F"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.99"
+              },
+              "booking_date": "2026-03-28T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN T-MOBILE NEDERLAND SCHULDEISERSREFERTE PAGP0102EAAE KENMERK 06xxxxx686"
+              ],
+              "id": "dtAlSH4MMQlJCnH"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-12"
+              },
+              "booking_date": "2026-03-29T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 28/03 - 09.15 uur - ALBERT HEIJN AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X360 3"
+              ],
+              "id": "LuGzX1x57lZtUSV"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "2581.45"
+              },
+              "booking_date": "2026-04-04T12:00:00.000Z",
+              "remittance_information": [
+                "INSTANTOVERSCHRIJVING IN EURO VAN NEFAB BV MEDEDELING SALARIS NEFAB BV BANKREFERENTIE NEFABBV-0000-082020092555-21"
+              ],
+              "id": "nAkNJZAnVuU53GO"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-102.32"
+              },
+              "booking_date": "2026-04-06T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN VATTENFALL ENERGIE KLANTEN PARTICULIEREN SCHULDEISERSREFERTE Z012201022 KENMERK 00203 1 S 115"
+              ],
+              "id": "Ji0VLiqejPQqyDY"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-35.97"
+              },
+              "booking_date": "2026-04-06T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN BASIC-FIT II BV SCHULDEISER NL10ZZ3122 MANDAAT 737001831 KENMERK NO737001831-106"
+              ],
+              "id": "PwpAzbqytgMH0er"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42"
+              },
+              "booking_date": "2026-04-08T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING DEFAM GEC-01 TERMIJNBETALING"
+              ],
+              "id": "vba2nMct0z7vfvH"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-101.74"
+              },
+              "booking_date": "2026-04-10T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING RABOBANK 0224392 PREMIE AUTOVERZEKERING INTERPOLIS POLISNR PERSONENAUTO 302023133"
+              ],
+              "id": "I7Bn2aqQzv4XU5y"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-50.12"
+              },
+              "booking_date": "2026-04-10T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN DEFAM SCHULDEISER NL28ZZZ12211 MANDAAT 80152131E12A KENMERK SDR102112129"
+              ],
+              "id": "FRww17HAMg8fbiH"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-78.89"
+              },
+              "booking_date": "2026-04-10T12:00:00.000Z",
+              "remittance_information": [
+                "SEPA INCASSO ALPHABET NEDERLAND MEDEDELING 101M3323222 32 UW KENMERK NL0004123032023"
+              ],
+              "id": "LpiQTAvlhFhRAQX"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-38.75"
+              },
+              "booking_date": "2026-04-02T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 01/04 - 10.40 uur - BOL.COM AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 1"
+              ],
+              "id": "nVnZdcWstd4pKD2"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-54.2"
+              },
+              "booking_date": "2026-04-03T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 02/04 - 18.22 uur - JUMBO SUPERMARKT AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 2"
+              ],
+              "id": "Q3LQf402Bv4MIjJ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-22.9"
+              },
+              "booking_date": "2026-04-04T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 03/04 - 13.05 uur - HEMA AMSTERDAM KALVERSTRAAT - NL Kaartnummer 6703 30XX XXXX X497 3"
+              ],
+              "id": "gVX4VHrOvEaddat"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-44.6"
+              },
+              "booking_date": "2026-04-05T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 04/04 - 08.15 uur - NS AMSTERDAM CENTRAAL - NL Kaartnummer 6703 30XX XXXX X497 4"
+              ],
+              "id": "gxeL76QErZ5P3C7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-67.8"
+              },
+              "booking_date": "2026-04-07T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 06/04 - 11.50 uur - DECATHLON AMSTERDAM WEST - NL Kaartnummer 6703 30XX XXXX X497 5"
+              ],
+              "id": "EcmvZqn9NNWeJ0c"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-89.99"
+              },
+              "booking_date": "2026-04-08T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 07/04 - 15.35 uur - H&M AMSTERDAM KALVERSTRAAT - NL Kaartnummer 6703 30XX XXXX X497 6"
+              ],
+              "id": "piY6VKDmHohcyNe"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-23.5"
+              },
+              "booking_date": "2026-04-09T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 08/04 - 09.48 uur - ACTION AMSTERDAM OOST - NL Kaartnummer 6703 30XX XXXX X497 7"
+              ],
+              "id": "WsTk9HxOriFmuyw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-198"
+              },
+              "booking_date": "2026-04-10T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 09/04 - 14.10 uur - COOLBLUE AMSTERDAM - NL Kaartnummer 6703 30XX XXXX X497 8"
+              ],
+              "id": "NF7kjGATvI7CZ84"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.6"
+              },
+              "booking_date": "2026-04-11T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 10/04 - 17.20 uur - KRUIDVAT AMSTERDAM CENTRUM - NL Kaartnummer 6703 30XX XXXX X497 9"
+              ],
+              "id": "Ae265Zq5OtbQ8au"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-321"
+              },
+              "booking_date": "2026-04-12T12:00:00.000Z",
+              "remittance_information": [
+                "Aankoop Maestro 11/04 - 12.55 uur - MEDIAMARKT AMSTERDAM ARENA - NL Kaartnummer 6703 30XX XXXX X497 10"
+              ],
+              "id": "dJvx6YNM5UsWD8a"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-17.8"
+              },
+              "booking_date": "2026-04-12T12:00:00.000Z",
+              "remittance_information": [
+                "BETALING VERZEKERING NATIONALE-NEDERLANDEN HYPOTHEEK"
+              ],
+              "id": "wJaaQPBse2VQKO7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-522.31"
+              },
+              "booking_date": "2026-04-12T12:00:00.000Z",
+              "remittance_information": [
+                "HYPOTHEEK TERMIJN"
+              ],
+              "id": "9MGtMeVN2aTkREd"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-13"
+              },
+              "booking_date": "2026-04-13T12:00:00.000Z",
+              "remittance_information": [
+                "Abonnementskosten Betaalrekening Pakket (kor = 20%)"
+              ],
+              "id": "V3DRK9D3LBIieng"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-126.99"
+              },
+              "booking_date": "2026-04-17T12:00:00.000Z",
+              "remittance_information": [
+                "PAS X2517 3-4X KLARNA ELEKTRONISCHE HANDEL"
+              ],
+              "id": "pcopd6LfieRGUDg"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-04-17T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN DITZO BV MANDAAT 2RQ0IPC MEDEDELING WOONVERZEKERING"
+              ],
+              "id": "9PIdgh3XngPBaWi"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "500"
+              },
+              "booking_date": "2026-04-19T12:00:00.000Z",
+              "remittance_information": [
+                "VOORSCHOT SARAH CONNOR VK02101XUZGR9C01"
+              ],
+              "id": "9nfUjwIJlnnY66m"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.99"
+              },
+              "booking_date": "2026-04-26T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN T-MOBILE NEDERLAND SCHULDEISERSREFERTE PAGP0102EAAE KENMERK 06xxxxx687"
+              ],
+              "id": "hyA9Oq1VHtwsTit"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "2081.45"
+              },
+              "booking_date": "2026-05-04T12:00:00.000Z",
+              "remittance_information": [
+                "INSTANTOVERSCHRIJVING IN EURO VAN NEFAB BV MEDEDELING SALARIS NEFAB BV BANKREFERENTIE NEFABBV-0000-082020092555-21"
+              ],
+              "id": "D2HCLVHmYqEeJhn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-102.32"
+              },
+              "booking_date": "2026-05-05T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN VATTENFALL ENERGIE KLANTEN PARTICULIEREN SCHULDEISERSREFERTE Z012201022 KENMERK 00203 1 S 116"
+              ],
+              "id": "2elpGI06ARyQMrV"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-35.97"
+              },
+              "booking_date": "2026-05-05T12:00:00.000Z",
+              "remittance_information": [
+                "DOMICILIERING VAN BASIC-FIT II BV SCHULDEISER NL10ZZ3122 MANDAAT 737001831 KENMERK NO737001831-106"
+              ],
+              "id": "e8V4BosxpINj81V"
+            }
+          ],
+          "name": "Betaalrekening 01",
+          "balances": [
+            {
+              "balance_amount": {
+                "currency": "EUR",
+                "amount": "2633.03"
+              },
+              "reference_date": "2026-05-05T12:00:00.000Z"
+            }
+          ],
+          "currency": "EUR",
+          "type": "CASH_ACCOUNT",
+          "usage": "PRIVATE",
+          "account_id": "ZCE8GnE0vOaoUxw",
+          "iban": "NL02ABNA0123456789",
+          "bic": "ABNANL2A"
+        }
+      ]
+    }
+  ]
+}
