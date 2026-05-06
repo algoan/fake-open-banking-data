@@ -1,5 +1,4 @@
-import * as path from 'path';
-
+import * as path from 'node:path';
 import { readJSONFiles, writeJSONFiles } from '../lib/utils';
 import { algoanAccountsToBIAccounts } from '../mappers/budgetInsightV20/accounts';
 import { algoanAccountsToLinxoAccounts } from '../mappers/linxoDAV3/accounts';

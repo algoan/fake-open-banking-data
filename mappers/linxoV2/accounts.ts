@@ -2,6 +2,7 @@ import dayjs from 'dayjs';
 import { makeId } from '../../lib/utils';
 import { AccountsEntity } from '../../types';
 
+// prettier-ignore
 const getAccountStr = (account: AccountsEntity, accountName: string): string => [
   'ACCOUNT',                        // model name
   makeId(12),                       // account_uid

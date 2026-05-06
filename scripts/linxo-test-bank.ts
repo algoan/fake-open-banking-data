@@ -1,8 +1,8 @@
-import { getTextStringFromAcc } from '../mappers/linxoV2/accounts';
-import { writeFileSync } from 'fs';
-import * as path from 'path';
-import { FileEntity } from '../types';
+import { writeFileSync } from 'node:fs';
+import * as path from 'node:path';
 import { readJSONFiles } from '../lib/utils';
+import { getTextStringFromAcc } from '../mappers/linxoV2/accounts';
+import { FileEntity } from '../types';
 
 (async function () {
   /**

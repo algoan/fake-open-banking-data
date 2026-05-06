@@ -1,6 +1,5 @@
-import { readdirSync, readFileSync, writeFileSync } from 'fs';
-import * as path from 'path';
-
+import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
+import * as path from 'node:path';
 import { FileEntity } from '../types';
 
 /**
