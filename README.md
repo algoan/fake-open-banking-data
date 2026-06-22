@@ -15,3 +15,5 @@ A JSON file represents what we call a "Personae": a profile with relevant credit
 - [France 🇫🇷](./samples/fr): French Personae (accounts and transaction's description are written in French).
 - [UK 🇬🇧](./samples/en/): United Kingdom Personae (accounts and transaction's description are written in English en-GB)
 - [Spain 🇪🇸](./samples/es/): Spanish Personae (accounts and transaction's description are written in Spanish)
+- [Belgium 🇧🇪 (FR)](./samples/be-fr/): Belgian Personae (accounts and transaction's description are written in French be-fr)
+- [Belgium 🇧🇪 (NL)](./samples/be-nl/): Belgian Personae (accounts and transaction's description are written in Dutch be-nl)
