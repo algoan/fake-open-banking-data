@@ -1,0 +1,642 @@
+{
+  "accounts": [
+    {
+      "name": "Zichtrekening 01",
+      "balance": 2633.03,
+      "balanceDate": "2026-05-04T12:00:00.000Z",
+      "owners": [
+        {
+          "name": "DANA SCULLY"
+        }
+      ],
+      "bank": {
+        "name": "Algoan Demo",
+        "id": "AD",
+        "logoUrl": "https://storage.googleapis.com/bank-data-images-preprod/algoan-bank/logo.svg"
+      },
+      "currency": "EUR",
+      "transactions": [
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-06T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING KBC 0224392 PREMIE AUTOVERZEKERING KBC VERZEKERINGEN POLISNR PERSONENWAGEN 302023131",
+          "amount": -101.74
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-06T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN COFIDIS BE SCHULDEISER BE28ZZZ12211 MANDAAT 80152131E12A KENMERK SDR102112127",
+          "amount": -50.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-06T12:00:00.000Z"
+          },
+          "description": "SEPA DOMICILIERING ALPHABET BELGIE MEDEDELING 101M3323222 32 UW KENMERK BE0004123032023",
+          "amount": -78.89
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-03T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 03/02 - 10.14 u - BOL.COM ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 1",
+          "amount": -43.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-04T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 04/02 - 14.22 u - HEMA ANTWERPEN MEIR - BE Kaartnummer 6703 30XX XXXX X497 2",
+          "amount": -28.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-05T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 05/02 - 18.45 u - COLRUYT ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 3",
+          "amount": -67.8
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-06T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 06/02 - 08.03 u - NMBS ANTWERPEN CENTRAAL - BE Kaartnummer 6703 30XX XXXX X497 4",
+          "amount": -38.2
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-07T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 07/02 - 11.30 u - MEDIAMARKT ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 5",
+          "amount": -189.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-10T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 10/02 - 15.17 u - ZARA ANTWERPEN MEIR - BE Kaartnummer 6703 30XX XXXX X497 6",
+          "amount": -74.55
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-12T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 12/02 - 09.55 u - ACTION ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 7",
+          "amount": -18.3
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-14T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 14/02 - 13.40 u - COOLBLUE ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 8",
+          "amount": -312.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-17T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 17/02 - 16.08 u - KRUIDVAT ANTWERPEN CENTRUM - BE Kaartnummer 6703 30XX XXXX X497 9",
+          "amount": -12.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-19T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 19/02 - 12.25 u - IKEA WILRIJK - BE Kaartnummer 6703 30XX XXXX X497 10",
+          "amount": -204.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-08T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING COFIDIS BE GEC-01 TERMIJNBETALING",
+          "amount": -17.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-08T12:00:00.000Z"
+          },
+          "description": "HYPOTHEEKLENING TERMIJN",
+          "amount": -522.31
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-08T12:00:00.000Z"
+          },
+          "description": "BETALING VERZEKERING AG INSURANCE HYPOTHEEKLENING",
+          "amount": -17.8
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-09T12:00:00.000Z"
+          },
+          "description": "Abonnementskosten Zichtrekening Pakket (kor = 20%)",
+          "amount": -13.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-13T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN BALOISE NV MANDAAT 2RQ0IPC MEDEDELING WONINGVERZEKERING",
+          "amount": -20.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-18T12:00:00.000Z"
+          },
+          "description": "SEPA DOMICILIERING ALPHABET BELGIE MEDEDELING 101M3323222 32 UW KENMERK BE0004123032023",
+          "amount": -122.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-23T12:00:00.000Z"
+          },
+          "description": "GELDOPNEMING MET DEBETKAART X2517 OM 06:23 UUR GELDAUTOMAAT BELFIUS BRUSSEL",
+          "amount": -120.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-02-23T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN PROXIMUS NV SCHULDEISERSREFERTE PAGP0102EAAE KENMERK 06xxxxx685",
+          "amount": -15.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-02T12:00:00.000Z"
+          },
+          "description": "EUROPESE OVERSCHRIJVING IN EURO VAN NEFAB BV MEDEDELING LOON NEFAB BV BANKREFERENTIE NEFABBV-0000-082020092555-21",
+          "amount": 2581.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-05T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN ENGIE KLANTEN PARTICULIEREN SCHULDEISERSREFERTE Z012201022 KENMERK 00203 1 S 114",
+          "amount": -102.32
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-05T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN BASIC-FIT II BV SCHULDEISER BE10ZZ3122 MANDAAT 737001831 KENMERK NO737001831-106",
+          "amount": -35.97
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-08T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING KBC 0224392 PREMIE AUTOVERZEKERING KBC VERZEKERINGEN POLISNR PERSONENWAGEN 302023132",
+          "amount": -101.74
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-08T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN COFIDIS BE SCHULDEISER BE28ZZZ12211 MANDAAT 80152131E12A KENMERK SDR102112128",
+          "amount": -50.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-08T12:00:00.000Z"
+          },
+          "description": "SEPA DOMICILIERING ALPHABET BELGIE MEDEDELING 101M3323222 32 UW KENMERK BE0004123032023",
+          "amount": -78.89
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-02T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 02/03 - 11.05 u - BOL.COM ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 1",
+          "amount": -56.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-04T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 04/03 - 10.30 u - DECATHLON ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 2",
+          "amount": -89.95
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-05T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 05/03 - 14.50 u - H&M ANTWERPEN MEIR - BE Kaartnummer 6703 30XX XXXX X497 3",
+          "amount": -54.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-06T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 06/03 - 09.12 u - HEMA ANTWERPEN MEIR - BE Kaartnummer 6703 30XX XXXX X497 4",
+          "amount": -31.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-07T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 07/03 - 07.58 u - NMBS ANTWERPEN CENTRAAL - BE Kaartnummer 6703 30XX XXXX X497 5",
+          "amount": -76.4
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-09T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 09/03 - 13.20 u - MEDIAMARKT ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 6",
+          "amount": -249.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-10T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 10/03 - 16.44 u - ZARA ANTWERPEN MEIR - BE Kaartnummer 6703 30XX XXXX X497 7",
+          "amount": -112.8
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-11T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 11/03 - 11.35 u - IKEA WILRIJK - BE Kaartnummer 6703 30XX XXXX X497 8",
+          "amount": -187.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-12T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 12/03 - 19.10 u - COOLBLUE ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 9",
+          "amount": -159.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-14T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 14/03 - 15.03 u - FNAC ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 10",
+          "amount": -215.08
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-12T12:00:00.000Z"
+          },
+          "description": "BETALING VERZEKERING AG INSURANCE HYPOTHEEKLENING",
+          "amount": -17.8
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-12T12:00:00.000Z"
+          },
+          "description": "Abonnementskosten Zichtrekening Pakket (kor = 20%)",
+          "amount": -13.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-12T12:00:00.000Z"
+          },
+          "description": "HYPOTHEEKLENING TERMIJN",
+          "amount": -522.31
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-13T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING COFIDIS BE GEC-01 TERMIJNBETALING",
+          "amount": -19.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-16T12:00:00.000Z"
+          },
+          "description": "PAS X2517 3-4X KLARNA ELEKTRONISCHE HANDEL",
+          "amount": -126.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-16T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN BALOISE NV MANDAAT 2RQ0IPC MEDEDELING WONINGVERZEKERING",
+          "amount": -20.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-18T12:00:00.000Z"
+          },
+          "description": "SEPA DOMICILIERING ALPHABET BELGIE MEDEDELING 101M3323222 32 UW KENMERK BE0004123032023",
+          "amount": -122.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-19T12:00:00.000Z"
+          },
+          "description": "SEPA DOMICILIERING ALPHABET BELGIE MEDEDELING 101M3323222 32 UW KENMERK BE0004123032023",
+          "amount": -122.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-25T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 25/03 - 11.04 u - DELHAIZE ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X360 1",
+          "amount": -72.1
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-26T12:00:00.000Z"
+          },
+          "description": "GELDOPNEMING MET DEBETKAART X2517 OM 08:55 UUR GELDAUTOMAAT BELFIUS BRUSSEL",
+          "amount": -100.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-27T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 27/03 - 17.32 u - DELHAIZE ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X360 2",
+          "amount": -78.9
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-27T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN PROXIMUS NV SCHULDEISERSREFERTE PAGP0102EAAE KENMERK 06xxxxx686",
+          "amount": -15.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-03-28T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 28/03 - 09.15 u - DELHAIZE ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X360 3",
+          "amount": -12.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-03T12:00:00.000Z"
+          },
+          "description": "EUROPESE OVERSCHRIJVING IN EURO VAN NEFAB BV MEDEDELING LOON NEFAB BV BANKREFERENTIE NEFABBV-0000-082020092555-21",
+          "amount": 2581.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-05T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN ENGIE KLANTEN PARTICULIEREN SCHULDEISERSREFERTE Z012201022 KENMERK 00203 1 S 115",
+          "amount": -102.32
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-05T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN BASIC-FIT II BV SCHULDEISER BE10ZZ3122 MANDAAT 737001831 KENMERK NO737001831-106",
+          "amount": -35.97
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-07T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING COFIDIS BE GEC-01 TERMIJNBETALING",
+          "amount": -42.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-09T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING KBC 0224392 PREMIE AUTOVERZEKERING KBC VERZEKERINGEN POLISNR PERSONENWAGEN 302023133",
+          "amount": -101.74
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-09T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN COFIDIS BE SCHULDEISER BE28ZZZ12211 MANDAAT 80152131E12A KENMERK SDR102112129",
+          "amount": -50.12
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-09T12:00:00.000Z"
+          },
+          "description": "SEPA DOMICILIERING ALPHABET BELGIE MEDEDELING 101M3323222 32 UW KENMERK BE0004123032023",
+          "amount": -78.89
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-01T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 01/04 - 10.40 u - BOL.COM ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 1",
+          "amount": -38.75
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-02T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 02/04 - 18.22 u - COLRUYT ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 2",
+          "amount": -54.2
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-03T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 03/04 - 13.05 u - HEMA ANTWERPEN MEIR - BE Kaartnummer 6703 30XX XXXX X497 3",
+          "amount": -22.9
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-04T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 04/04 - 08.15 u - NMBS ANTWERPEN CENTRAAL - BE Kaartnummer 6703 30XX XXXX X497 4",
+          "amount": -44.6
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-06T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 06/04 - 11.50 u - DECATHLON ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 5",
+          "amount": -67.8
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-07T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 07/04 - 15.35 u - H&M ANTWERPEN MEIR - BE Kaartnummer 6703 30XX XXXX X497 6",
+          "amount": -89.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-08T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 08/04 - 09.48 u - ACTION ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 7",
+          "amount": -23.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-09T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 09/04 - 14.10 u - COOLBLUE ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 8",
+          "amount": -198.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-10T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 10/04 - 17.20 u - KRUIDVAT ANTWERPEN CENTRUM - BE Kaartnummer 6703 30XX XXXX X497 9",
+          "amount": -15.6
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-11T12:00:00.000Z"
+          },
+          "description": "Aankoop Bancontact 11/04 - 12.55 u - MEDIAMARKT ANTWERPEN - BE Kaartnummer 6703 30XX XXXX X497 10",
+          "amount": -321.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-11T12:00:00.000Z"
+          },
+          "description": "BETALING VERZEKERING AG INSURANCE HYPOTHEEKLENING",
+          "amount": -17.8
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-11T12:00:00.000Z"
+          },
+          "description": "HYPOTHEEKLENING TERMIJN",
+          "amount": -522.31
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-12T12:00:00.000Z"
+          },
+          "description": "Abonnementskosten Zichtrekening Pakket (kor = 20%)",
+          "amount": -13.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-16T12:00:00.000Z"
+          },
+          "description": "PAS X2517 3-4X KLARNA ELEKTRONISCHE HANDEL",
+          "amount": -126.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-16T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN BALOISE NV MANDAAT 2RQ0IPC MEDEDELING WONINGVERZEKERING",
+          "amount": -20.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-18T12:00:00.000Z"
+          },
+          "description": "VOORSCHOT DANA SCULLY VK02101XUZGR9C01",
+          "amount": 500.0
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-04-25T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN PROXIMUS NV SCHULDEISERSREFERTE PAGP0102EAAE KENMERK 06xxxxx687",
+          "amount": -15.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-05-03T12:00:00.000Z"
+          },
+          "description": "EUROPESE OVERSCHRIJVING IN EURO VAN NEFAB BV MEDEDELING LOON NEFAB BV BANKREFERENTIE NEFABBV-0000-082020092555-21",
+          "amount": 2081.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-05-04T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN ENGIE KLANTEN PARTICULIEREN SCHULDEISERSREFERTE Z012201022 KENMERK 00203 1 S 116",
+          "amount": -102.32
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-05-04T12:00:00.000Z"
+          },
+          "description": "DOMICILIERING VAN BASIC-FIT II BV SCHULDEISER BE10ZZ3122 MANDAAT 737001831 KENMERK NO737001831-106",
+          "amount": -35.97
+        }
+      ],
+      "type": "CHECKING",
+      "iban": "BE68539007547034",
+      "usage": "PERSONAL",
+      "bic": "KREDBEBB"
+    }
+  ]
+}
