@@ -12,7 +12,7 @@ const getAccountStr = (account: AccountsEntity, accountName: string): string => 
   getAccountType(account.type),     // account_type
   '',                               // acceptable_uid_regexp
   'false',                          // match_existing
-  account.owners[0].name,           // owner
+  account.owners?.[0]?.name ?? '',  // owner
   accountName,                      // account_name
   '',                               // payment_source
   '',                               // payment_destination
@@ -24,7 +24,7 @@ const getAccountStr = (account: AccountsEntity, accountName: string): string => 
  * @see https://developers.oxlin.io/reference-accounts-api/#section/File-structure
  */
 export async function getTextStringFromAcc(accounts: AccountsEntity[]) {
-  let txtStr: string = `CREDENTIALS|dev|dev\nCREDENTIALS_OWNER|${accounts[0].owners[0].name}\n`;
+  let txtStr: string = `CREDENTIALS|dev|dev\nCREDENTIALS_OWNER|${accounts[0].owners?.[0]?.name ?? ''}\n`;
 
   accounts.forEach((account, index) => {
     const accountName = account.number || `account ${(index + 1).toString().padStart(2, '0')}`;
