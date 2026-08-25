@@ -6,356 +6,348 @@
         {
           "transactions": [
             {
-              "date": "2026-05-29T12:00:00.000Z",
-              "rdate": "2026-05-29T12:00:00.000Z",
+              "date": "2026-05-30T12:00:00.000Z",
+              "rdate": "2026-05-30T12:00:00.000Z",
               "currency": "EUR",
               "value": -101.74,
               "original_wording": "DOMICILIATION ING BELGIQUE 0224392 PRIME ASSURANCE AUTO KBC ASSURANCES REF VEHICULE PERSONNEL 302023131",
-              "id": 152
-            },
-            {
-              "date": "2026-05-29T12:00:00.000Z",
-              "rdate": "2026-05-29T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -50.12,
-              "original_wording": "DOMICILIATION DE COFIDIS BE CREANCIER BE28ZZZ12211 MANDAT 80152131E12A REFERENCE SDR102112127",
-              "id": 874
-            },
-            {
-              "date": "2026-05-29T12:00:00.000Z",
-              "rdate": "2026-05-29T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -78.89,
-              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
-              "id": 74
-            },
-            {
-              "date": "2026-05-26T12:00:00.000Z",
-              "rdate": "2026-05-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -43.99,
-              "original_wording": "Achat Bancontact 03/02 - 10h14 - BOL.COM BRUXELLES - BE Numero carte 6703 30XX XXXX X497 1",
-              "id": 911
-            },
-            {
-              "date": "2026-05-27T12:00:00.000Z",
-              "rdate": "2026-05-27T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -28.5,
-              "original_wording": "Achat Bancontact 04/02 - 14h22 - HEMA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 2",
-              "id": 619
-            },
-            {
-              "date": "2026-05-28T12:00:00.000Z",
-              "rdate": "2026-05-28T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -67.8,
-              "original_wording": "Achat Bancontact 05/02 - 18h45 - CARREFOUR BRUXELLES - BE Numero carte 6703 30XX XXXX X497 3",
-              "id": 949
-            },
-            {
-              "date": "2026-05-29T12:00:00.000Z",
-              "rdate": "2026-05-29T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -38.2,
-              "original_wording": "Achat Bancontact 06/02 - 08h03 - SNCB BRUXELLES MIDI - BE Numero carte 6703 30XX XXXX X497 4",
-              "id": 759
+              "id": 345
             },
             {
               "date": "2026-05-30T12:00:00.000Z",
               "rdate": "2026-05-30T12:00:00.000Z",
               "currency": "EUR",
-              "value": -189,
-              "original_wording": "Achat Bancontact 07/02 - 11h30 - MEDIAMARKT BRUXELLES - BE Numero carte 6703 30XX XXXX X497 5",
-              "id": 267
+              "value": -50.12,
+              "original_wording": "DOMICILIATION DE COFIDIS BE CREANCIER BE28ZZZ12211 MANDAT 80152131E12A REFERENCE SDR102112127",
+              "id": 922
             },
             {
-              "date": "2026-06-02T12:00:00.000Z",
-              "rdate": "2026-06-02T12:00:00.000Z",
+              "date": "2026-05-30T12:00:00.000Z",
+              "rdate": "2026-05-30T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -78.89,
+              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
+              "id": 846
+            },
+            {
+              "date": "2026-05-27T12:00:00.000Z",
+              "rdate": "2026-05-27T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -43.99,
+              "original_wording": "Achat Bancontact 03/02 - 10h14 - BOL.COM BRUXELLES - BE Numero carte 6703 30XX XXXX X497 1",
+              "id": 247
+            },
+            {
+              "date": "2026-05-28T12:00:00.000Z",
+              "rdate": "2026-05-28T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -28.5,
+              "original_wording": "Achat Bancontact 04/02 - 14h22 - HEMA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 2",
+              "id": 596
+            },
+            {
+              "date": "2026-05-29T12:00:00.000Z",
+              "rdate": "2026-05-29T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -67.8,
+              "original_wording": "Achat Bancontact 05/02 - 18h45 - CARREFOUR BRUXELLES - BE Numero carte 6703 30XX XXXX X497 3",
+              "id": 520
+            },
+            {
+              "date": "2026-05-30T12:00:00.000Z",
+              "rdate": "2026-05-30T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -38.2,
+              "original_wording": "Achat Bancontact 06/02 - 08h03 - SNCB BRUXELLES MIDI - BE Numero carte 6703 30XX XXXX X497 4",
+              "id": 270
+            },
+            {
+              "date": "2026-05-31T12:00:00.000Z",
+              "rdate": "2026-05-31T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -189,
+              "original_wording": "Achat Bancontact 07/02 - 11h30 - MEDIAMARKT BRUXELLES - BE Numero carte 6703 30XX XXXX X497 5",
+              "id": 843
+            },
+            {
+              "date": "2026-06-03T12:00:00.000Z",
+              "rdate": "2026-06-03T12:00:00.000Z",
               "currency": "EUR",
               "value": -74.55,
               "original_wording": "Achat Bancontact 10/02 - 15h17 - ZARA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 6",
-              "id": 886
-            },
-            {
-              "date": "2026-06-04T12:00:00.000Z",
-              "rdate": "2026-06-04T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -18.3,
-              "original_wording": "Achat Bancontact 12/02 - 09h55 - ACTION BRUXELLES - BE Numero carte 6703 30XX XXXX X497 7",
-              "id": 456
-            },
-            {
-              "date": "2026-06-06T12:00:00.000Z",
-              "rdate": "2026-06-06T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -312,
-              "original_wording": "Achat Bancontact 14/02 - 13h40 - COOLBLUE BRUXELLES - BE Numero carte 6703 30XX XXXX X497 8",
-              "id": 132
-            },
-            {
-              "date": "2026-06-09T12:00:00.000Z",
-              "rdate": "2026-06-09T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -12.5,
-              "original_wording": "Achat Bancontact 17/02 - 16h08 - ICI PARIS XL BRUXELLES - BE Numero carte 6703 30XX XXXX X497 9",
-              "id": 298
-            },
-            {
-              "date": "2026-06-11T12:00:00.000Z",
-              "rdate": "2026-06-11T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -204.5,
-              "original_wording": "Achat Bancontact 19/02 - 12h25 - IKEA ANDERLECHT - BE Numero carte 6703 30XX XXXX X497 10",
-              "id": 558
-            },
-            {
-              "date": "2026-05-31T12:00:00.000Z",
-              "rdate": "2026-05-31T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -17,
-              "original_wording": "DOMICILIATION COFIDIS BE GEC-01 ECHEANCE",
-              "id": 495
-            },
-            {
-              "date": "2026-05-31T12:00:00.000Z",
-              "rdate": "2026-05-31T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -522.31,
-              "original_wording": "ECHEANCE PRET HYPOTHECAIRE",
-              "id": 68
-            },
-            {
-              "date": "2026-05-31T12:00:00.000Z",
-              "rdate": "2026-05-31T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -17.8,
-              "original_wording": "REGLEMENT ASSURANCE AG INSURANCE PRET HYPOTHECAIRE",
-              "id": 936
-            },
-            {
-              "date": "2026-06-01T12:00:00.000Z",
-              "rdate": "2026-06-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -13,
-              "original_wording": "Frais abonnement Compte a vue Formule (rem = 20%)",
-              "id": 168
+              "id": 193
             },
             {
               "date": "2026-06-05T12:00:00.000Z",
               "rdate": "2026-06-05T12:00:00.000Z",
               "currency": "EUR",
-              "value": -20,
-              "original_wording": "DOMICILIATION DE BALOISE SA MANDAT 2RQ0IPC COMMUNICATION ASSURANCE HABITATION",
-              "id": 24
+              "value": -18.3,
+              "original_wording": "Achat Bancontact 12/02 - 09h55 - ACTION BRUXELLES - BE Numero carte 6703 30XX XXXX X497 7",
+              "id": 609
+            },
+            {
+              "date": "2026-06-07T12:00:00.000Z",
+              "rdate": "2026-06-07T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -312,
+              "original_wording": "Achat Bancontact 14/02 - 13h40 - COOLBLUE BRUXELLES - BE Numero carte 6703 30XX XXXX X497 8",
+              "id": 821
             },
             {
               "date": "2026-06-10T12:00:00.000Z",
               "rdate": "2026-06-10T12:00:00.000Z",
               "currency": "EUR",
-              "value": -122.45,
-              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
-              "id": 704
+              "value": -12.5,
+              "original_wording": "Achat Bancontact 17/02 - 16h08 - ICI PARIS XL BRUXELLES - BE Numero carte 6703 30XX XXXX X497 9",
+              "id": 805
             },
             {
-              "date": "2026-06-15T12:00:00.000Z",
-              "rdate": "2026-06-15T12:00:00.000Z",
+              "date": "2026-06-12T12:00:00.000Z",
+              "rdate": "2026-06-12T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -204.5,
+              "original_wording": "Achat Bancontact 19/02 - 12h25 - IKEA ANDERLECHT - BE Numero carte 6703 30XX XXXX X497 10",
+              "id": 997
+            },
+            {
+              "date": "2026-06-01T12:00:00.000Z",
+              "rdate": "2026-06-01T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -17,
+              "original_wording": "DOMICILIATION COFIDIS BE GEC-01 ECHEANCE",
+              "id": 869
+            },
+            {
+              "date": "2026-06-01T12:00:00.000Z",
+              "rdate": "2026-06-01T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -522.31,
+              "original_wording": "ECHEANCE PRET HYPOTHECAIRE",
+              "id": 84
+            },
+            {
+              "date": "2026-06-01T12:00:00.000Z",
+              "rdate": "2026-06-01T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -17.8,
+              "original_wording": "REGLEMENT ASSURANCE AG INSURANCE PRET HYPOTHECAIRE",
+              "id": 257
+            },
+            {
+              "date": "2026-06-02T12:00:00.000Z",
+              "rdate": "2026-06-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -13,
+              "original_wording": "Frais abonnement Compte a vue Formule (rem = 20%)",
+              "id": 847
+            },
+            {
+              "date": "2026-06-06T12:00:00.000Z",
+              "rdate": "2026-06-06T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -20,
+              "original_wording": "DOMICILIATION DE BALOISE SA MANDAT 2RQ0IPC COMMUNICATION ASSURANCE HABITATION",
+              "id": 416
+            },
+            {
+              "date": "2026-06-11T12:00:00.000Z",
+              "rdate": "2026-06-11T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -122.45,
+              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
+              "id": 646
+            },
+            {
+              "date": "2026-06-16T12:00:00.000Z",
+              "rdate": "2026-06-16T12:00:00.000Z",
               "currency": "EUR",
               "value": -120,
               "original_wording": "RETRAIT CARTE BANCAIRE X2517 A 06H23 DISTRIBUTEUR BELFIUS BRUXELLES",
-              "id": 289
+              "id": 976
             },
             {
-              "date": "2026-06-15T12:00:00.000Z",
-              "rdate": "2026-06-15T12:00:00.000Z",
+              "date": "2026-06-16T12:00:00.000Z",
+              "rdate": "2026-06-16T12:00:00.000Z",
               "currency": "EUR",
               "value": -15.99,
               "original_wording": "DOMICILIATION DE PROXIMUS SA REFERENCE CREANCIER PAGP0102EAAE REFERENCE 06xxxxx685",
-              "id": 361
+              "id": 111
             },
             {
-              "date": "2026-06-22T12:00:00.000Z",
-              "rdate": "2026-06-22T12:00:00.000Z",
+              "date": "2026-06-23T12:00:00.000Z",
+              "rdate": "2026-06-23T12:00:00.000Z",
               "currency": "EUR",
               "value": 2581.45,
               "original_wording": "VIREMENT SEPA RECU DE NEFAB BV COMMUNICATION SALAIRE NEFAB BV REFERENCE BANCAIRE NEFABBV-0000-082020092555-21",
-              "id": 864
-            },
-            {
-              "date": "2026-06-25T12:00:00.000Z",
-              "rdate": "2026-06-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -102.32,
-              "original_wording": "DOMICILIATION DE ENGIE CLIENTS PARTICULIERS REFERENCE CREANCIER Z012201022 REFERENCE 00203 1 S 114",
-              "id": 785
-            },
-            {
-              "date": "2026-06-25T12:00:00.000Z",
-              "rdate": "2026-06-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -35.97,
-              "original_wording": "DOMICILIATION DE BASIC-FIT II BV CREANCIER BE10ZZ3122 MANDAT 737001831 REFERENCE NO737001831-106",
-              "id": 314
-            },
-            {
-              "date": "2026-06-28T12:00:00.000Z",
-              "rdate": "2026-06-28T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -101.74,
-              "original_wording": "DOMICILIATION ING BELGIQUE 0224392 PRIME ASSURANCE AUTO KBC ASSURANCES REF VEHICULE PERSONNEL 302023132",
-              "id": 152
-            },
-            {
-              "date": "2026-06-28T12:00:00.000Z",
-              "rdate": "2026-06-28T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -50.12,
-              "original_wording": "DOMICILIATION DE COFIDIS BE CREANCIER BE28ZZZ12211 MANDAT 80152131E12A REFERENCE SDR102112128",
-              "id": 645
-            },
-            {
-              "date": "2026-06-28T12:00:00.000Z",
-              "rdate": "2026-06-28T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -78.89,
-              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
-              "id": 969
-            },
-            {
-              "date": "2026-06-22T12:00:00.000Z",
-              "rdate": "2026-06-22T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -56.99,
-              "original_wording": "Achat Bancontact 02/03 - 11h05 - BOL.COM BRUXELLES - BE Numero carte 6703 30XX XXXX X497 1",
-              "id": 428
-            },
-            {
-              "date": "2026-06-24T12:00:00.000Z",
-              "rdate": "2026-06-24T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -89.95,
-              "original_wording": "Achat Bancontact 04/03 - 10h30 - DECATHLON BRUXELLES - BE Numero carte 6703 30XX XXXX X497 2",
-              "id": 863
-            },
-            {
-              "date": "2026-06-25T12:00:00.000Z",
-              "rdate": "2026-06-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -54,
-              "original_wording": "Achat Bancontact 05/03 - 14h50 - H&M BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 3",
-              "id": 448
+              "id": 694
             },
             {
               "date": "2026-06-26T12:00:00.000Z",
               "rdate": "2026-06-26T12:00:00.000Z",
               "currency": "EUR",
-              "value": -31.5,
-              "original_wording": "Achat Bancontact 06/03 - 09h12 - HEMA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 4",
-              "id": 607
+              "value": -102.32,
+              "original_wording": "DOMICILIATION DE ENGIE CLIENTS PARTICULIERS REFERENCE CREANCIER Z012201022 REFERENCE 00203 1 S 114",
+              "id": 305
             },
             {
-              "date": "2026-06-27T12:00:00.000Z",
-              "rdate": "2026-06-27T12:00:00.000Z",
+              "date": "2026-06-26T12:00:00.000Z",
+              "rdate": "2026-06-26T12:00:00.000Z",
               "currency": "EUR",
-              "value": -76.4,
-              "original_wording": "Achat Bancontact 07/03 - 07h58 - SNCB BRUXELLES MIDI - BE Numero carte 6703 30XX XXXX X497 5",
-              "id": 181
+              "value": -35.97,
+              "original_wording": "DOMICILIATION DE BASIC-FIT II BV CREANCIER BE10ZZ3122 MANDAT 737001831 REFERENCE NO737001831-106",
+              "id": 595
             },
             {
               "date": "2026-06-29T12:00:00.000Z",
               "rdate": "2026-06-29T12:00:00.000Z",
               "currency": "EUR",
-              "value": -249,
-              "original_wording": "Achat Bancontact 09/03 - 13h20 - MEDIAMARKT BRUXELLES - BE Numero carte 6703 30XX XXXX X497 6",
-              "id": 216
+              "value": -101.74,
+              "original_wording": "DOMICILIATION ING BELGIQUE 0224392 PRIME ASSURANCE AUTO KBC ASSURANCES REF VEHICULE PERSONNEL 302023132",
+              "id": 490
+            },
+            {
+              "date": "2026-06-29T12:00:00.000Z",
+              "rdate": "2026-06-29T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -50.12,
+              "original_wording": "DOMICILIATION DE COFIDIS BE CREANCIER BE28ZZZ12211 MANDAT 80152131E12A REFERENCE SDR102112128",
+              "id": 978
+            },
+            {
+              "date": "2026-06-29T12:00:00.000Z",
+              "rdate": "2026-06-29T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -78.89,
+              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
+              "id": 415
+            },
+            {
+              "date": "2026-06-23T12:00:00.000Z",
+              "rdate": "2026-06-23T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -56.99,
+              "original_wording": "Achat Bancontact 02/03 - 11h05 - BOL.COM BRUXELLES - BE Numero carte 6703 30XX XXXX X497 1",
+              "id": 140
+            },
+            {
+              "date": "2026-06-25T12:00:00.000Z",
+              "rdate": "2026-06-25T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -89.95,
+              "original_wording": "Achat Bancontact 04/03 - 10h30 - DECATHLON BRUXELLES - BE Numero carte 6703 30XX XXXX X497 2",
+              "id": 629
+            },
+            {
+              "date": "2026-06-26T12:00:00.000Z",
+              "rdate": "2026-06-26T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -54,
+              "original_wording": "Achat Bancontact 05/03 - 14h50 - H&M BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 3",
+              "id": 702
+            },
+            {
+              "date": "2026-06-27T12:00:00.000Z",
+              "rdate": "2026-06-27T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -31.5,
+              "original_wording": "Achat Bancontact 06/03 - 09h12 - HEMA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 4",
+              "id": 546
+            },
+            {
+              "date": "2026-06-28T12:00:00.000Z",
+              "rdate": "2026-06-28T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -76.4,
+              "original_wording": "Achat Bancontact 07/03 - 07h58 - SNCB BRUXELLES MIDI - BE Numero carte 6703 30XX XXXX X497 5",
+              "id": 79
             },
             {
               "date": "2026-06-30T12:00:00.000Z",
               "rdate": "2026-06-30T12:00:00.000Z",
               "currency": "EUR",
-              "value": -112.8,
-              "original_wording": "Achat Bancontact 10/03 - 16h44 - ZARA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 7",
-              "id": 43
+              "value": -249,
+              "original_wording": "Achat Bancontact 09/03 - 13h20 - MEDIAMARKT BRUXELLES - BE Numero carte 6703 30XX XXXX X497 6",
+              "id": 14
             },
             {
               "date": "2026-07-01T12:00:00.000Z",
               "rdate": "2026-07-01T12:00:00.000Z",
               "currency": "EUR",
+              "value": -112.8,
+              "original_wording": "Achat Bancontact 10/03 - 16h44 - ZARA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 7",
+              "id": 526
+            },
+            {
+              "date": "2026-07-02T12:00:00.000Z",
+              "rdate": "2026-07-02T12:00:00.000Z",
+              "currency": "EUR",
               "value": -187.5,
               "original_wording": "Achat Bancontact 11/03 - 11h35 - IKEA ANDERLECHT - BE Numero carte 6703 30XX XXXX X497 8",
-              "id": 538
-            },
-            {
-              "date": "2026-07-02T12:00:00.000Z",
-              "rdate": "2026-07-02T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -159.99,
-              "original_wording": "Achat Bancontact 12/03 - 19h10 - COOLBLUE BRUXELLES - BE Numero carte 6703 30XX XXXX X497 9",
-              "id": 458
-            },
-            {
-              "date": "2026-07-04T12:00:00.000Z",
-              "rdate": "2026-07-04T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -215.08,
-              "original_wording": "Achat Bancontact 14/03 - 15h03 - FNAC BRUXELLES - BE Numero carte 6703 30XX XXXX X497 10",
-              "id": 362
-            },
-            {
-              "date": "2026-07-02T12:00:00.000Z",
-              "rdate": "2026-07-02T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -17.8,
-              "original_wording": "REGLEMENT ASSURANCE AG INSURANCE PRET HYPOTHECAIRE",
-              "id": 231
-            },
-            {
-              "date": "2026-07-02T12:00:00.000Z",
-              "rdate": "2026-07-02T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -13,
-              "original_wording": "Frais abonnement Compte a vue Formule (rem = 20%)",
-              "id": 844
-            },
-            {
-              "date": "2026-07-02T12:00:00.000Z",
-              "rdate": "2026-07-02T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -522.31,
-              "original_wording": "ECHEANCE PRET HYPOTHECAIRE",
-              "id": 159
+              "id": 676
             },
             {
               "date": "2026-07-03T12:00:00.000Z",
               "rdate": "2026-07-03T12:00:00.000Z",
               "currency": "EUR",
-              "value": -19,
-              "original_wording": "DOMICILIATION COFIDIS BE GEC-01 ECHEANCE",
-              "id": 345
+              "value": -159.99,
+              "original_wording": "Achat Bancontact 12/03 - 19h10 - COOLBLUE BRUXELLES - BE Numero carte 6703 30XX XXXX X497 9",
+              "id": 366
             },
             {
-              "date": "2026-07-06T12:00:00.000Z",
-              "rdate": "2026-07-06T12:00:00.000Z",
+              "date": "2026-07-05T12:00:00.000Z",
+              "rdate": "2026-07-05T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -215.08,
+              "original_wording": "Achat Bancontact 14/03 - 15h03 - FNAC BRUXELLES - BE Numero carte 6703 30XX XXXX X497 10",
+              "id": 110
+            },
+            {
+              "date": "2026-07-03T12:00:00.000Z",
+              "rdate": "2026-07-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -17.8,
+              "original_wording": "REGLEMENT ASSURANCE AG INSURANCE PRET HYPOTHECAIRE",
+              "id": 932
+            },
+            {
+              "date": "2026-07-03T12:00:00.000Z",
+              "rdate": "2026-07-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -13,
+              "original_wording": "Frais abonnement Compte a vue Formule (rem = 20%)",
+              "id": 44
+            },
+            {
+              "date": "2026-07-03T12:00:00.000Z",
+              "rdate": "2026-07-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -522.31,
+              "original_wording": "ECHEANCE PRET HYPOTHECAIRE",
+              "id": 265
+            },
+            {
+              "date": "2026-07-04T12:00:00.000Z",
+              "rdate": "2026-07-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -19,
+              "original_wording": "DOMICILIATION COFIDIS BE GEC-01 ECHEANCE",
+              "id": 749
+            },
+            {
+              "date": "2026-07-07T12:00:00.000Z",
+              "rdate": "2026-07-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -126.99,
               "original_wording": "CARTE X2517 3-4X KLARNA COMMERCE ELECTRONIQUE",
-              "id": 714
+              "id": 775
             },
             {
-              "date": "2026-07-06T12:00:00.000Z",
-              "rdate": "2026-07-06T12:00:00.000Z",
+              "date": "2026-07-07T12:00:00.000Z",
+              "rdate": "2026-07-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -20,
               "original_wording": "DOMICILIATION DE BALOISE SA MANDAT 2RQ0IPC COMMUNICATION ASSURANCE HABITATION",
-              "id": 378
-            },
-            {
-              "date": "2026-07-08T12:00:00.000Z",
-              "rdate": "2026-07-08T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -122.45,
-              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
-              "id": 882
+              "id": 313
             },
             {
               "date": "2026-07-09T12:00:00.000Z",
@@ -363,267 +355,275 @@
               "currency": "EUR",
               "value": -122.45,
               "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
-              "id": 910
+              "id": 174
             },
             {
-              "date": "2026-07-15T12:00:00.000Z",
-              "rdate": "2026-07-15T12:00:00.000Z",
+              "date": "2026-07-10T12:00:00.000Z",
+              "rdate": "2026-07-10T12:00:00.000Z",
               "currency": "EUR",
-              "value": -72.1,
-              "original_wording": "Achat Bancontact 25/03 - 11h04 - DELHAIZE BRUXELLES - BE Numero carte 6703 30XX XXXX X360 1",
-              "id": 514
+              "value": -122.45,
+              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
+              "id": 652
             },
             {
               "date": "2026-07-16T12:00:00.000Z",
               "rdate": "2026-07-16T12:00:00.000Z",
               "currency": "EUR",
+              "value": -72.1,
+              "original_wording": "Achat Bancontact 25/03 - 11h04 - DELHAIZE BRUXELLES - BE Numero carte 6703 30XX XXXX X360 1",
+              "id": 542
+            },
+            {
+              "date": "2026-07-17T12:00:00.000Z",
+              "rdate": "2026-07-17T12:00:00.000Z",
+              "currency": "EUR",
               "value": -100,
               "original_wording": "RETRAIT CARTE BANCAIRE X2517 A 08H55 DISTRIBUTEUR BELFIUS BRUXELLES",
-              "id": 529
-            },
-            {
-              "date": "2026-07-17T12:00:00.000Z",
-              "rdate": "2026-07-17T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -78.9,
-              "original_wording": "Achat Bancontact 27/03 - 17h32 - DELHAIZE BRUXELLES - BE Numero carte 6703 30XX XXXX X360 2",
-              "id": 384
-            },
-            {
-              "date": "2026-07-17T12:00:00.000Z",
-              "rdate": "2026-07-17T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -15.99,
-              "original_wording": "DOMICILIATION DE PROXIMUS SA REFERENCE CREANCIER PAGP0102EAAE REFERENCE 06xxxxx686",
-              "id": 50
+              "id": 582
             },
             {
               "date": "2026-07-18T12:00:00.000Z",
               "rdate": "2026-07-18T12:00:00.000Z",
               "currency": "EUR",
+              "value": -78.9,
+              "original_wording": "Achat Bancontact 27/03 - 17h32 - DELHAIZE BRUXELLES - BE Numero carte 6703 30XX XXXX X360 2",
+              "id": 22
+            },
+            {
+              "date": "2026-07-18T12:00:00.000Z",
+              "rdate": "2026-07-18T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.99,
+              "original_wording": "DOMICILIATION DE PROXIMUS SA REFERENCE CREANCIER PAGP0102EAAE REFERENCE 06xxxxx686",
+              "id": 83
+            },
+            {
+              "date": "2026-07-19T12:00:00.000Z",
+              "rdate": "2026-07-19T12:00:00.000Z",
+              "currency": "EUR",
               "value": -12,
               "original_wording": "Achat Bancontact 28/03 - 09h15 - DELHAIZE BRUXELLES - BE Numero carte 6703 30XX XXXX X360 3",
-              "id": 30
-            },
-            {
-              "date": "2026-07-24T12:00:00.000Z",
-              "rdate": "2026-07-24T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 2581.45,
-              "original_wording": "VIREMENT SEPA RECU DE NEFAB BV COMMUNICATION SALAIRE NEFAB BV REFERENCE BANCAIRE NEFABBV-0000-082020092555-21",
-              "id": 106
-            },
-            {
-              "date": "2026-07-26T12:00:00.000Z",
-              "rdate": "2026-07-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -102.32,
-              "original_wording": "DOMICILIATION DE ENGIE CLIENTS PARTICULIERS REFERENCE CREANCIER Z012201022 REFERENCE 00203 1 S 115",
-              "id": 815
-            },
-            {
-              "date": "2026-07-26T12:00:00.000Z",
-              "rdate": "2026-07-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -35.97,
-              "original_wording": "DOMICILIATION DE BASIC-FIT II BV CREANCIER BE10ZZ3122 MANDAT 737001831 REFERENCE NO737001831-106",
-              "id": 963
-            },
-            {
-              "date": "2026-07-28T12:00:00.000Z",
-              "rdate": "2026-07-28T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -42,
-              "original_wording": "DOMICILIATION COFIDIS BE GEC-01 ECHEANCE",
-              "id": 944
-            },
-            {
-              "date": "2026-07-30T12:00:00.000Z",
-              "rdate": "2026-07-30T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -101.74,
-              "original_wording": "DOMICILIATION ING BELGIQUE 0224392 PRIME ASSURANCE AUTO KBC ASSURANCES REF VEHICULE PERSONNEL 302023133",
-              "id": 433
-            },
-            {
-              "date": "2026-07-30T12:00:00.000Z",
-              "rdate": "2026-07-30T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -50.12,
-              "original_wording": "DOMICILIATION DE COFIDIS BE CREANCIER BE28ZZZ12211 MANDAT 80152131E12A REFERENCE SDR102112129",
-              "id": 670
-            },
-            {
-              "date": "2026-07-30T12:00:00.000Z",
-              "rdate": "2026-07-30T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -78.89,
-              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
-              "id": 781
-            },
-            {
-              "date": "2026-07-22T12:00:00.000Z",
-              "rdate": "2026-07-22T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -38.75,
-              "original_wording": "Achat Bancontact 01/04 - 10h40 - BOL.COM BRUXELLES - BE Numero carte 6703 30XX XXXX X497 1",
-              "id": 814
-            },
-            {
-              "date": "2026-07-23T12:00:00.000Z",
-              "rdate": "2026-07-23T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -54.2,
-              "original_wording": "Achat Bancontact 02/04 - 18h22 - CARREFOUR BRUXELLES - BE Numero carte 6703 30XX XXXX X497 2",
-              "id": 878
-            },
-            {
-              "date": "2026-07-24T12:00:00.000Z",
-              "rdate": "2026-07-24T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -22.9,
-              "original_wording": "Achat Bancontact 03/04 - 13h05 - HEMA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 3",
-              "id": 28
+              "id": 190
             },
             {
               "date": "2026-07-25T12:00:00.000Z",
               "rdate": "2026-07-25T12:00:00.000Z",
               "currency": "EUR",
-              "value": -44.6,
-              "original_wording": "Achat Bancontact 04/04 - 08h15 - SNCB BRUXELLES MIDI - BE Numero carte 6703 30XX XXXX X497 4",
-              "id": 985
+              "value": 2581.45,
+              "original_wording": "VIREMENT SEPA RECU DE NEFAB BV COMMUNICATION SALAIRE NEFAB BV REFERENCE BANCAIRE NEFABBV-0000-082020092555-21",
+              "id": 811
             },
             {
               "date": "2026-07-27T12:00:00.000Z",
               "rdate": "2026-07-27T12:00:00.000Z",
               "currency": "EUR",
-              "value": -67.8,
-              "original_wording": "Achat Bancontact 06/04 - 11h50 - DECATHLON BRUXELLES - BE Numero carte 6703 30XX XXXX X497 5",
-              "id": 634
+              "value": -102.32,
+              "original_wording": "DOMICILIATION DE ENGIE CLIENTS PARTICULIERS REFERENCE CREANCIER Z012201022 REFERENCE 00203 1 S 115",
+              "id": 484
             },
             {
-              "date": "2026-07-28T12:00:00.000Z",
-              "rdate": "2026-07-28T12:00:00.000Z",
+              "date": "2026-07-27T12:00:00.000Z",
+              "rdate": "2026-07-27T12:00:00.000Z",
               "currency": "EUR",
-              "value": -89.99,
-              "original_wording": "Achat Bancontact 07/04 - 15h35 - H&M BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 6",
-              "id": 445
+              "value": -35.97,
+              "original_wording": "DOMICILIATION DE BASIC-FIT II BV CREANCIER BE10ZZ3122 MANDAT 737001831 REFERENCE NO737001831-106",
+              "id": 247
             },
             {
               "date": "2026-07-29T12:00:00.000Z",
               "rdate": "2026-07-29T12:00:00.000Z",
               "currency": "EUR",
-              "value": -23.5,
-              "original_wording": "Achat Bancontact 08/04 - 09h48 - ACTION BRUXELLES - BE Numero carte 6703 30XX XXXX X497 7",
-              "id": 307
-            },
-            {
-              "date": "2026-07-30T12:00:00.000Z",
-              "rdate": "2026-07-30T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -198,
-              "original_wording": "Achat Bancontact 09/04 - 14h10 - COOLBLUE BRUXELLES - BE Numero carte 6703 30XX XXXX X497 8",
-              "id": 704
+              "value": -42,
+              "original_wording": "DOMICILIATION COFIDIS BE GEC-01 ECHEANCE",
+              "id": 440
             },
             {
               "date": "2026-07-31T12:00:00.000Z",
               "rdate": "2026-07-31T12:00:00.000Z",
               "currency": "EUR",
+              "value": -101.74,
+              "original_wording": "DOMICILIATION ING BELGIQUE 0224392 PRIME ASSURANCE AUTO KBC ASSURANCES REF VEHICULE PERSONNEL 302023133",
+              "id": 689
+            },
+            {
+              "date": "2026-07-31T12:00:00.000Z",
+              "rdate": "2026-07-31T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -50.12,
+              "original_wording": "DOMICILIATION DE COFIDIS BE CREANCIER BE28ZZZ12211 MANDAT 80152131E12A REFERENCE SDR102112129",
+              "id": 433
+            },
+            {
+              "date": "2026-07-31T12:00:00.000Z",
+              "rdate": "2026-07-31T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -78.89,
+              "original_wording": "SEPA DOMICILIATION ALPHABET BELGIQUE COMMUNICATION 101M3323222 32 VOTRE REFERENCE BE0004123032023",
+              "id": 401
+            },
+            {
+              "date": "2026-07-23T12:00:00.000Z",
+              "rdate": "2026-07-23T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -38.75,
+              "original_wording": "Achat Bancontact 01/04 - 10h40 - BOL.COM BRUXELLES - BE Numero carte 6703 30XX XXXX X497 1",
+              "id": 483
+            },
+            {
+              "date": "2026-07-24T12:00:00.000Z",
+              "rdate": "2026-07-24T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -54.2,
+              "original_wording": "Achat Bancontact 02/04 - 18h22 - CARREFOUR BRUXELLES - BE Numero carte 6703 30XX XXXX X497 2",
+              "id": 23
+            },
+            {
+              "date": "2026-07-25T12:00:00.000Z",
+              "rdate": "2026-07-25T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -22.9,
+              "original_wording": "Achat Bancontact 03/04 - 13h05 - HEMA BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 3",
+              "id": 671
+            },
+            {
+              "date": "2026-07-26T12:00:00.000Z",
+              "rdate": "2026-07-26T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -44.6,
+              "original_wording": "Achat Bancontact 04/04 - 08h15 - SNCB BRUXELLES MIDI - BE Numero carte 6703 30XX XXXX X497 4",
+              "id": 366
+            },
+            {
+              "date": "2026-07-28T12:00:00.000Z",
+              "rdate": "2026-07-28T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -67.8,
+              "original_wording": "Achat Bancontact 06/04 - 11h50 - DECATHLON BRUXELLES - BE Numero carte 6703 30XX XXXX X497 5",
+              "id": 961
+            },
+            {
+              "date": "2026-07-29T12:00:00.000Z",
+              "rdate": "2026-07-29T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -89.99,
+              "original_wording": "Achat Bancontact 07/04 - 15h35 - H&M BRUXELLES CENTRE - BE Numero carte 6703 30XX XXXX X497 6",
+              "id": 106
+            },
+            {
+              "date": "2026-07-30T12:00:00.000Z",
+              "rdate": "2026-07-30T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -23.5,
+              "original_wording": "Achat Bancontact 08/04 - 09h48 - ACTION BRUXELLES - BE Numero carte 6703 30XX XXXX X497 7",
+              "id": 641
+            },
+            {
+              "date": "2026-07-31T12:00:00.000Z",
+              "rdate": "2026-07-31T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -198,
+              "original_wording": "Achat Bancontact 09/04 - 14h10 - COOLBLUE BRUXELLES - BE Numero carte 6703 30XX XXXX X497 8",
+              "id": 693
+            },
+            {
+              "date": "2026-08-01T12:00:00.000Z",
+              "rdate": "2026-08-01T12:00:00.000Z",
+              "currency": "EUR",
               "value": -15.6,
               "original_wording": "Achat Bancontact 10/04 - 17h20 - ICI PARIS XL BRUXELLES - BE Numero carte 6703 30XX XXXX X497 9",
-              "id": 590
-            },
-            {
-              "date": "2026-08-01T12:00:00.000Z",
-              "rdate": "2026-08-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -321,
-              "original_wording": "Achat Bancontact 11/04 - 12h55 - MEDIAMARKT BRUXELLES - BE Numero carte 6703 30XX XXXX X497 10",
-              "id": 174
-            },
-            {
-              "date": "2026-08-01T12:00:00.000Z",
-              "rdate": "2026-08-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -17.8,
-              "original_wording": "REGLEMENT ASSURANCE AG INSURANCE PRET HYPOTHECAIRE",
-              "id": 246
-            },
-            {
-              "date": "2026-08-01T12:00:00.000Z",
-              "rdate": "2026-08-01T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -522.31,
-              "original_wording": "ECHEANCE PRET HYPOTHECAIRE",
-              "id": 299
+              "id": 995
             },
             {
               "date": "2026-08-02T12:00:00.000Z",
               "rdate": "2026-08-02T12:00:00.000Z",
               "currency": "EUR",
-              "value": -13,
-              "original_wording": "Frais abonnement Compte a vue Formule (rem = 20%)",
-              "id": 744
+              "value": -321,
+              "original_wording": "Achat Bancontact 11/04 - 12h55 - MEDIAMARKT BRUXELLES - BE Numero carte 6703 30XX XXXX X497 10",
+              "id": 329
             },
             {
-              "date": "2026-08-06T12:00:00.000Z",
-              "rdate": "2026-08-06T12:00:00.000Z",
+              "date": "2026-08-02T12:00:00.000Z",
+              "rdate": "2026-08-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -17.8,
+              "original_wording": "REGLEMENT ASSURANCE AG INSURANCE PRET HYPOTHECAIRE",
+              "id": 574
+            },
+            {
+              "date": "2026-08-02T12:00:00.000Z",
+              "rdate": "2026-08-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -522.31,
+              "original_wording": "ECHEANCE PRET HYPOTHECAIRE",
+              "id": 97
+            },
+            {
+              "date": "2026-08-03T12:00:00.000Z",
+              "rdate": "2026-08-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -13,
+              "original_wording": "Frais abonnement Compte a vue Formule (rem = 20%)",
+              "id": 134
+            },
+            {
+              "date": "2026-08-07T12:00:00.000Z",
+              "rdate": "2026-08-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -126.99,
               "original_wording": "CARTE X2517 3-4X KLARNA COMMERCE ELECTRONIQUE",
-              "id": 720
+              "id": 575
             },
             {
-              "date": "2026-08-06T12:00:00.000Z",
-              "rdate": "2026-08-06T12:00:00.000Z",
+              "date": "2026-08-07T12:00:00.000Z",
+              "rdate": "2026-08-07T12:00:00.000Z",
               "currency": "EUR",
               "value": -20,
               "original_wording": "DOMICILIATION DE BALOISE SA MANDAT 2RQ0IPC COMMUNICATION ASSURANCE HABITATION",
-              "id": 300
+              "id": 901
             },
             {
-              "date": "2026-08-08T12:00:00.000Z",
-              "rdate": "2026-08-08T12:00:00.000Z",
+              "date": "2026-08-09T12:00:00.000Z",
+              "rdate": "2026-08-09T12:00:00.000Z",
               "currency": "EUR",
               "value": 500,
               "original_wording": "AVANCE DANA SCULLY VK02101XUZGR9C01",
-              "id": 798
+              "id": 765
             },
             {
-              "date": "2026-08-15T12:00:00.000Z",
-              "rdate": "2026-08-15T12:00:00.000Z",
+              "date": "2026-08-16T12:00:00.000Z",
+              "rdate": "2026-08-16T12:00:00.000Z",
               "currency": "EUR",
               "value": -15.99,
               "original_wording": "DOMICILIATION DE PROXIMUS SA REFERENCE CREANCIER PAGP0102EAAE REFERENCE 06xxxxx687",
-              "id": 489
+              "id": 871
             },
             {
-              "date": "2026-08-23T12:00:00.000Z",
-              "rdate": "2026-08-23T12:00:00.000Z",
+              "date": "2026-08-24T12:00:00.000Z",
+              "rdate": "2026-08-24T12:00:00.000Z",
               "currency": "EUR",
               "value": 2081.45,
               "original_wording": "VIREMENT SEPA RECU DE NEFAB BV COMMUNICATION SALAIRE NEFAB BV REFERENCE BANCAIRE NEFABBV-0000-082020092555-21",
-              "id": 2
+              "id": 362
             },
             {
-              "date": "2026-08-24T12:00:00.000Z",
-              "rdate": "2026-08-24T12:00:00.000Z",
+              "date": "2026-08-25T12:00:00.000Z",
+              "rdate": "2026-08-25T12:00:00.000Z",
               "currency": "EUR",
               "value": -102.32,
               "original_wording": "DOMICILIATION DE ENGIE CLIENTS PARTICULIERS REFERENCE CREANCIER Z012201022 REFERENCE 00203 1 S 116",
-              "id": 739
+              "id": 753
             },
             {
-              "date": "2026-08-24T12:00:00.000Z",
-              "rdate": "2026-08-24T12:00:00.000Z",
+              "date": "2026-08-25T12:00:00.000Z",
+              "rdate": "2026-08-25T12:00:00.000Z",
               "currency": "EUR",
               "value": -35.97,
               "original_wording": "DOMICILIATION DE BASIC-FIT II BV CREANCIER BE10ZZ3122 MANDAT 737001831 REFERENCE NO737001831-106",
-              "id": 670
+              "id": 185
             }
           ],
           "balance": 2633.03,
-          "last_update": "2026-08-24T12:00:00.000Z",
+          "last_update": "2026-08-25T12:00:00.000Z",
           "iban": "BE68539007547034",
           "bic": "INGBBEBBXXX",
           "currency": {
@@ -631,7 +631,7 @@
           },
           "type": "checking",
           "usage": "PRIV",
-          "id": 334
+          "id": 703
         }
       ]
     }
