@@ -12,8 +12,6 @@ on:
       - 'lib/**.ts'
       - 'templates/**'
 
-# Two runs committing to main at the same time would race each other: let a run
-# finish before the next one starts, rather than cancelling it half way through.
 concurrency:
   group: refresh-samples
   cancel-in-progress: false
@@ -23,8 +21,6 @@ jobs:
     name: Refresh the JSON samples, their exports and the PDF statements
     runs-on: ubuntu-latest
     env:
-      # `npm start` normalises every date to noon in the *local* zone. Pinning the
-      # job to UTC keeps the committed samples on T12:00:00.000Z.
       TZ: UTC
     steps:
       - uses: actions/checkout@v4
@@ -34,8 +30,6 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
-      # `npm ci` rather than `npm i`: it installs exactly what the lockfile pins
-      # and never rewrites it mid-run.
       - run: npm ci
       - run: npm start
       - run: npm run convert
@@ -43,8 +37,6 @@ jobs:
       - run: npm run statements
       - uses: EndBug/add-and-commit@v9
         with:
-          # `git add` on these patterns also stages the statements the script
-          # pruned, so months that fall out of the samples leave the repository.
           add: '["*.json", "raw-data/linxo_test_bank/**/*.txt", "statements/**/*.pdf"]'
           push: true
           message: 'chore: 🤖 Automatically refreshed data samples'
