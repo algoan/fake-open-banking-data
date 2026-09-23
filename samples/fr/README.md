@@ -183,6 +183,47 @@
 - Has standard expenses: power, telecom, transport, multimedia, gym
 - Has savings
 
+## Pierre Curie
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                         |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/pierre_curie.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/pierre_curie.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/pierre_curie.json) |
+
+**Description**:
+
+- Part of the **Curie household**: lives with [Marie Curie](#marie-curie) and shares a joint account with her
+- Built from the [Harry Potter](#harry-potter) profile
+- **Two accounts**: his own current account, plus the household joint account (`FR7930003401180005556667708`, same IBAN in both personae so the two connections can be reconciled)
+- The joint account collects the whole household income (his 2500€/month salary, Marie's grant and allowances) and pays the shared expenses: rent 879.78€/month, energy, home insurance, groceries
+- His own account is funded by a monthly allowance from the joint account, and carries all of his personal commitments: 6 consumer credits with three different lenders (3 with lender "A", 2 with lender "B" and 1 with lender "C")
+- Has done 3 split payments
+- Has overdraft fees, 1 payment rejection on a credit and 1 on a subscription
+- Falling cash flows
+
+## Marie Curie
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                         |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/marie_curie.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/marie_curie.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/marie_curie.json) |
+
+**Description**:
+
+- Part of the **Curie household**: lives with [Pierre Curie](#pierre-curie) and shares a joint account with him
+- Built from the [Luke Skywalker](#luke-skywalker) profile
+- **Two accounts**: her own current account, plus the household joint account (`FR7930003401180005556667708`, the very same account as in the [Pierre Curie](#pierre-curie) persona)
+- Student: her grant, her allowances and the family support she receives are paid into the joint account
+- Her own account is funded by a monthly allowance from the joint account, and carries her personal commitments only: 1 consumer credit, subscriptions and day-to-day card payments
+- She pays **no rent** of her own: the household has a single rent, paid by the joint account
+- Tight account, slightly overdrawn at the end of the period
+
 ## Account type not supported
 
 **Language**: French 🇫🇷
