@@ -64,7 +64,7 @@ function isStale(statement: Statement, manifest: StatementManifest, currentMonth
     return true;
   }
 
-  return manifest.statements[relativePath]?.generatedFor !== currentMonth;
+  return true;
 }
 
 /**
