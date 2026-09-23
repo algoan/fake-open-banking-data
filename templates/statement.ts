@@ -13,7 +13,6 @@ const COLOURS = {
 };
 
 const BANK_NAME: string = 'Banque Algoan';
-const BANK_ADDRESS: string[] = ['24 rue de Clichy', '75009 Paris', 'France'];
 
 const LOGO: string = `data:image/png;base64,${readFileSync(path.join(__dirname, 'assets', 'algoan-logo.png')).toString(
   'base64',
@@ -168,15 +167,8 @@ export function buildStatementDocument(statement: Statement): any {
     header: () => ({
       margin: [48, 36, 48, 0],
       columns: [
-        { width: 28, image: LOGO, margin: [0, 2, 0, 0] },
-        {
-          width: '*',
-          margin: [9, 0, 0, 0],
-          stack: [
-            { text: BANK_NAME, style: 'bankName' },
-            { text: BANK_ADDRESS.join(' · '), style: 'bankAddress' },
-          ],
-        },
+        { width: 78, image: LOGO, margin: [0, 0, 0, 0] },
+        { width: '*', margin: [14, 9, 0, 0], text: BANK_NAME, style: 'bankName' },
         {
           width: 'auto',
           stack: [
@@ -236,7 +228,6 @@ export function buildStatementDocument(statement: Statement): any {
 
     styles: {
       bankName: { fontSize: 13, bold: true, color: COLOURS.brand },
-      bankAddress: { fontSize: 7, color: COLOURS.muted },
       docTitle: { fontSize: 13, bold: true, characterSpacing: 0.6, alignment: 'right' },
       docSubtitle: { fontSize: 8, color: COLOURS.muted, alignment: 'right' },
       blockLabel: { fontSize: 7, bold: true, color: COLOURS.muted, characterSpacing: 0.8, margin: [0, 0, 0, 3] },
