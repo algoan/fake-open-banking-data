@@ -2,10 +2,6 @@ import { readFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { Statement, StatementLine } from '../types';
 
-/**
- * Banque Algoan brand colours. Everything else in this file derives from them,
- * so restyling the whole statement means editing this block only.
- */
 const COLOURS = {
   ink: '#0f172a',
   muted: '#64748b',
@@ -19,27 +15,19 @@ const COLOURS = {
 const BANK_NAME: string = 'Banque Algoan';
 const BANK_ADDRESS: string[] = ['24 rue de Clichy', '75009 Paris', 'France'];
 
-/**
- * The Algoan logo, inlined once per document.
- * @see templates/assets/algoan-logo.png
- */
 const LOGO: string = `data:image/png;base64,${readFileSync(path.join(__dirname, 'assets', 'algoan-logo.png')).toString(
   'base64',
 )}`;
 
 /**
- * Format an amount the French way: thousands separated by a narrow space,
- * two decimals, comma as the decimal mark.
+ * Format an amount the French way: thousands separated by a no-break space, two
+ * decimals, comma as the decimal mark.
  * @param amount Amount to format
  * @param currency ISO currency code
  */
 function money(amount: number, currency: string): string {
   const symbol: string = currency === 'EUR' ? '€' : currency;
   const [whole, cents]: string[] = Math.abs(amount).toFixed(2).split('.');
-  /**
-   * A no-break space, not a narrow one: Roboto has no glyph for U+202F and would
-   * print a blank box in its place.
-   */
   const grouped: string = whole.replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
 
   return `${amount < 0 ? '-' : ''}${grouped},${cents} ${symbol}`;
@@ -56,8 +44,7 @@ function shortDate(isoDate: string): string {
 }
 
 /**
- * Build the two balance boxes framing the statement: what the account held when
- * the period opened, and what it held when it closed.
+ * Build the two balance boxes framing the statement.
  * @param statement Statement to render
  */
 function balanceBoxes(statement: Statement): any {
@@ -99,8 +86,7 @@ function balanceBoxes(statement: Statement): any {
 }
 
 /**
- * Build the transaction table. An empty period still prints a table, so that a
- * statement never looks truncated.
+ * Build the transaction table.
  * @param statement Statement to render
  */
 function transactionTable(statement: Statement): any {
@@ -169,11 +155,6 @@ function transactionTable(statement: Statement): any {
 
 /**
  * Turn a statement into a pdfmake document definition.
- *
- * This is the single place where the look of a Banque Algoan statement is
- * defined: page setup, header, account block, balances, transaction table and
- * footer. Nothing else in the codebase draws anything.
- *
  * @param statement Statement data to render
  */
 export function buildStatementDocument(statement: Statement): any {
@@ -184,10 +165,6 @@ export function buildStatementDocument(statement: Statement): any {
     pageMargins: [48, 104, 48, 64],
     defaultStyle: { font: 'Roboto', fontSize: 9, color: COLOURS.ink, lineHeight: 1.15 },
 
-    /**
-     * Flat columns with explicit widths: pdfmake mismeasures nested `columns`
-     * inside a page header, and silently drops everything but the first child.
-     */
     header: () => ({
       margin: [48, 36, 48, 0],
       columns: [

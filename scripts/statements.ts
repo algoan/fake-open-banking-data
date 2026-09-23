@@ -12,9 +12,6 @@ const STATEMENTS_DIR: string = path.join(__dirname, '..', 'statements');
 const MANIFEST_PATH: string = path.join(STATEMENTS_DIR, 'manifest.json');
 const ROBOTO_DIR: string = path.join(__dirname, '..', 'node_modules', 'pdfmake', 'fonts', 'Roboto');
 
-/**
- * pdfmake ships Roboto, but without a Bold cut: Medium plays that role.
- */
 const FONTS = {
   Roboto: {
     normal: path.join(ROBOTO_DIR, 'Roboto-Regular.ttf'),
@@ -25,9 +22,7 @@ const FONTS = {
 };
 
 /**
- * Register the fonts, and pin down what the renderer may reach for: the bundled
- * Roboto files, and nothing else. The logo travels inside the template as a data
- * URI, so a statement never needs the network to be drawn.
+ * Register the fonts and restrict what the renderer may read.
  */
 function configureRenderer(): void {
   pdfmake.addFonts(FONTS);
@@ -54,11 +49,6 @@ function readManifest(): StatementManifest {
 
 /**
  * Decide whether a statement has to be produced again.
- *
- * A statement is rebuilt when its PDF is missing, or when it was produced during
- * an earlier month: statements therefore all refresh on the first day of a month,
- * and stay untouched on every other day, which keeps the daily commit small.
- *
  * @param statement Statement to check
  * @param manifest Manifest of the previous run
  * @param currentMonth Month the job runs in, as YYYY-MM
@@ -80,11 +70,6 @@ function isStale(statement: Statement, manifest: StatementManifest, currentMonth
 /**
  * Delete the statements the samples no longer produce, and any directory left
  * empty behind them.
- *
- * The data window slides forward one day per run, so a month eventually falls
- * out of it. Its PDF would otherwise stay in the repository for ever: roughly a
- * hundred orphans per quarter, none of which matches the samples any more.
- *
  * @param expected Paths, relative to the statements directory, that the samples yield
  */
 function pruneOrphans(expected: Set<string>): string[] {
@@ -168,10 +153,6 @@ async function writeStatement(statement: Statement): Promise<void> {
     console.log(`${removed.length} statements no longer produced by the samples, removed`);
   }
 
-  /**
-   * The manifest is rebuilt from the statements the data currently yields, so a
-   * month that drops out of the samples also drops out of the manifest.
-   */
   const next: StatementManifest = { generatedAt: new Date().toISOString(), statements: {} };
   for (const statement of statements) {
     const relativePath: string = statementPath(statement);

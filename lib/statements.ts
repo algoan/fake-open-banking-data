@@ -1,10 +1,5 @@
 import { AccountsEntity, Sample, Statement, StatementLine, TransactionsEntity } from '../types';
 
-/**
- * Combining marks left behind by an NFD normalisation. Built from a string
- * rather than written as a regular expression literal, so that the escapes stay
- * readable instead of being folded into invisible characters by the formatter.
- */
 const DIACRITICS: RegExp = new RegExp('[̀-ͯ]', 'g');
 
 /**
@@ -29,7 +24,7 @@ function transactionDate(transaction: TransactionsEntity): string {
 }
 
 /**
- * Round to cents, so that walking a balance never drifts on floating point.
+ * Round an amount to cents.
  * @param amount Amount to round
  */
 function round(amount: number): number {
@@ -56,12 +51,6 @@ function later(a: string, b: string): string {
 
 /**
  * Build every monthly statement of a single account.
- *
- * The samples only carry the balance at `balanceDate`, so the opening balance of
- * the whole history is rebuilt by subtracting every transaction from it. The
- * running balance is then walked forward, month by month: each statement closes
- * on the balance the next one opens with.
- *
  * @param account Account to build statements for
  * @param locale Locale directory the persona lives in
  * @param persona Persona file name, without its extension
@@ -114,13 +103,6 @@ export function buildAccountStatements(account: AccountsEntity, locale: string, 
       };
     });
 
-    /**
-     * A statement covers a calendar month, clamped to the data we actually hold:
-     * it never claims to start before the first transaction, nor to run past the
-     * balance date. The bounds are then widened back to the transactions the
-     * statement lists, so that a sample whose transactions fall outside its own
-     * balance date still gets a period that contains them.
-     */
     const lastDay: number = new Date(Date.UTC(Number(month.slice(0, 4)), Number(month.slice(5, 7)), 0)).getUTCDate();
     const monthStart: string = `${month}-01T12:00:00.000Z`;
     const monthEnd: string = `${month}-${String(lastDay).padStart(2, '0')}T12:00:00.000Z`;
@@ -164,7 +146,6 @@ export function buildSampleStatements(sample: Sample, locale: string, persona: s
 
 /**
  * Path of the PDF a statement is written to, relative to the statements directory.
- * The month is part of the name, so a new month simply shows up as a missing file.
  * @param statement Statement to name
  */
 export function statementPath(statement: Statement): string {
