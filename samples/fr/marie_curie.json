@@ -2,7 +2,7 @@
   "accounts": [
     {
       "name": "Compte Courant 01",
-      "balance": -332.62,
+      "balance": -200.05,
       "balanceDate": "2026-09-18T12:00:00.000Z",
       "owners": [
         {
@@ -58,14 +58,6 @@
           "dates": {
             "debitedAt": "2026-06-27T12:00:00.000Z"
           },
-          "description": "PRLV FREE HAUT DEBIT",
-          "amount": -19.99
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-06-27T12:00:00.000Z"
-          },
           "description": "PRLV BASIC FIT",
           "amount": -24.99
         },
@@ -100,14 +92,6 @@
           },
           "description": "ACHAT CB PHARMACIE PARIS XX",
           "amount": -15.24
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-07T12:00:00.000Z"
-          },
-          "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-          "amount": -24.2
         },
         {
           "currency": "EUR",
@@ -210,14 +194,6 @@
           "dates": {
             "debitedAt": "2026-07-28T12:00:00.000Z"
           },
-          "description": "PRLV FREE HAUT DEBIT",
-          "amount": -19.99
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-28T12:00:00.000Z"
-          },
           "description": "PRLV BASIC FIT",
           "amount": -24.99
         },
@@ -252,14 +228,6 @@
           },
           "description": "ACHAT CB PHARMACIE PARIS XX",
           "amount": -15.24
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-07T12:00:00.000Z"
-          },
-          "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-          "amount": -24.2
         },
         {
           "currency": "EUR",
@@ -346,14 +314,6 @@
           "dates": {
             "debitedAt": "2026-08-28T12:00:00.000Z"
           },
-          "description": "PRLV FREE HAUT DEBIT",
-          "amount": -19.99
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-28T12:00:00.000Z"
-          },
           "description": "PRLV BASIC FIT",
           "amount": -24.99
         },
@@ -388,14 +348,6 @@
           },
           "description": "ACHAT CB FNAC",
           "amount": -18.24
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-09-04T12:00:00.000Z"
-          },
-          "description": "PRLV SEPA EDF CLIENTS PAR MDT XXXX",
-          "amount": -24.2
         },
         {
           "currency": "EUR",
@@ -449,7 +401,7 @@
     },
     {
       "name": "Compte Joint 01",
-      "balance": 4029.32,
+      "balance": 3969.35,
       "balanceDate": "2026-09-18T12:00:00.000Z",
       "owners": [
         {
@@ -542,6 +494,14 @@
           },
           "description": "ACHAT CB LIDL",
           "amount": -16.33
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-06-27T12:00:00.000Z"
+          },
+          "description": "PRLV FREE HAUT DEBIT",
+          "amount": -19.99
         },
         {
           "currency": "EUR",
@@ -646,6 +606,14 @@
           },
           "description": "VIREMENT EMIS VERS COMPTE MARIE CURIE",
           "amount": -400
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-07-28T12:00:00.000Z"
+          },
+          "description": "PRLV FREE HAUT DEBIT",
+          "amount": -19.99
         },
         {
           "currency": "EUR",
@@ -790,6 +758,14 @@
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -13.79
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-28T12:00:00.000Z"
+          },
+          "description": "PRLV FREE HAUT DEBIT",
+          "amount": -19.99
         },
         {
           "currency": "EUR",

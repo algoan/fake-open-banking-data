@@ -198,8 +198,8 @@
 - Part of the **Curie household**: lives with [Marie Curie](#marie-curie) and shares a joint account with her
 - Built from the [Harry Potter](#harry-potter) profile
 - **Two accounts**: his own current account, plus the household joint account (`FR7930003401180005556667708`, same IBAN in both personae so the two connections can be reconciled)
-- The joint account collects the whole household income (his 2500€/month salary, Marie's grant and allowances) and pays the shared expenses: rent 879.78€/month, energy, home insurance, groceries
-- His own account is funded by a monthly allowance from the joint account, and carries all of his personal commitments: 6 consumer credits with three different lenders (3 with lender "A", 2 with lender "B" and 1 with lender "C")
+- The joint account collects the whole household income (his 2500€/month salary, Marie's grant and allowances) and pays the shared expenses: rent 879.78€/month, energy, home insurance, broadband, groceries
+- His own account is funded by a monthly allowance from the joint account, and carries his personal commitments only — mobile plan, subscriptions and 6 consumer credits with three different lenders (3 with lender "A", 2 with lender "B" and 1 with lender "C")
 - Has done 3 split payments
 - Has overdraft fees, 1 payment rejection on a credit and 1 on a subscription
 - Falling cash flows
@@ -221,7 +221,7 @@
 - **Two accounts**: her own current account, plus the household joint account (`FR7930003401180005556667708`, the very same account as in the [Pierre Curie](#pierre-curie) persona)
 - Student: her grant, her allowances and the family support she receives are paid into the joint account
 - Her own account is funded by a monthly allowance from the joint account, and carries her personal commitments only: 1 consumer credit, subscriptions and day-to-day card payments
-- She pays **no rent** of her own: the household has a single rent, paid by the joint account
+- The household bills are **never duplicated**: it has a single rent, a single energy contract and a single broadband subscription, all three paid by the joint account. Her own account therefore shows none of them — only her mobile plan and her personal subscriptions
 - Tight account, slightly overdrawn at the end of the period
 
 ## Account type not supported

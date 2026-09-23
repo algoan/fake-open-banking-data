@@ -433,7 +433,7 @@
     },
     {
       "name": "Compte Joint 01",
-      "balance": 4029.32,
+      "balance": 3969.35,
       "balanceDate": "2026-09-18T12:00:00.000Z",
       "owners": [
         {
@@ -526,6 +526,14 @@
           },
           "description": "ACHAT CB LIDL",
           "amount": -16.33
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-06-27T12:00:00.000Z"
+          },
+          "description": "PRLV FREE HAUT DEBIT",
+          "amount": -19.99
         },
         {
           "currency": "EUR",
@@ -630,6 +638,14 @@
           },
           "description": "VIREMENT EMIS VERS COMPTE MARIE CURIE",
           "amount": -400
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-07-28T12:00:00.000Z"
+          },
+          "description": "PRLV FREE HAUT DEBIT",
+          "amount": -19.99
         },
         {
           "currency": "EUR",
@@ -774,6 +790,14 @@
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -13.79
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-28T12:00:00.000Z"
+          },
+          "description": "PRLV FREE HAUT DEBIT",
+          "amount": -19.99
         },
         {
           "currency": "EUR",
