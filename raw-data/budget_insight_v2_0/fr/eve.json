@@ -9,73 +9,49 @@
               "date": "2026-06-22T12:00:00.000Z",
               "rdate": "2026-06-22T12:00:00.000Z",
               "currency": "EUR",
-              "value": 259.7,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
-              "id": 446
-            },
-            {
-              "date": "2026-06-22T12:00:00.000Z",
-              "rdate": "2026-06-22T12:00:00.000Z",
-              "currency": "EUR",
               "value": 201.79,
               "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
-              "id": 188
+              "id": 759
             },
             {
-              "date": "2026-06-26T12:00:00.000Z",
-              "rdate": "2026-06-26T12:00:00.000Z",
+              "date": "2026-07-03T12:00:00.000Z",
+              "rdate": "2026-07-03T12:00:00.000Z",
               "currency": "EUR",
-              "value": 620,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR AIDE FAMILIALE",
-              "id": 103
+              "value": 1256,
+              "original_wording": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-1",
+              "id": 967
             },
             {
-              "date": "2026-06-27T12:00:00.000Z",
-              "rdate": "2026-06-27T12:00:00.000Z",
+              "date": "2026-07-15T12:00:00.000Z",
+              "rdate": "2026-07-15T12:00:00.000Z",
               "currency": "EUR",
-              "value": -961.31,
+              "value": -1175.08,
               "original_wording": "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT",
-              "id": 884
+              "id": 632
             },
             {
               "date": "2026-07-23T12:00:00.000Z",
               "rdate": "2026-07-23T12:00:00.000Z",
               "currency": "EUR",
-              "value": 259.7,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
+              "value": 201.79,
+              "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
+              "id": 831
+            },
+            {
+              "date": "2026-08-04T12:00:00.000Z",
+              "rdate": "2026-08-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 1256,
+              "original_wording": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-2",
               "id": 347
             },
             {
-              "date": "2026-07-23T12:00:00.000Z",
-              "rdate": "2026-07-23T12:00:00.000Z",
+              "date": "2026-08-15T12:00:00.000Z",
+              "rdate": "2026-08-15T12:00:00.000Z",
               "currency": "EUR",
-              "value": 201.79,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
-              "id": 444
-            },
-            {
-              "date": "2026-07-25T12:00:00.000Z",
-              "rdate": "2026-07-25T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 620,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR AIDE FAMILIALE",
-              "id": 886
-            },
-            {
-              "date": "2026-07-26T12:00:00.000Z",
-              "rdate": "2026-07-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": -961.31,
+              "value": -1175.08,
               "original_wording": "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT",
-              "id": 664
-            },
-            {
-              "date": "2026-08-23T12:00:00.000Z",
-              "rdate": "2026-08-23T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 259.7,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
-              "id": 718
+              "id": 552
             },
             {
               "date": "2026-08-23T12:00:00.000Z",
@@ -83,26 +59,26 @@
               "currency": "EUR",
               "value": 201.79,
               "original_wording": "VIREMENT EN VOTRE FAVEUR CAF",
-              "id": 821
+              "id": 206
             },
             {
-              "date": "2026-08-25T12:00:00.000Z",
-              "rdate": "2026-08-25T12:00:00.000Z",
+              "date": "2026-09-03T12:00:00.000Z",
+              "rdate": "2026-09-03T12:00:00.000Z",
               "currency": "EUR",
-              "value": 620,
-              "original_wording": "VIREMENT EN VOTRE FAVEUR AIDE FAMILIALE",
-              "id": 578
+              "value": 1256,
+              "original_wording": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-3",
+              "id": 446
             },
             {
-              "date": "2026-08-26T12:00:00.000Z",
-              "rdate": "2026-08-26T12:00:00.000Z",
+              "date": "2026-09-15T12:00:00.000Z",
+              "rdate": "2026-09-15T12:00:00.000Z",
               "currency": "EUR",
-              "value": -961.31,
+              "value": -1175.08,
               "original_wording": "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT",
-              "id": 920
+              "id": 602
             }
           ],
-          "balance": 810.54,
+          "balance": 1298.13,
           "last_update": "2026-09-18T12:00:00.000Z",
           "iban": "FR4730003401180004445556661",
           "bic": "BNPAFRPPXXX",
@@ -111,7 +87,7 @@
           },
           "type": "checking",
           "usage": "PRIV",
-          "id": 5
+          "id": 377
         },
         {
           "transactions": [
@@ -121,7 +97,7 @@
               "currency": "EUR",
               "value": -101.67,
               "original_wording": "PRELEVEMENT WALL-E PRELEVEMENT CARTE ZERO FAST3280420323",
-              "id": 342
+              "id": 953
             },
             {
               "date": "2026-06-22T12:00:00.000Z",
@@ -129,7 +105,7 @@
               "currency": "EUR",
               "value": -150,
               "original_wording": "PRLV SEPA WALL-E ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
-              "id": 572
+              "id": 791
             },
             {
               "date": "2026-06-23T12:00:00.000Z",
@@ -137,7 +113,7 @@
               "currency": "EUR",
               "value": -75.2,
               "original_wording": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
-              "id": 412
+              "id": 258
             },
             {
               "date": "2026-06-23T12:00:00.000Z",
@@ -145,7 +121,7 @@
               "currency": "EUR",
               "value": -399.89,
               "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
-              "id": 412
+              "id": 167
             },
             {
               "date": "2026-06-23T12:00:00.000Z",
@@ -153,7 +129,7 @@
               "currency": "EUR",
               "value": -879.78,
               "original_wording": "VIREMENT EMIS AG HOMALONE LOYER",
-              "id": 976
+              "id": 549
             },
             {
               "date": "2026-06-25T12:00:00.000Z",
@@ -161,7 +137,7 @@
               "currency": "EUR",
               "value": -67.2,
               "original_wording": "PRELEVEMENT DE ADVANZIA BANK S.A REF : efefefefef 3c6 PRELEVEMENT CARTE ZERO FUBL",
-              "id": 855
+              "id": 648
             },
             {
               "date": "2026-06-25T12:00:00.000Z",
@@ -169,7 +145,7 @@
               "currency": "EUR",
               "value": -77.99,
               "original_wording": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
-              "id": 56
+              "id": 123
             },
             {
               "date": "2026-06-26T12:00:00.000Z",
@@ -177,7 +153,7 @@
               "currency": "EUR",
               "value": -4.99,
               "original_wording": "Cotisation Compte A Composer (rem = 20%)",
-              "id": 893
+              "id": 163
             },
             {
               "date": "2026-06-26T12:00:00.000Z",
@@ -185,7 +161,7 @@
               "currency": "EUR",
               "value": -343.45,
               "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
-              "id": 941
+              "id": 514
             },
             {
               "date": "2026-06-26T12:00:00.000Z",
@@ -193,7 +169,7 @@
               "currency": "EUR",
               "value": -13.93,
               "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 70
+              "id": 739
             },
             {
               "date": "2026-06-27T12:00:00.000Z",
@@ -201,7 +177,7 @@
               "currency": "EUR",
               "value": -12.32,
               "original_wording": "ACHAT CB MCD",
-              "id": 498
+              "id": 602
             },
             {
               "date": "2026-06-27T12:00:00.000Z",
@@ -209,7 +185,7 @@
               "currency": "EUR",
               "value": -28.32,
               "original_wording": "ACHAT CB PRIMARK",
-              "id": 522
+              "id": 760
             },
             {
               "date": "2026-06-27T12:00:00.000Z",
@@ -217,7 +193,7 @@
               "currency": "EUR",
               "value": -32.5,
               "original_wording": "PRLV NAVIGO PASS",
-              "id": 571
+              "id": 200
             },
             {
               "date": "2026-06-27T12:00:00.000Z",
@@ -225,7 +201,7 @@
               "currency": "EUR",
               "value": -24.99,
               "original_wording": "PRLV BASIC FIT",
-              "id": 656
+              "id": 394
             },
             {
               "date": "2026-06-27T12:00:00.000Z",
@@ -233,7 +209,7 @@
               "currency": "EUR",
               "value": -16.33,
               "original_wording": "ACHAT CB LIDL",
-              "id": 251
+              "id": 431
             },
             {
               "date": "2026-06-27T12:00:00.000Z",
@@ -241,15 +217,15 @@
               "currency": "EUR",
               "value": -19.99,
               "original_wording": "PRLV FREE HAUT DEBIT",
-              "id": 873
+              "id": 904
             },
             {
               "date": "2026-06-27T12:00:00.000Z",
               "rdate": "2026-06-27T12:00:00.000Z",
               "currency": "EUR",
-              "value": 961.31,
-              "original_wording": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
-              "id": 113
+              "value": 2080.82,
+              "original_wording": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
+              "id": 554
             },
             {
               "date": "2026-06-30T12:00:00.000Z",
@@ -257,7 +233,7 @@
               "currency": "EUR",
               "value": -126.99,
               "original_wording": "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE",
-              "id": 345
+              "id": 792
             },
             {
               "date": "2026-06-30T12:00:00.000Z",
@@ -265,7 +241,7 @@
               "currency": "EUR",
               "value": -9.99,
               "original_wording": "ACHAT CB",
-              "id": 63
+              "id": 938
             },
             {
               "date": "2026-06-30T12:00:00.000Z",
@@ -273,7 +249,7 @@
               "currency": "EUR",
               "value": -20,
               "original_wording": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-              "id": 800
+              "id": 763
             },
             {
               "date": "2026-07-01T12:00:00.000Z",
@@ -281,7 +257,7 @@
               "currency": "EUR",
               "value": -8.99,
               "original_wording": "PRLV SEPA FREE MOBILE",
-              "id": 520
+              "id": 398
             },
             {
               "date": "2026-07-02T12:00:00.000Z",
@@ -289,7 +265,7 @@
               "currency": "EUR",
               "value": -10.65,
               "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-              "id": 867
+              "id": 778
             },
             {
               "date": "2026-07-02T12:00:00.000Z",
@@ -297,7 +273,7 @@
               "currency": "EUR",
               "value": -15.24,
               "original_wording": "ACHAT CB PHARMACIE PARIS XX",
-              "id": 131
+              "id": 707
             },
             {
               "date": "2026-07-07T12:00:00.000Z",
@@ -305,7 +281,7 @@
               "currency": "EUR",
               "value": -5.49,
               "original_wording": "CARTE X2518 APPLE.COM/BILL 5,49 EUR IRLANDE COMMERCE ELECTRONIQUE",
-              "id": 884
+              "id": 485
             },
             {
               "date": "2026-07-09T12:00:00.000Z",
@@ -313,7 +289,7 @@
               "currency": "EUR",
               "value": -10.44,
               "original_wording": "ACHAT CB AMAZON",
-              "id": 966
+              "id": 325
             },
             {
               "date": "2026-07-10T12:00:00.000Z",
@@ -321,7 +297,7 @@
               "currency": "EUR",
               "value": -9.99,
               "original_wording": "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE",
-              "id": 301
+              "id": 170
             },
             {
               "date": "2026-07-10T12:00:00.000Z",
@@ -329,7 +305,7 @@
               "currency": "EUR",
               "value": -15.99,
               "original_wording": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx685",
-              "id": 139
+              "id": 404
             },
             {
               "date": "2026-07-10T12:00:00.000Z",
@@ -337,7 +313,7 @@
               "currency": "EUR",
               "value": -16.89,
               "original_wording": "CARTE CB CONTRASTE",
-              "id": 62
+              "id": 724
             },
             {
               "date": "2026-07-11T12:00:00.000Z",
@@ -345,7 +321,7 @@
               "currency": "EUR",
               "value": -14,
               "original_wording": "ACHAT CB",
-              "id": 736
+              "id": 661
             },
             {
               "date": "2026-07-12T12:00:00.000Z",
@@ -353,7 +329,7 @@
               "currency": "EUR",
               "value": -43.46,
               "original_wording": "ECHEANCE COFIDIS PRET XXXXXXX",
-              "id": 614
+              "id": 297
             },
             {
               "date": "2026-07-12T12:00:00.000Z",
@@ -361,7 +337,7 @@
               "currency": "EUR",
               "value": -8.99,
               "original_wording": "PAIEMENT PAR CARTE NETFLIX.COM",
-              "id": 851
+              "id": 370
             },
             {
               "date": "2026-07-13T12:00:00.000Z",
@@ -369,7 +345,7 @@
               "currency": "EUR",
               "value": -20.27,
               "original_wording": "ACHAT CB",
-              "id": 541
+              "id": 358
             },
             {
               "date": "2026-07-13T12:00:00.000Z",
@@ -377,7 +353,7 @@
               "currency": "EUR",
               "value": -42.17,
               "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 791
+              "id": 550
             },
             {
               "date": "2026-07-14T12:00:00.000Z",
@@ -385,7 +361,15 @@
               "currency": "EUR",
               "value": -16.4,
               "original_wording": "ACHAT CB",
-              "id": 934
+              "id": 874
+            },
+            {
+              "date": "2026-07-15T12:00:00.000Z",
+              "rdate": "2026-07-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 1175.08,
+              "original_wording": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
+              "id": 687
             },
             {
               "date": "2026-07-17T12:00:00.000Z",
@@ -393,15 +377,7 @@
               "currency": "EUR",
               "value": -227.89,
               "original_wording": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
-              "id": 279
-            },
-            {
-              "date": "2026-07-18T12:00:00.000Z",
-              "rdate": "2026-07-18T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 2294.59,
-              "original_wording": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
-              "id": 89
+              "id": 123
             },
             {
               "date": "2026-07-20T12:00:00.000Z",
@@ -409,7 +385,7 @@
               "currency": "EUR",
               "value": -112.32,
               "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 114",
-              "id": 164
+              "id": 913
             },
             {
               "date": "2026-07-21T12:00:00.000Z",
@@ -417,7 +393,7 @@
               "currency": "EUR",
               "value": -30,
               "original_wording": "CB RETRAIT",
-              "id": 755
+              "id": 139
             },
             {
               "date": "2026-07-23T12:00:00.000Z",
@@ -425,7 +401,7 @@
               "currency": "EUR",
               "value": -101.67,
               "original_wording": "PRELEVEMENT WALL-E PRELEVEMENT CARTE ZERO FAST3280420323",
-              "id": 679
+              "id": 154
             },
             {
               "date": "2026-07-23T12:00:00.000Z",
@@ -433,7 +409,7 @@
               "currency": "EUR",
               "value": -356.99,
               "original_wording": "CARTE FNAC",
-              "id": 487
+              "id": 646
             },
             {
               "date": "2026-07-23T12:00:00.000Z",
@@ -441,7 +417,7 @@
               "currency": "EUR",
               "value": -399.89,
               "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
-              "id": 88
+              "id": 644
             },
             {
               "date": "2026-07-23T12:00:00.000Z",
@@ -449,7 +425,7 @@
               "currency": "EUR",
               "value": -150,
               "original_wording": "PRLV SEPA WALL-E ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
-              "id": 13
+              "id": 948
             },
             {
               "date": "2026-07-24T12:00:00.000Z",
@@ -457,7 +433,7 @@
               "currency": "EUR",
               "value": -75.2,
               "original_wording": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
-              "id": 218
+              "id": 379
             },
             {
               "date": "2026-07-24T12:00:00.000Z",
@@ -465,7 +441,7 @@
               "currency": "EUR",
               "value": -879.78,
               "original_wording": "VIREMENT EMIS AG HOMALONE LOYER",
-              "id": 667
+              "id": 764
             },
             {
               "date": "2026-07-25T12:00:00.000Z",
@@ -473,7 +449,7 @@
               "currency": "EUR",
               "value": -28.32,
               "original_wording": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
-              "id": 520
+              "id": 249
             },
             {
               "date": "2026-07-25T12:00:00.000Z",
@@ -481,7 +457,7 @@
               "currency": "EUR",
               "value": -25.93,
               "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 364
+              "id": 938
             },
             {
               "date": "2026-07-26T12:00:00.000Z",
@@ -489,7 +465,7 @@
               "currency": "EUR",
               "value": -16,
               "original_wording": "ACHAT CB AMAZON",
-              "id": 883
+              "id": 743
             },
             {
               "date": "2026-07-26T12:00:00.000Z",
@@ -497,15 +473,7 @@
               "currency": "EUR",
               "value": -9.99,
               "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-              "id": 926
-            },
-            {
-              "date": "2026-07-26T12:00:00.000Z",
-              "rdate": "2026-07-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 961.31,
-              "original_wording": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
-              "id": 77
+              "id": 494
             },
             {
               "date": "2026-07-27T12:00:00.000Z",
@@ -513,7 +481,7 @@
               "currency": "EUR",
               "value": -4.99,
               "original_wording": "Cotisation Compte A Composer (rem = 20%)",
-              "id": 728
+              "id": 385
             },
             {
               "date": "2026-07-27T12:00:00.000Z",
@@ -521,7 +489,7 @@
               "currency": "EUR",
               "value": -343.45,
               "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
-              "id": 5
+              "id": 157
             },
             {
               "date": "2026-07-27T12:00:00.000Z",
@@ -529,7 +497,7 @@
               "currency": "EUR",
               "value": 343.45,
               "original_wording": "REJET PRLV SEPA CREDIPAR",
-              "id": 756
+              "id": 396
             },
             {
               "date": "2026-07-28T12:00:00.000Z",
@@ -537,7 +505,7 @@
               "currency": "EUR",
               "value": -29.12,
               "original_wording": "PRELEVEMENT DE ADVANZIA BANK S.A REF : efefefefef 3c6 PRELEVEMENT CARTE ZERO FUBL",
-              "id": 282
+              "id": 610
             },
             {
               "date": "2026-07-28T12:00:00.000Z",
@@ -545,7 +513,7 @@
               "currency": "EUR",
               "value": -24.99,
               "original_wording": "PRLV BASIC FIT",
-              "id": 87
+              "id": 666
             },
             {
               "date": "2026-07-28T12:00:00.000Z",
@@ -553,7 +521,7 @@
               "currency": "EUR",
               "value": -32.5,
               "original_wording": "PRLV PASS NAVIGO",
-              "id": 168
+              "id": 247
             },
             {
               "date": "2026-07-28T12:00:00.000Z",
@@ -561,7 +529,15 @@
               "currency": "EUR",
               "value": -19.99,
               "original_wording": "PRLV FREE HAUT DEBIT",
-              "id": 320
+              "id": 175
+            },
+            {
+              "date": "2026-07-29T12:00:00.000Z",
+              "rdate": "2026-07-29T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 2080.82,
+              "original_wording": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
+              "id": 164
             },
             {
               "date": "2026-07-31T12:00:00.000Z",
@@ -569,7 +545,7 @@
               "currency": "EUR",
               "value": -126.99,
               "original_wording": "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE",
-              "id": 785
+              "id": 300
             },
             {
               "date": "2026-07-31T12:00:00.000Z",
@@ -577,7 +553,7 @@
               "currency": "EUR",
               "value": -20,
               "original_wording": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-              "id": 974
+              "id": 402
             },
             {
               "date": "2026-08-01T12:00:00.000Z",
@@ -585,7 +561,7 @@
               "currency": "EUR",
               "value": -8.99,
               "original_wording": "PRLV SEPA FREE MOBILE",
-              "id": 838
+              "id": 877
             },
             {
               "date": "2026-08-02T12:00:00.000Z",
@@ -593,7 +569,7 @@
               "currency": "EUR",
               "value": -30.65,
               "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-              "id": 472
+              "id": 124
             },
             {
               "date": "2026-08-02T12:00:00.000Z",
@@ -601,7 +577,7 @@
               "currency": "EUR",
               "value": -57.99,
               "original_wording": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
-              "id": 84
+              "id": 152
             },
             {
               "date": "2026-08-04T12:00:00.000Z",
@@ -609,7 +585,7 @@
               "currency": "EUR",
               "value": -15.24,
               "original_wording": "ACHAT CB PHARMACIE PARIS XX",
-              "id": 152
+              "id": 292
             },
             {
               "date": "2026-08-09T12:00:00.000Z",
@@ -617,7 +593,7 @@
               "currency": "EUR",
               "value": -11.46,
               "original_wording": "ACHAT CB AMAZON",
-              "id": 921
+              "id": 705
             },
             {
               "date": "2026-08-10T12:00:00.000Z",
@@ -625,7 +601,7 @@
               "currency": "EUR",
               "value": -9.99,
               "original_wording": "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE",
-              "id": 286
+              "id": 204
             },
             {
               "date": "2026-08-10T12:00:00.000Z",
@@ -633,7 +609,7 @@
               "currency": "EUR",
               "value": 9.99,
               "original_wording": "REJET PRLV SPOTIFY",
-              "id": 383
+              "id": 169
             },
             {
               "date": "2026-08-10T12:00:00.000Z",
@@ -641,7 +617,7 @@
               "currency": "EUR",
               "value": -28.89,
               "original_wording": "CARTE CB LEADER PRICE",
-              "id": 988
+              "id": 594
             },
             {
               "date": "2026-08-11T12:00:00.000Z",
@@ -649,7 +625,7 @@
               "currency": "EUR",
               "value": -15.99,
               "original_wording": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx686",
-              "id": 95
+              "id": 649
             },
             {
               "date": "2026-08-11T12:00:00.000Z",
@@ -657,7 +633,7 @@
               "currency": "EUR",
               "value": -21,
               "original_wording": "ACHAT CB",
-              "id": 80
+              "id": 990
             },
             {
               "date": "2026-08-12T12:00:00.000Z",
@@ -665,7 +641,7 @@
               "currency": "EUR",
               "value": -43.46,
               "original_wording": "ECHEANCE COFIDIS PRET XXXXXXX",
-              "id": 457
+              "id": 22
             },
             {
               "date": "2026-08-12T12:00:00.000Z",
@@ -673,7 +649,7 @@
               "currency": "EUR",
               "value": -8.99,
               "original_wording": "PAIEMENT PAR CARTE NETFLIX.COM",
-              "id": 823
+              "id": 15
             },
             {
               "date": "2026-08-12T12:00:00.000Z",
@@ -681,7 +657,7 @@
               "currency": "EUR",
               "value": -11.3,
               "original_wording": "PAIEMENT PAR CARTE LIDL",
-              "id": 695
+              "id": 493
             },
             {
               "date": "2026-08-13T12:00:00.000Z",
@@ -689,7 +665,7 @@
               "currency": "EUR",
               "value": -25.26,
               "original_wording": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
-              "id": 431
+              "id": 638
             },
             {
               "date": "2026-08-13T12:00:00.000Z",
@@ -697,7 +673,7 @@
               "currency": "EUR",
               "value": -42.17,
               "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 150
+              "id": 960
             },
             {
               "date": "2026-08-14T12:00:00.000Z",
@@ -705,7 +681,7 @@
               "currency": "EUR",
               "value": -18.4,
               "original_wording": "ACHAT CB",
-              "id": 724
+              "id": 492
             },
             {
               "date": "2026-08-14T12:00:00.000Z",
@@ -713,7 +689,15 @@
               "currency": "EUR",
               "value": -270.89,
               "original_wording": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
-              "id": 637
+              "id": 151
+            },
+            {
+              "date": "2026-08-15T12:00:00.000Z",
+              "rdate": "2026-08-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 1175.08,
+              "original_wording": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
+              "id": 28
             },
             {
               "date": "2026-08-19T12:00:00.000Z",
@@ -721,15 +705,7 @@
               "currency": "EUR",
               "value": -320,
               "original_wording": "VIREMENT ALICE AIRBNB",
-              "id": 609
-            },
-            {
-              "date": "2026-08-19T12:00:00.000Z",
-              "rdate": "2026-08-19T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 2294.59,
-              "original_wording": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
-              "id": 303
+              "id": 270
             },
             {
               "date": "2026-08-20T12:00:00.000Z",
@@ -737,7 +713,7 @@
               "currency": "EUR",
               "value": -343.45,
               "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023 REPRESENTATION",
-              "id": 513
+              "id": 841
             },
             {
               "date": "2026-08-20T12:00:00.000Z",
@@ -745,7 +721,7 @@
               "currency": "EUR",
               "value": -112.32,
               "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 115",
-              "id": 361
+              "id": 333
             },
             {
               "date": "2026-08-20T12:00:00.000Z",
@@ -753,7 +729,7 @@
               "currency": "EUR",
               "value": -20.18,
               "original_wording": "ACHAT CB LEADER PRICE",
-              "id": 666
+              "id": 590
             },
             {
               "date": "2026-08-22T12:00:00.000Z",
@@ -761,7 +737,7 @@
               "currency": "EUR",
               "value": -34.89,
               "original_wording": "PRELEVEMENT DE ADVANZIA BANK S.A REF : efefefefef 3c6 PRELEVEMENT CARTE ZERO FUBL",
-              "id": 775
+              "id": 932
             },
             {
               "date": "2026-08-23T12:00:00.000Z",
@@ -769,7 +745,7 @@
               "currency": "EUR",
               "value": -123.02,
               "original_wording": "PRELEVEMENT EUROPEEN 0907476161 DE: PRET SOGEFINANC.EXPRESSO-SOGEFINANC EMENT ID: FR94ZZZ412211",
-              "id": 713
+              "id": 926
             },
             {
               "date": "2026-08-23T12:00:00.000Z",
@@ -777,7 +753,7 @@
               "currency": "EUR",
               "value": -101.67,
               "original_wording": "PRELEVEMENT WALL-E PRELEVEMENT CARTE ZERO FAST3280420323",
-              "id": 403
+              "id": 167
             },
             {
               "date": "2026-08-23T12:00:00.000Z",
@@ -785,7 +761,7 @@
               "currency": "EUR",
               "value": -150,
               "original_wording": "PRLV SEPA WALL-E ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106",
-              "id": 619
+              "id": 317
             },
             {
               "date": "2026-08-24T12:00:00.000Z",
@@ -793,7 +769,7 @@
               "currency": "EUR",
               "value": -20,
               "original_wording": "F FRAIS PRLV IMP 543,45EUR 20 PROVISION INSUFFISANTE",
-              "id": 177
+              "id": 155
             },
             {
               "date": "2026-08-24T12:00:00.000Z",
@@ -801,7 +777,7 @@
               "currency": "EUR",
               "value": -20,
               "original_wording": "F FRAIS PRLV IMP 9,99EUR 20 PROVISION INSUFFISANTE",
-              "id": 975
+              "id": 157
             },
             {
               "date": "2026-08-24T12:00:00.000Z",
@@ -809,7 +785,7 @@
               "currency": "EUR",
               "value": -89.89,
               "original_wording": "F INT/FRAIS TX DEBIT 15,81%/AN",
-              "id": 483
+              "id": 871
             },
             {
               "date": "2026-08-24T12:00:00.000Z",
@@ -817,7 +793,7 @@
               "currency": "EUR",
               "value": -75.2,
               "original_wording": "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel",
-              "id": 464
+              "id": 262
             },
             {
               "date": "2026-08-24T12:00:00.000Z",
@@ -825,7 +801,7 @@
               "currency": "EUR",
               "value": -399.89,
               "original_wording": "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN",
-              "id": 990
+              "id": 626
             },
             {
               "date": "2026-08-24T12:00:00.000Z",
@@ -833,7 +809,7 @@
               "currency": "EUR",
               "value": -879.78,
               "original_wording": "VIREMENT EMIS AG HOMALONE LOYER",
-              "id": 919
+              "id": 149
             },
             {
               "date": "2026-08-25T12:00:00.000Z",
@@ -841,7 +817,7 @@
               "currency": "EUR",
               "value": -9.83,
               "original_wording": "ACHAT CB FROG",
-              "id": 75
+              "id": 782
             },
             {
               "date": "2026-08-25T12:00:00.000Z",
@@ -849,7 +825,7 @@
               "currency": "EUR",
               "value": -21.36,
               "original_wording": "ACHAT CB UBER EATS EUR 21,36 CARTE NO XXX",
-              "id": 623
+              "id": 393
             },
             {
               "date": "2026-08-26T12:00:00.000Z",
@@ -857,7 +833,7 @@
               "currency": "EUR",
               "value": -19.99,
               "original_wording": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-              "id": 219
+              "id": 529
             },
             {
               "date": "2026-08-26T12:00:00.000Z",
@@ -865,15 +841,7 @@
               "currency": "EUR",
               "value": -20.56,
               "original_wording": "PAIEMENT PAR CARTE AUCHAN",
-              "id": 506
-            },
-            {
-              "date": "2026-08-26T12:00:00.000Z",
-              "rdate": "2026-08-26T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 961.31,
-              "original_wording": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
-              "id": 371
+              "id": 221
             },
             {
               "date": "2026-08-27T12:00:00.000Z",
@@ -881,7 +849,7 @@
               "currency": "EUR",
               "value": -4.99,
               "original_wording": "Cotisation Compte A Composer (rem = 20%)",
-              "id": 957
+              "id": 335
             },
             {
               "date": "2026-08-27T12:00:00.000Z",
@@ -889,7 +857,7 @@
               "currency": "EUR",
               "value": -343.45,
               "original_wording": "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023",
-              "id": 654
+              "id": 760
             },
             {
               "date": "2026-08-27T12:00:00.000Z",
@@ -897,7 +865,7 @@
               "currency": "EUR",
               "value": -13.79,
               "original_wording": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
-              "id": 229
+              "id": 343
             },
             {
               "date": "2026-08-28T12:00:00.000Z",
@@ -905,7 +873,7 @@
               "currency": "EUR",
               "value": -24.99,
               "original_wording": "PRLV BASIC FIT",
-              "id": 54
+              "id": 569
             },
             {
               "date": "2026-08-28T12:00:00.000Z",
@@ -913,7 +881,7 @@
               "currency": "EUR",
               "value": -32.5,
               "original_wording": "PRLV PASS NAVIGO",
-              "id": 446
+              "id": 612
             },
             {
               "date": "2026-08-28T12:00:00.000Z",
@@ -921,7 +889,15 @@
               "currency": "EUR",
               "value": -19.99,
               "original_wording": "PRLV FREE HAUT DEBIT",
-              "id": 39
+              "id": 260
+            },
+            {
+              "date": "2026-08-28T12:00:00.000Z",
+              "rdate": "2026-08-28T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 2080.82,
+              "original_wording": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
+              "id": 646
             },
             {
               "date": "2026-08-31T12:00:00.000Z",
@@ -929,7 +905,7 @@
               "currency": "EUR",
               "value": -126.99,
               "original_wording": "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE",
-              "id": 612
+              "id": 165
             },
             {
               "date": "2026-08-31T12:00:00.000Z",
@@ -937,7 +913,7 @@
               "currency": "EUR",
               "value": -20,
               "original_wording": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
-              "id": 362
+              "id": 622
             },
             {
               "date": "2026-09-01T12:00:00.000Z",
@@ -945,7 +921,7 @@
               "currency": "EUR",
               "value": -8.99,
               "original_wording": "PRLV SEPA FREE MOBILE",
-              "id": 665
+              "id": 494
             },
             {
               "date": "2026-09-02T12:00:00.000Z",
@@ -953,7 +929,7 @@
               "currency": "EUR",
               "value": -22.65,
               "original_wording": "ACHAT CB AMAZON",
-              "id": 58
+              "id": 580
             },
             {
               "date": "2026-09-04T12:00:00.000Z",
@@ -961,7 +937,7 @@
               "currency": "EUR",
               "value": -18.24,
               "original_wording": "ACHAT CB FNAC",
-              "id": 46
+              "id": 711
             },
             {
               "date": "2026-09-09T12:00:00.000Z",
@@ -969,7 +945,7 @@
               "currency": "EUR",
               "value": -15.99,
               "original_wording": "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx687",
-              "id": 951
+              "id": 243
             },
             {
               "date": "2026-09-09T12:00:00.000Z",
@@ -977,7 +953,7 @@
               "currency": "EUR",
               "value": -49.96,
               "original_wording": "ACHAT CB AMAZON",
-              "id": 922
+              "id": 121
             },
             {
               "date": "2026-09-10T12:00:00.000Z",
@@ -985,7 +961,7 @@
               "currency": "EUR",
               "value": -9.99,
               "original_wording": "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE",
-              "id": 54
+              "id": 53
             },
             {
               "date": "2026-09-10T12:00:00.000Z",
@@ -993,7 +969,7 @@
               "currency": "EUR",
               "value": -20.89,
               "original_wording": "CARTE CB LEADER PRICE",
-              "id": 728
+              "id": 701
             },
             {
               "date": "2026-09-11T12:00:00.000Z",
@@ -1001,7 +977,7 @@
               "currency": "EUR",
               "value": -18.3,
               "original_wording": "ACHAT CB UBER EATS EUR 18,3 CARTE NO XXX",
-              "id": 901
+              "id": 923
             },
             {
               "date": "2026-09-12T12:00:00.000Z",
@@ -1009,7 +985,7 @@
               "currency": "EUR",
               "value": -43.46,
               "original_wording": "ECHEANCE COFIDIS PRET XXXXXXX",
-              "id": 46
+              "id": 754
             },
             {
               "date": "2026-09-12T12:00:00.000Z",
@@ -1017,7 +993,7 @@
               "currency": "EUR",
               "value": -8.99,
               "original_wording": "PAIEMENT PAR CARTE NETFLIX.COM",
-              "id": 601
+              "id": 212
             },
             {
               "date": "2026-09-13T12:00:00.000Z",
@@ -1025,7 +1001,7 @@
               "currency": "EUR",
               "value": -3.72,
               "original_wording": "CARTE X2518 APPLE.COM/BILL 3,79 EUR IRLANDE COMMERCE ELECTRONIQUE",
-              "id": 347
+              "id": 91
             },
             {
               "date": "2026-09-13T12:00:00.000Z",
@@ -1033,7 +1009,7 @@
               "currency": "EUR",
               "value": -19.26,
               "original_wording": "ACHAT CB UBER EATS EUR 19,26 CARTE NO XXX",
-              "id": 897
+              "id": 666
             },
             {
               "date": "2026-09-13T12:00:00.000Z",
@@ -1041,7 +1017,7 @@
               "currency": "EUR",
               "value": -16.17,
               "original_wording": "ACHAT CB",
-              "id": 423
+              "id": 485
             },
             {
               "date": "2026-09-14T12:00:00.000Z",
@@ -1049,7 +1025,15 @@
               "currency": "EUR",
               "value": -19.99,
               "original_wording": "CARTE X2518 PIZZA",
-              "id": 740
+              "id": 728
+            },
+            {
+              "date": "2026-09-15T12:00:00.000Z",
+              "rdate": "2026-09-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 1175.08,
+              "original_wording": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
+              "id": 164
             },
             {
               "date": "2026-09-17T12:00:00.000Z",
@@ -1057,7 +1041,7 @@
               "currency": "EUR",
               "value": -112.32,
               "original_wording": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 116",
-              "id": 528
+              "id": 988
             },
             {
               "date": "2026-09-18T12:00:00.000Z",
@@ -1065,7 +1049,7 @@
               "currency": "EUR",
               "value": -62.9,
               "original_wording": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
-              "id": 506
+              "id": 936
             },
             {
               "date": "2026-09-18T12:00:00.000Z",
@@ -1073,18 +1057,10 @@
               "currency": "EUR",
               "value": -39.4,
               "original_wording": "ACHAT CB AUCHAN",
-              "id": 584
-            },
-            {
-              "date": "2026-09-18T12:00:00.000Z",
-              "rdate": "2026-09-18T12:00:00.000Z",
-              "currency": "EUR",
-              "value": 2294.59,
-              "original_wording": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
-              "id": 924
+              "id": 917
             }
           ],
-          "balance": 600.01,
+          "balance": -149.99,
           "last_update": "2026-09-18T12:00:00.000Z",
           "iban": "FR7730003401180007778889923",
           "bic": "BNPAFRPPXXX",
@@ -1093,7 +1069,7 @@
           },
           "type": "checking",
           "usage": "PRIV",
-          "id": 297
+          "id": 285
         }
       ]
     }

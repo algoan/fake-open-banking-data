@@ -433,7 +433,7 @@
     },
     {
       "name": "Compte Joint 01",
-      "balance": 3969.35,
+      "balance": 5298.25,
       "balanceDate": "2026-09-18T12:00:00.000Z",
       "owners": [
         {
@@ -455,14 +455,6 @@
       "number": "account 02",
       "bic": "BNPAFRPPXXX",
       "transactions": [
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-06-22T12:00:00.000Z"
-          },
-          "description": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
-          "amount": 259.7
-        },
         {
           "currency": "EUR",
           "dates": {
@@ -500,14 +492,6 @@
           "dates": {
             "debitedAt": "2026-06-26T12:00:00.000Z"
           },
-          "description": "VIREMENT EN VOTRE FAVEUR AIDE FAMILIALE",
-          "amount": 620
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-06-26T12:00:00.000Z"
-          },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -13.93
         },
@@ -518,6 +502,14 @@
           },
           "description": "VIREMENT EMIS VERS COMPTE MARIE CURIE",
           "amount": -400
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-06-26T12:00:00.000Z"
+          },
+          "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-2",
+          "amount": 2581.45
         },
         {
           "currency": "EUR",
@@ -546,6 +538,14 @@
         {
           "currency": "EUR",
           "dates": {
+            "debitedAt": "2026-07-03T12:00:00.000Z"
+          },
+          "description": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-1",
+          "amount": 1256
+        },
+        {
+          "currency": "EUR",
+          "dates": {
             "debitedAt": "2026-07-13T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
@@ -564,14 +564,6 @@
           "dates": {
             "debitedAt": "2026-07-17T12:00:00.000Z"
           },
-          "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-2",
-          "amount": 2581.45
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-17T12:00:00.000Z"
-          },
           "description": "VIREMENT EMIS VERS COMPTE PIERRE CURIE",
           "amount": -1200
         },
@@ -582,14 +574,6 @@
           },
           "description": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 114",
           "amount": -112.32
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-23T12:00:00.000Z"
-          },
-          "description": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
-          "amount": 259.7
         },
         {
           "currency": "EUR",
@@ -620,14 +604,6 @@
           "dates": {
             "debitedAt": "2026-07-25T12:00:00.000Z"
           },
-          "description": "VIREMENT EN VOTRE FAVEUR AIDE FAMILIALE",
-          "amount": 620
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-25T12:00:00.000Z"
-          },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -25.93
         },
@@ -650,6 +626,14 @@
         {
           "currency": "EUR",
           "dates": {
+            "debitedAt": "2026-07-28T12:00:00.000Z"
+          },
+          "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-3",
+          "amount": 2581.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
             "debitedAt": "2026-07-31T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
@@ -662,6 +646,14 @@
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -57.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-04T12:00:00.000Z"
+          },
+          "description": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-2",
+          "amount": 1256
         },
         {
           "currency": "EUR",
@@ -700,14 +692,6 @@
           "dates": {
             "debitedAt": "2026-08-18T12:00:00.000Z"
           },
-          "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-3",
-          "amount": 2581.45
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-18T12:00:00.000Z"
-          },
           "description": "VIREMENT EMIS VERS COMPTE PIERRE CURIE",
           "amount": -1000
         },
@@ -740,14 +724,6 @@
           "dates": {
             "debitedAt": "2026-08-23T12:00:00.000Z"
           },
-          "description": "VIREMENT EN VOTRE FAVEUR BOURSE ETUDIANT",
-          "amount": 259.7
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-23T12:00:00.000Z"
-          },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 201.79
         },
@@ -758,14 +734,6 @@
           },
           "description": "VIREMENT EMIS AG HOMALONE LOYER",
           "amount": -879.78
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-25T12:00:00.000Z"
-          },
-          "description": "VIREMENT EN VOTRE FAVEUR AIDE FAMILIALE",
-          "amount": 620
         },
         {
           "currency": "EUR",
@@ -794,6 +762,14 @@
         {
           "currency": "EUR",
           "dates": {
+            "debitedAt": "2026-08-27T12:00:00.000Z"
+          },
+          "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-1",
+          "amount": 2581.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
             "debitedAt": "2026-08-28T12:00:00.000Z"
           },
           "description": "PRLV FREE HAUT DEBIT",
@@ -810,18 +786,18 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-10T12:00:00.000Z"
+            "debitedAt": "2026-09-03T12:00:00.000Z"
           },
-          "description": "CARTE CB LEADER PRICE",
-          "amount": -20.89
+          "description": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-3",
+          "amount": 1256
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-17T12:00:00.000Z"
+            "debitedAt": "2026-09-10T12:00:00.000Z"
           },
-          "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-1",
-          "amount": 2581.45
+          "description": "CARTE CB LEADER PRICE",
+          "amount": -20.89
         },
         {
           "currency": "EUR",

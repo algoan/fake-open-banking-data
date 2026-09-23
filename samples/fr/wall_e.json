@@ -2,7 +2,7 @@
   "accounts": [
     {
       "name": "Compte Courant 01",
-      "balance": 2060.58,
+      "balance": 2701.89,
       "balanceDate": "2026-09-18T12:00:00.000Z",
       "owners": [
         {
@@ -24,10 +24,18 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-17T12:00:00.000Z"
+            "debitedAt": "2026-06-26T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-2",
           "amount": 2581.45
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-06-27T12:00:00.000Z"
+          },
+          "description": "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT",
+          "amount": -2080.82
         },
         {
           "currency": "EUR",
@@ -40,14 +48,6 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-18T12:00:00.000Z"
-          },
-          "description": "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT",
-          "amount": -2294.59
-        },
-        {
-          "currency": "EUR",
-          "dates": {
             "debitedAt": "2026-07-19T12:00:00.000Z"
           },
           "description": "VIREMENT COMPTE A COMPTE EXTERNE",
@@ -56,7 +56,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-18T12:00:00.000Z"
+            "debitedAt": "2026-07-28T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-3",
           "amount": 2581.45
@@ -64,15 +64,15 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-19T12:00:00.000Z"
+            "debitedAt": "2026-07-29T12:00:00.000Z"
           },
           "description": "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT",
-          "amount": -2294.59
+          "amount": -2080.82
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-17T12:00:00.000Z"
+            "debitedAt": "2026-08-27T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-1",
           "amount": 2581.45
@@ -80,16 +80,16 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-18T12:00:00.000Z"
+            "debitedAt": "2026-08-28T12:00:00.000Z"
           },
           "description": "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT",
-          "amount": -2294.59
+          "amount": -2080.82
         }
       ]
     },
     {
       "name": "Compte Joint 01",
-      "balance": 600.01,
+      "balance": -149.99,
       "balanceDate": "2026-09-18T12:00:00.000Z",
       "owners": [
         {
@@ -244,8 +244,8 @@
           "dates": {
             "debitedAt": "2026-06-27T12:00:00.000Z"
           },
-          "description": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
-          "amount": 961.31
+          "description": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
+          "amount": 2080.82
         },
         {
           "currency": "EUR",
@@ -386,18 +386,18 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-17T12:00:00.000Z"
+            "debitedAt": "2026-07-15T12:00:00.000Z"
           },
-          "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
-          "amount": -227.89
+          "description": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
+          "amount": 1175.08
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-18T12:00:00.000Z"
+            "debitedAt": "2026-07-17T12:00:00.000Z"
           },
-          "description": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
-          "amount": 2294.59
+          "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
+          "amount": -227.89
         },
         {
           "currency": "EUR",
@@ -498,14 +498,6 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-26T12:00:00.000Z"
-          },
-          "description": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
-          "amount": 961.31
-        },
-        {
-          "currency": "EUR",
-          "dates": {
             "debitedAt": "2026-07-27T12:00:00.000Z"
           },
           "description": "Cotisation Compte A Composer (rem = 20%)",
@@ -558,6 +550,14 @@
           },
           "description": "PRLV FREE HAUT DEBIT",
           "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-07-29T12:00:00.000Z"
+          },
+          "description": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
+          "amount": 2080.82
         },
         {
           "currency": "EUR",
@@ -714,18 +714,18 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-19T12:00:00.000Z"
+            "debitedAt": "2026-08-15T12:00:00.000Z"
           },
-          "description": "VIREMENT ALICE AIRBNB",
-          "amount": -320
+          "description": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
+          "amount": 1175.08
         },
         {
           "currency": "EUR",
           "dates": {
             "debitedAt": "2026-08-19T12:00:00.000Z"
           },
-          "description": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
-          "amount": 2294.59
+          "description": "VIREMENT ALICE AIRBNB",
+          "amount": -320
         },
         {
           "currency": "EUR",
@@ -866,14 +866,6 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-26T12:00:00.000Z"
-          },
-          "description": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
-          "amount": 961.31
-        },
-        {
-          "currency": "EUR",
-          "dates": {
             "debitedAt": "2026-08-27T12:00:00.000Z"
           },
           "description": "Cotisation Compte A Composer (rem = 20%)",
@@ -918,6 +910,14 @@
           },
           "description": "PRLV FREE HAUT DEBIT",
           "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-28T12:00:00.000Z"
+          },
+          "description": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
+          "amount": 2080.82
         },
         {
           "currency": "EUR",
@@ -1050,6 +1050,14 @@
         {
           "currency": "EUR",
           "dates": {
+            "debitedAt": "2026-09-15T12:00:00.000Z"
+          },
+          "description": "VIREMENT RECU DU COMPTE EVE PARTICIPATION",
+          "amount": 1175.08
+        },
+        {
+          "currency": "EUR",
+          "dates": {
             "debitedAt": "2026-09-17T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 116",
@@ -1070,14 +1078,6 @@
           },
           "description": "ACHAT CB AUCHAN",
           "amount": -39.4
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-09-18T12:00:00.000Z"
-          },
-          "description": "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION",
-          "amount": 2294.59
         }
       ]
     }
