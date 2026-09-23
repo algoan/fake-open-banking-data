@@ -86,10 +86,10 @@ export interface Statement {
 }
 
 /**
- * Bookkeeping for the daily job: which statements have been produced, and for
- * which month they were produced.
+ * Bookkeeping for the daily job: which statements have been produced, for
+ * which month, and from which content.
  */
 export interface StatementManifest {
   generatedAt: string;
-  statements: Record<string, { generatedFor: string; period: StatementPeriod }>;
+  statements: Record<string, { generatedFor: string; period: StatementPeriod; fingerprint: string }>;
 }
