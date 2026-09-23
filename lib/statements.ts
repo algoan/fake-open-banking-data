@@ -56,6 +56,18 @@ function later(a: string, b: string): string {
  * @param persona Persona file name, without its extension
  */
 export function buildAccountStatements(account: AccountsEntity, locale: string, persona: string): Statement[] {
+  const undated: TransactionsEntity | undefined = account.transactions.find(
+    (transaction: TransactionsEntity) =>
+      transaction.dates?.debitedAt === undefined && transaction.dates?.bookedAt === undefined,
+  );
+  if (undated !== undefined) {
+    throw new Error(
+      `${locale}/${persona}: transaction "${undated.description}" of account "${
+        account.name ?? account.number
+      }" has neither debitedAt nor bookedAt`,
+    );
+  }
+
   const transactions: TransactionsEntity[] = [...account.transactions].sort(
     (a: TransactionsEntity, b: TransactionsEntity) => transactionDate(a).localeCompare(transactionDate(b)),
   );
