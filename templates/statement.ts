@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { Statement, StatementLine } from '../types';
+import { localeOf, money, shortDate, StatementLabels } from './locales';
 
 const COLOURS = {
   ink: '#0f172a',
@@ -12,41 +13,17 @@ const COLOURS = {
   debit: '#b91c1c',
 };
 
-const BANK_NAME: string = 'Banque Algoan';
-
 const LOGO: string = `data:image/png;base64,${readFileSync(path.join(__dirname, 'assets', 'algoan-logo.png')).toString(
   'base64',
 )}`;
 
 /**
- * Format an amount the French way: thousands separated by a no-break space, two
- * decimals, comma as the decimal mark.
- * @param amount Amount to format
- * @param currency ISO currency code
- */
-function money(amount: number, currency: string): string {
-  const symbol: string = currency === 'EUR' ? '€' : currency;
-  const [whole, cents]: string[] = Math.abs(amount).toFixed(2).split('.');
-  const grouped: string = whole.replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
-
-  return `${amount < 0 ? '-' : ''}${grouped},${cents} ${symbol}`;
-}
-
-/**
- * Render a date as DD/MM/YYYY.
- * @param isoDate ISO date string
- */
-function shortDate(isoDate: string): string {
-  const [year, month, day]: string[] = isoDate.slice(0, 10).split('-');
-
-  return `${day}/${month}/${year}`;
-}
-
-/**
  * Build the two balance boxes framing the statement.
  * @param statement Statement to render
+ * @param tag BCP 47 tag
+ * @param labels Labels of the statement locale
  */
-function balanceBoxes(statement: Statement): any {
+function balanceBoxes(statement: Statement, tag: string, labels: StatementLabels): any {
   const box = (label: string, amount: number, strong: boolean): any => ({
     width: '*',
     margin: [0, 0, 0, 0],
@@ -56,7 +33,7 @@ function balanceBoxes(statement: Statement): any {
         [{ text: label, style: 'boxLabel' }],
         [
           {
-            text: money(amount, statement.currency),
+            text: money(amount, statement.currency, tag),
             style: 'boxAmount',
             color: strong ? COLOURS.brand : COLOURS.ink,
           },
@@ -76,9 +53,9 @@ function balanceBoxes(statement: Statement): any {
 
   return {
     columns: [
-      box(`Solde au ${shortDate(statement.period.start)}`, statement.openingBalance, false),
+      box(labels.balanceOn(shortDate(statement.period.start, tag)), statement.openingBalance, false),
       { width: 16, text: '' },
-      box(`Solde au ${shortDate(statement.period.end)}`, statement.closingBalance, true),
+      box(labels.balanceOn(shortDate(statement.period.end, tag)), statement.closingBalance, true),
     ],
     margin: [0, 0, 0, 18],
   };
@@ -87,45 +64,45 @@ function balanceBoxes(statement: Statement): any {
 /**
  * Build the transaction table.
  * @param statement Statement to render
+ * @param tag BCP 47 tag
+ * @param labels Labels of the statement locale
  */
-function transactionTable(statement: Statement): any {
+function transactionTable(statement: Statement, tag: string, labels: StatementLabels): any {
   const header: any[] = [
-    { text: 'Date', style: 'th' },
-    { text: 'Libellé', style: 'th' },
-    { text: 'Débit', style: 'thRight' },
-    { text: 'Crédit', style: 'thRight' },
+    { text: labels.date, style: 'th' },
+    { text: labels.description, style: 'th' },
+    { text: labels.debit, style: 'thRight' },
+    { text: labels.credit, style: 'thRight' },
   ];
 
   const rows: any[][] = statement.lines.map((line: StatementLine) => [
-    { text: shortDate(line.date), style: 'td' },
+    { text: shortDate(line.date, tag), style: 'td' },
     { text: line.description, style: 'td' },
     {
-      text: line.amount < 0 ? money(Math.abs(line.amount), statement.currency) : '',
+      text: line.amount < 0 ? money(Math.abs(line.amount), statement.currency, tag) : '',
       style: 'tdRight',
       color: COLOURS.debit,
     },
     {
-      text: line.amount > 0 ? money(line.amount, statement.currency) : '',
+      text: line.amount > 0 ? money(line.amount, statement.currency, tag) : '',
       style: 'tdRight',
       color: COLOURS.credit,
     },
   ]);
 
-  const empty: any[][] = [
-    [{ text: 'Aucune opération sur la période.', style: 'td', colSpan: 4, color: COLOURS.muted }, {}, {}, {}],
-  ];
+  const empty: any[][] = [[{ text: labels.noOperations, style: 'td', colSpan: 4, color: COLOURS.muted }, {}, {}, {}]];
 
   const totals: any[] = [
     { text: '', border: [false, true, false, false] },
-    { text: 'Total des opérations', style: 'tdTotal', border: [false, true, false, false] },
+    { text: labels.total, style: 'tdTotal', border: [false, true, false, false] },
     {
-      text: money(statement.totalDebit, statement.currency),
+      text: money(statement.totalDebit, statement.currency, tag),
       style: 'tdTotalRight',
       color: COLOURS.debit,
       border: [false, true, false, false],
     },
     {
-      text: money(statement.totalCredit, statement.currency),
+      text: money(statement.totalCredit, statement.currency, tag),
       style: 'tdTotalRight',
       color: COLOURS.credit,
       border: [false, true, false, false],
@@ -157,7 +134,8 @@ function transactionTable(statement: Statement): any {
  * @param statement Statement data to render
  */
 export function buildStatementDocument(statement: Statement): any {
-  const holders: string = statement.holders.join(' et ');
+  const { tag, labels } = localeOf(statement.locale);
+  const holders: string = statement.holders.join(` ${labels.and} `);
 
   return {
     pageSize: 'A4',
@@ -168,13 +146,13 @@ export function buildStatementDocument(statement: Statement): any {
       margin: [48, 36, 48, 0],
       columns: [
         { width: 78, image: LOGO, margin: [0, 0, 0, 0] },
-        { width: '*', margin: [14, 9, 0, 0], text: BANK_NAME, style: 'bankName' },
+        { width: '*', margin: [14, 9, 0, 0], text: labels.bankName, style: 'bankName' },
         {
           width: 'auto',
           stack: [
-            { text: 'RELEVÉ DE COMPTE', style: 'docTitle' },
+            { text: labels.documentTitle, style: 'docTitle' },
             {
-              text: `Période du ${shortDate(statement.period.start)} au ${shortDate(statement.period.end)}`,
+              text: labels.period(shortDate(statement.period.start, tag), shortDate(statement.period.end, tag)),
               style: 'docSubtitle',
             },
           ],
@@ -187,10 +165,10 @@ export function buildStatementDocument(statement: Statement): any {
       columns: [
         {
           width: '*',
-          text: `${BANK_NAME} — données fictives générées à des fins de test. Aucune valeur contractuelle.`,
+          text: `${labels.bankName} — ${labels.disclaimer}`,
           style: 'footer',
         },
-        { width: 'auto', text: `Page ${currentPage} / ${pageCount}`, style: 'footer', alignment: 'right' },
+        { width: 'auto', text: labels.page(currentPage, pageCount), style: 'footer', alignment: 'right' },
       ],
     }),
 
@@ -205,14 +183,14 @@ export function buildStatementDocument(statement: Statement): any {
           {
             width: '*',
             stack: [
-              { text: 'TITULAIRE', style: 'blockLabel' },
+              { text: labels.holder, style: 'blockLabel' },
               { text: holders, style: 'blockValueStrong' },
             ],
           },
           {
             width: 'auto',
             stack: [
-              { text: 'COMPTE', style: 'blockLabel', alignment: 'right' },
+              { text: labels.account, style: 'blockLabel', alignment: 'right' },
               { text: statement.accountName, style: 'blockValueStrong', alignment: 'right' },
               { text: statement.iban ? `IBAN ${statement.iban}` : '', style: 'blockValue', alignment: 'right' },
               { text: statement.bic ? `BIC ${statement.bic}` : '', style: 'blockValue', alignment: 'right' },
@@ -222,8 +200,8 @@ export function buildStatementDocument(statement: Statement): any {
         margin: [0, 0, 0, 20],
       },
 
-      balanceBoxes(statement),
-      transactionTable(statement),
+      balanceBoxes(statement, tag, labels),
+      transactionTable(statement, tag, labels),
     ],
 
     styles: {

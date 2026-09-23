@@ -22,7 +22,7 @@ A JSON file represents what we call a "Personae": a profile with relevant credit
 ## Bank statements 🧾
 
 Every account of every Personae also comes as a **monthly PDF bank statement**, issued by a
-fictitious "Banque Algoan", under [`statements/`](./statements):
+fictitious Algoan bank, under [`statements/`](./statements):
 
 ```
 statements/<locale>/<personae>/<account>_<YYYY-MM>.pdf
@@ -32,3 +32,6 @@ A statement carries the period it covers, the balance the account opened that pe
 balance it closed on, every operation of the month split between debit and credit, and their totals.
 Statements chain: the closing balance of a month is the opening balance of the next one, and the
 last statement of an account closes on the balance held in the JSON sample.
+
+Each statement is written in the language of its locale, and amounts and dates follow that
+country's conventions. The wording lives in [`templates/locales.ts`](./templates/locales.ts).
