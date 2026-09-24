@@ -8,10 +8,21 @@ const COLOURS = {
   muted: '#64748b',
   hairline: '#e2e8f0',
   band: '#f1f5f9',
-  brand: '#1d4ed8',
+  brand: '#00466B',
   credit: '#047857',
   debit: '#b91c1c',
 };
+
+/**
+ * Split an IBAN into groups of four characters.
+ * @param iban IBAN to format
+ */
+function formatIban(iban: string): string {
+  return iban
+    .replace(/\s+/g, '')
+    .replace(/(.{4})/g, '$1 ')
+    .trim();
+}
 
 const LOGO: string = `data:image/png;base64,${readFileSync(path.join(__dirname, 'assets', 'algoan-logo.png')).toString(
   'base64',
@@ -24,7 +35,7 @@ const LOGO: string = `data:image/png;base64,${readFileSync(path.join(__dirname, 
  * @param labels Labels of the statement locale
  */
 function balanceBoxes(statement: Statement, tag: string, labels: StatementLabels): any {
-  const box = (label: string, amount: number, strong: boolean): any => ({
+  const box = (label: string, amount: number): any => ({
     width: '*',
     margin: [0, 0, 0, 0],
     table: {
@@ -35,7 +46,6 @@ function balanceBoxes(statement: Statement, tag: string, labels: StatementLabels
           {
             text: money(amount, statement.currency, tag),
             style: 'boxAmount',
-            color: strong ? COLOURS.brand : COLOURS.ink,
           },
         ],
       ],
@@ -53,9 +63,9 @@ function balanceBoxes(statement: Statement, tag: string, labels: StatementLabels
 
   return {
     columns: [
-      box(labels.balanceOn(shortDate(statement.period.start, tag)), statement.openingBalance, false),
+      box(labels.balanceOn(shortDate(statement.period.start, tag)), statement.openingBalance),
       { width: 16, text: '' },
-      box(labels.balanceOn(shortDate(statement.period.end, tag)), statement.closingBalance, true),
+      box(labels.balanceOn(shortDate(statement.period.end, tag)), statement.closingBalance),
     ],
     margin: [0, 0, 0, 18],
   };
@@ -119,7 +129,7 @@ function transactionTable(statement: Statement, tag: string, labels: StatementLa
       hLineWidth: (i: number, node: any) => (i === 1 || i === node.table.body.length - 1 ? 0.8 : 0.5),
       vLineWidth: () => 0,
       hLineColor: (i: number, node: any) =>
-        i === 1 || i === node.table.body.length - 1 ? COLOURS.ink : COLOURS.hairline,
+        i === 1 ? COLOURS.brand : i === node.table.body.length - 1 ? COLOURS.ink : COLOURS.hairline,
       fillColor: (i: number) => (i === 0 ? COLOURS.band : null),
       paddingLeft: (i: number) => 8,
       paddingRight: () => 8,
@@ -146,7 +156,7 @@ export function buildStatementDocument(statement: Statement): any {
       margin: [48, 36, 48, 0],
       columns: [
         { width: 78, image: LOGO, margin: [0, 0, 0, 0] },
-        { width: '*', margin: [14, 9, 0, 0], text: labels.bankName, style: 'bankName' },
+        { width: '*', text: '' },
         {
           width: 'auto',
           stack: [
@@ -187,14 +197,33 @@ export function buildStatementDocument(statement: Statement): any {
               { text: holders, style: 'blockValueStrong' },
             ],
           },
+          { width: 16, text: '' },
           {
-            width: 'auto',
-            stack: [
-              { text: labels.account, style: 'blockLabel', alignment: 'right' },
-              { text: statement.accountName, style: 'blockValueStrong', alignment: 'right' },
-              { text: statement.iban ? `IBAN ${statement.iban}` : '', style: 'blockValue', alignment: 'right' },
-              { text: statement.bic ? `BIC ${statement.bic}` : '', style: 'blockValue', alignment: 'right' },
-            ],
+            width: '*',
+            table: {
+              widths: ['*'],
+              body: [
+                [
+                  {
+                    stack: [
+                      { text: labels.account, style: 'blockLabel' },
+                      { text: statement.accountName, style: 'blockValueStrong' },
+                      { text: statement.iban ? `IBAN ${formatIban(statement.iban)}` : '', style: 'blockValue' },
+                      { text: statement.bic ? `BIC ${statement.bic}` : '', style: 'blockValue' },
+                    ],
+                  },
+                ],
+              ],
+            },
+            layout: {
+              hLineWidth: () => 0,
+              vLineWidth: () => 0,
+              fillColor: () => COLOURS.band,
+              paddingLeft: () => 12,
+              paddingRight: () => 12,
+              paddingTop: () => 10,
+              paddingBottom: () => 10,
+            },
           },
         ],
         margin: [0, 0, 0, 20],
@@ -205,7 +234,6 @@ export function buildStatementDocument(statement: Statement): any {
     ],
 
     styles: {
-      bankName: { fontSize: 13, bold: true, color: COLOURS.brand },
       docTitle: { fontSize: 13, bold: true, characterSpacing: 0.6, alignment: 'right' },
       docSubtitle: { fontSize: 8, color: COLOURS.muted, alignment: 'right' },
       blockLabel: { fontSize: 7, bold: true, color: COLOURS.muted, characterSpacing: 0.8, margin: [0, 0, 0, 3] },
@@ -213,8 +241,8 @@ export function buildStatementDocument(statement: Statement): any {
       blockValueStrong: { fontSize: 10, bold: true },
       boxLabel: { fontSize: 7, bold: true, color: COLOURS.muted, characterSpacing: 0.6 },
       boxAmount: { fontSize: 15, bold: true },
-      th: { fontSize: 7, bold: true, color: COLOURS.muted, characterSpacing: 0.6 },
-      thRight: { fontSize: 7, bold: true, color: COLOURS.muted, characterSpacing: 0.6, alignment: 'right' },
+      th: { fontSize: 7, bold: true, color: COLOURS.ink, characterSpacing: 0.6 },
+      thRight: { fontSize: 7, bold: true, color: COLOURS.ink, characterSpacing: 0.6, alignment: 'right' },
       td: { fontSize: 8 },
       tdRight: { fontSize: 8, alignment: 'right' },
       tdTotal: { fontSize: 8, bold: true },
