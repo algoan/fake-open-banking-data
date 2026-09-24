@@ -30,8 +30,9 @@ statements/<locale>/<personae>/<account>_<YYYY-MM>.pdf
 
 A statement carries the period it covers, the balance the account opened that period with, the
 balance it closed on, every operation of the month split between debit and credit, and their totals.
-Statements chain: the closing balance of a month is the opening balance of the next one, and the
-last statement of an account closes on the balance held in the JSON sample.
+Only complete months get a statement: a month the account history does not cover from its first to
+its last day, such as the current one, is left out. Statements chain: the closing balance of a month
+is the opening balance of the next one.
 
 Each statement is written in the language of its locale, and amounts and dates follow that
 country's conventions. The wording lives in [`templates/locales.ts`](./templates/locales.ts).

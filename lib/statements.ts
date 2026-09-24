@@ -32,6 +32,14 @@ function round(amount: number): number {
 }
 
 /**
+ * Number of days in a month.
+ * @param month Month, as YYYY-MM
+ */
+function daysIn(month: string): number {
+  return new Date(Date.UTC(Number(month.slice(0, 4)), Number(month.slice(5, 7)), 0)).getUTCDate();
+}
+
+/**
  * The earlier of two dates.
  * @param a First date
  * @param b Second date
@@ -50,7 +58,8 @@ function later(a: string, b: string): string {
 }
 
 /**
- * Build every monthly statement of a single account.
+ * Build the monthly statements of a single account, keeping only the months
+ * its history covers from the first to the last day.
  * @param account Account to build statements for
  * @param locale Locale directory the persona lives in
  * @param persona Persona file name, without its extension
@@ -94,7 +103,7 @@ export function buildAccountStatements(account: AccountsEntity, locale: string, 
     byMonth[month].push(transaction);
   }
 
-  return months.map((month: string) => {
+  const statements: Statement[] = months.map((month: string) => {
     const monthTransactions: TransactionsEntity[] = byMonth[month];
     const openingBalance: number = running;
 
@@ -115,7 +124,7 @@ export function buildAccountStatements(account: AccountsEntity, locale: string, 
       };
     });
 
-    const lastDay: number = new Date(Date.UTC(Number(month.slice(0, 4)), Number(month.slice(5, 7)), 0)).getUTCDate();
+    const lastDay: number = daysIn(month);
     const monthStart: string = `${month}-01T12:00:00.000Z`;
     const monthEnd: string = `${month}-${String(lastDay).padStart(2, '0')}T12:00:00.000Z`;
     const firstOfMonth: string = transactionDate(monthTransactions[0]);
@@ -141,6 +150,12 @@ export function buildAccountStatements(account: AccountsEntity, locale: string, 
       lines,
     };
   });
+
+  return statements.filter(
+    ({ period }: Statement) =>
+      period.start.slice(8, 10) === '01' &&
+      period.end.slice(0, 10) === `${period.month}-${String(daysIn(period.month)).padStart(2, '0')}`,
+  );
 }
 
 /**
