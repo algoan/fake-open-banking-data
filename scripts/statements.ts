@@ -1,4 +1,3 @@
-import { createHash } from 'node:crypto';
 import { existsSync, readdirSync, readFileSync, rmdirSync, unlinkSync, writeFileSync } from 'node:fs';
 import * as path from 'node:path';
 import dayjs from 'dayjs';
@@ -49,20 +48,13 @@ function readManifest(): StatementManifest {
 }
 
 /**
- * Hash the content of a statement, so that a change in its sample is noticed.
- * @param statement Statement to hash
- */
-function fingerprint(statement: Statement): string {
-  return createHash('sha256').update(JSON.stringify(statement)).digest('hex');
-}
-
-/**
  * Decide whether a statement has to be produced again.
  * @param statement Statement to check
  * @param manifest Manifest of the previous run
+ * @param currentMonth Month the job runs in, as YYYY-MM
  * @param force Rebuild everything, whatever the manifest says
  */
-function isStale(statement: Statement, manifest: StatementManifest, force: boolean): boolean {
+function isStale(statement: Statement, manifest: StatementManifest, currentMonth: string, force: boolean): boolean {
   if (force) {
     return true;
   }
@@ -72,7 +64,7 @@ function isStale(statement: Statement, manifest: StatementManifest, force: boole
     return true;
   }
 
-  return manifest.statements[relativePath]?.fingerprint !== fingerprint(statement);
+  return manifest.statements[relativePath]?.generatedFor !== currentMonth;
 }
 
 /**
@@ -147,7 +139,7 @@ async function writeStatement(statement: Statement): Promise<void> {
 
   const manifest: StatementManifest = readManifest();
   const outdated: Statement[] = statements.filter((statement: Statement) =>
-    isStale(statement, manifest, force),
+    isStale(statement, manifest, currentMonth, force),
   );
   console.log(`${statements.length} statements expected, ${outdated.length} to (re)build`);
 
@@ -169,7 +161,6 @@ async function writeStatement(statement: Statement): Promise<void> {
         ? currentMonth
         : manifest.statements[relativePath]?.generatedFor ?? currentMonth,
       period: statement.period,
-      fingerprint: fingerprint(statement),
     };
   }
 
