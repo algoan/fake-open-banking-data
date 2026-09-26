@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T20:40:04.053Z",
+  "generatedAt": "2026-09-26T04:40:30.127Z",
   "statements": {
     "be-fr/dana_scully_be-fr/compte-a-vue-01_2026-07.pdf": {
       "generatedFor": "2026-09",
@@ -81,6 +81,22 @@
         "end": "2026-08-31T12:00:00.000Z"
       }
     },
+    "es/raquel_murillo/cuenta-corriente-02_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "es/raquel_murillo/cuenta-corriente-03_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
     "es/sergio_marquina/cuenta-corriente-01_2026-07.pdf": {
       "generatedFor": "2026-09",
       "period": {
@@ -97,12 +113,28 @@
         "end": "2026-08-31T12:00:00.000Z"
       }
     },
-    "fr/account_type_not_supported/compte-courant-01_2027-04.pdf": {
+    "fr/account_type_not_supported/compte-courant-01_2026-08.pdf": {
       "generatedFor": "2026-09",
       "period": {
-        "month": "2027-04",
-        "start": "2027-04-01T12:00:00.000Z",
-        "end": "2027-04-30T12:00:00.000Z"
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/account_type_not_supported/compte-carte-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/account_type_not_supported/compte-epargne-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
       }
     },
     "fr/archibald_haddock/compte-courant-01_2026-07.pdf": {
@@ -121,12 +153,12 @@
         "end": "2026-08-31T12:00:00.000Z"
       }
     },
-    "fr/currency_not_supported/compte-courant-01_2027-04.pdf": {
+    "fr/currency_not_supported/compte-courant-01_2026-08.pdf": {
       "generatedFor": "2026-09",
       "period": {
-        "month": "2027-04",
-        "start": "2027-04-01T12:00:00.000Z",
-        "end": "2027-04-30T12:00:00.000Z"
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
       }
     },
     "fr/harley_quinn/compte-courant-01_2026-07.pdf": {
@@ -177,6 +209,22 @@
         "end": "2026-08-31T12:00:00.000Z"
       }
     },
+    "fr/hermione_granger/compte-carte-de-credit-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/hermione_granger/compte-epargne-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
     "fr/lara_croft/compte-courant-01_2026-07.pdf": {
       "generatedFor": "2026-09",
       "period": {
@@ -209,6 +257,14 @@
         "end": "2026-08-31T12:00:00.000Z"
       }
     },
+    "fr/leia_skywalker/compte-epargne-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
     "fr/luke_skywalker/compte-courant-01_2026-07.pdf": {
       "generatedFor": "2026-09",
       "period": {
@@ -225,12 +281,20 @@
         "end": "2026-08-31T12:00:00.000Z"
       }
     },
-    "fr/no_checking_account/compte-courant-01_2027-04.pdf": {
+    "fr/no_checking_account/compte-courant-01_2026-08.pdf": {
       "generatedFor": "2026-09",
       "period": {
-        "month": "2027-04",
-        "start": "2027-04-01T12:00:00.000Z",
-        "end": "2027-04-30T12:00:00.000Z"
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/no_checking_account/compte-carte-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
       }
     },
     "fr/no_owner_name/compte-courant-01_2026-07.pdf": {
@@ -242,6 +306,46 @@
       }
     },
     "fr/no_owner_name/compte-courant-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/not_enough_transactions/compte-courant-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/not_enough_transactions/compte-carte-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/ownership_not_supported/compte-courant-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/ownership_not_supported/compte-carte-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/ownership_not_supported/compte-epargne-01_2026-08.pdf": {
       "generatedFor": "2026-09",
       "period": {
         "month": "2026-08",
@@ -343,6 +447,22 @@
         "month": "2026-08",
         "start": "2026-08-01T12:00:00.000Z",
         "end": "2026-08-31T12:14:32.007Z"
+      }
+    },
+    "fr/usage_not_supported/compte-courant-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
+      }
+    },
+    "fr/usage_not_supported/compte-carte-01_2026-08.pdf": {
+      "generatedFor": "2026-09",
+      "period": {
+        "month": "2026-08",
+        "start": "2026-08-01T12:00:00.000Z",
+        "end": "2026-08-31T12:00:00.000Z"
       }
     },
     "nl/sarah_connor/betaalrekening-01_2026-07.pdf": {
