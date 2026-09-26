@@ -183,6 +183,93 @@
 - Has standard expenses: power, telecom, transport, multimedia, gym
 - Has savings
 
+## Pierre Curie
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                         |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/pierre_curie.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/pierre_curie.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/pierre_curie.json) |
+
+**Description**:
+
+- Part of the **Curie household**: lives with [Marie Curie](#marie-curie) and shares a joint account with her
+- Built from the [Harry Potter](#harry-potter) profile
+- **Two accounts**: his own current account, plus the household joint account (`FR7630003401180005556667762`, same IBAN in both personae so the two connections can be reconciled)
+- The joint account collects the whole household income (his 2581.45€/month salary, paid between the 26th and the 29th, plus Marie's 1256€/month salary and her allowances) and pays the shared expenses: rent 879.78€/month, energy, home insurance, broadband, groceries
+- His own account is funded by a monthly allowance from the joint account, and carries his personal commitments only — mobile plan, subscriptions and 6 consumer credits with three different lenders (3 with lender "A", 2 with lender "B" and 1 with lender "C")
+- Has done 3 split payments
+- Has overdraft fees, 1 payment rejection on a credit and 1 on a subscription
+- Falling cash flows
+
+## Marie Curie
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/marie_curie.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/marie_curie.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/marie_curie.json) |
+
+**Description**:
+
+- Part of the **Curie household**: lives with [Pierre Curie](#pierre-curie) and shares a joint account with him
+- Built from the [Luke Skywalker](#luke-skywalker) profile
+- **Two accounts**: her own current account, plus the household joint account (`FR7630003401180005556667762`, the very same account as in the [Pierre Curie](#pierre-curie) persona)
+- Employed: her 1256€/month salary from SOCIETE LAMBDA, paid between the 2nd and the 5th, and her allowances are paid into the joint account
+- Her own account is funded by a monthly allowance from the joint account, and carries her personal commitments only: 1 consumer credit, subscriptions and day-to-day card payments
+- The household bills are **never duplicated**: it has a single rent, a single energy contract and a single broadband subscription, all three paid by the joint account. Her own account therefore shows none of them — only her mobile plan and her personal subscriptions
+- Tight personal account, slightly overdrawn at the end of the period
+
+## WALL-E
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                   |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/wall_e.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/wall_e.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/wall_e.json) |
+
+**Description**:
+
+- Part of the **WALL-E household**, the second couple of the dataset. It is built from the [Pierre Curie](#pierre-curie) and [Marie Curie](#marie-curie) data, but it pools money the other way round, so the two households can be compared side by side:
+  - the **Curie** couple pool their **income** on the joint account, which then funds each personal account;
+  - the **WALL-E** couple keep their **income on their own account**, and the joint account carries **every single expense**.
+- **Two accounts**: his own current account, plus the household joint account (`FR7630003401180007778889941`, same IBAN in both personae so the two connections can be reconciled)
+- The joint account holds **all of the household spending**: rent, energy, home insurance, broadband, groceries, consumer credits, subscriptions, card payments, and the rejections and fees that go with them. It receives nothing but the two contributions below.
+- Each personal account is funded by its owner's income only, and pays a **monthly standing order** into the joint account. The two standing orders add up to the average monthly spending of the joint account (3255.90€ over the period), split **pro rata of each income**:
+  - WALL-E earns 2581.45€/month, paid between the 26th and the 29th, i.e. **63.91%** of the household income → **2080.82€/month**
+  - EVE earns 1457.79€/month — a 1256€ salary from SOCIETE LAMBDA paid between the 2nd and the 5th, plus her allowances — i.e. **36.09%** → **1175.08€/month**
+- Because every expense sits on the joint account, his own account only shows his salary, a 5500€ personal loan paid out and immediately transferred away, and his monthly contribution
+- Comfortable personal account, while the joint account runs overdrawn for most of the period
+
+## EVE
+
+**Language**: French 🇫🇷
+
+| Format                       | Link                                                                                                                                |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/eve.json)                                      |
+| Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/eve.json)                 |
+| Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/eve.json) |
+
+**Description**:
+
+- Part of the **WALL-E household**, the second couple of the dataset. It is built from the [Pierre Curie](#pierre-curie) and [Marie Curie](#marie-curie) data, but it pools money the other way round, so the two households can be compared side by side:
+  - the **Curie** couple pool their **income** on the joint account, which then funds each personal account;
+  - the **WALL-E** couple keep their **income on their own account**, and the joint account carries **every single expense**.
+- **Two accounts**: her own current account, plus the household joint account (`FR7630003401180007778889941`, same IBAN in both personae so the two connections can be reconciled)
+- The joint account holds **all of the household spending**: rent, energy, home insurance, broadband, groceries, consumer credits, subscriptions, card payments, and the rejections and fees that go with them. It receives nothing but the two contributions below.
+- Each personal account is funded by its owner's income only, and pays a **monthly standing order** into the joint account. The two standing orders add up to the average monthly spending of the joint account (3255.90€ over the period), split **pro rata of each income**:
+  - WALL-E earns 2581.45€/month, paid between the 26th and the 29th, i.e. **63.91%** of the household income → **2080.82€/month**
+  - EVE earns 1457.79€/month — a 1256€ salary from SOCIETE LAMBDA paid between the 2nd and the 5th, plus her allowances — i.e. **36.09%** → **1175.08€/month**
+- Because every expense sits on the joint account, her own account only shows her salary, her allowances and her monthly contribution
+- Her income is the smaller of the two, so her contribution is the smaller one
+
 ## Account type not supported
 
 **Language**: French 🇫🇷
@@ -257,8 +344,8 @@ This error occurs when there is not at least one account with an ownership diffe
 
 **Language**: French 🇫🇷
 
-| Format                       | Link                                                                                                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Format                       | Link                                                                                                                                                |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Algoan                       | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/samples/fr/societe_lambda_auto.json)                                      |
 | Budget Insight               | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/budget_insight_v2_0/fr/societe_lambda_auto.json)                 |
 | Linxo Connect Direct Account | [🔗](https://raw.githubusercontent.com/algoan/fake-open-banking-data/main/raw-data/linxo_connect_direct_account_api_v3/fr/societe_lambda_auto.json) |

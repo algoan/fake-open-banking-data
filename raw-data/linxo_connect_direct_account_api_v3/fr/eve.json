@@ -1,0 +1,1479 @@
+{
+  "format": "LINXO_CONNECT_DIRECT_ACCOUNT_API_V3",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "201.79"
+              },
+              "booking_date": "2026-06-22T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "StUjzj1AXxljeEK"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1256"
+              },
+              "booking_date": "2026-07-03T12:00:00.000Z",
+              "remittance_information": [
+                "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-1"
+              ],
+              "id": "SlFYGSvGXZUv0j4"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-1175.08"
+              },
+              "booking_date": "2026-07-15T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT"
+              ],
+              "id": "uFoo2Xc6IzmhNYw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "201.79"
+              },
+              "booking_date": "2026-07-23T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "xId40h88G2XWXHf"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1256"
+              },
+              "booking_date": "2026-08-04T12:00:00.000Z",
+              "remittance_information": [
+                "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-2"
+              ],
+              "id": "Pm1Z1UKwbR4QPlq"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-1175.08"
+              },
+              "booking_date": "2026-08-15T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT"
+              ],
+              "id": "zGIRUBEuEpflsgb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "201.79"
+              },
+              "booking_date": "2026-08-23T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EN VOTRE FAVEUR CAF"
+              ],
+              "id": "NnHqRK7XLXsvmzz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1256"
+              },
+              "booking_date": "2026-09-03T12:00:00.000Z",
+              "remittance_information": [
+                "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-3"
+              ],
+              "id": "oWMTKoqNLmpaD39"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-1175.08"
+              },
+              "booking_date": "2026-09-15T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT PERMANENT PARTICIPATION COMPTE JOINT"
+              ],
+              "id": "SeH0K2i6O92I5D0"
+            }
+          ],
+          "name": "Compte Courant 01",
+          "balances": [
+            {
+              "balance_amount": {
+                "currency": "EUR",
+                "amount": "1298.13"
+              },
+              "reference_date": "2026-09-18T12:00:00.000Z"
+            }
+          ],
+          "currency": "EUR",
+          "type": "CASH_ACCOUNT",
+          "usage": "PRIVATE",
+          "account_id": "LXK5q8hJB2avhko",
+          "iban": "FR7630003401180004445556624",
+          "bic": "BNPAFRPPXXX"
+        },
+        {
+          "transactions": [
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-101.67"
+              },
+              "booking_date": "2026-06-22T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT WALL-E PRELEVEMENT CARTE ZERO FAST3280420323"
+              ],
+              "id": "iOze41Mdk0JNxWD"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-150"
+              },
+              "booking_date": "2026-06-22T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA WALL-E ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106"
+              ],
+              "id": "8Dh6HPoTD3XsI5d"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-75.2"
+              },
+              "booking_date": "2026-06-23T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel"
+              ],
+              "id": "VwWUBBNldJVJDH2"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-399.89"
+              },
+              "booking_date": "2026-06-23T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN"
+              ],
+              "id": "LNlijLc6LCNGaZ9"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-879.78"
+              },
+              "booking_date": "2026-06-23T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EMIS AG HOMALONE LOYER"
+              ],
+              "id": "lRWS270Syqf2XlR"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-67.2"
+              },
+              "booking_date": "2026-06-25T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ADVANZIA BANK S.A REF : efefefefef 3c6 PRELEVEMENT CARTE ZERO FUBL"
+              ],
+              "id": "sTRTFzAnxGgahsn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-77.99"
+              },
+              "booking_date": "2026-06-25T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131"
+              ],
+              "id": "a4YbiceulSBVO2W"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-4.99"
+              },
+              "booking_date": "2026-06-26T12:00:00.000Z",
+              "remittance_information": [
+                "Cotisation Compte A Composer (rem = 20%)"
+              ],
+              "id": "R7gh5vbvYnsPHPl"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-343.45"
+              },
+              "booking_date": "2026-06-26T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023"
+              ],
+              "id": "Q3Ipirj2VRVPY8F"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-13.93"
+              },
+              "booking_date": "2026-06-26T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "8uKaFlJV4q89qEn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-12.32"
+              },
+              "booking_date": "2026-06-27T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB MCD"
+              ],
+              "id": "HGiYB7azYxmDDWf"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.32"
+              },
+              "booking_date": "2026-06-27T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PRIMARK"
+              ],
+              "id": "K9LzCpkQIGgQtMn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-32.5"
+              },
+              "booking_date": "2026-06-27T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV NAVIGO PASS"
+              ],
+              "id": "5Q2ou0Nk5er9qo5"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.99"
+              },
+              "booking_date": "2026-06-27T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV BASIC FIT"
+              ],
+              "id": "cbXbihqUz3FL0II"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.33"
+              },
+              "booking_date": "2026-06-27T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB LIDL"
+              ],
+              "id": "LkMuo9k1tzsGmYy"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2026-06-27T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV FREE HAUT DEBIT"
+              ],
+              "id": "uKsQcwVIWlTx1Qk"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "2080.82"
+              },
+              "booking_date": "2026-06-27T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION"
+              ],
+              "id": "CmFDqUbAghGUvQP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-126.99"
+              },
+              "booking_date": "2026-06-30T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE"
+              ],
+              "id": "WlbLoGD3EE2GzOF"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.99"
+              },
+              "booking_date": "2026-06-30T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "Ekhh2EgM0Kkz3y2"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-06-30T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS"
+              ],
+              "id": "EHo1kxZr5guo1Ul"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2026-07-01T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA FREE MOBILE"
+              ],
+              "id": "p4ycQyVpXHDA5KI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-10.65"
+              },
+              "booking_date": "2026-07-02T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX"
+              ],
+              "id": "pdY3UVgEOA4BJ9g"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.24"
+              },
+              "booking_date": "2026-07-02T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PHARMACIE PARIS XX"
+              ],
+              "id": "f6S48N6tmr2xOON"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-5.49"
+              },
+              "booking_date": "2026-07-07T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 APPLE.COM/BILL 5,49 EUR IRLANDE COMMERCE ELECTRONIQUE"
+              ],
+              "id": "ItvdMHRqFEratqL"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-10.44"
+              },
+              "booking_date": "2026-07-09T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "4Dy5YkbaPMvAPEF"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.99"
+              },
+              "booking_date": "2026-07-10T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE"
+              ],
+              "id": "aa5oVhQgkAa2vs3"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.99"
+              },
+              "booking_date": "2026-07-10T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx685"
+              ],
+              "id": "IKuXKVYJ6lhioRU"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.89"
+              },
+              "booking_date": "2026-07-10T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB CONTRASTE"
+              ],
+              "id": "fUJASAPU7XWqrYG"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-14"
+              },
+              "booking_date": "2026-07-11T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "iAOZbGmif5iaaGz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-43.46"
+              },
+              "booking_date": "2026-07-12T12:00:00.000Z",
+              "remittance_information": [
+                "ECHEANCE COFIDIS PRET XXXXXXX"
+              ],
+              "id": "tCQ5UowIhtIMXbX"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2026-07-12T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE NETFLIX.COM"
+              ],
+              "id": "8NqrKNwtBDLlhJM"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20.27"
+              },
+              "booking_date": "2026-07-13T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "Fhz0hQfAhY55ZEE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42.17"
+              },
+              "booking_date": "2026-07-13T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "HpNsxBT5Z5BjAc6"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.4"
+              },
+              "booking_date": "2026-07-14T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "Kvy5zAIYIqrHdv5"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1175.08"
+              },
+              "booking_date": "2026-07-15T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT RECU DU COMPTE EVE PARTICIPATION"
+              ],
+              "id": "fJszdtXOB9ezJpt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-227.89"
+              },
+              "booking_date": "2026-07-17T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131"
+              ],
+              "id": "UAATjFZ7GeDiiVL"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-112.32"
+              },
+              "booking_date": "2026-07-20T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 114"
+              ],
+              "id": "IrQgocFKtMjttsQ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30"
+              },
+              "booking_date": "2026-07-21T12:00:00.000Z",
+              "remittance_information": [
+                "CB RETRAIT"
+              ],
+              "id": "9wTpeyaSZjclKkd"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-101.67"
+              },
+              "booking_date": "2026-07-23T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT WALL-E PRELEVEMENT CARTE ZERO FAST3280420323"
+              ],
+              "id": "P6ZPalU804VLGvD"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-356.99"
+              },
+              "booking_date": "2026-07-23T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE FNAC"
+              ],
+              "id": "ASZD9D5MYcMp8MX"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-399.89"
+              },
+              "booking_date": "2026-07-23T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN"
+              ],
+              "id": "JrSNUHLFpAWz9pr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-150"
+              },
+              "booking_date": "2026-07-23T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA WALL-E ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106"
+              ],
+              "id": "iyURbHhlBZ3B8o1"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-75.2"
+              },
+              "booking_date": "2026-07-24T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel"
+              ],
+              "id": "JPAWMsjlLHPPJ1z"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-879.78"
+              },
+              "booking_date": "2026-07-24T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EMIS AG HOMALONE LOYER"
+              ],
+              "id": "1HaDgN4pRHskhfF"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.32"
+              },
+              "booking_date": "2026-07-25T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX"
+              ],
+              "id": "LFjXx2hhpX4vY4H"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-25.93"
+              },
+              "booking_date": "2026-07-25T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "yMbGin6YisuCYAL"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16"
+              },
+              "booking_date": "2026-07-26T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "fgtxY5kXC6EOTYf"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.99"
+              },
+              "booking_date": "2026-07-26T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX"
+              ],
+              "id": "UWXxNHBFeRLUOSc"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-4.99"
+              },
+              "booking_date": "2026-07-27T12:00:00.000Z",
+              "remittance_information": [
+                "Cotisation Compte A Composer (rem = 20%)"
+              ],
+              "id": "7je6bD38ephVeCE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-343.45"
+              },
+              "booking_date": "2026-07-27T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023"
+              ],
+              "id": "f48W0wP0QE6e0Sv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "343.45"
+              },
+              "booking_date": "2026-07-27T12:00:00.000Z",
+              "remittance_information": [
+                "REJET PRLV SEPA CREDIPAR"
+              ],
+              "id": "r4dwcG9ur1p99Jz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-29.12"
+              },
+              "booking_date": "2026-07-28T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ADVANZIA BANK S.A REF : efefefefef 3c6 PRELEVEMENT CARTE ZERO FUBL"
+              ],
+              "id": "2yF639d8Q9TFWHu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.99"
+              },
+              "booking_date": "2026-07-28T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV BASIC FIT"
+              ],
+              "id": "mF0qzOTIzAi4la2"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-32.5"
+              },
+              "booking_date": "2026-07-28T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV PASS NAVIGO"
+              ],
+              "id": "vqHDkk7ae8k0iOt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2026-07-28T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV FREE HAUT DEBIT"
+              ],
+              "id": "hwQwn1ITfmCn1Ct"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "2080.82"
+              },
+              "booking_date": "2026-07-29T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION"
+              ],
+              "id": "5G5ctIIuf3i6iNN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-126.99"
+              },
+              "booking_date": "2026-07-31T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE"
+              ],
+              "id": "9aBj59sw7cplMK0"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-07-31T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS"
+              ],
+              "id": "EUdQ5FC77MwJoiC"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2026-08-01T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA FREE MOBILE"
+              ],
+              "id": "JURRc9gyxkodrqf"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30.65"
+              },
+              "booking_date": "2026-08-02T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX"
+              ],
+              "id": "nxjIjxPqkEXeixM"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-57.99"
+              },
+              "booking_date": "2026-08-02T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131"
+              ],
+              "id": "G8fvdpFGxvN9er8"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.24"
+              },
+              "booking_date": "2026-08-04T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB PHARMACIE PARIS XX"
+              ],
+              "id": "wKvobEh8xoaJoXJ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-11.46"
+              },
+              "booking_date": "2026-08-09T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "AO7nnmG0UWUHAZe"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.99"
+              },
+              "booking_date": "2026-08-10T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE"
+              ],
+              "id": "RJL0djl3ntEq2NZ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "9.99"
+              },
+              "booking_date": "2026-08-10T12:00:00.000Z",
+              "remittance_information": [
+                "REJET PRLV SPOTIFY"
+              ],
+              "id": "P7BPsg7gdtSN5K7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.89"
+              },
+              "booking_date": "2026-08-10T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB LEADER PRICE"
+              ],
+              "id": "2galOO2LT3R40R5"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.99"
+              },
+              "booking_date": "2026-08-11T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx686"
+              ],
+              "id": "ccF7YB61NYz1Suj"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-21"
+              },
+              "booking_date": "2026-08-11T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "wvbFmjGNfHxAOGu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-43.46"
+              },
+              "booking_date": "2026-08-12T12:00:00.000Z",
+              "remittance_information": [
+                "ECHEANCE COFIDIS PRET XXXXXXX"
+              ],
+              "id": "sHZu5FeQnT81g76"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2026-08-12T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE NETFLIX.COM"
+              ],
+              "id": "Hw47PE7DbLf0Yol"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-11.3"
+              },
+              "booking_date": "2026-08-12T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE LIDL"
+              ],
+              "id": "SvQDZUclKOeeruu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-25.26"
+              },
+              "booking_date": "2026-08-13T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX"
+              ],
+              "id": "dbtcaKFjd1QPqUQ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42.17"
+              },
+              "booking_date": "2026-08-13T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "oXxyy5A9ZkE6zYc"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.4"
+              },
+              "booking_date": "2026-08-14T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "owyDRWbTfDadgCN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-270.89"
+              },
+              "booking_date": "2026-08-14T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131"
+              ],
+              "id": "m1uz4mqTO295BTH"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1175.08"
+              },
+              "booking_date": "2026-08-15T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT RECU DU COMPTE EVE PARTICIPATION"
+              ],
+              "id": "H67rtRKUY6gv6wb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-320"
+              },
+              "booking_date": "2026-08-19T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT ALICE AIRBNB"
+              ],
+              "id": "6J53bYKKx7ofp95"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-343.45"
+              },
+              "booking_date": "2026-08-20T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023 REPRESENTATION"
+              ],
+              "id": "aD4jUwO6ajGsYAM"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-112.32"
+              },
+              "booking_date": "2026-08-20T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 115"
+              ],
+              "id": "9REiu0pCts7My9N"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20.18"
+              },
+              "booking_date": "2026-08-20T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB LEADER PRICE"
+              ],
+              "id": "4rIasUejZXQrgCD"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-34.89"
+              },
+              "booking_date": "2026-08-22T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE ADVANZIA BANK S.A REF : efefefefef 3c6 PRELEVEMENT CARTE ZERO FUBL"
+              ],
+              "id": "R4Qy7HosmeTTXZt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-123.02"
+              },
+              "booking_date": "2026-08-23T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT EUROPEEN 0907476161 DE: PRET SOGEFINANC.EXPRESSO-SOGEFINANC EMENT ID: FR94ZZZ412211"
+              ],
+              "id": "NikEtDCepqrAjQz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-101.67"
+              },
+              "booking_date": "2026-08-23T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT WALL-E PRELEVEMENT CARTE ZERO FAST3280420323"
+              ],
+              "id": "sRc6w3781U3z9LI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-150"
+              },
+              "booking_date": "2026-08-23T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA WALL-E ECH ID EMETTEUR/LU66ZZZ000023 MDT/3BEAC43A69zeeeeAC6 REF/1B0F18BC115A4788DA4 LIB/PRELEVEMENT CARTE ZERO FSSI043def106"
+              ],
+              "id": "slpXtO2cXIkwBye"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-08-24T12:00:00.000Z",
+              "remittance_information": [
+                "F FRAIS PRLV IMP 543,45EUR 20 PROVISION INSUFFISANTE"
+              ],
+              "id": "Mrgpm01toosy0Dz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-08-24T12:00:00.000Z",
+              "remittance_information": [
+                "F FRAIS PRLV IMP 9,99EUR 20 PROVISION INSUFFISANTE"
+              ],
+              "id": "ZZZjReK313eQdwh"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-89.89"
+              },
+              "booking_date": "2026-08-24T12:00:00.000Z",
+              "remittance_information": [
+                "F INT/FRAIS TX DEBIT 15,81%/AN"
+              ],
+              "id": "a102lRguSYGXsoB"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-75.2"
+              },
+              "booking_date": "2026-08-24T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE NAVIGO ANNUEL - G COMUTITRES REF : 3/262663-1/92921 Navigo Annuel"
+              ],
+              "id": "y6sr3J0TMg55WIS"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-399.89"
+              },
+              "booking_date": "2026-08-24T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA CREDIPAR Motif : 101M3323222 32 VOTRE IDEN"
+              ],
+              "id": "siUMtXMkMkcSLdE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-879.78"
+              },
+              "booking_date": "2026-08-24T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT EMIS AG HOMALONE LOYER"
+              ],
+              "id": "40CqjAzDrzh1paB"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.83"
+              },
+              "booking_date": "2026-08-25T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB FROG"
+              ],
+              "id": "qiZh3tlje3wKoeW"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-21.36"
+              },
+              "booking_date": "2026-08-25T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 21,36 CARTE NO XXX"
+              ],
+              "id": "H14fZQ8qTSSegfG"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2026-08-26T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX"
+              ],
+              "id": "PGk3JtB9NURDFyw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20.56"
+              },
+              "booking_date": "2026-08-26T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE AUCHAN"
+              ],
+              "id": "8QhxZbcBAYKy8Xl"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-4.99"
+              },
+              "booking_date": "2026-08-27T12:00:00.000Z",
+              "remittance_information": [
+                "Cotisation Compte A Composer (rem = 20%)"
+              ],
+              "id": "d0MQMqnGz6z1zdP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-343.45"
+              },
+              "booking_date": "2026-08-27T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA CREDIPAR 10600220302032 32 VOTRE IDE FR0004123032023"
+              ],
+              "id": "j3EHmCYNNTZPwIu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-13.79"
+              },
+              "booking_date": "2026-08-27T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131"
+              ],
+              "id": "qUyzg24FnU7SrZv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.99"
+              },
+              "booking_date": "2026-08-28T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV BASIC FIT"
+              ],
+              "id": "vlE4kom0w9FBufk"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-32.5"
+              },
+              "booking_date": "2026-08-28T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV PASS NAVIGO"
+              ],
+              "id": "eO8UeywzNubDbiA"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2026-08-28T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV FREE HAUT DEBIT"
+              ],
+              "id": "d8dhXAW4crKwWrI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "2080.82"
+              },
+              "booking_date": "2026-08-28T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT RECU DU COMPTE WALL-E PARTICIPATION"
+              ],
+              "id": "cu5nhzX6eCwwX9N"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-126.99"
+              },
+              "booking_date": "2026-08-31T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 3-4X CB ONEY. COMMERCE ELECTRONIQUE"
+              ],
+              "id": "DZDyoeC66pIKCUS"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-08-31T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS"
+              ],
+              "id": "wauW2rFP5YJb1mq"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2026-09-01T12:00:00.000Z",
+              "remittance_information": [
+                "PRLV SEPA FREE MOBILE"
+              ],
+              "id": "0kbwxDHgrGzWL1G"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-22.65"
+              },
+              "booking_date": "2026-09-02T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "eGLjb90hah5MPuM"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.24"
+              },
+              "booking_date": "2026-09-04T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB FNAC"
+              ],
+              "id": "RiqRoOU3ovMFFgb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.99"
+              },
+              "booking_date": "2026-09-09T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE BOUYGUES TELECOM YGUES TELECOM REF : PAGP0102EAAE 06xxxxx687"
+              ],
+              "id": "7G8sWmMULkt1ME4"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-49.96"
+              },
+              "booking_date": "2026-09-09T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AMAZON"
+              ],
+              "id": "9Kav5KoYSxItg3T"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.99"
+              },
+              "booking_date": "2026-09-10T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 SPOTIFY FRANCE COMMERCE ELECTRONIQUE"
+              ],
+              "id": "Mcb0fFi6JBKu4tP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20.89"
+              },
+              "booking_date": "2026-09-10T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE CB LEADER PRICE"
+              ],
+              "id": "ENDuwBXRYi0eP9W"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.3"
+              },
+              "booking_date": "2026-09-11T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 18,3 CARTE NO XXX"
+              ],
+              "id": "itgY8cvNNHESshX"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-43.46"
+              },
+              "booking_date": "2026-09-12T12:00:00.000Z",
+              "remittance_information": [
+                "ECHEANCE COFIDIS PRET XXXXXXX"
+              ],
+              "id": "9c3z2jSWBeIG39r"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-8.99"
+              },
+              "booking_date": "2026-09-12T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT PAR CARTE NETFLIX.COM"
+              ],
+              "id": "E5zw1xo02dZZcqL"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-3.72"
+              },
+              "booking_date": "2026-09-13T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 APPLE.COM/BILL 3,79 EUR IRLANDE COMMERCE ELECTRONIQUE"
+              ],
+              "id": "689I6UsRfI6n5dw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.26"
+              },
+              "booking_date": "2026-09-13T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB UBER EATS EUR 19,26 CARTE NO XXX"
+              ],
+              "id": "ZjxCtKpDPXuhwcT"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-16.17"
+              },
+              "booking_date": "2026-09-13T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB"
+              ],
+              "id": "glY1GCHcGEsiiSV"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.99"
+              },
+              "booking_date": "2026-09-14T12:00:00.000Z",
+              "remittance_information": [
+                "CARTE X2518 PIZZA"
+              ],
+              "id": "yPwd7AY904kQJWf"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1175.08"
+              },
+              "booking_date": "2026-09-15T12:00:00.000Z",
+              "remittance_information": [
+                "VIREMENT RECU DU COMPTE EVE PARTICIPATION"
+              ],
+              "id": "erOoFtNoLeORDel"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-112.32"
+              },
+              "booking_date": "2026-09-17T12:00:00.000Z",
+              "remittance_information": [
+                "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 116"
+              ],
+              "id": "4YkfpdESIPgamU9"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-62.9"
+              },
+              "booking_date": "2026-09-18T12:00:00.000Z",
+              "remittance_information": [
+                "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131"
+              ],
+              "id": "RwD1EON5gPmjcss"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.4"
+              },
+              "booking_date": "2026-09-18T12:00:00.000Z",
+              "remittance_information": [
+                "ACHAT CB AUCHAN"
+              ],
+              "id": "h8QT3NxTPoM1CBY"
+            }
+          ],
+          "name": "Compte Joint 01",
+          "balances": [
+            {
+              "balance_amount": {
+                "currency": "EUR",
+                "amount": "-149.99"
+              },
+              "reference_date": "2026-09-18T12:00:00.000Z"
+            }
+          ],
+          "currency": "EUR",
+          "type": "CASH_ACCOUNT",
+          "usage": "PRIVATE",
+          "account_id": "0etqGBe9YTuQTfS",
+          "iban": "FR7630003401180007778889941",
+          "bic": "BNPAFRPPXXX"
+        }
+      ]
+    }
+  ]
+}
