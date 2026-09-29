@@ -3,7 +3,7 @@
     {
       "name": "Compte Courant 01",
       "balance": -200.05,
-      "balanceDate": "2026-09-18T12:00:00.000Z",
+      "balanceDate": "2026-09-29T12:00:00.000Z",
       "owners": [
         {
           "name": "MARIE CURIE"
@@ -24,7 +24,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-26T12:00:00.000Z"
+            "debitedAt": "2026-07-07T12:00:00.000Z"
           },
           "description": "VIREMENT RECU DU COMPTE JOINT CURIE",
           "amount": 400
@@ -32,7 +32,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-27T12:00:00.000Z"
+            "debitedAt": "2026-07-08T12:00:00.000Z"
           },
           "description": "ACHAT CB MCD",
           "amount": -12.32
@@ -40,7 +40,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-27T12:00:00.000Z"
+            "debitedAt": "2026-07-08T12:00:00.000Z"
           },
           "description": "ACHAT CB PRIMARK",
           "amount": -28.32
@@ -48,7 +48,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-27T12:00:00.000Z"
+            "debitedAt": "2026-07-08T12:00:00.000Z"
           },
           "description": "PRLV NAVIGO PASS",
           "amount": -32.5
@@ -56,58 +56,10 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-27T12:00:00.000Z"
+            "debitedAt": "2026-07-08T12:00:00.000Z"
           },
           "description": "PRLV BASIC FIT",
           "amount": -24.99
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-06-30T12:00:00.000Z"
-          },
-          "description": "ACHAT CB",
-          "amount": -9.99
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-01T12:00:00.000Z"
-          },
-          "description": "PRLV SEPA FREE MOBILE",
-          "amount": -8.99
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-02T12:00:00.000Z"
-          },
-          "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-          "amount": -10.65
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-02T12:00:00.000Z"
-          },
-          "description": "ACHAT CB PHARMACIE PARIS XX",
-          "amount": -15.24
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-09T12:00:00.000Z"
-          },
-          "description": "ACHAT CB AMAZON",
-          "amount": -10.44
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-10T12:00:00.000Z"
-          },
-          "description": "CARTE CB CONTRASTE",
-          "amount": -16.89
         },
         {
           "currency": "EUR",
@@ -115,22 +67,14 @@
             "debitedAt": "2026-07-11T12:00:00.000Z"
           },
           "description": "ACHAT CB",
-          "amount": -14
+          "amount": -9.99
         },
         {
           "currency": "EUR",
           "dates": {
             "debitedAt": "2026-07-12T12:00:00.000Z"
           },
-          "description": "ECHEANCE COFIDIS PRET XXXXXXX",
-          "amount": -43.46
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-12T12:00:00.000Z"
-          },
-          "description": "PAIEMENT PAR CARTE NETFLIX.COM",
+          "description": "PRLV SEPA FREE MOBILE",
           "amount": -8.99
         },
         {
@@ -138,93 +82,13 @@
           "dates": {
             "debitedAt": "2026-07-13T12:00:00.000Z"
           },
-          "description": "ACHAT CB",
-          "amount": -20.27
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-14T12:00:00.000Z"
-          },
-          "description": "ACHAT CB",
-          "amount": -16.4
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-21T12:00:00.000Z"
-          },
-          "description": "CB RETRAIT",
-          "amount": -30
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-25T12:00:00.000Z"
-          },
-          "description": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
-          "amount": -28.32
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-25T12:00:00.000Z"
-          },
-          "description": "VIREMENT RECU DU COMPTE JOINT CURIE",
-          "amount": 400
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-26T12:00:00.000Z"
-          },
-          "description": "ACHAT CB AMAZON",
-          "amount": -16
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-26T12:00:00.000Z"
-          },
           "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-          "amount": -9.99
+          "amount": -10.65
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-28T12:00:00.000Z"
-          },
-          "description": "PRLV BASIC FIT",
-          "amount": -24.99
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-07-28T12:00:00.000Z"
-          },
-          "description": "PRLV PASS NAVIGO",
-          "amount": -32.5
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-01T12:00:00.000Z"
-          },
-          "description": "PRLV SEPA FREE MOBILE",
-          "amount": -8.99
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-02T12:00:00.000Z"
-          },
-          "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-          "amount": -30.65
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-04T12:00:00.000Z"
+            "debitedAt": "2026-07-13T12:00:00.000Z"
           },
           "description": "ACHAT CB PHARMACIE PARIS XX",
           "amount": -15.24
@@ -232,23 +96,31 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-09T12:00:00.000Z"
+            "debitedAt": "2026-07-20T12:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
-          "amount": -11.46
+          "amount": -10.44
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-11T12:00:00.000Z"
+            "debitedAt": "2026-07-21T12:00:00.000Z"
+          },
+          "description": "CARTE CB CONTRASTE",
+          "amount": -16.89
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-07-22T12:00:00.000Z"
           },
           "description": "ACHAT CB",
-          "amount": -21
+          "amount": -14
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-12T12:00:00.000Z"
+            "debitedAt": "2026-07-23T12:00:00.000Z"
           },
           "description": "ECHEANCE COFIDIS PRET XXXXXXX",
           "amount": -43.46
@@ -256,7 +128,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-12T12:00:00.000Z"
+            "debitedAt": "2026-07-23T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE NETFLIX.COM",
           "amount": -8.99
@@ -264,39 +136,39 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-13T12:00:00.000Z"
-          },
-          "description": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
-          "amount": -25.26
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-08-14T12:00:00.000Z"
+            "debitedAt": "2026-07-24T12:00:00.000Z"
           },
           "description": "ACHAT CB",
-          "amount": -18.4
+          "amount": -20.27
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-25T12:00:00.000Z"
+            "debitedAt": "2026-07-25T12:00:00.000Z"
           },
-          "description": "ACHAT CB FROG",
-          "amount": -9.83
+          "description": "ACHAT CB",
+          "amount": -16.4
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-25T12:00:00.000Z"
+            "debitedAt": "2026-08-01T12:00:00.000Z"
           },
-          "description": "ACHAT CB UBER EATS EUR 21,36 CARTE NO XXX",
-          "amount": -21.36
+          "description": "CB RETRAIT",
+          "amount": -30
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-25T12:00:00.000Z"
+            "debitedAt": "2026-08-05T12:00:00.000Z"
+          },
+          "description": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
+          "amount": -28.32
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-05T12:00:00.000Z"
           },
           "description": "VIREMENT RECU DU COMPTE JOINT CURIE",
           "amount": 400
@@ -304,15 +176,23 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-26T12:00:00.000Z"
+            "debitedAt": "2026-08-06T12:00:00.000Z"
           },
-          "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
-          "amount": -19.99
+          "description": "ACHAT CB AMAZON",
+          "amount": -16
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-28T12:00:00.000Z"
+            "debitedAt": "2026-08-06T12:00:00.000Z"
+          },
+          "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
+          "amount": -9.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-08T12:00:00.000Z"
           },
           "description": "PRLV BASIC FIT",
           "amount": -24.99
@@ -320,7 +200,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-28T12:00:00.000Z"
+            "debitedAt": "2026-08-08T12:00:00.000Z"
           },
           "description": "PRLV PASS NAVIGO",
           "amount": -32.5
@@ -328,7 +208,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-01T12:00:00.000Z"
+            "debitedAt": "2026-08-12T12:00:00.000Z"
           },
           "description": "PRLV SEPA FREE MOBILE",
           "amount": -8.99
@@ -336,39 +216,39 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-02T12:00:00.000Z"
+            "debitedAt": "2026-08-13T12:00:00.000Z"
+          },
+          "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
+          "amount": -30.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-15T12:00:00.000Z"
+          },
+          "description": "ACHAT CB PHARMACIE PARIS XX",
+          "amount": -15.24
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-20T12:00:00.000Z"
           },
           "description": "ACHAT CB AMAZON",
-          "amount": -22.65
+          "amount": -11.46
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-04T12:00:00.000Z"
+            "debitedAt": "2026-08-22T12:00:00.000Z"
           },
-          "description": "ACHAT CB FNAC",
-          "amount": -18.24
+          "description": "ACHAT CB",
+          "amount": -21
         },
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-09T12:00:00.000Z"
-          },
-          "description": "ACHAT CB AMAZON",
-          "amount": -49.96
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-09-11T12:00:00.000Z"
-          },
-          "description": "ACHAT CB UBER EATS EUR 18,3 CARTE NO XXX",
-          "amount": -18.3
-        },
-        {
-          "currency": "EUR",
-          "dates": {
-            "debitedAt": "2026-09-12T12:00:00.000Z"
+            "debitedAt": "2026-08-23T12:00:00.000Z"
           },
           "description": "ECHEANCE COFIDIS PRET XXXXXXX",
           "amount": -43.46
@@ -376,7 +256,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-12T12:00:00.000Z"
+            "debitedAt": "2026-08-23T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE NETFLIX.COM",
           "amount": -8.99
@@ -384,7 +264,127 @@
         {
           "currency": "EUR",
           "dates": {
+            "debitedAt": "2026-08-24T12:00:00.000Z"
+          },
+          "description": "ACHAT CB UBER EATS EUR 28,32 CARTE NO XXX",
+          "amount": -25.26
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-08-25T12:00:00.000Z"
+          },
+          "description": "ACHAT CB",
+          "amount": -18.4
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-05T12:00:00.000Z"
+          },
+          "description": "ACHAT CB FROG",
+          "amount": -9.83
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-05T12:00:00.000Z"
+          },
+          "description": "ACHAT CB UBER EATS EUR 21,36 CARTE NO XXX",
+          "amount": -21.36
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-05T12:00:00.000Z"
+          },
+          "description": "VIREMENT RECU DU COMPTE JOINT CURIE",
+          "amount": 400
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-06T12:00:00.000Z"
+          },
+          "description": "ACHAT CB DECATHLON XXXX CARTE NUMERO XXX",
+          "amount": -19.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-08T12:00:00.000Z"
+          },
+          "description": "PRLV BASIC FIT",
+          "amount": -24.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-08T12:00:00.000Z"
+          },
+          "description": "PRLV PASS NAVIGO",
+          "amount": -32.5
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-12T12:00:00.000Z"
+          },
+          "description": "PRLV SEPA FREE MOBILE",
+          "amount": -8.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
             "debitedAt": "2026-09-13T12:00:00.000Z"
+          },
+          "description": "ACHAT CB AMAZON",
+          "amount": -22.65
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-15T12:00:00.000Z"
+          },
+          "description": "ACHAT CB FNAC",
+          "amount": -18.24
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-20T12:00:00.000Z"
+          },
+          "description": "ACHAT CB AMAZON",
+          "amount": -49.96
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-22T12:00:00.000Z"
+          },
+          "description": "ACHAT CB UBER EATS EUR 18,3 CARTE NO XXX",
+          "amount": -18.3
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-23T12:00:00.000Z"
+          },
+          "description": "ECHEANCE COFIDIS PRET XXXXXXX",
+          "amount": -43.46
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-23T12:00:00.000Z"
+          },
+          "description": "PAIEMENT PAR CARTE NETFLIX.COM",
+          "amount": -8.99
+        },
+        {
+          "currency": "EUR",
+          "dates": {
+            "debitedAt": "2026-09-24T12:00:00.000Z"
           },
           "description": "ACHAT CB UBER EATS EUR 19,26 CARTE NO XXX",
           "amount": -19.26
@@ -392,7 +392,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-13T12:00:00.000Z"
+            "debitedAt": "2026-09-24T12:00:00.000Z"
           },
           "description": "ACHAT CB",
           "amount": -16.17
@@ -402,7 +402,7 @@
     {
       "name": "Compte Joint 01",
       "balance": 5298.25,
-      "balanceDate": "2026-09-18T12:00:00.000Z",
+      "balanceDate": "2026-09-29T12:00:00.000Z",
       "owners": [
         {
           "name": "MARIE CURIE"
@@ -426,7 +426,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-22T12:00:00.000Z"
+            "debitedAt": "2026-07-03T12:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 201.79
@@ -434,7 +434,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-23T12:00:00.000Z"
+            "debitedAt": "2026-07-04T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS AG HOMALONE LOYER",
           "amount": -879.78
@@ -442,7 +442,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-25T12:00:00.000Z"
+            "debitedAt": "2026-07-06T12:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -77.99
@@ -450,7 +450,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-25T12:00:00.000Z"
+            "debitedAt": "2026-07-06T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS VERS COMPTE PIERRE CURIE",
           "amount": -900
@@ -458,7 +458,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-26T12:00:00.000Z"
+            "debitedAt": "2026-07-07T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -13.93
@@ -466,7 +466,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-26T12:00:00.000Z"
+            "debitedAt": "2026-07-07T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS VERS COMPTE MARIE CURIE",
           "amount": -400
@@ -474,7 +474,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-26T12:00:00.000Z"
+            "debitedAt": "2026-07-07T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-2",
           "amount": 2581.45
@@ -482,7 +482,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-27T12:00:00.000Z"
+            "debitedAt": "2026-07-08T12:00:00.000Z"
           },
           "description": "ACHAT CB LIDL",
           "amount": -16.33
@@ -490,7 +490,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-27T12:00:00.000Z"
+            "debitedAt": "2026-07-08T12:00:00.000Z"
           },
           "description": "PRLV FREE HAUT DEBIT",
           "amount": -19.99
@@ -498,7 +498,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-06-30T12:00:00.000Z"
+            "debitedAt": "2026-07-11T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
           "amount": -20
@@ -506,7 +506,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-03T12:00:00.000Z"
+            "debitedAt": "2026-07-14T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-1",
           "amount": 1256
@@ -514,7 +514,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-13T12:00:00.000Z"
+            "debitedAt": "2026-07-24T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -42.17
@@ -522,7 +522,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-17T12:00:00.000Z"
+            "debitedAt": "2026-07-28T12:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -227.89
@@ -530,7 +530,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-17T12:00:00.000Z"
+            "debitedAt": "2026-07-28T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS VERS COMPTE PIERRE CURIE",
           "amount": -1200
@@ -538,7 +538,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-20T12:00:00.000Z"
+            "debitedAt": "2026-07-31T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 114",
           "amount": -112.32
@@ -546,7 +546,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-23T12:00:00.000Z"
+            "debitedAt": "2026-08-03T12:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 201.79
@@ -554,7 +554,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-24T12:00:00.000Z"
+            "debitedAt": "2026-08-04T12:00:00.000Z"
           },
           "description": "VIREMENT RECU DU COMPTE PIERRE CURIE",
           "amount": 900
@@ -562,7 +562,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-24T12:00:00.000Z"
+            "debitedAt": "2026-08-04T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS AG HOMALONE LOYER",
           "amount": -879.78
@@ -570,7 +570,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-25T12:00:00.000Z"
+            "debitedAt": "2026-08-05T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -25.93
@@ -578,7 +578,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-25T12:00:00.000Z"
+            "debitedAt": "2026-08-05T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS VERS COMPTE MARIE CURIE",
           "amount": -400
@@ -586,7 +586,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-28T12:00:00.000Z"
+            "debitedAt": "2026-08-08T12:00:00.000Z"
           },
           "description": "PRLV FREE HAUT DEBIT",
           "amount": -19.99
@@ -594,7 +594,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-28T12:00:00.000Z"
+            "debitedAt": "2026-08-08T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-3",
           "amount": 2581.45
@@ -602,7 +602,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-07-31T12:00:00.000Z"
+            "debitedAt": "2026-08-11T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
           "amount": -20
@@ -610,7 +610,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-02T12:00:00.000Z"
+            "debitedAt": "2026-08-13T12:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -57.99
@@ -618,7 +618,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-04T12:00:00.000Z"
+            "debitedAt": "2026-08-15T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-2",
           "amount": 1256
@@ -626,7 +626,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-10T12:00:00.000Z"
+            "debitedAt": "2026-08-21T12:00:00.000Z"
           },
           "description": "CARTE CB LEADER PRICE",
           "amount": -28.89
@@ -634,7 +634,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-12T12:00:00.000Z"
+            "debitedAt": "2026-08-23T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE LIDL",
           "amount": -11.3
@@ -642,7 +642,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-13T12:00:00.000Z"
+            "debitedAt": "2026-08-24T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -42.17
@@ -650,7 +650,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-14T12:00:00.000Z"
+            "debitedAt": "2026-08-25T12:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -270.89
@@ -658,7 +658,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-18T12:00:00.000Z"
+            "debitedAt": "2026-08-29T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS VERS COMPTE PIERRE CURIE",
           "amount": -1000
@@ -666,7 +666,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-20T12:00:00.000Z"
+            "debitedAt": "2026-08-31T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 115",
           "amount": -112.32
@@ -674,7 +674,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-20T12:00:00.000Z"
+            "debitedAt": "2026-08-31T12:00:00.000Z"
           },
           "description": "ACHAT CB LEADER PRICE",
           "amount": -20.18
@@ -682,7 +682,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-23T12:00:00.000Z"
+            "debitedAt": "2026-09-03T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS VERS COMPTE PIERRE CURIE",
           "amount": -880
@@ -690,7 +690,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-23T12:00:00.000Z"
+            "debitedAt": "2026-09-03T12:00:00.000Z"
           },
           "description": "VIREMENT EN VOTRE FAVEUR CAF",
           "amount": 201.79
@@ -698,7 +698,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-24T12:00:00.000Z"
+            "debitedAt": "2026-09-04T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS AG HOMALONE LOYER",
           "amount": -879.78
@@ -706,7 +706,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-25T12:00:00.000Z"
+            "debitedAt": "2026-09-05T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS VERS COMPTE MARIE CURIE",
           "amount": -400
@@ -714,7 +714,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-26T12:00:00.000Z"
+            "debitedAt": "2026-09-06T12:00:00.000Z"
           },
           "description": "PAIEMENT PAR CARTE AUCHAN",
           "amount": -20.56
@@ -722,7 +722,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-27T12:00:00.000Z"
+            "debitedAt": "2026-09-07T12:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -13.79
@@ -730,7 +730,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-27T12:00:00.000Z"
+            "debitedAt": "2026-09-07T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE FNAC DARTY PARTICIPATIONS ET SERVICES /MOTIF SALAIRE /REF 106837-1",
           "amount": 2581.45
@@ -738,7 +738,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-28T12:00:00.000Z"
+            "debitedAt": "2026-09-08T12:00:00.000Z"
           },
           "description": "PRLV FREE HAUT DEBIT",
           "amount": -19.99
@@ -746,7 +746,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-08-31T12:00:00.000Z"
+            "debitedAt": "2026-09-11T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE LUKO COVER SAS REF : 2RQ0IPC LUKO COVER SAS",
           "amount": -20
@@ -754,7 +754,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-03T12:00:00.000Z"
+            "debitedAt": "2026-09-14T12:00:00.000Z"
           },
           "description": "VIR SEPA RECU /DE SOCIETE LAMBDA /MOTIF SALAIRE /REF 204518-3",
           "amount": 1256
@@ -762,7 +762,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-10T12:00:00.000Z"
+            "debitedAt": "2026-09-21T12:00:00.000Z"
           },
           "description": "CARTE CB LEADER PRICE",
           "amount": -20.89
@@ -770,7 +770,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-17T12:00:00.000Z"
+            "debitedAt": "2026-09-28T12:00:00.000Z"
           },
           "description": "PRELEVEMENT DE EDF CLIENTS PARTI iers REF : Z012201022 00203 1 S 116",
           "amount": -112.32
@@ -778,7 +778,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-17T12:00:00.000Z"
+            "debitedAt": "2026-09-28T12:00:00.000Z"
           },
           "description": "VIREMENT EMIS VERS COMPTE PIERRE CURIE",
           "amount": -1200
@@ -786,7 +786,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-18T12:00:00.000Z"
+            "debitedAt": "2026-09-29T12:00:00.000Z"
           },
           "description": "PAIEMENT CB PARIS CARREFOUR PARIS CARTE 122131",
           "amount": -62.9
@@ -794,7 +794,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-18T12:00:00.000Z"
+            "debitedAt": "2026-09-29T12:00:00.000Z"
           },
           "description": "VIREMENT RECU DU COMPTE PIERRE CURIE",
           "amount": 550
@@ -802,7 +802,7 @@
         {
           "currency": "EUR",
           "dates": {
-            "debitedAt": "2026-09-18T12:00:00.000Z"
+            "debitedAt": "2026-09-29T12:00:00.000Z"
           },
           "description": "ACHAT CB AUCHAN",
           "amount": -39.4
