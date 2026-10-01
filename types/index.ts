@@ -21,6 +21,8 @@ export interface AccountsEntity {
   number?: string;
   owners: Owner[];
   iban?: string;
+  name?: string;
+  bic?: string;
 }
 
 export interface Bank {
@@ -42,4 +44,52 @@ export interface Dates {
 export interface FileEntity {
   filename: string;
   sample: Sample;
+}
+
+/**
+ * A single line of a bank statement.
+ */
+export interface StatementLine {
+  date: string;
+  description: string;
+  amount: number;
+}
+
+/**
+ * The period a statement covers. Both bounds are clamped to the data actually
+ * available for the account, so a partial first or last month stays truthful.
+ */
+export interface StatementPeriod {
+  month: string;
+  start: string;
+  end: string;
+}
+
+/**
+ * Everything needed to draw one monthly statement for one account.
+ */
+export interface Statement {
+  locale: string;
+  persona: string;
+  accountSlug: string;
+  accountName: string;
+  holders: string[];
+  currency: string;
+  iban?: string;
+  bic?: string;
+  period: StatementPeriod;
+  openingBalance: number;
+  closingBalance: number;
+  totalCredit: number;
+  totalDebit: number;
+  lines: StatementLine[];
+}
+
+/**
+ * Bookkeeping for the daily job: which statements have been produced, and for
+ * which month they were produced.
+ */
+export interface StatementManifest {
+  generatedAt: string;
+  statements: Record<string, { generatedFor: string; period: StatementPeriod }>;
 }

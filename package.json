@@ -5,10 +5,11 @@
   "main": "scripts/index.js",
   "scripts": {
     "convert": "ts-node scripts/converter.ts",
-    "format": "prettier --write scripts/* mappers/**/*.ts",
+    "format": "prettier --write scripts/* mappers/**/*.ts lib/*.ts templates/*.ts",
     "start": "ts-node scripts/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "linxo-test-bank": "ts-node scripts/linxo-test-bank.ts"
+    "linxo-test-bank": "ts-node scripts/linxo-test-bank.ts",
+    "statements": "ts-node scripts/statements.ts"
   },
   "author": "ccoeurderoy",
   "license": "ISC",
@@ -19,6 +20,7 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "dayjs": "^1.11.0"
+    "dayjs": "^1.11.0",
+    "pdfmake": "^0.3.11"
   }
 }
