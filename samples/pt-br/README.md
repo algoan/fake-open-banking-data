@@ -34,3 +34,5 @@
 - Has 6 consumer credits (Casas Bahia, Caixa, Creditas, Renner, Nubank, PicPay)
 - Uses the "cheque especial" (overdraft) every month with interest and IOF tax
 - Has returned payments with fees and late-payment penalties
+
+> For now, the Brazilian personae use EUR (like the other samples) rather than BRL.
