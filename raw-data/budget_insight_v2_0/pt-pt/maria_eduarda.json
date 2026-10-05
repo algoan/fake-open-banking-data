@@ -1,0 +1,551 @@
+{
+  "format": "BUDGET_INSIGHT_V2_0",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "date": "2026-07-05T12:00:00.000Z",
+              "rdate": "2026-07-05T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -132.7,
+              "original_wording": "UNIBANCO CARTAO CREDITO PAGAMENTO MINIMO",
+              "id": 2143
+            },
+            {
+              "date": "2026-07-06T12:00:00.000Z",
+              "rdate": "2026-07-06T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -61.8,
+              "original_wording": "DD PT21101124 EDP COMERCIAL",
+              "id": 2144
+            },
+            {
+              "date": "2026-07-07T12:00:00.000Z",
+              "rdate": "2026-07-07T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -44.99,
+              "original_wording": "DD PT57100118 NOS COMUNICACOES",
+              "id": 2145
+            },
+            {
+              "date": "2026-07-08T12:00:00.000Z",
+              "rdate": "2026-07-08T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -12.48,
+              "original_wording": "JUROS DESCOBERTO BANCARIO",
+              "id": 2146
+            },
+            {
+              "date": "2026-07-08T12:00:00.000Z",
+              "rdate": "2026-07-08T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.5,
+              "original_wording": "COMISSAO DESCOBERTO NAO AUTORIZADO",
+              "id": 2147
+            },
+            {
+              "date": "2026-07-09T12:00:00.000Z",
+              "rdate": "2026-07-09T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -73.15,
+              "original_wording": "COMPRA 5221 LIDL BENFICA",
+              "id": 2148
+            },
+            {
+              "date": "2026-07-10T12:00:00.000Z",
+              "rdate": "2026-07-10T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -96.3,
+              "original_wording": "COFIDIS PT PRESTACAO 0021 CONTRATO 7700981124",
+              "id": 2149
+            },
+            {
+              "date": "2026-07-11T12:00:00.000Z",
+              "rdate": "2026-07-11T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -20,
+              "original_wording": "LEV ATM 5221 MULTIBANCO BENFICA",
+              "id": 2150
+            },
+            {
+              "date": "2026-07-12T12:00:00.000Z",
+              "rdate": "2026-07-12T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 96.3,
+              "original_wording": "DEVOLUCAO DEBITO DIRETO COFIDIS PT",
+              "id": 2151
+            },
+            {
+              "date": "2026-07-12T12:00:00.000Z",
+              "rdate": "2026-07-12T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.6,
+              "original_wording": "COMISSAO DEVOLUCAO DEBITO DIRETO",
+              "id": 2152
+            },
+            {
+              "date": "2026-07-13T12:00:00.000Z",
+              "rdate": "2026-07-13T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -60,
+              "original_wording": "PAG SERV 21345 CREDIBOM PRESTACAO",
+              "id": 2153
+            },
+            {
+              "date": "2026-07-15T12:00:00.000Z",
+              "rdate": "2026-07-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -28.7,
+              "original_wording": "COMPRA 5221 MINIPRECO BENFICA",
+              "id": 2154
+            },
+            {
+              "date": "2026-07-18T12:00:00.000Z",
+              "rdate": "2026-07-18T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -25,
+              "original_wording": "MB WAY P/ DAMASO SALCEDE",
+              "id": 2155
+            },
+            {
+              "date": "2026-07-20T12:00:00.000Z",
+              "rdate": "2026-07-20T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -38.9,
+              "original_wording": "COMPRA 5221 ZARA COLOMBO",
+              "id": 2156
+            },
+            {
+              "date": "2026-07-23T12:00:00.000Z",
+              "rdate": "2026-07-23T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -51.2,
+              "original_wording": "COMPRA 5221 LIDL BENFICA",
+              "id": 2157
+            },
+            {
+              "date": "2026-07-26T12:00:00.000Z",
+              "rdate": "2026-07-26T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 1312.48,
+              "original_wording": "ORDENADO LOJAS FLORES LDA",
+              "id": 2158
+            },
+            {
+              "date": "2026-07-28T12:00:00.000Z",
+              "rdate": "2026-07-28T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -36,
+              "original_wording": "PAG SERV 10297 NAVEGANTE METROPOLITANO",
+              "id": 2159
+            },
+            {
+              "date": "2026-08-01T12:00:00.000Z",
+              "rdate": "2026-08-01T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -520,
+              "original_wording": "TRF P/ CASTRO GOMES RENDA",
+              "id": 2160
+            },
+            {
+              "date": "2026-08-02T12:00:00.000Z",
+              "rdate": "2026-08-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -149.9,
+              "original_wording": "CETELEM PRESTACAO CREDITO PESSOAL 0042 3317",
+              "id": 2161
+            },
+            {
+              "date": "2026-08-03T12:00:00.000Z",
+              "rdate": "2026-08-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -96.3,
+              "original_wording": "COFIDIS PT PRESTACAO 0021 CONTRATO 7700981124",
+              "id": 2162
+            },
+            {
+              "date": "2026-08-03T12:00:00.000Z",
+              "rdate": "2026-08-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 500,
+              "original_wording": "CREDITO RAPIDO 4FINANCE VIVUS PT",
+              "id": 2163
+            },
+            {
+              "date": "2026-08-04T12:00:00.000Z",
+              "rdate": "2026-08-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -68.45,
+              "original_wording": "ONEY PAGAMENTO FRACIONADO PRESTACAO",
+              "id": 2164
+            },
+            {
+              "date": "2026-08-05T12:00:00.000Z",
+              "rdate": "2026-08-05T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -132.7,
+              "original_wording": "UNIBANCO CARTAO CREDITO PAGAMENTO MINIMO",
+              "id": 2165
+            },
+            {
+              "date": "2026-08-06T12:00:00.000Z",
+              "rdate": "2026-08-06T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -57.25,
+              "original_wording": "DD PT21101124 EDP COMERCIAL",
+              "id": 2166
+            },
+            {
+              "date": "2026-08-07T12:00:00.000Z",
+              "rdate": "2026-08-07T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -44.99,
+              "original_wording": "DD PT57100118 NOS COMUNICACOES",
+              "id": 2167
+            },
+            {
+              "date": "2026-08-08T12:00:00.000Z",
+              "rdate": "2026-08-08T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.73,
+              "original_wording": "JUROS DESCOBERTO BANCARIO",
+              "id": 2168
+            },
+            {
+              "date": "2026-08-08T12:00:00.000Z",
+              "rdate": "2026-08-08T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.5,
+              "original_wording": "COMISSAO DESCOBERTO NAO AUTORIZADO",
+              "id": 2169
+            },
+            {
+              "date": "2026-08-09T12:00:00.000Z",
+              "rdate": "2026-08-09T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -58.4,
+              "original_wording": "COMPRA 5221 LIDL BENFICA",
+              "id": 2170
+            },
+            {
+              "date": "2026-08-11T12:00:00.000Z",
+              "rdate": "2026-08-11T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -40,
+              "original_wording": "LEV ATM 5221 MULTIBANCO BENFICA",
+              "id": 2171
+            },
+            {
+              "date": "2026-08-13T12:00:00.000Z",
+              "rdate": "2026-08-13T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -60,
+              "original_wording": "PAG SERV 21345 CREDIBOM PRESTACAO",
+              "id": 2172
+            },
+            {
+              "date": "2026-08-14T12:00:00.000Z",
+              "rdate": "2026-08-14T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -149.9,
+              "original_wording": "CETELEM PRESTACAO CREDITO PESSOAL 0042 3317",
+              "id": 2173
+            },
+            {
+              "date": "2026-08-15T12:00:00.000Z",
+              "rdate": "2026-08-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -35.2,
+              "original_wording": "COMPRA 5221 MINIPRECO BENFICA",
+              "id": 2174
+            },
+            {
+              "date": "2026-08-15T12:00:00.000Z",
+              "rdate": "2026-08-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 149.9,
+              "original_wording": "DEVOLUCAO DEBITO DIRETO CETELEM",
+              "id": 2175
+            },
+            {
+              "date": "2026-08-15T12:00:00.000Z",
+              "rdate": "2026-08-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -15.6,
+              "original_wording": "COMISSAO DEVOLUCAO DEBITO DIRETO",
+              "id": 2176
+            },
+            {
+              "date": "2026-08-18T12:00:00.000Z",
+              "rdate": "2026-08-18T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -30,
+              "original_wording": "MB WAY P/ DAMASO SALCEDE",
+              "id": 2177
+            },
+            {
+              "date": "2026-08-20T12:00:00.000Z",
+              "rdate": "2026-08-20T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -47.6,
+              "original_wording": "COMPRA 5221 ZARA COLOMBO",
+              "id": 2178
+            },
+            {
+              "date": "2026-08-23T12:00:00.000Z",
+              "rdate": "2026-08-23T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -44.8,
+              "original_wording": "COMPRA 5221 LIDL BENFICA",
+              "id": 2179
+            },
+            {
+              "date": "2026-08-26T12:00:00.000Z",
+              "rdate": "2026-08-26T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 1312.48,
+              "original_wording": "ORDENADO LOJAS FLORES LDA",
+              "id": 2180
+            },
+            {
+              "date": "2026-08-28T12:00:00.000Z",
+              "rdate": "2026-08-28T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -36,
+              "original_wording": "PAG SERV 10297 NAVEGANTE METROPOLITANO",
+              "id": 2181
+            },
+            {
+              "date": "2026-08-31T12:00:00.000Z",
+              "rdate": "2026-08-31T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -175,
+              "original_wording": "VIVUS PT REEMBOLSO CREDITO",
+              "id": 2182
+            },
+            {
+              "date": "2026-09-01T12:00:00.000Z",
+              "rdate": "2026-09-01T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -520,
+              "original_wording": "TRF P/ CASTRO GOMES RENDA",
+              "id": 2183
+            },
+            {
+              "date": "2026-09-02T12:00:00.000Z",
+              "rdate": "2026-09-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -149.9,
+              "original_wording": "CETELEM PRESTACAO CREDITO PESSOAL 0042 3317",
+              "id": 2184
+            },
+            {
+              "date": "2026-09-03T12:00:00.000Z",
+              "rdate": "2026-09-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -96.3,
+              "original_wording": "COFIDIS PT PRESTACAO 0021 CONTRATO 7700981124",
+              "id": 2185
+            },
+            {
+              "date": "2026-09-03T12:00:00.000Z",
+              "rdate": "2026-09-03T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 300,
+              "original_wording": "TRF DE CARLOS DA MAIA",
+              "id": 2186
+            },
+            {
+              "date": "2026-09-04T12:00:00.000Z",
+              "rdate": "2026-09-04T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -68.45,
+              "original_wording": "ONEY PAGAMENTO FRACIONADO PRESTACAO",
+              "id": 2187
+            },
+            {
+              "date": "2026-09-05T12:00:00.000Z",
+              "rdate": "2026-09-05T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -132.7,
+              "original_wording": "UNIBANCO CARTAO CREDITO PAGAMENTO MINIMO",
+              "id": 2188
+            },
+            {
+              "date": "2026-09-06T12:00:00.000Z",
+              "rdate": "2026-09-06T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -64.1,
+              "original_wording": "DD PT21101124 EDP COMERCIAL",
+              "id": 2189
+            },
+            {
+              "date": "2026-09-07T12:00:00.000Z",
+              "rdate": "2026-09-07T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -44.99,
+              "original_wording": "DD PT57100118 NOS COMUNICACOES",
+              "id": 2190
+            },
+            {
+              "date": "2026-09-08T12:00:00.000Z",
+              "rdate": "2026-09-08T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -14.02,
+              "original_wording": "JUROS DESCOBERTO BANCARIO",
+              "id": 2191
+            },
+            {
+              "date": "2026-09-08T12:00:00.000Z",
+              "rdate": "2026-09-08T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -9.5,
+              "original_wording": "COMISSAO DESCOBERTO NAO AUTORIZADO",
+              "id": 2192
+            },
+            {
+              "date": "2026-09-09T12:00:00.000Z",
+              "rdate": "2026-09-09T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -66.9,
+              "original_wording": "COMPRA 5221 LIDL BENFICA",
+              "id": 2193
+            },
+            {
+              "date": "2026-09-11T12:00:00.000Z",
+              "rdate": "2026-09-11T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -20,
+              "original_wording": "LEV ATM 5221 MULTIBANCO BENFICA",
+              "id": 2194
+            },
+            {
+              "date": "2026-09-12T12:00:00.000Z",
+              "rdate": "2026-09-12T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -4.16,
+              "original_wording": "IMPOSTO DO SELO S/ JUROS DESCOBERTO",
+              "id": 2195
+            },
+            {
+              "date": "2026-09-13T12:00:00.000Z",
+              "rdate": "2026-09-13T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -60,
+              "original_wording": "PAG SERV 21345 CREDIBOM PRESTACAO",
+              "id": 2196
+            },
+            {
+              "date": "2026-09-15T12:00:00.000Z",
+              "rdate": "2026-09-15T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -31.4,
+              "original_wording": "COMPRA 5221 MINIPRECO BENFICA",
+              "id": 2197
+            },
+            {
+              "date": "2026-09-17T12:00:00.000Z",
+              "rdate": "2026-09-17T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -149.9,
+              "original_wording": "CETELEM PRESTACAO REGULARIZACAO 0042 3317",
+              "id": 2198
+            },
+            {
+              "date": "2026-09-18T12:00:00.000Z",
+              "rdate": "2026-09-18T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -25,
+              "original_wording": "MB WAY P/ DAMASO SALCEDE",
+              "id": 2199
+            },
+            {
+              "date": "2026-09-20T12:00:00.000Z",
+              "rdate": "2026-09-20T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -29.95,
+              "original_wording": "COMPRA 5221 ZARA COLOMBO",
+              "id": 2200
+            },
+            {
+              "date": "2026-09-21T12:00:00.000Z",
+              "rdate": "2026-09-21T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -89,
+              "original_wording": "COMPRA 5221 PRIMARK COLOMBO",
+              "id": 2201
+            },
+            {
+              "date": "2026-09-23T12:00:00.000Z",
+              "rdate": "2026-09-23T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -57.65,
+              "original_wording": "COMPRA 5221 LIDL BENFICA",
+              "id": 2202
+            },
+            {
+              "date": "2026-09-26T12:00:00.000Z",
+              "rdate": "2026-09-26T12:00:00.000Z",
+              "currency": "EUR",
+              "value": 1312.48,
+              "original_wording": "ORDENADO LOJAS FLORES LDA",
+              "id": 2203
+            },
+            {
+              "date": "2026-09-28T12:00:00.000Z",
+              "rdate": "2026-09-28T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -36,
+              "original_wording": "PAG SERV 10297 NAVEGANTE METROPOLITANO",
+              "id": 2204
+            },
+            {
+              "date": "2026-09-30T12:00:00.000Z",
+              "rdate": "2026-09-30T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -175,
+              "original_wording": "VIVUS PT REEMBOLSO CREDITO",
+              "id": 2205
+            },
+            {
+              "date": "2026-10-01T12:00:00.000Z",
+              "rdate": "2026-10-01T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -520,
+              "original_wording": "TRF P/ CASTRO GOMES RENDA",
+              "id": 2206
+            },
+            {
+              "date": "2026-10-02T12:00:00.000Z",
+              "rdate": "2026-10-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -149.9,
+              "original_wording": "CETELEM PRESTACAO CREDITO PESSOAL 0042 3317",
+              "id": 2207
+            },
+            {
+              "date": "2026-10-02T12:00:00.000Z",
+              "rdate": "2026-10-02T12:00:00.000Z",
+              "currency": "EUR",
+              "value": -96.3,
+              "original_wording": "COFIDIS PT PRESTACAO 0021 CONTRATO 7700981124",
+              "id": 2208
+            }
+          ],
+          "balance": -28.7,
+          "last_update": "2026-10-02T12:00:00.000Z",
+          "iban": "PT50003300004531827690514",
+          "bic": "BCOMPTPLXXX",
+          "currency": {
+            "id": "EUR"
+          },
+          "type": "checking",
+          "usage": "PRIV",
+          "id": 2209
+        }
+      ]
+    }
+  ]
+}

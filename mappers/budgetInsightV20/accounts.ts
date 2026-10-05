@@ -1,4 +1,18 @@
 /**
+ * Last allocated Budget Insight ID, incremented so that IDs never collide
+ */
+let lastId: number = 0;
+
+/**
+ * Get a unique Budget Insight ID
+ */
+function nextId(): number {
+  lastId += 1;
+
+  return lastId;
+}
+
+/**
  * Map function to convert an Algoan Account to BI format
  */
 export const algoanAccountsToBIAccounts = (): any => {
@@ -13,7 +27,7 @@ export const algoanAccountsToBIAccounts = (): any => {
     },
     type: getBIType(account.type),
     usage: getBIUsage(account.usage),
-    id: Math.floor(Math.random() * 1000),
+    id: nextId(),
   });
 };
 
@@ -28,7 +42,7 @@ export const algoanTransactions = (): any => {
       currency: transaction.currency,
       value: transaction.amount,
       original_wording: transaction.description,
-      id: Math.floor(Math.random() * 1000),
+      id: nextId(),
     };
   };
 };
