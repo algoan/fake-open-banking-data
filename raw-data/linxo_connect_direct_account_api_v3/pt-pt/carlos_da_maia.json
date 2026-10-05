@@ -1,0 +1,711 @@
+{
+  "format": "LINXO_CONNECT_DIRECT_ACCOUNT_API_V3",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-112.4"
+              },
+              "booking_date": "2026-07-05T12:00:00.000Z",
+              "remittance_information": [
+                "COFIDIS PT PRESTACAO 0016 CONTRATO 7700412396"
+              ],
+              "id": "PH5IVkOMZ96f77O"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-54.32"
+              },
+              "booking_date": "2026-07-06T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT21101124 EDP COMERCIAL"
+              ],
+              "id": "nDWsPFHhntgUYuw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.99"
+              },
+              "booking_date": "2026-07-08T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT57100112 MEO SERVICOS COMUNICACOES"
+              ],
+              "id": "NEeOlALC1v2yVDE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-86.43"
+              },
+              "booking_date": "2026-07-09T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 CONTINENTE COLOMBO LISBOA"
+              ],
+              "id": "LXALS96CKSFyXNj"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-7.99"
+              },
+              "booking_date": "2026-07-10T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 NETFLIX.COM AMSTERDAM"
+              ],
+              "id": "rJgrOPQAsqOXJja"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-40"
+              },
+              "booking_date": "2026-07-12T12:00:00.000Z",
+              "remittance_information": [
+                "LEV ATM 4417 MULTIBANCO AV LIBERDADE"
+              ],
+              "id": "BNo97i9gCFsseUw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-23.6"
+              },
+              "booking_date": "2026-07-14T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT62100045 VIA VERDE PORTUGAL"
+              ],
+              "id": "YWXArhAXLulLlaQ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-35.8"
+              },
+              "booking_date": "2026-07-15T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 PINGO DOCE SALDANHA"
+              ],
+              "id": "DroMvqykjgrzN9P"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-399"
+              },
+              "booking_date": "2026-07-16T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 WORTEN AMOREIRAS LISBOA"
+              ],
+              "id": "7c81I9pyEBkyEZV"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-99.75"
+              },
+              "booking_date": "2026-07-16T12:00:00.000Z",
+              "remittance_information": [
+                "KLARNA PAGAMENTO FRACIONADO 1/4 WORTEN"
+              ],
+              "id": "9kNDLMf4F4sL7be"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "399"
+              },
+              "booking_date": "2026-07-16T12:00:00.000Z",
+              "remittance_information": [
+                "DEVOLUCAO COMPRA WORTEN AMOREIRAS"
+              ],
+              "id": "CMCjIbJrKz4lnJn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30"
+              },
+              "booking_date": "2026-07-17T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ POUPANCA PROPRIA"
+              ],
+              "id": "OcOyglyM2sSLd97"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-48.9"
+              },
+              "booking_date": "2026-07-19T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 GALP AREEIRO LISBOA"
+              ],
+              "id": "YbERIBTMXKbg1lw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.9"
+              },
+              "booking_date": "2026-07-21T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT44100503 FIDELIDADE SEGURO MULTIRRISCOS HABITACAO"
+              ],
+              "id": "2PxrC875LjZth6s"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15"
+              },
+              "booking_date": "2026-07-22T12:00:00.000Z",
+              "remittance_information": [
+                "MB WAY P/ JOAO DA EGA"
+              ],
+              "id": "8gUL720e0yIOX4h"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-67.25"
+              },
+              "booking_date": "2026-07-24T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 CONTINENTE COLOMBO LISBOA"
+              ],
+              "id": "t791jnTCLT9fDeH"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1847.62"
+              },
+              "booking_date": "2026-07-25T12:00:00.000Z",
+              "remittance_information": [
+                "ORDENADO ALGOAN PORTUGAL UNIPESSOAL LDA"
+              ],
+              "id": "3lqVq2D8i0hFWCz"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-26.5"
+              },
+              "booking_date": "2026-07-27T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 UBER EATS LISBOA"
+              ],
+              "id": "ip8JGQoxeadmkXj"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-36"
+              },
+              "booking_date": "2026-07-29T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 10297 NAVEGANTE METROPOLITANO"
+              ],
+              "id": "Zm7zWyUjKPpEDgr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-650"
+              },
+              "booking_date": "2026-08-01T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ AFONSO VILAÇA RENDA HABITACAO"
+              ],
+              "id": "utuo6TwLMnNkJcu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-84.5"
+              },
+              "booking_date": "2026-08-02T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 RESTAURANTE O FAIA LISBOA"
+              ],
+              "id": "92AvDNquVyhjUBl"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.5"
+              },
+              "booking_date": "2026-08-03T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT75100785 EPAL - EMPRESA PORTUGUESA DAS AGUAS LIVRES"
+              ],
+              "id": "83VNbZMhzSBeogd"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-112.4"
+              },
+              "booking_date": "2026-08-05T12:00:00.000Z",
+              "remittance_information": [
+                "COFIDIS PT PRESTACAO 0016 CONTRATO 7700412396"
+              ],
+              "id": "PI5MRy0x2UI34xI"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-48.17"
+              },
+              "booking_date": "2026-08-06T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT21101124 EDP COMERCIAL"
+              ],
+              "id": "w50nh2mIEvHJ3r9"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.99"
+              },
+              "booking_date": "2026-08-08T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT57100112 MEO SERVICOS COMUNICACOES"
+              ],
+              "id": "cHTzZqJdXQqQivS"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-102.71"
+              },
+              "booking_date": "2026-08-09T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 CONTINENTE COLOMBO LISBOA"
+              ],
+              "id": "pqF9Dhy1807Wm0K"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-7.99"
+              },
+              "booking_date": "2026-08-10T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 NETFLIX.COM AMSTERDAM"
+              ],
+              "id": "cJlDW4euHyU3QvM"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60"
+              },
+              "booking_date": "2026-08-12T12:00:00.000Z",
+              "remittance_information": [
+                "LEV ATM 4417 MULTIBANCO AV LIBERDADE"
+              ],
+              "id": "lGhw1gRUYzLwTTj"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-31.2"
+              },
+              "booking_date": "2026-08-14T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT62100045 VIA VERDE PORTUGAL"
+              ],
+              "id": "zrDrHLZzg9PNJ5G"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42.1"
+              },
+              "booking_date": "2026-08-15T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 PINGO DOCE SALDANHA"
+              ],
+              "id": "VT8vJRIavfgWVMh"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-99.75"
+              },
+              "booking_date": "2026-08-16T12:00:00.000Z",
+              "remittance_information": [
+                "KLARNA PAGAMENTO FRACIONADO 2/4 WORTEN"
+              ],
+              "id": "zCH1hepJYocQwcX"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30"
+              },
+              "booking_date": "2026-08-17T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ POUPANCA PROPRIA"
+              ],
+              "id": "gC9quPZOtgBEIsP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-55.4"
+              },
+              "booking_date": "2026-08-19T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 GALP AREEIRO LISBOA"
+              ],
+              "id": "Gh4E2804uFCZJ18"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.9"
+              },
+              "booking_date": "2026-08-21T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT44100503 FIDELIDADE SEGURO MULTIRRISCOS HABITACAO"
+              ],
+              "id": "e4MuAeWODT9WiEO"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-12.5"
+              },
+              "booking_date": "2026-08-22T12:00:00.000Z",
+              "remittance_information": [
+                "MB WAY P/ JOAO DA EGA"
+              ],
+              "id": "nuklojvOwOtu11u"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-58.9"
+              },
+              "booking_date": "2026-08-24T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 CONTINENTE COLOMBO LISBOA"
+              ],
+              "id": "eWrzpKdro7WwOYq"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1847.62"
+              },
+              "booking_date": "2026-08-25T12:00:00.000Z",
+              "remittance_information": [
+                "ORDENADO ALGOAN PORTUGAL UNIPESSOAL LDA"
+              ],
+              "id": "MoiA7Aa9fIIL3xX"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-31.8"
+              },
+              "booking_date": "2026-08-27T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 UBER EATS LISBOA"
+              ],
+              "id": "2BA5uaNasv8BKpO"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-36"
+              },
+              "booking_date": "2026-08-29T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 10297 NAVEGANTE METROPOLITANO"
+              ],
+              "id": "hQYPOaAKVFqSPlB"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-210"
+              },
+              "booking_date": "2026-08-30T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 TAP AIR PORTUGAL"
+              ],
+              "id": "qdvCCb0L7Sfi6YF"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-650"
+              },
+              "booking_date": "2026-09-01T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ AFONSO VILAÇA RENDA HABITACAO"
+              ],
+              "id": "yMUTdPGSpABhkFp"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.5"
+              },
+              "booking_date": "2026-09-03T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT75100785 EPAL - EMPRESA PORTUGUESA DAS AGUAS LIVRES"
+              ],
+              "id": "qm3c1JswXlDxMpk"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "25"
+              },
+              "booking_date": "2026-09-04T12:00:00.000Z",
+              "remittance_information": [
+                "MB WAY DE JOAO DA EGA"
+              ],
+              "id": "26QXnu71LIBALCn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-112.4"
+              },
+              "booking_date": "2026-09-05T12:00:00.000Z",
+              "remittance_information": [
+                "COFIDIS PT PRESTACAO 0016 CONTRATO 7700412396"
+              ],
+              "id": "B809ZXF7WFwBOsv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-51.06"
+              },
+              "booking_date": "2026-09-06T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT21101124 EDP COMERCIAL"
+              ],
+              "id": "yjpxzQNUb56ZktP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-39.99"
+              },
+              "booking_date": "2026-09-08T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT57100112 MEO SERVICOS COMUNICACOES"
+              ],
+              "id": "uGlh5rvQmHMQBZc"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-74.18"
+              },
+              "booking_date": "2026-09-09T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 CONTINENTE COLOMBO LISBOA"
+              ],
+              "id": "KkVAhEXKRzAoUrp"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-7.99"
+              },
+              "booking_date": "2026-09-10T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 NETFLIX.COM AMSTERDAM"
+              ],
+              "id": "9MmqwFdDyKwDK8B"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-40"
+              },
+              "booking_date": "2026-09-12T12:00:00.000Z",
+              "remittance_information": [
+                "LEV ATM 4417 MULTIBANCO AV LIBERDADE"
+              ],
+              "id": "Mk4JjpNm80lAZN1"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-18.9"
+              },
+              "booking_date": "2026-09-14T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT62100045 VIA VERDE PORTUGAL"
+              ],
+              "id": "ULD4gK62sSZVjNO"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.65"
+              },
+              "booking_date": "2026-09-15T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 PINGO DOCE SALDANHA"
+              ],
+              "id": "nErxb0ZqZ4oqBni"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-99.75"
+              },
+              "booking_date": "2026-09-16T12:00:00.000Z",
+              "remittance_information": [
+                "KLARNA PAGAMENTO FRACIONADO 3/4 WORTEN"
+              ],
+              "id": "5E6bROJlIwIig4X"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30"
+              },
+              "booking_date": "2026-09-17T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ POUPANCA PROPRIA"
+              ],
+              "id": "03QiBVdtyiVZnuq"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-61.75"
+              },
+              "booking_date": "2026-09-19T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 GALP AREEIRO LISBOA"
+              ],
+              "id": "ihoUUiU7Aag5c0c"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-24.9"
+              },
+              "booking_date": "2026-09-21T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT44100503 FIDELIDADE SEGURO MULTIRRISCOS HABITACAO"
+              ],
+              "id": "BiPVKF5eniPj83e"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-09-22T12:00:00.000Z",
+              "remittance_information": [
+                "MB WAY P/ JOAO DA EGA"
+              ],
+              "id": "AbUjWmWjVCIR9cB"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-79.3"
+              },
+              "booking_date": "2026-09-24T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 CONTINENTE COLOMBO LISBOA"
+              ],
+              "id": "nIXBsRBKojVqDNi"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1847.62"
+              },
+              "booking_date": "2026-09-25T12:00:00.000Z",
+              "remittance_information": [
+                "ORDENADO ALGOAN PORTUGAL UNIPESSOAL LDA"
+              ],
+              "id": "x27jhyvsbBaQeMe"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-19.4"
+              },
+              "booking_date": "2026-09-27T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 UBER EATS LISBOA"
+              ],
+              "id": "I76owXRgJZYj9H4"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-36"
+              },
+              "booking_date": "2026-09-29T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 10297 NAVEGANTE METROPOLITANO"
+              ],
+              "id": "Ae73tILXU175INR"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-650"
+              },
+              "booking_date": "2026-10-01T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ AFONSO VILAÇA RENDA HABITACAO"
+              ],
+              "id": "eH5BvGxIButO2es"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-42.3"
+              },
+              "booking_date": "2026-10-02T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 4417 PINGO DOCE SALDANHA"
+              ],
+              "id": "JBd0n6eLP7UT9Fh"
+            }
+          ],
+          "name": "Conta à Ordem 01",
+          "balances": [
+            {
+              "balance_amount": {
+                "currency": "EUR",
+                "amount": "2171.52"
+              },
+              "reference_date": "2026-10-02T12:00:00.000Z"
+            }
+          ],
+          "currency": "EUR",
+          "type": "CASH_ACCOUNT",
+          "usage": "PRIVATE",
+          "account_id": "XTpsETiHXM9fRK7",
+          "iban": "PT50003506970004582173059",
+          "bic": "CGDIPTPLXXX"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "format": "LINXO_CONNECT_DIRECT_ACCOUNT_API_V3",
+  "connections": [
+    {
+      "accounts": [
+        {
+          "transactions": [
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-132.7"
+              },
+              "booking_date": "2026-07-05T12:00:00.000Z",
+              "remittance_information": [
+                "UNIBANCO CARTAO CREDITO PAGAMENTO MINIMO"
+              ],
+              "id": "tp0zqoNoygkgQzW"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-61.8"
+              },
+              "booking_date": "2026-07-06T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT21101124 EDP COMERCIAL"
+              ],
+              "id": "6ntmj3PqEddXniH"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-44.99"
+              },
+              "booking_date": "2026-07-07T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT57100118 NOS COMUNICACOES"
+              ],
+              "id": "1kiJLzjzYjGtyzR"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-12.48"
+              },
+              "booking_date": "2026-07-08T12:00:00.000Z",
+              "remittance_information": [
+                "JUROS DESCOBERTO BANCARIO"
+              ],
+              "id": "yZb6zyKYmIDT1uw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.5"
+              },
+              "booking_date": "2026-07-08T12:00:00.000Z",
+              "remittance_information": [
+                "COMISSAO DESCOBERTO NAO AUTORIZADO"
+              ],
+              "id": "4yYrDkoGLGJhPHq"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-73.15"
+              },
+              "booking_date": "2026-07-09T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 LIDL BENFICA"
+              ],
+              "id": "e0TRi4RhsagxoRt"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-96.3"
+              },
+              "booking_date": "2026-07-10T12:00:00.000Z",
+              "remittance_information": [
+                "COFIDIS PT PRESTACAO 0021 CONTRATO 7700981124"
+              ],
+              "id": "OYSXKLEGLB6xoSN"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-07-11T12:00:00.000Z",
+              "remittance_information": [
+                "LEV ATM 5221 MULTIBANCO BENFICA"
+              ],
+              "id": "p4nfe9g27uU2Jzu"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "96.3"
+              },
+              "booking_date": "2026-07-12T12:00:00.000Z",
+              "remittance_information": [
+                "DEVOLUCAO DEBITO DIRETO COFIDIS PT"
+              ],
+              "id": "iiMhDmQIM8pQxtB"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.6"
+              },
+              "booking_date": "2026-07-12T12:00:00.000Z",
+              "remittance_information": [
+                "COMISSAO DEVOLUCAO DEBITO DIRETO"
+              ],
+              "id": "T9nmTc1gIWYUfuU"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60"
+              },
+              "booking_date": "2026-07-13T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 21345 CREDIBOM PRESTACAO"
+              ],
+              "id": "JvA8RhV2BWJwAUV"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-28.7"
+              },
+              "booking_date": "2026-07-15T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 MINIPRECO BENFICA"
+              ],
+              "id": "JbCpBtc9fiAq6I7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-25"
+              },
+              "booking_date": "2026-07-18T12:00:00.000Z",
+              "remittance_information": [
+                "MB WAY P/ DAMASO SALCEDE"
+              ],
+              "id": "3kDADAqgm24JhVc"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-38.9"
+              },
+              "booking_date": "2026-07-20T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 ZARA COLOMBO"
+              ],
+              "id": "uf2L9vevdBFya1n"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-51.2"
+              },
+              "booking_date": "2026-07-23T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 LIDL BENFICA"
+              ],
+              "id": "EzwjXWT6jEzbwre"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1312.48"
+              },
+              "booking_date": "2026-07-26T12:00:00.000Z",
+              "remittance_information": [
+                "ORDENADO LOJAS FLORES LDA"
+              ],
+              "id": "pEg46IOfONjKdDS"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-36"
+              },
+              "booking_date": "2026-07-28T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 10297 NAVEGANTE METROPOLITANO"
+              ],
+              "id": "cE7YMDoi1MmQASQ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-520"
+              },
+              "booking_date": "2026-08-01T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ CASTRO GOMES RENDA"
+              ],
+              "id": "6p7WQc6yDJUTjgG"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-149.9"
+              },
+              "booking_date": "2026-08-02T12:00:00.000Z",
+              "remittance_information": [
+                "CETELEM PRESTACAO CREDITO PESSOAL 0042 3317"
+              ],
+              "id": "Ma4IDN0axYg4irb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-96.3"
+              },
+              "booking_date": "2026-08-03T12:00:00.000Z",
+              "remittance_information": [
+                "COFIDIS PT PRESTACAO 0021 CONTRATO 7700981124"
+              ],
+              "id": "qQJiT0IPy1bdSya"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "500"
+              },
+              "booking_date": "2026-08-03T12:00:00.000Z",
+              "remittance_information": [
+                "CREDITO RAPIDO 4FINANCE VIVUS PT"
+              ],
+              "id": "zzJKeO4yLZ5KTYq"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-68.45"
+              },
+              "booking_date": "2026-08-04T12:00:00.000Z",
+              "remittance_information": [
+                "ONEY PAGAMENTO FRACIONADO PRESTACAO"
+              ],
+              "id": "9IFH3ODL4kHdlkD"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-132.7"
+              },
+              "booking_date": "2026-08-05T12:00:00.000Z",
+              "remittance_information": [
+                "UNIBANCO CARTAO CREDITO PAGAMENTO MINIMO"
+              ],
+              "id": "gMFCXHnHqO2kRbn"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-57.25"
+              },
+              "booking_date": "2026-08-06T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT21101124 EDP COMERCIAL"
+              ],
+              "id": "oi4x9wJmPnpdVfD"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-44.99"
+              },
+              "booking_date": "2026-08-07T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT57100118 NOS COMUNICACOES"
+              ],
+              "id": "U8GQ4dPsNfUnsjF"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.73"
+              },
+              "booking_date": "2026-08-08T12:00:00.000Z",
+              "remittance_information": [
+                "JUROS DESCOBERTO BANCARIO"
+              ],
+              "id": "nxYY1vUFCJdxnLP"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.5"
+              },
+              "booking_date": "2026-08-08T12:00:00.000Z",
+              "remittance_information": [
+                "COMISSAO DESCOBERTO NAO AUTORIZADO"
+              ],
+              "id": "SOdlQr1vJpTElhl"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-58.4"
+              },
+              "booking_date": "2026-08-09T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 LIDL BENFICA"
+              ],
+              "id": "3038jkHLiTL2W3C"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-40"
+              },
+              "booking_date": "2026-08-11T12:00:00.000Z",
+              "remittance_information": [
+                "LEV ATM 5221 MULTIBANCO BENFICA"
+              ],
+              "id": "NAZQrRX75tWugJs"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60"
+              },
+              "booking_date": "2026-08-13T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 21345 CREDIBOM PRESTACAO"
+              ],
+              "id": "JKh91M6OjqD6sG7"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-149.9"
+              },
+              "booking_date": "2026-08-14T12:00:00.000Z",
+              "remittance_information": [
+                "CETELEM PRESTACAO CREDITO PESSOAL 0042 3317"
+              ],
+              "id": "Kpbd7G52Rr0UMKG"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-35.2"
+              },
+              "booking_date": "2026-08-15T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 MINIPRECO BENFICA"
+              ],
+              "id": "WPA19Q5RH5nX3wA"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "149.9"
+              },
+              "booking_date": "2026-08-15T12:00:00.000Z",
+              "remittance_information": [
+                "DEVOLUCAO DEBITO DIRETO CETELEM"
+              ],
+              "id": "7fWYyeem1vsphJr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-15.6"
+              },
+              "booking_date": "2026-08-15T12:00:00.000Z",
+              "remittance_information": [
+                "COMISSAO DEVOLUCAO DEBITO DIRETO"
+              ],
+              "id": "91R1HAiucy4GcWv"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-30"
+              },
+              "booking_date": "2026-08-18T12:00:00.000Z",
+              "remittance_information": [
+                "MB WAY P/ DAMASO SALCEDE"
+              ],
+              "id": "bd1M76cn1Q5Ma88"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-47.6"
+              },
+              "booking_date": "2026-08-20T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 ZARA COLOMBO"
+              ],
+              "id": "zGsvCMykedNvqxL"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-44.8"
+              },
+              "booking_date": "2026-08-23T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 LIDL BENFICA"
+              ],
+              "id": "P851NGiSvBELflb"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1312.48"
+              },
+              "booking_date": "2026-08-26T12:00:00.000Z",
+              "remittance_information": [
+                "ORDENADO LOJAS FLORES LDA"
+              ],
+              "id": "iMTVIMOfYq6vqOo"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-36"
+              },
+              "booking_date": "2026-08-28T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 10297 NAVEGANTE METROPOLITANO"
+              ],
+              "id": "AuxVSOpfYu8PVFR"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-175"
+              },
+              "booking_date": "2026-08-31T12:00:00.000Z",
+              "remittance_information": [
+                "VIVUS PT REEMBOLSO CREDITO"
+              ],
+              "id": "8G7knf0ny2rQ8LZ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-520"
+              },
+              "booking_date": "2026-09-01T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ CASTRO GOMES RENDA"
+              ],
+              "id": "QsdEJkRmXZ1A01o"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-149.9"
+              },
+              "booking_date": "2026-09-02T12:00:00.000Z",
+              "remittance_information": [
+                "CETELEM PRESTACAO CREDITO PESSOAL 0042 3317"
+              ],
+              "id": "6jSs2jIMHZDbnK2"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-96.3"
+              },
+              "booking_date": "2026-09-03T12:00:00.000Z",
+              "remittance_information": [
+                "COFIDIS PT PRESTACAO 0021 CONTRATO 7700981124"
+              ],
+              "id": "aajuOJAJ2wsU63M"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "300"
+              },
+              "booking_date": "2026-09-03T12:00:00.000Z",
+              "remittance_information": [
+                "TRF DE CARLOS DA MAIA"
+              ],
+              "id": "pHDqwObD5qGjGTr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-68.45"
+              },
+              "booking_date": "2026-09-04T12:00:00.000Z",
+              "remittance_information": [
+                "ONEY PAGAMENTO FRACIONADO PRESTACAO"
+              ],
+              "id": "C8iYBxjeJQan6SF"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-132.7"
+              },
+              "booking_date": "2026-09-05T12:00:00.000Z",
+              "remittance_information": [
+                "UNIBANCO CARTAO CREDITO PAGAMENTO MINIMO"
+              ],
+              "id": "vhGZbNKYUcFiE6Z"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-64.1"
+              },
+              "booking_date": "2026-09-06T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT21101124 EDP COMERCIAL"
+              ],
+              "id": "knYRh7d0OekOwPB"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-44.99"
+              },
+              "booking_date": "2026-09-07T12:00:00.000Z",
+              "remittance_information": [
+                "DD PT57100118 NOS COMUNICACOES"
+              ],
+              "id": "pHn1WGzunvx9GKp"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-14.02"
+              },
+              "booking_date": "2026-09-08T12:00:00.000Z",
+              "remittance_information": [
+                "JUROS DESCOBERTO BANCARIO"
+              ],
+              "id": "Bl5BZ6VR2LU0Fec"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-9.5"
+              },
+              "booking_date": "2026-09-08T12:00:00.000Z",
+              "remittance_information": [
+                "COMISSAO DESCOBERTO NAO AUTORIZADO"
+              ],
+              "id": "YD4764m4cSemz5O"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-66.9"
+              },
+              "booking_date": "2026-09-09T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 LIDL BENFICA"
+              ],
+              "id": "SFpan8JaLGgrRd0"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-20"
+              },
+              "booking_date": "2026-09-11T12:00:00.000Z",
+              "remittance_information": [
+                "LEV ATM 5221 MULTIBANCO BENFICA"
+              ],
+              "id": "UrxcBqJ49LEfws9"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-4.16"
+              },
+              "booking_date": "2026-09-12T12:00:00.000Z",
+              "remittance_information": [
+                "IMPOSTO DO SELO S/ JUROS DESCOBERTO"
+              ],
+              "id": "5EyDyySsPWOJAfr"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-60"
+              },
+              "booking_date": "2026-09-13T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 21345 CREDIBOM PRESTACAO"
+              ],
+              "id": "ZbeuLBtmbZVs3Xl"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-31.4"
+              },
+              "booking_date": "2026-09-15T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 MINIPRECO BENFICA"
+              ],
+              "id": "vVqU0FzxjWaM5w0"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-149.9"
+              },
+              "booking_date": "2026-09-17T12:00:00.000Z",
+              "remittance_information": [
+                "CETELEM PRESTACAO REGULARIZACAO 0042 3317"
+              ],
+              "id": "LMBQYCbAfOtwECw"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-25"
+              },
+              "booking_date": "2026-09-18T12:00:00.000Z",
+              "remittance_information": [
+                "MB WAY P/ DAMASO SALCEDE"
+              ],
+              "id": "YxxSY4euH3wUsTW"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-29.95"
+              },
+              "booking_date": "2026-09-20T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 ZARA COLOMBO"
+              ],
+              "id": "qjqa9dvdkgWp2J9"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-89"
+              },
+              "booking_date": "2026-09-21T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 PRIMARK COLOMBO"
+              ],
+              "id": "aUiJYk6XvF24YKh"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-57.65"
+              },
+              "booking_date": "2026-09-23T12:00:00.000Z",
+              "remittance_information": [
+                "COMPRA 5221 LIDL BENFICA"
+              ],
+              "id": "3SVvn08tRBpSmOE"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "1312.48"
+              },
+              "booking_date": "2026-09-26T12:00:00.000Z",
+              "remittance_information": [
+                "ORDENADO LOJAS FLORES LDA"
+              ],
+              "id": "f6Scfp3qrxSio1U"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-36"
+              },
+              "booking_date": "2026-09-28T12:00:00.000Z",
+              "remittance_information": [
+                "PAG SERV 10297 NAVEGANTE METROPOLITANO"
+              ],
+              "id": "zOh8iXnYoM7jc1K"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-175"
+              },
+              "booking_date": "2026-09-30T12:00:00.000Z",
+              "remittance_information": [
+                "VIVUS PT REEMBOLSO CREDITO"
+              ],
+              "id": "HT6Hbwq0PMijlLe"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-520"
+              },
+              "booking_date": "2026-10-01T12:00:00.000Z",
+              "remittance_information": [
+                "TRF P/ CASTRO GOMES RENDA"
+              ],
+              "id": "0QD16PnbFGKmE6s"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-149.9"
+              },
+              "booking_date": "2026-10-02T12:00:00.000Z",
+              "remittance_information": [
+                "CETELEM PRESTACAO CREDITO PESSOAL 0042 3317"
+              ],
+              "id": "C4pURaTSomz88tZ"
+            },
+            {
+              "transaction_amount": {
+                "currency": "EUR",
+                "amount": "-96.3"
+              },
+              "booking_date": "2026-10-02T12:00:00.000Z",
+              "remittance_information": [
+                "COFIDIS PT PRESTACAO 0021 CONTRATO 7700981124"
+              ],
+              "id": "N0nyf96uQHkODkF"
+            }
+          ],
+          "name": "Conta à Ordem 01",
+          "balances": [
+            {
+              "balance_amount": {
+                "currency": "EUR",
+                "amount": "-28.7"
+              },
+              "reference_date": "2026-10-02T12:00:00.000Z"
+            }
+          ],
+          "currency": "EUR",
+          "type": "CASH_ACCOUNT",
+          "usage": "PRIVATE",
+          "account_id": "pOHj69bP6Z4fSDt",
+          "iban": "PT50003300004531827690514",
+          "bic": "BCOMPTPLXXX"
+        }
+      ]
+    }
+  ]
+}
