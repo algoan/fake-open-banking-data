@@ -9,11 +9,15 @@ on:
     paths:
       - 'scripts/**.ts'
       - 'mappers/**.ts'
+      - 'lib/**.ts'
+      - 'templates/**'
 
 jobs:
   run_script:
-    name: Refresh all JSON files in the samples/fr/ directory
+    name: Refresh the JSON samples, their exports and the PDF statements
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v7
         with:
@@ -23,6 +27,7 @@ jobs:
           node-version-file: '.nvmrc'
           cache: 'npm'
       - run: npm ci
+      - run: npm test
       - run: npm start
       - run: npm run convert
       - run: npm run linxo-test-bank
@@ -33,3 +38,16 @@ jobs:
           message: 'chore: 🤖 Automatically refreshed data samples'
           author_name: Algoan Bot
           author_email: bot@algoan.com
+      - run: npm run statements
+      - name: Publish the statements on the statements-latest release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view statements-latest > /dev/null 2>&1 || gh release create statements-latest \
+            --title 'Bank statements (latest)' \
+            --notes 'Monthly PDF bank statements of every Personae, rebuilt from the samples on every run.' \
+            --latest=false
+          gh release upload statements-latest statements/*.pdf --clobber
+          for asset in $(gh release view statements-latest --json assets --jq '.assets[].name'); do
+            [ -f "statements/$asset" ] || gh release delete-asset statements-latest "$asset" --yes
+          done
