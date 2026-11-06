@@ -1,4 +1,4 @@
-import { mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readdirSync, readFileSync, statSync, writeFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { FileEntity } from '../types';
 
@@ -17,6 +17,9 @@ export function readJSONFiles(dirPath: string): FileEntity[] {
    */
   for (const country of countriesDir) {
     const filePath: string = `${dirPath}${country}`;
+    if (!statSync(filePath).isDirectory()) {
+      continue;
+    }
     const jsonsInDirectory: string[] = readdirSync(filePath);
     jsonsInDirectory.forEach((filename: string) => {
       const sample: Buffer = readFileSync(path.join(filePath, filename));
