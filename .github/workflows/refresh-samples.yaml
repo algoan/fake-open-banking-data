@@ -13,7 +13,7 @@ on:
       - 'templates/**'
 
 concurrency:
-  group: refresh-samples
+  group: refresh-samples-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
