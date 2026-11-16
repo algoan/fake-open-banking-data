@@ -53,6 +53,7 @@ jobs:
             --notes 'Monthly PDF bank statements of every Personae, rebuilt from the samples on every run.' \
             --latest=false
           gh release upload statements-latest statements/*.pdf --clobber
-          for asset in $(gh release view statements-latest --json assets --jq '.assets[].name'); do
+          assets=$(gh release view statements-latest --json assets --jq '.assets[].name')
+          for asset in $assets; do
             [ -f "statements/$asset" ] || gh release delete-asset statements-latest "$asset" --yes
           done
