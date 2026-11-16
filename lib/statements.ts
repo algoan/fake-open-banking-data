@@ -170,13 +170,18 @@ export function buildAccountStatements(account: AccountsEntity, locale: string, 
 
   const months: string[] = [];
   const byMonth: Record<string, TransactionsEntity[]> = {};
+  const lastMonth: string = account.balanceDate.slice(0, 7);
+  for (
+    const cursor: Date = new Date(`${firstDate.slice(0, 7)}-01T00:00:00.000Z`);
+    cursor.toISOString().slice(0, 7) <= lastMonth;
+    cursor.setUTCMonth(cursor.getUTCMonth() + 1)
+  ) {
+    const month: string = cursor.toISOString().slice(0, 7);
+    months.push(month);
+    byMonth[month] = [];
+  }
   for (const transaction of transactions) {
-    const month: string = transactionDate(transaction).slice(0, 7);
-    if (byMonth[month] === undefined) {
-      byMonth[month] = [];
-      months.push(month);
-    }
-    byMonth[month].push(transaction);
+    byMonth[transactionDate(transaction).slice(0, 7)].push(transaction);
   }
 
   const statements: Statement[] = months.map((month: string) => {
@@ -203,8 +208,9 @@ export function buildAccountStatements(account: AccountsEntity, locale: string, 
     const lastDay: number = daysIn(month);
     const monthStart: string = `${month}-01T12:00:00.000Z`;
     const monthEnd: string = `${month}-${String(lastDay).padStart(2, '0')}T12:00:00.000Z`;
-    const firstOfMonth: string = transactionDate(monthTransactions[0]);
-    const lastOfMonth: string = transactionDate(monthTransactions[monthTransactions.length - 1]);
+    const firstOfMonth: string = monthTransactions.length > 0 ? transactionDate(monthTransactions[0]) : monthStart;
+    const lastOfMonth: string =
+      monthTransactions.length > 0 ? transactionDate(monthTransactions[monthTransactions.length - 1]) : monthStart;
 
     const start: string = earlier(later(monthStart, firstDate), firstOfMonth);
     const end: string = later(earlier(monthEnd, account.balanceDate), lastOfMonth);

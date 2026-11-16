@@ -70,6 +70,23 @@ describe('buildAccountStatements', () => {
     strictEqual(statements[1].totalDebit, 300);
   });
 
+  it('issues a statement for a complete month without any transaction', () => {
+    const statements: Statement[] = buildAccountStatements(
+      account('2026-10-08', 1000, [transaction('2026-08-01', 500), transaction('2026-10-05', -50)]),
+      'fr',
+      'jane_doe',
+    );
+
+    deepStrictEqual(months(statements), ['2026-08', '2026-09']);
+    strictEqual(statements[1].openingBalance, 1050);
+    strictEqual(statements[1].closingBalance, 1050);
+    strictEqual(statements[1].totalCredit, 0);
+    strictEqual(statements[1].totalDebit, 0);
+    deepStrictEqual(statements[1].lines, []);
+    strictEqual(statements[1].period.start, '2026-09-01T12:00:00.000Z');
+    strictEqual(statements[1].period.end, '2026-09-30T12:00:00.000Z');
+  });
+
   it('leaves out a month the history does not cover from its first day', () => {
     const statements: Statement[] = buildAccountStatements(
       account('2026-10-08', 1000, [

@@ -12,6 +12,10 @@ on:
       - 'lib/**.ts'
       - 'templates/**'
 
+concurrency:
+  group: refresh-samples
+  cancel-in-progress: false
+
 jobs:
   run_script:
     name: Refresh the JSON samples, their exports and the PDF statements
@@ -40,6 +44,7 @@ jobs:
           author_email: bot@algoan.com
       - run: npm run statements
       - name: Publish the statements on the statements-latest release
+        if: github.ref == 'refs/heads/main'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
