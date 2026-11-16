@@ -255,5 +255,12 @@ export function buildSampleStatements(sample: Sample, locale: string, persona: s
  * @param statement Statement to name
  */
 export function statementFileName(statement: Statement): string {
-  return `${statement.locale}_${statement.persona}_${statement.accountSlug}_${statement.period.month}.pdf`;
+  const persona: string = statement.persona
+    .normalize('NFD')
+    .replace(DIACRITICS, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9_-]+/g, '-')
+    .replace(/^-|-$/g, '');
+
+  return `${statement.locale}_${persona}_${statement.accountSlug}_${statement.period.month}.pdf`;
 }

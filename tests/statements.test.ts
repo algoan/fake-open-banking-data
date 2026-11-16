@@ -176,4 +176,10 @@ describe('statementFileName', () => {
 
     strictEqual(statementFileName(statement), 'be-nl_dana_scully_compte-courant-01_2026-09.pdf');
   });
+
+  it('keeps only characters GitHub preserves in release asset names', () => {
+    const [statement]: Statement[] = buildAccountStatements(account('2026-10-08', 0, []), 'fr', 'Jérôme Dupont');
+
+    strictEqual(statementFileName(statement), 'fr_jerome-dupont_compte-courant-01_2026-09.pdf');
+  });
 });
