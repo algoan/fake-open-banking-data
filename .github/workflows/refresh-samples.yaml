@@ -38,7 +38,9 @@ jobs:
         with:
           node-version-file: '.nvmrc'
           cache: 'npm'
-      - run: npm ci
+      # No dependency install scripts in the job that holds the bot App private
+      # key: a script could leave a process reading it.
+      - run: npm ci --ignore-scripts
       - run: npm test
       - run: npm start
       - run: npm run convert
