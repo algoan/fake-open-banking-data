@@ -23,9 +23,17 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Short-lived token of the samples bot GitHub App, a bypass actor of the
+      # main branch ruleset, so the refreshed samples can be pushed to main.
+      - uses: actions/create-github-app-token@v3
+        id: app-token
+        with:
+          client-id: ${{ vars.SAMPLES_BOT_CLIENT_ID }}
+          private-key: ${{ secrets.SAMPLES_BOT_PRIVATE_KEY }}
+          permission-contents: write
       - uses: actions/checkout@v7
         with:
-          token: ${{ secrets.PUBLIC_REPO_GHA_PAT }}
+          token: ${{ steps.app-token.outputs.token }}
       - uses: actions/setup-node@v7
         with:
           node-version-file: '.nvmrc'
