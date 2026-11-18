@@ -23,14 +23,24 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Short-lived token of the public repos bot GitHub App, a bypass actor of
+      # the main branch ruleset, so the refreshed samples can be pushed to main.
+      - uses: actions/create-github-app-token@v3
+        id: app-token
+        with:
+          client-id: ${{ vars.PUBLIC_REPOS_BOT_CLIENT_ID }}
+          private-key: ${{ secrets.PUBLIC_REPOS_BOT_PRIVATE_KEY }}
+          permission-contents: write
       - uses: actions/checkout@v7
         with:
-          token: ${{ secrets.PUBLIC_REPO_GHA_PAT }}
+          token: ${{ steps.app-token.outputs.token }}
       - uses: actions/setup-node@v7
         with:
           node-version-file: '.nvmrc'
           cache: 'npm'
-      - run: npm ci
+      # No dependency install scripts in the job that holds the bot App private
+      # key: a script could leave a process reading it.
+      - run: npm ci --ignore-scripts
       - run: npm test
       - run: npm start
       - run: npm run convert
