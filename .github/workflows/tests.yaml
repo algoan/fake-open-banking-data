@@ -1,0 +1,37 @@
+name: Tests
+
+# Checks a pull request before it reaches main: the unit tests, then every generation script the
+# Refresh Samples Workflow runs, so a dependency update that breaks one of them fails here and not
+# on main. Nothing is committed or published. renovate-automerge.yml requires this check.
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tests-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  tests:
+    name: Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+      # Same install as the Refresh Samples Workflow.
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - run: npm start
+      - run: npm run convert
+      - run: npm run linxo-test-bank
+      - run: npm run statements

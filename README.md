@@ -57,3 +57,7 @@ To build them locally, in a `statements/` directory:
 ```
 npm run statements
 ```
+
+## Dependency updates
+
+Dependencies are updated by Renovate, and its security fixes are routed by CVSS: see [docs/RENOVATE.md](./docs/RENOVATE.md).
