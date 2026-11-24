@@ -2,14 +2,15 @@
   "name": "@algoan/fake-ob-data",
   "version": "0.0.1",
   "description": "A little script updating json files",
-  "main": "scripts/index.js",
+  "main": "dist/scripts/index.js",
   "scripts": {
-    "convert": "ts-node scripts/converter.ts",
+    "build": "tsc",
+    "convert": "tsc && node dist/scripts/converter.js",
     "format": "prettier --write scripts/* mappers/**/*.ts lib/*.ts templates/*.ts tests/*.ts",
-    "start": "ts-node scripts/index.ts",
-    "test": "node --test --require ts-node/register tests/*.test.ts",
-    "linxo-test-bank": "ts-node scripts/linxo-test-bank.ts",
-    "statements": "ts-node scripts/statements.ts"
+    "start": "tsc && node dist/scripts/index.js",
+    "test": "tsc && node --test dist/tests/*.test.js",
+    "linxo-test-bank": "tsc && node dist/scripts/linxo-test-bank.js",
+    "statements": "tsc && node dist/scripts/statements.js"
   },
   "author": "ccoeurderoy",
   "license": "ISC",
@@ -17,7 +18,6 @@
     "@types/node": "^26.0.0",
     "@types/pdfmake": "^0.3.3",
     "prettier": "^3.0.0",
-    "ts-node": "^10.7.0",
     "typescript": "^7.0.0"
   },
   "dependencies": {

@@ -3,6 +3,11 @@ import * as path from 'node:path';
 import { FileEntity } from '../types';
 
 /**
+ * Repository root. The scripts run from the tsc output, dist/<dir>/<file>.js, so it is two levels up.
+ */
+export const ROOT_DIR: string = path.join(__dirname, '..', '..');
+
+/**
  * Read the samples directory and return an array of samples
  * @param dirPath Sample directory path
  */

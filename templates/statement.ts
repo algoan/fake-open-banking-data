@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { TDocumentDefinitions } from 'pdfmake/interfaces';
+import { ROOT_DIR } from '../lib/utils';
 import { Statement, StatementLine } from '../types';
 import { localeOf, money, shortDate, StatementLabels } from './locales';
 
@@ -25,9 +26,9 @@ function formatIban(iban: string): string {
     .trim();
 }
 
-const LOGO: string = `data:image/png;base64,${readFileSync(path.join(__dirname, 'assets', 'algoan-logo.png')).toString(
-  'base64',
-)}`;
+const LOGO: string = `data:image/png;base64,${readFileSync(
+  path.join(ROOT_DIR, 'templates', 'assets', 'algoan-logo.png'),
+).toString('base64')}`;
 
 /**
  * Build the two balance boxes framing the statement.

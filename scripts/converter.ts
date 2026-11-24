@@ -1,5 +1,5 @@
 import * as path from 'node:path';
-import { readJSONFiles, writeJSONFiles } from '../lib/utils';
+import { readJSONFiles, ROOT_DIR, writeJSONFiles } from '../lib/utils';
 import { algoanAccountsToBIAccounts } from '../mappers/budgetInsightV20/accounts';
 import { algoanAccountsToLinxoAccounts } from '../mappers/linxoDAV3/accounts';
 import { FileEntity } from '../types';
@@ -42,12 +42,12 @@ function convertAlgoanToAnotherFormat(format: string, data: any) {
   /**
    * Load JSON files
    */
-  const sampleDirectoryPath: string = path.join(__dirname, '..', 'samples/');
+  const sampleDirectoryPath: string = path.join(ROOT_DIR, 'samples/');
   const fileEntities: FileEntity[] = readJSONFiles(sampleDirectoryPath);
   const convertedFiles: FileEntity[] = [];
 
   for (const format of formats) {
-    const dirPath: string = path.join(__dirname, '..', `raw-data/${format.toLocaleLowerCase()}`);
+    const dirPath: string = path.join(ROOT_DIR, `raw-data/${format.toLocaleLowerCase()}`);
     /**
      * For each file, apply the proper translation depending on the format
      */
