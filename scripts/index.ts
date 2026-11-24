@@ -1,6 +1,6 @@
 import * as path from 'node:path';
 import dayjs from 'dayjs';
-import { readJSONFiles, writeJSONFiles } from '../lib/utils';
+import { readJSONFiles, ROOT_DIR, writeJSONFiles } from '../lib/utils';
 import { AccountsEntity, FileEntity, Sample, TransactionsEntity } from '../types';
 
 /**
@@ -80,7 +80,7 @@ export const refreshDates = (sample: Sample): Sample => {
   const startingDate: number = Date.now();
   console.log(`Starting the Script...`);
 
-  const sampleDirectoryPath: string = path.join(__dirname, '..', 'samples/');
+  const sampleDirectoryPath: string = path.join(ROOT_DIR, 'samples/');
 
   const fileEntities: FileEntity[] = readJSONFiles(sampleDirectoryPath);
   console.log(`Successfully read all JSON files after ${Date.now() - startingDate} ms`);

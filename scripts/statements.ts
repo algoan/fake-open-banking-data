@@ -1,13 +1,13 @@
 import { mkdirSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
 import * as path from 'node:path';
 import pdfmake = require('pdfmake');
-import { readJSONFiles } from '../lib/utils';
+import { readJSONFiles, ROOT_DIR } from '../lib/utils';
 import { buildSampleStatements, statementFileName } from '../lib/statements';
 import { buildStatementDocument } from '../templates/statement';
 import { FileEntity, Statement } from '../types';
 
-const STATEMENTS_DIR: string = path.join(__dirname, '..', 'statements');
-const ROBOTO_DIR: string = path.join(__dirname, '..', 'node_modules', 'pdfmake', 'fonts', 'Roboto');
+const STATEMENTS_DIR: string = path.join(ROOT_DIR, 'statements');
+const ROBOTO_DIR: string = path.join(ROOT_DIR, 'node_modules', 'pdfmake', 'fonts', 'Roboto');
 
 const FONTS = {
   Roboto: {
@@ -43,7 +43,7 @@ async function writeStatement(statement: Statement): Promise<void> {
   const startedAt: number = Date.now();
   console.log('Building Banque Algoan statements...');
 
-  const fileEntities: FileEntity[] = readJSONFiles(path.join(__dirname, '..', 'samples/'));
+  const fileEntities: FileEntity[] = readJSONFiles(path.join(ROOT_DIR, 'samples/'));
 
   const statements: Statement[] = fileEntities.reduce((acc: Statement[], fileEntity: FileEntity) => {
     const [locale, filename]: string[] = fileEntity.filename.split('/');
